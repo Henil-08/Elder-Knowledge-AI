@@ -1,0 +1,5922 @@
+00:01
+Good afternoon, this is Dr. Samuel J. Schmieding, Oregon State University
+00:06
+College of Forestry, Forest Ecosystems and Society Department.
+00:10
+It is November 29,
+00:14
+2016.
+00:14
+I am here in Strand Hall with Dr. K. Norman Johnson, Professor of Forestry.
+00:24
+Professor of Forestry, correct?
+00:26
+Yeah, I’m Professor of Forest Resources.
+00:29
+Professor of Forest Resources in the College of Forestry,
+00:32
+Oregon State University.
+00:33
+We are going to be doing an oral history interview here today that’s part of
+00:37
+the Northwest Forest Plan Oral History Project funded by the PNW Station.
+00:42
+So, we’ll get started here right now.
+00:44
+Norm, I start every interview with basically the same question,
+00:49
+where were you born and raised?
+00:50
+Just kind of give me a biographical sketch of how it all started.
+00:55
+Okay, born in Berkeley, California, in 1942.
+01:03
+And lived in the Bay area until I went to college, lived with my family in
+01:12
+the Bay area, both in Berkeley and a place called Walnut Creek, and went
+01:16
+to the University of California at Berkeley, in their forestry program.
+01:21
+I actually started in engineering, but I switched to forestry, a very small,
+01:26
+very good program, went there, and
+01:32
+got interested in forest economics.
+01:36
+Then began a master’s program there, but
+01:45
+I was in the largest draft of the Vietnam War, the largest call-up.
+01:53
+But it turned out, I had a medical disability.
+01:55
+And after that happened and the trauma of all that, I dropped out and took a job
+02:02
+with the Klamath Indian Trust, which was a
+02:10
+trustee for the remaining part of the Klamath Reservation
+02:14
+that had not been sold.
+02:18
+During the termination era, right?
+02:19
+[1950s/1960s]
+02:19
+Yeah.
+02:20
+During the termination era.
+02:21
+That part hadn’t been sold, and I worked there for two years and
+02:25
+then went to a master’s program at Wisconsin, the University of Wisconsin.
+02:29
+And
+02:33
+then, I had a series of personal tragedies when I was back there.
+02:41
+As a result, although I got a Master’s of Science, I didn’t finish a thesis.
+02:45
+And this was, explain what happened?
+02:49
+Well, I don’t necessarily want to get into it.
+02:51
+Oh, okay, I’m sorry.
+02:52
+It’s just a personal tragedy.
+02:53
+A couple of personal tragedies in my family.
+02:57
+Oh,
+03:00
+okay, all right.
+03:01
+I then came out to take care of my mother, stayed with her for about six months,
+03:08
+applied to Oregon State, and ended up here
+03:17
+in 1968 as a grad student.
+03:20
+I got under John Beuter and studied forest economics, and
+03:27
+got a Ph.D. in Forest Management.
+03:31
+In the process, I got very interested in harvest scheduling,
+03:36
+and began building computer-based, harvest- scheduling models.
+03:42
+I built some for various studies Beuter and I did, something called
+03:46
+the Beuter Report that was pretty well-known in its day about the
+03:50
+future of forestry in Oregon.
+03:53
+But I had just finished my degree here, and I didn’t like staying at the same
+03:59
+place where I got my Ph.D., so I went to Utah State and the faculty there.
+04:08
+It’s at Utah State that I developed the model called FORPLAN, a
+04:13
+linear, programming-based, harvest-scheduling model.
+04:20
+About that time, in the mid ‘70s, the National Forest
+04:25
+Management Act was passed.
+04:26
+The national forests had to develop new forest plans.
+04:34
+It turned out that after a brief discussion, the Forest Service
+04:38
+decided to require the use of FORPLAN for all forest planning analysis.
+04:44
+So, your little method, your model in essence, got incorporated
+04:48
+in after the 1976 act, correct?
+04:50
+Yeah.
+04:51
+Okay.
+04:52
+It became the major vehicle for thinking through national forest plans,
+04:57
+and it’s lived in infamy ever since.
+05:02
+And at that time, the allowable cuts were the “coin of the realm.” So, I became very
+05:12
+well-known in forestry for harvest scheduling and allowable cuts.
+05:23
+I was at Utah State for a while, I then went to Colorado State, partly because
+05:26
+at Fort Collins where Colorado State is, was a think-tank for forest planning,
+05:31
+and enabled me to be at the university and also work in forest planning there.
+05:35
+And you also have some government agency connections there,
+05:39
+too, at CSU, Fort Collins?
+05:42
+Fort Collins, absolutely.
+05:42
+That’s where the main computer facility was for the Forest Service.
+05:46
+FORPLAN was overwhelming it, so I ended up over there to help.
+05:51
+Then in ’85,
+05:55
+I returned here to Oregon State.
+06:01
+Now, going back a little bit further, when you were growing up in the East
+06:04
+Bay, or east of the East Bay, Walnut Creek, that area, what experiences did
+06:10
+you have in nature that may have led you to have a career that was interested in
+06:16
+natural resource management and analysis?
+06:19
+My family, every summer, would go up to a cabin that I loved,
+06:22
+and a lake called Dark Lake.
+06:24
+It’s up near Lake Tahoe, it’s a small lake with cabins.
+06:30
+I really loved it up there.
+06:33
+Then, we met a Forest Service person whose name escapes me, who was staying in
+06:37
+one of the cabins, and he talked about a potential career in forestry, outdoors and
+06:41
+such, and so, I became interested in that.
+06:44
+But I still started as an engineer at
+06:48
+Cal-Berkeley, and then soon transferred into forestry.
+06:51
+Now, aside from Lake Tahoe, is there any other special places that made
+06:56
+an especially strong reaction on you?
+06:59
+Well, I just want to say, it wasn’t Lake Tahoe.
+07:01
+Oh, okay.
+07:02
+It was about—it was on this side [western] of the range.
+07:06
+[Sierra Nevada]
+07:06
+Oh, so it was on the west slope, going up toward --- [the crest]
+07:08
+. West slope, and some
+07:12
+small lakes.
+07:13
+There are cabins on some of them, and you could hike there.
+07:21
+Okay, small lakes and cabins and
+07:25
+-- ? We’ll see if anybody wants it, why don’t you shut that off for a minute?
+07:29
+[Break in audio – changed location]
+07:30
+Anyway, we’re back on.
+07:31
+We had to take a brief break.
+07:33
+Norm was talking about favorite places in nature.
+07:37
+He was talking about a place that was just outside of Lake Tahoe, and he’s
+07:40
+going to kind of continue along that path.
+07:43
+Well,
+07:47
+this was Dark Lake, and it’s on the west side of the Crystal Range.
+07:50
+On the other side is Fallen Leaf Lake, and Tahoe is on the west side.
+07:56
+We used to hike up there and wander through the forest,
+07:59
+and I really liked that.
+08:01
+I got interested through meeting someone from the Forest Service,
+08:05
+who talked to me about the future.
+08:07
+And so, it was in the back of my mind, but I didn’t really have other places
+08:14
+or experiences in nature, of great value to me, when I was growing up.
+08:20
+It was pretty focused on the Dark Lake area.
+08:22
+Okay.
+08:22
+Do you remember seeing anything
+08:27
+that indicated a specific land management dynamic, pollution, disturbance event,
+08:35
+or anything that made an impression on you about natural resource management,
+08:40
+or lack thereof, or something that you maybe later on could refer to?
+08:44
+Well, just one.
+08:45
+On the road we drove in on, we went there like fifteen years before I went off to
+08:53
+other things, every summer for two weeks.
+08:55
+One time, we went across where there had just been a clear-cut, and I found
+09:00
+that shocking on a national forest.
+09:06
+It was in an o ld-growth stand, so there was all this debris
+09:09
+everywhere, and we didn’t like that
+09:14
+too much.
+09:14
+We used to be out there fishing, and there were all these cattle grazing.
+09:18
+They were very benign, but that I really identified cattle with that country that
+09:23
+wandered through the forest with bells on.
+09:25
+Now, this was, at that elevation, you’re talking about a mixed fir- [forest]
+09:31
+? That’s like at 7,500 feet.
+09:33
+Oh, so you’re in a fir and hemlock?
+09:35
+Well, it’s fir, yeah.
+09:36
+All fir?
+09:37
+Okay.
+09:37
+Different kinds of fir, pretty much, maybe some mountain hemlock.
+09:41
+But, yeah, it’s high up there.
+09:44
+Red fir was the big deal, and they didn’t get much out of that, selling wood.
+09:52
+At any rate, other than that, no, I didn’t have many experiences.
+09:56
+I was not a Boy Scout.
+09:58
+I did not go to summer camps.
+10:01
+So,
+10:06
+how do you think that your formative years, and I won’t say lack thereof,
+10:11
+but relative lack of real immersion in nature, how do you think that
+10:15
+affected how you view what you wanted to do with your career, and
+10:19
+then, how your career developed?
+10:21
+I didn’t know what I wanted to do, other than I had that one experience
+10:26
+with someone I mentioned, in forestry.
+10:28
+So, I didn’t have a very good idea of what I wanted to do.
+10:34
+But,
+10:38
+I did moderately well in my high school in engineering.
+10:41
+I don’t really know why I chose engineering at this
+10:44
+stage; I don’t know why.
+10:47
+But I didn’t last long in engineering, mainly because I had enormous trouble with
+10:51
+the German language and learning German.
+10:55
+So, it wasn’t the math or the physics, it was
+10:58
+-- ? Yeah, just the language.
+11:00
+Forestry was one of the few programs at Berkeley that did
+11:03
+not have a language requirement.
+11:06
+And this was what year again, remind me?
+11:08
+You said at the very start.
+11:09
+This is from 1960 when I went there, and by ’61,
+11:16
+I was in forestry;
+11:21
+1961.
+11:21
+Now, looking back at this, obviously, you’re in ’61, it’s the year before
+11:25
+Rachel Carson’s Silent Spring, two years before the Wilderness Act,
+11:28
+kind of pre-environmental age, in terms of how you were being
+11:32
+exposed to professional forestry.
+11:36
+How would you characterize it today, and how the field was presented to you?
+11:41
+Well, it was presented first, that foresters knew best, and that really,
+11:50
+we were going to develop a future forest in which we controlled all disturbances.
+11:56
+So,
+11:59
+you very much understood the kind of humanistic attitude, we can control nature
+12:05
+with good planning and multiple-use?
+12:07
+Oh, yeah.
+12:07
+Yeah.
+12:08
+You know, targeted in this specific way, managed in this, I won’t say,
+12:12
+perfect way, but in this really logical, systematic way, was going to yield
+12:17
+greatest good for the greatest number?
+12:18
+Except, mainly timber harvest.
+12:20
+Right.
+12:20
+Sustained yield of timber harvest yields all these benefits.
+12:25
+Yeah, that’s what was taught there.
+12:27
+That’s what I learned.
+12:30
+Very much so.
+12:31
+Although I didn’t realize I was learning that, I was
+12:34
+learning that to take that view.
+12:35
+Now, you mentioned the name of one of your mentors.
+12:38
+Was it Beuter?
+12:40
+Well, Beuter, my mentor, as in my undergraduate days, was Henry Vaux,
+12:43
+who was a well-known forest economist and policy person, and he was my
+12:48
+mentor at the undergraduate level.
+12:50
+And then at the graduate level here at Oregon State, it was John
+12:52
+Beuter, who was another economist.
+12:54
+About Vaux, what do you remember he taught you, and the things that you
+12:58
+took out of that beyond passing your classes and learning your topics?
+13:05
+Well, Hank Vaux taught me how to think like an economist, and economists
+13:11
+think in a particular way, especially in terms of marginal analysis
+13:16
+and looking at alternatives, and
+13:21
+to understand benefits and costs.
+13:25
+He taught me all of that.
+13:27
+He helped me develop an ability to think that way.
+13:31
+And then he also was a master at asking questions, something
+13:36
+I’ve never been near as good at.
+13:37
+And that ability, I grew to appreciate.
+13:42
+So that was my beginning as a forest economist.
+13:49
+So,
+13:52
+how did you see forest economics being taught 20-25-30 years later
+13:57
+at Oregon State, in the context of remembering those initial
+14:00
+exposures and your initial training?
+14:03
+Oh, I think it has been taught almost exactly as I learned it.
+14:08
+Still?
+14:08
+Yeah, in terms of those fundamental concepts.
+14:13
+The purely economic and numerical?
+14:17
+Yeah, just a notion about marginal analysis and benefits
+14:20
+in costs and development of alternatives in their evaluation.
+14:24
+That’s still the way economics is taught.
+14:28
+There may be a different way of valuing things, but it is still taught that way.
+14:39
+So, what would you call the most important management principles of forestry
+14:44
+and land management at that time?
+14:47
+Sustained yield of timber harvest.
+14:50
+Everything was organized around
+14:53
+that.
+14:53
+Was the concept of ecology ever mentioned?
+14:57
+Yeah, I took ecology.
+14:58
+Okay.
+14:59
+But ecology, I did very well in it.
+15:03
+At that time, it was really focused, especially with my professor,
+15:11
+on how to get seedlings to grow.
+15:14
+How do you understand the climate, the microclimate, and the environment,
+15:18
+again, in order to get timber production.
+15:21
+That was the focus in the ecology class.
+15:24
+Interesting.
+15:25
+And a lot of the paradigms and examples were from the early classic
+15:30
+ecologists, Clements and those folks, and then bring it forward?
+15:35
+Actually, the book was by Daubenmire [Rexford-plant ecologist-Wash.
+15:38
+St. Univ.] , I think.
+15:40
+So, it wasn’t too much about; there were ideas of climax forests and things, but
+15:51
+disturbances were not, disturbance ecology was not a strong part of it.
+15:58
+There was the notion about climax equilibrium, so I guess, that
+16:00
+is what we were talking about.
+16:03
+But it really was focused on how to understand the environment
+16:07
+in order to grow trees better.
+16:10
+Kind of what you would expect?
+16:12
+Yeah.
+16:12
+At that time, right.
+16:15
+I mean, how long ago was that?
+16:16
+That is 55 years ago, just 55 or 54 years ago, I took ecology.
+16:26
+The teacher, though, made everyone sit in alphabetical order.
+16:32
+[Laughs]
+16:32
+Do you still make your students do that?
+16:34
+No, but also,’61 and ’62, were the last two years in which every
+16:40
+male undergraduate was in ROTC every quarter, and out there
+16:44
+marching on the parade ground.
+16:46
+At Cal-Berkeley?
+16:47
+Yes.
+16:47
+Once a week.
+16:49
+Wow.
+16:49
+And then, of course, they kind of tried to burn down the buildings in ROTC.
+16:52
+I was going to say, how many years later did they have the
+16:55
+massive protests at Berkeley?
+16:56
+[Vietnam War protests]
+16:57
+There’s two.
+16:57
+I was the last class to really go through the two years of ROTC.
+17:01
+Interesting.
+17:02
+Yeah, I had a rifle I was issued, and I got to march wearing the uniform.
+17:07
+But
+17:09
+like you said before, you didn’t go to ‘Nam because you had a medical exemption?
+17:13
+Yes, yeah.
+17:14
+So, your career develops in the late ‘60s, on your
+17:19
+professional track you move around and eventually end up here back at
+17:23
+Oregon State after a first stay.
+17:25
+What do you remember about the change in culture and politics in
+17:30
+that, shall we say, twenty years, fifteen years, leading up to what
+17:34
+would become called the Forest Wars?
+17:38
+[Political
+17:41
+struggle over logging in NW.]
+17:41
+Well, we started in Moreland Hall right over here.
+17:45
+It’s next to the MU [Memorial Union campus center building] . It’s right
+17:47
+opposite, on that side of Moreland Hall.
+17:50
+That’s where the college of forestry was.
+17:52
+Where?
+17:52
+Close to what?
+17:54
+Right next to the Long House?
+17:55
+Okay, right.
+17:56
+You been to the Long House at all?
+17:58
+Yeah, the Indian one.
+18:00
+They started in the Quonset hut right next to Moreland, which is
+18:01
+now right there behind Moreland, and that Quonset hut is where I
+18:08
+was as a grad student.
+18:09
+Really?
+18:10
+Yeah, in there.
+18:11
+I was just in there today.
+18:13
+But
+18:15
+the difference was that
+18:22
+in the Spring of ’69 or
+18:26
+the Spring of ’70, was
+18:30
+the first Earth Day, and the whole campus shut down.
+18:34
+We all organized to learn about the environment.
+18:38
+So, that was a big deal.
+18:39
+The whole campus, for a day closed.
+18:42
+It was 1970, actually.
+18:43
+Yeah, I thought so.
+18:45
+It was.
+18:45
+Gaylord Nelson, a Senator from Wisconsin, was kind of the political leader, but
+18:51
+it was more organic than that, too.
+18:54
+But yeah, it was 1970.
+18:54
+But at any rate, that was a big deal, and so it certainly seemed like
+18:58
+something was different in the air.
+19:00
+And what do you remember about seeing this happen, and of
+19:06
+course, NEPA was the same year.
+19:08
+Yeah.
+19:09
+I mean, January 1 , it was signed into law by Richard Nixon, of all people.
+19:16
+Did you have any idea that what was going to happen was going to happen?
+19:19
+In other words, no longer were Forest Service and [other] agencies
+19:24
+able to, shall we say, impose the economic model that you were trained
+19:29
+in on lands without public input.
+19:34
+I mean, could you see that coming, or did it kind of come over like a wave?
+19:38
+Well, when I took forest policy in 1965, there were no environmental laws.
+19:46
+So, what we learned as forest policy was mainly trespass
+19:50
+law and land development law.
+19:53
+So no, I didn’t see this coming at all in 1970.
+20:04
+Now, by the early ‘70s, with the Bitterroot Report
+20:12
+and other reports, there was obviously a citizen uprising going on about
+20:17
+managing the national forests.
+20:21
+I didn’t think though, it would necessarily change the management
+20:24
+model, it was just that you were going to have to account for it.
+20:29
+So, I didn’t see it as fundamentally changing things.
+20:31
+You didn’t see that it was a tsunami that was eventually, over fifteen to
+20:36
+twenty years, going to do what it did.
+20:37
+Correct?
+20:38
+No, no.
+20:38
+Now, when the Endangered Species Act was passed in ’73, was that
+20:45
+also just something, you said, okay?
+20:46
+Or did you
+20:47
+--? I didn’t hardly notice it.
+20:48
+Didn’t hardly notice it.
+20:49
+Clean Water [Act] and all those?
+20:50
+Clean Water Act, yes, because that influenced the state, led
+20:54
+to the creation of the Oregon State Forest Practices Act in ’71.
+20:59
+Right.
+20:59
+So, that one I knew, that one was in the air.
+21:03
+But the Endangered Species Act seemed a pretty foreign idea,
+21:07
+not going to influence things.
+21:09
+Now, if you were going to characterize
+21:14
+the evolution of the major forest planning acts that would affect, shall we say,
+21:20
+the pre-Northwest Forest Plan Act going really to, back to ’44, the Sustained
+21:25
+Yield Act, in 1960, wasn’t it the Multiple Use Act, and then ’76, which was the big
+21:30
+keystone leading up to what would happen later, the Forest Management Act of 1976.
+21:38
+How would you characterize that evolution and what did those things
+21:42
+do well, and what maybe did they not do, or maybe not account for?
+21:48
+Well, the
+21:56
+1944 Act was sustained-yield at the apex.
+21:59
+It said in it that sustained-yield provides all the multiple-use of benefits.
+22:05
+And so, that was really the apex of sustained-yield, and trying to
+22:08
+institutionalize it across owners.
+22:12
+It, in the end, didn’t have much impact.
+22:15
+But the Multiple Use Act didn’t mean much.
+22:18
+That just codified
+22:21
+what the Forest Service was doing, and left it almost
+22:24
+unlimited discretion to do it.
+22:26
+But didn’t it underscore a little more that recreation should have a little
+22:29
+higher niche in the multiple use portion of the eight categories, or whatever?
+22:34
+There was like six or eight categories.
+22:35
+Well, it’s true that the Forest Service was in a battle for the Park Service
+22:39
+to be the nation’s recreationists.
+22:41
+But it didn’t in any fundamental way alter the primacy of timber production.
+22:47
+Now, the ’76 act.
+22:48
+What did that do that was different?
+22:50
+But let me just say about the Wilderness Act, which is--
+22:53
+Oh, okay.
+22:54
+The Wilderness Act was very important for two reasons.
+23:00
+First off, it really
+23:05
+tried to divide up the forest into two parts, which had been going on
+23:10
+informally, but this formalized that idea.
+23:12
+In other words, the primitive areas [U.S. Forest Service] that were just
+23:14
+marked off, but it was formalizing and putting more rules on those?
+23:18
+And the rest was for timber production.
+23:20
+That’s how it was interpreted, so dividing things up.
+23:22
+Exactly.
+23:23
+But also, it called for a review of roadless areas adjacent to wilderness,
+23:26
+which the Forest Service took to mean review of roadless areas everywhere.
+23:26
+That was a third of the national forests, and they got stuck
+23:26
+in the goo of road-less areas,
+23:39
+and couldn’t get out.
+23:41
+The
+23:48
+result, the national forests are getting pretty well hammered out
+23:50
+in the roaded areas, which I think added to the discontent of people.
+23:55
+The Forest Service got stuck in the road-less quandary and tried all these
+23:59
+times to fix it, and never could.
+24:00
+So, I think the
+24:04
+Wilderness Act, not only did it identify the value of wilderness,
+24:06
+it helped contribute to public discontent with how the Forest Service
+24:10
+was managing the rest of the area.
+24:12
+Because that was RARE I, and there was RARE II.
+24:14
+[Roadless Area Review and Evaluations]
+24:14
+Yeah.
+24:15
+And they took forever, and they never really got finished, did they?
+24:18
+No.
+24:19
+Because RARE II was in the ‘80s, wasn’t it?
+24:21
+Yeah.
+24:21
+And RARE I was ’71-’72, when they started.
+24:24
+RARE I had the misfortune to be started before NEPA, but
+24:28
+completed after it was done.
+24:34
+That had real impact and created some
+24:37
+of
+24:43
+the negative perceptions by the public.
+24:45
+Getting up to the National Forest Management Act,
+24:50
+by that time, I was sponsored by timber management in the Forest Service
+24:56
+to build planning models for them.
+24:59
+And they liked me a lot.
+25:02
+I built planning models, and partly because it showed how to maintain
+25:07
+sustained-yield and still have a pretty health timber harvest, a
+25:11
+sustained yield of timber production.
+25:13
+As the result, and by that time I was at Utah State, I was doing various
+25:21
+analyses of the National Forest Management Act, and one of mine which got
+25:27
+written up in the Congressional Record,
+25:31
+was cautioning the Senate that the act they were passing was somewhat
+25:38
+imperfect, and then, the day after that, they passed it, 92 to nothing.
+25:42
+So much for your advice, right?
+25:45
+So I was working for the national forests, and timber management
+25:45
+was all-powerful in those days.
+25:45
+What happened then
+25:51
+was, the head of
+26:00
+timber management, Don Funk, took a liking to me, and
+26:07
+they began to really promote my models as the way you do
+26:10
+planning in the national forests.
+26:16
+Then, a
+26:25
+committee of scientists was formed to help the secretary of agriculture
+26:34
+write the regulations,
+26:37
+and for implementing the act.
+26:41
+The range rep was Thad Box, who was my dean, and one of my other teachers
+26:46
+from Berkeley was Dennis Teagarden, an economist, and he was on it.
+26:51
+Because of the two of them, I became a consultant to the committee of scientists.
+26:57
+And I was just an assistant professor, but I really knew
+26:59
+this harvest scheduling stuff.
+27:02
+For a lay person, how would you describe your models in terms of forest economics?
+27:08
+My models?
+27:08
+If you were going to give a sketch of maybe one or two of your models of
+27:12
+specific plans, how would you describe it?
+27:15
+For the models, what I was doing, I was figuring out, given the forest that
+27:24
+existed and its potential growth rate and different restrictions on it to
+27:32
+reach goals like recreation or wildlife,
+27:37
+my models helped find the maximum sustained harvest level that could occur.
+27:43
+That’s what the models did.
+27:45
+And then you’d change, maybe you’d allocate more land to wilderness and
+27:49
+less to timber production, or maybe you’d change the way timber production was done.
+27:53
+You’d do it, rerun the model, and see the results.
+27:55
+I did a lot of that.
+27:55
+That’s what
+28:00
+those models were.
+28:02
+It was simple in concept, but by this time, there were a lot of these other
+28:07
+considerations you tried to factor in.
+28:09
+Even though in retrospect, the model didn’t fit very well with the problem, if
+28:14
+the problem is protection of biodiversity, because the models generally didn’t have
+28:18
+a very significant spatial component.
+28:21
+Still, that’s what was being done, and what I was doing.
+28:25
+So, the National Forest Management Act was passed to reign in timber production.
+28:32
+That’s what it was all about.
+28:34
+My models were how you were going to calculate how much harvest level you
+28:38
+needed, so I was deeply involved with the committee of scientists to help interpret
+28:45
+the National Forest Management Act, which led to the 1979 and then ’82
+28:55
+planning rules [U.S. Forest Service] , which only in 2012 was replaced.
+28:59
+From 1982 to 2012, that was the rule for 30 years.
+29:04
+How would you characterize the ’76 Act, its strengths and weaknesses?
+29:09
+Well, it was an attempt to reign in timber production.
+29:12
+That was its purpose, to really reform timber production.
+29:17
+So, it was a recognition things were going too much toward production?
+29:22
+Oh, yes.
+29:23
+Okay.
+29:24
+But Congress didn’t intend to upset the apple cart.
+29:28
+That was very clear.
+29:30
+They didn’t see it as a revolutionary act.
+29:33
+Still, it was going to be sustained-yield, multiple-use.
+29:37
+But the way the regulations were written, they laid within them the
+29:42
+seeds for major change, the number one aspect of it, for purposes of the
+29:50
+Northwest Forest Plan, was the viability rule.
+29:53
+The viability clause?
+29:55
+Yeah, viability clause.
+29:56
+And describe what the viability clause, in your words, what that
+30:00
+is, and why it was important?
+30:02
+Well, the viability clause basically stated that you needed to have habitat
+30:08
+to support viable populations of native vertebrates well-distributed
+30:16
+across the planning area.
+30:17
+[Endangered Species Act + species viability in general.]
+30:18
+And this is, of course, where the s potted owl and the animals that were later, very
+30:24
+shortly thereafter, listed under the ESA, correct, and that’s how they got attached?
+30:30
+Well, actually, not quite.
+30:32
+Okay.
+30:34
+That rule applied to anything with vertebrae, whether or not they
+30:39
+were threatened or endangered.
+30:40
+Okay.
+30:55
+Basically, what happened is that the agency could not develop
+31:01
+scientifically credible approaches to conserve these species and to provide
+31:07
+habitat for viable populations.
+31:09
+They were unable to do that.
+31:12
+But that became the dominant consideration all through the Northwest Forest
+31:18
+Plan; that was this habitat for viable populations, now for all species,
+31:25
+not just vertebrates, were spread, well-distributed, over the planning area.
+31:30
+So, that particular clause in the regulation swamped everything else.
+31:38
+And that’s the one that caused all the issues in the ‘80s as the Forest
+31:44
+Service, the BLM, the Fish and Wildlife.
+31:46
+Yeah.
+31:47
+And all the stuff got tied up together, the listings and all that stuff?
+31:50
+And it had to do with the viability clause and interpretations of it?
+31:53
+Correct?
+31:54
+The management had to do with the viability clause, but
+31:59
+what happened along the way,
+32:03
+was when a species got in enough difficulty that it was listed, then a
+32:09
+separate process started to deal with the listing and what would happen.
+32:13
+But the viability clause was important and a driver without ESA.
+32:22
+And really, it was the viability clause much more than ESA,
+32:26
+that drove all of it under the
+32:32
+Northwest Forest Plan.
+32:33
+It was the viability clause,
+32:36
+and the
+32:39
+Forest Service’s inability to develop a scientifically-credible approach
+32:46
+to protecting the vertebrates to meet the viability clause.
+32:50
+It just so happens that the northern spotted owl became the
+32:55
+poster child for all of that because of its very wide-ranging
+32:58
+requirements, and because they were in the mature, old-growth forests.
+33:02
+Those are big home ranges.
+33:05
+So, they were really the fly in the ointment of continuing
+33:10
+harvest of old growth.
+33:12
+And the fact that they are, shall we say, a charismatic mega-fauna,
+33:16
+probably adds to the mix, right?
+33:17
+Yeah, absolutely.
+33:20
+I mean, if the murrelet was the first bird that came out, it wouldn’t have
+33:24
+been as sexy in terms of the symbolism.
+33:27
+Right?
+33:27
+No, not at all.
+33:27
+I don’t want to tell Marty that, right?
+33:29
+[Laughs]
+33:29
+Yeah.
+33:31
+But that’s Martin Raphael.
+33:33
+[Lead Scientist on NWFP; focus on murrelet]
+33:34
+Oh, I know who.
+33:35
+No, I know that, I’m talking for the record.
+33:36
+Oh, I see.
+33:37
+I know you know who he is.
+33:39
+Now, before the Northwest Forest Plan and the general era encompassed by, it
+33:43
+could be said that science was used in the service of timber and the economic goals.
+33:48
+How would you describe the paradigm shift towards science that became almost
+33:55
+primary in terms of how decisions were made and legal paradigms were met?
+34:03
+Another kind of science.
+34:05
+There’s a science behind inventory and growth and yield, and
+34:09
+there’s a science there, too.
+34:11
+But it was at one time, for 50-60 years, a very important science.
+34:19
+But the problem changed, so it wasn’t maximum sustained-harvest levels any more.
+34:25
+It was providing habitat for viable populations.
+34:29
+For that, you need a whole different set of scientists and science.
+34:34
+And for quite a while, the Forest Service didn’t realize
+34:37
+that, and I didn’t realize it.
+34:39
+So, when was your realization point?
+34:42
+When you got hit between the eyes, and said, wow, the game has changed?
+34:51
+Was there a moment, or it was more of a long process?
+34:59
+When I came back to Oregon.
+35:03
+Early ‘80s, right?
+35:05
+In ’85.
+35:07
+Okay.
+35:11
+The national forests were trying to complete their forest plans.
+35:14
+They’d been trying to complete them for years.
+35:16
+There was an incredible political controversy over what was going to happen,
+35:24
+and thus, they were stuck because they couldn’t satisfy enough
+35:29
+people, enough politicians, to be able to publish their plans.
+35:33
+And in 1986, there was a gubernatorial race.
+35:37
+That gubernatorial race was between Neil Goldschmidt, who’s
+35:41
+fallen far away, and Norma Paulus.
+35:49
+National Forest harvest levels were part of the controversy in that
+35:53
+election, and part of their debates.
+36:00
+Neil Goldschmidt,
+36:05
+at one of his debates with Norma Paulus, said, “And there’s this
+36:13
+$10 million or something computer model that sets harvest levels that nobody
+36:17
+understands, that’s driving all this.” Someone had told me that about FORPLAN.
+36:23
+Well, as soon as he got elected
+36:24
+-- This
+36:28
+was Goldschmidt, right?
+36:29
+Yeah.
+36:29
+He made a commitment to have the state weigh in on the forest plans,
+36:33
+a guy named Stub Stewart was one of his benefactors, from Bohemia
+36:39
+[forest products company] . They asked if I’d go to work for them,
+36:43
+and I had only been here six months, working from the university.
+36:48
+I did [accept] , and I started trying to develop
+36:55
+plans for the state, working with state agencies, so they would have at least as
+37:02
+high a harvest level as the [U.S.] Forest Service, and still meet these other goals.
+37:06
+After trying that in three or four forests, I reached the realization
+37:11
+it was impossible, that we were headed for a big fall in harvest
+37:16
+levels, and I told the governor that.
+37:19
+That’s when I knew it.
+37:21
+That was in
+37:25
+’87, ’88, that just isn’t going to happen.
+37:28
+You just can’t do it [old model] anymore.
+37:36
+Soon after that, I went back to the university.
+37:41
+I told them, you just can’t continue.
+37:43
+We did a whole bunch of analysis, and a whole bunch of comments.
+37:46
+I finally said, these west side forests were where it happened -- the
+37:50
+Umpqua, the Willamette, and Mount Hood -- you just can’t do that anymore.
+37:55
+Siuslaw, too, right?
+37:56
+Wasn’t that one of them, too?
+37:58
+Yes.
+37:58
+The Siuslaw, though, didn’t trouble me as much as the others, because
+38:08
+the Siuslaw doesn’t have much old growth, and it has a very, very productive forest.
+38:14
+And so, you can cover up a lot of sins with that.
+38:19
+Because of the rapid regrowth rates?
+38:20
+Yeah, you didn’t really have old growth, and we had public
+38:26
+meetings all over the state.
+38:27
+I finally concluded, you just can’t get there from here.
+38:31
+That’s when I realized we were really headed for a big change.
+38:36
+It was then.
+38:37
+Now, what are the issues, magnified in any one area or in any one forest?
+38:43
+I know the Willamette for many years was the number one [nationally] in terms
+38:47
+of harvest, in terms of board-feet.
+38:50
+Was it any more magnified there or any one forest, or was it just kind of spread out?
+38:55
+It was everywhere.
+38:57
+It was just everywhere.
+38:59
+And what was the problem that screamed out to you, why you said
+39:04
+this can’t continue like this?
+39:06
+Well,
+39:09
+that
+39:12
+given the management requirements
+39:19
+to meet the viability clause,
+39:24
+you couldn’t maintain anywhere near the harvest level.
+39:29
+You just couldn’t do
+39:35
+it.
+39:36
+So, I just said to them, you can’t, it isn’t going to happen.
+39:39
+And what was their response, or the governor’s office response?
+39:43
+The governor’s office response was pretty much to pull back from their deep
+39:48
+involvement with the national forests.
+39:50
+Okay, so they focused more on state lands after that point?
+39:55
+No,
+40:04
+what happened was.
+40:05
+Let me just say it.
+40:07
+What happened was, I told them that,
+40:15
+and soon thereafter came the ISC Report.
+40:21
+You know it as the Thomas Report.
+40:22
+In 1990, right, the one that Jack Ward Thomas oversaw and wrote?
+40:26
+Right?
+40:28
+That came out.
+40:32
+I was still with the governor’s office then, right at the end.
+40:35
+After I told them that, the Thomas Report came out.
+40:39
+And that was really breathtaking, because that was the first time somebody,
+40:46
+a group, had said to heck with the allowable cut, we’re just going to find
+40:49
+a scientifically credible plan for the northern spotted owl, and they did.
+40:55
+And
+40:57
+not only that, but that means you need different kinds of people worrying
+41:01
+about the analysis, as allowable cuts and cutting models aren’t the key.
+41:07
+I mean, we’re going through a very, in some small way, a
+41:12
+revolution in resource management.
+41:16
+And that’s when I really knew, boy, the party’s over.
+41:21
+What do you remember about the environmental movement, the more
+41:25
+assertive protests, people up in trees, and what do you remember about all that
+41:29
+during the ‘80s, because it started to really accelerate up into the ‘90s?
+41:38
+That’s when I learned that people can easily lose their minds over
+41:44
+trees [laughs], that it’s one of the most emotional connections
+41:49
+people have, with big-old trees.
+41:52
+Yeah, and so,
+41:55
+we used to have public meetings that would go on for six hours.
+41:58
+But the people in the communities liked that because the Forest
+42:02
+Service wouldn’t let them speak any more into the microphone.
+42:05
+The Forest Service was so gun shy with being yelled at.
+42:08
+So,
+42:14
+at any rate, we were in the middle of a storm, I knew that, and it just seemed
+42:20
+part and parcel, given their strong feelings, that they’d be up in the trees.
+42:24
+Just like the loggers and the millworkers would be just beside
+42:28
+themselves with what was going to happen to them and their families.
+42:31
+I mean, it
+42:37
+was a very difficult time, but
+42:47
+it just
+42:53
+wasn’t clear how we were going to get out of this.
+42:55
+It wasn’t clear at all.
+42:56
+The Thomas Report changed that.
+42:59
+They said the scientists -- the wildlife scientists especially -- are going to have
+43:03
+a big role in the future, when they had almost no role before that.
+43:07
+So, from the time that you read that, you knew that it was a game-changer, but how
+43:13
+did you get involved, and how did the Gang of Four -- I know how it was named -- but
+43:20
+still, how did that whole process start?
+43:21
+How was it named?
+43:22
+It was named by a timber industry person, kind of a pejorative term, right?
+43:28
+I think it was named by Kathie Durbin.
+43:31
+[One story about origin]
+43:31
+The reporter for The Oregonian?
+43:33
+Yeah.
+43:34
+Oh.
+43:35
+I’ve read that it was a pejorative term by some timber person.
+43:38
+Well, it could be.
+43:39
+[Timber industry person; from Jerry Franklin interview]
+43:39
+Oh, okay.
+43:40
+But it certainly wasn’t us.
+43:41
+No, I know that.
+43:43
+What did you guys think of that, the Gang of Four name?
+43:47
+I mean, we had these long names.
+43:48
+It’s kind of like the Four Horseman of the Apocalypse, like the Notre
+43:50
+Dame Backfield [iconic football backfield in 1920s/cultural reference]
+44:00
+. We had this long name, Scientific Committee for the Late Successional
+44:03
+Forests or something like that.
+44:05
+Oh, you know, things were just happening.
+44:07
+You didn’t have a strong sense of being in control.
+44:11
+So, you’d just go with the flow, yeah.
+44:16
+But what happened there is the
+44:25
+Thomas Committee, and the Thomas Report came out.
+44:32
+Election.
+44:34
+Goldschmidt doesn’t run again.
+44:40
+Roberts, what was her name?
+44:44
+Her first name?
+44:46
+Barbara Roberts.
+44:46
+Barbara Roberts.
+44:47
+There’s also a Betty Roberts, so
+44:50
+I get them confused.
+44:50
+She came into office.
+44:52
+I had gone back just before.
+44:53
+Was she governor then?
+44:54
+Yeah.
+44:54
+Oh, okay, right.
+44:55
+She was governor during the development of the Northwest Forest Plan.
+45:04
+You know, they wanted me to serve as the Oregon State Rep on the recovery,
+45:08
+Spotted Owl Recovery Plan, and by then, I said, “No, there’s a much bigger issue
+45:12
+than that.” So, what happened is that
+45:19
+the “Gang of Four” was put together by two people.
+45:25
+I don’t know if, is it fair to ask, has Franklin’s talked to you about that?
+45:31
+How it was put together?
+45:32
+Yeah, but go ahead.
+45:34
+Did he talk about that?
+45:36
+Somewhat,
+45:39
+but tell me your recollection if it?
+45:42
+Yeah, he talked about it.
+45:43
+It was put together by Jim Lyons and John Beuter.
+45:47
+Oh, I’m not sure he told me that, but okay.
+45:49
+Jim Lyons
+45:54
+was the forestry advisor for the Ag Committee which shares jurisdiction
+45:58
+with the Interior Committee, or did, on the national forests.
+46:00
+Oh, he did mention Jim Lyons, now I recall.
+46:02
+But the other person was John Beuter.
+46:06
+Here at Oregon State, correct?
+46:07
+No, he was Deputy Assistant Secretary of Agriculture [at that time]
+46:12
+. Oh, so he had moved up from his days here.
+46:14
+He’s the guy that you knew from Oregon State, correct?
+46:16
+Yeah.
+46:17
+So, Lyons was working for the House under Kika de la Garza [D-Texas],
+46:28
+Chairman of the Ag Committee.
+46:30
+Lyons was a Democrat.
+46:31
+Beuter was working for a Republican administration, the first Bush.
+46:37
+So, they got together and convinced their bosses this was a good idea,
+46:46
+and so, they got the four of us [Gang of Four] . They got Thomas, of
+46:52
+course, because he knew about owls.
+46:54
+But this is really an old-growth issue, so they got Franklin.
+46:57
+They got me because I knew harvest levels.
+47:00
+And they got John Gordon because; go ahead
+47:05
+- No.
+47:05
+[Continue]
+47:05
+- John Gordon has the “voice of God,” He had been department head here
+47:11
+and in one other department. Beuter was another. And he [Gordon] had
+47:15
+been Jim Lyons’ mentor at Yale.
+47:20
+And Jerry said something about John.
+47:22
+He says, “John’s the closest thing we had to a forest ambassador.” I think he
+47:27
+described him as that and the voice, his sonorous, James Earl Jones-ish voice.
+47:33
+Yes.
+47:36
+Stop it for a second.
+47:38
+[Break in Audio] And so, those two people got together and put
+47:42
+together this group, this team.
+47:46
+And do you want me to talk about that?
+47:49
+Yeah, absolutely.
+47:51
+Then
+47:54
+we went to
+48:00
+Congress and talked to them.
+48:02
+First off, they wanted a plan, and my dean at the time said, “You can do this, but
+48:09
+you’ve got to come up with alternatives.” Which is what I wanted to do anyway.
+48:12
+Additionally, he mentioned fish; “Don’t let’s get surprised by some damn fish.” I
+48:17
+knew we didn’t have fish people involved. So, and it’s kind of convoluted, but just
+48:24
+to get to the punch line, I called up Gordie Reeves, as he may have told you.
+48:30
+I said, “Come and help us just for a little bit.”
+48:31
+The “Gang of Four Plus Two,” in other words.
+48:33
+Yeah.
+48:34
+And that’s what got them involved.
+48:35
+Sedell, too, Jim Sedell.
+48:37
+I didn’t ask for Jim Sedell.
+48:49
+Anyway, so I asked
+48:53
+Gordie Reeves
+48:56
+to come and help.
+48:58
+He asked Jim Sedell.
+49:00
+And that really was the beginning of what’s become the aquatic conservation
+49:04
+strategies, as probably Reeves
+49:10
+told you about.
+49:12
+At any rate, we were given, there’s a letter, the request.
+49:16
+It’s at the back of the “Gang of Four” report from Congress.
+49:21
+Yeah, I believe you have the letter at the back. It is, there’s a letter at the back.
+49:25
+[Both looking at copy of “Gang of Four” report.]
+49:26
+Well, I copied all the pages you gave me, Norm.
+49:27
+Yeah, just look at the very back.
+49:29
+Yeah, let me see what we got here.
+49:31
+Let me turn this off.
+49:32
+[Break in audio.] We are looking at the May 22, 1991 letter from the Congress
+49:39
+to Dr. Johnson, and basically, as a follow-up, as it says, to the hearings
+49:46
+that you took a part in, right?
+49:49
+Yes.
+49:51
+Jim Lyons,
+49:55
+Franklin and I wrote this letter.
+49:59
+Jim Lyons was the aide to Kika de la Garza, one of the signatories.
+50:06
+The letter was important because it did change from asking for a plan to asking
+50:16
+for alternatives, which is what we wanted.
+50:19
+We did not want to propose a plan that—
+50:21
+So, in other words, they first asked for a plan.
+50:24
+Because the Thomas Committee had given a plan.
+50:26
+The Thomas Committee didn’t give alternatives.
+50:29
+So, in other words, the singular thing that would be the plan versus
+50:33
+a range, an array, if you will.
+50:35
+Multiple plans with different characteristics, yeah.
+50:38
+Right.
+50:38
+So, but what was real important here, is that it said,
+50:48
+“We encourage you to solicit the assistance of others that may be helpful
+50:51
+in this endeavor, including resources and personnel from the Forest Service,
+50:54
+Fish and Wildlife Service, and Bureau of Land Management. To facilitate
+50:57
+this request, we are writing the heads of each of those agencies to request
+51:00
+their cooperation in this regard.”
+51:05
+And when they said that, that was carte blanche to involve all these specialists.
+51:12
+The “ologists,” if you will.
+51:13
+Yeah.
+51:16
+Also, this now is about alternatives.
+51:18
+And while it may not say it in this letter, they wanted
+51:22
+it done in three weeks.
+51:26
+And we took six weeks.
+51:28
+Is this the one that where you also, where Jerry got you guys together
+51:34
+at the [Portland Memorial] Coliseum?
+51:35
+Jerry and Jack.
+51:36
+Jerry and Jack got you together in the Coliseum in Portland, right?
+51:39
+I mean, it was like a year or two before FEMAT, before the Clinton Summit, right?
+51:44
+Yeah, it was.
+51:47
+And that’s where they mapped the old growth, and mapped key watersheds,
+51:51
+and in a week or in six days.
+51:59
+Congress then realized
+52:03
+there was more to these forests than the northern spotted owl, and they
+52:06
+wanted to get to the punch line.
+52:10
+“Specifically, we ask you to evaluate different approaches for taking
+52:13
+ecologically significant old growth and late successional ecosystems
+52:16
+species and processes, including, but not confined to spotted owls.”
+52:22
+They knew there was more to it.
+52:23
+They just wanted to get to the punch line, and so, they
+52:27
+asked this group to analyze it.
+52:30
+And we, in kind of a wild, crazy six weeks, we produced this report.
+52:40
+My kids helped me put the copies of it together.
+52:49
+So, how would you characterize the collaborative dynamic regarding this
+52:54
+report, which I believe involved the Forest Service, BLM, Fish and
+52:59
+Wildlife, but also academics, correct?
+53:02
+As that would be those four, and maybe even State of Oregon and Washington
+53:05
+officials, as well, or was it?
+53:07
+Yeah.
+53:07
+Well, first off, I want to say, it didn’t involve any agencies at all.
+53:11
+Okay.
+53:12
+It only involved people within them.
+53:14
+Okay, I got you.
+53:16
+But not the agencies.
+53:18
+Okay, right.
+53:18
+And so, in that way, it’s the one report in all of this that
+53:22
+doesn’t have an agency imprint, which is why you weren’t given it.
+53:28
+[Laughs] That’s why.
+53:29
+Oh, okay.
+53:30
+To be blunt about it.
+53:32
+This report was totally
+53:33
+— It doesn’t have a flag of—doesn’t have Smokey’s flag or
+53:39
+-- ? No, it doesn’t have anything.
+53:41
+It was the really, it was an outlaw effort, outside the
+53:46
+bounds of the bureaucracy.
+53:47
+Now, what do you say about why that was maybe special or different, or
+53:52
+what this type of report without strictures of agency, politics and
+53:56
+rules and paradigms, why was this maybe “outside the box” and maybe a really,
+54:02
+truly novel and informative document?
+54:06
+Because what was going on there is that, unless you push the agencies
+54:11
+aside, they were totally committed to all their timber sales and all their
+54:16
+old-growth sales they had laid out.
+54:18
+All of these things, and you were just smashing right through
+54:23
+them.
+54:23
+So, the Thomas Report was very helpful in starting that.
+54:27
+But this continued it, and really, the agency had exhausted itself three times
+54:35
+trying to come up with a spotted owl plan, and three times Judge Dwyer rejected it.
+54:41
+And so, the inmates had taken over the prison.
+54:46
+Basically, some of the Thomas Report was expanded, because in this one,
+54:52
+we didn’t come up with a plan.
+54:53
+We came up with forty alternatives, and said, you guys pick the plan.
+54:58
+We don’t know, we’ve done all we can.
+55:05
+I’d heard that during this whole process, including during, before and
+55:09
+after the congressional hearings and these reports, that some of the leaders
+55:14
+in the Forest Service, specifically Dale Robertson, became apoplectic.
+55:19
+Yeah, so did John Butruille.
+55:23
+When we reported on this to Congress, I’ll never forget sitting there on
+55:29
+the bench at one of the hearings with Jim Sedell and Gordie Reeves.
+55:39
+Looking up, Butruille, who is about eight feet tall, he’s this
+55:42
+ex-Marine with red hair, and his face was so red, it was just crimson.
+55:46
+And he’s with what?
+55:48
+He was Regional Forester, Region 6.
+55:50
+[Pacific NW/Alaska]
+55:50
+That’s what I thought.
+55:51
+What he was mad about was them saying that the forest plans wouldn’t protect fish.
+55:55
+Dale Robertson had just gotten these awards from Trout
+55:58
+Unlimited, and he was so mad.
+56:02
+But luckily, as Reeves probably told you, such claims were
+56:05
+in their own forest plans.
+56:06
+They put in the fine print that this is going to degrade fish habitat.
+56:11
+They’d said it.
+56:11
+So, yeah,
+56:17
+the Thomas Report, the agencies, I believe, felt was moderately
+56:20
+under their control, but this [Gang of Four and process afterwards]
+56:22
+was totally out of their control.
+56:24
+They did not like that, did they?
+56:26
+No, and I can understand why.
+56:29
+It’s only when basically, a bureaucracy and the agency
+56:34
+people, just run out of gas.
+56:36
+They don’t have the answer.
+56:38
+Eventually, they have to give up and bring in other groups.
+56:43
+That’s what happened here.
+56:46
+What is interesting is that
+56:51
+we never got, I would challenge you to find any congressional
+56:55
+criticism of this report.
+57:00
+The Northwest delegation of Republicans and Democrats said, we asked you, and you
+57:04
+told us, but the price is too high for us to allow legislation to pass on this.
+57:16
+In the end,
+57:20
+two proposals, one in Agriculture [Alternatives 8 and 8A]
+57:26
+, and one in Interior they kicked around, 12A.
+57:32
+The numbers were not very different from where the Northwest Forest Plan ended.
+57:35
+And now are you talking about numbers in terms of how many late successional
+57:39
+old-growth forests would remain in reserve
+57:44
+areas?
+57:45
+Yes, how much is in reserve, how wide the buffers will be, and all of that.
+57:49
+And then, what would be “Matrix” lands?
+57:50
+[From NWFP zoning scheme]
+57:50
+Yeah.
+57:51
+Those terms were already ones that would come out in FEMAT
+57:54
+and the Northwest Forest Plan.
+57:55
+The terms were already being bandied around?
+57:57
+They were, and they came by and large from the Thomas Report, and were
+58:04
+modified by this report [Gang of Four]
+58:07
+. “Adaptive Management Areas,” also.
+58:09
+They came later.
+58:10
+[Northwest Forest Plan zoning category]
+58:10
+Later, that’s what I thought.
+58:12
+There were no adaptive management areas in this.
+58:14
+There were none in this.
+58:15
+But the “matrix” came out of the Thomas Report, late successional
+58:17
+[reserves] came out of this report. And so, what happened is that what was
+58:23
+interesting about this report, is that
+58:29
+we would not tell anyone. Jim Lyons called up and wanted to
+58:32
+know what’s going to be in it.
+58:33
+And I said, “We’re not telling you.”
+58:36
+We worked day and night up at the OSU Center, and some people joined us.
+58:41
+All the maps were hand-drawn.
+58:42
+There was no GIS to speak of.
+58:44
+We had no agency support.
+58:46
+We had no money.
+58:47
+We had nothing.
+58:49
+The
+58:56
+OSU Center, I get for free because I’m faculty.
+59:00
+So, we did that, and
+59:06
+Congress,
+59:11
+they didn’t criticize us.
+59:15
+But people like Congressman DeFazio were devastated at the results here.
+59:20
+Of this?
+59:21
+Yeah.
+59:21
+Why was DeFazio devastated?
+59:23
+Because it meant, that for any reasonable hope of survival for these
+59:29
+species and ecosystems, there was going to be a dramatic fall in harvest.
+59:34
+And he recognized how that would affect the politics, the economics.
+59:38
+He recognized how that would affect his district.
+59:39
+Yes, that’s what I meant.
+59:41
+I mean, he goes from Lane County and up here a little bit, but all
+59:44
+the way down to Douglas and south.
+59:49
+But he never challenged us.
+59:51
+It was a different era.
+59:55
+We were kind of the wise men of the village, and they hired us to tell
+59:58
+them the way things were, and we did.
+59:59
+And then, John, as I think Jerry probably mentioned to you, John Gordon had the
+1:00:05
+masterstroke of summarizing it for us.
+1:00:12
+In Congress, you mean?
+1:00:12
+Yeah, with this.
+1:00:14
+Right.
+1:00:17
+There’s lots of maybe funny stories, but I’ll just tell one of them.
+1:00:20
+That’s fine.
+1:00:21
+The stories are a part of this process.
+1:00:23
+This, he gave me this.
+1:00:25
+Okay.
+1:00:29
+But what was key was this last statement.
+1:00:33
+And so, let me just say, that we’d written something John didn’t like.
+1:00:39
+He went off to write his own.
+1:00:41
+We said, “Okay, John, what should we do?” Because he had been away
+1:00:45
+for a bit, and he hadn’t been at the final days back at Portland.
+1:00:51
+He
+1:00:54
+was back at Yale, the Dean of the College of Forestry?
+1:00:56
+No, actually, he was in Finland with his wife on vacation.
+1:00:59
+Oh, okay.
+1:00:59
+But
+1:01:01
+[laughs], he spends a lot of time in Finland.
+1:01:03
+Yeah, I know, he told me about that, too.
+1:01:05
+Did you interview him?
+1:01:06
+Yes, I did.
+1:01:06
+Up in Benson Towers, where he lives in Portland.
+1:01:09
+And
+1:01:12
+so, we’d written something that he didn’t think too much of, and I agreed,
+1:01:15
+it didn’t amount to much as a report.
+1:01:17
+So we said, “What should we do?
+1:01:19
+It’s the night before the presentation.” “Well, I’ll
+1:01:21
+[Gordon] go write something.” And
+1:01:25
+he wrote this.
+1:01:26
+Franklin then said, “This is corny, especially this phrase I’m going
+1:01:30
+to read you.” Franklin rewrote it.
+1:01:31
+Luckily, Gordon paid no attention to the rewrite.
+1:01:34
+He just wrote what he did and read it.
+1:01:36
+He said
+1:01:40
+that
+1:01:43
+current forest plans provided a high level of assurance for maintaining habitat for
+1:01:47
+dependent species, and projected harvest levels of the state can be achieved.
+1:01:53
+We’d described again a practical ecosystem approach to
+1:01:56
+conserving biological diversity.
+1:01:59
+But then he said the punch line, “We’ve provided a sound basis for decisions,
+1:02:04
+given the time and information in which we operated. Science, at least as exemplified
+1:02:08
+by the four of us and those who assisted us, has done what it can. The process
+1:02:13
+of democracy must go forward from here.”
+1:02:19
+Congress realized we were just workers handing things off to them, and were not
+1:02:23
+trying to make the decision for them.
+1:02:25
+They really appreciated that.
+1:02:27
+But they did not do anything final with this.
+1:02:31
+Correct?
+1:02:31
+Oh, let me just backtrack and say—
+1:02:34
+They passed the buck, but anyway.
+1:02:36
+That particular meeting with Congress was one of the few times congressmen came
+1:02:42
+to a briefing as opposed to their staff.
+1:02:45
+They came to hear it.
+1:02:47
+And there was absolutely no knowledge even ten minutes before
+1:02:51
+of what we were going to say.
+1:02:54
+We had alerted no one.
+1:02:56
+I was in charge of the information.
+1:02:58
+I had congressmen coming in, trying to hang out and look over my shoulder,
+1:03:02
+and I told them, “No, you can’t see it.” Well, I didn’t work for them, I
+1:03:06
+mean, what are they going to do to me?
+1:03:08
+[Laughs] At any rate, but
+1:03:14
+the two committees, and now Interior was sponsored as two
+1:03:18
+and Ag, they developed proposals.
+1:03:24
+They actually voted on them.
+1:03:28
+The Speaker of the House was Tom Foley from
+1:03:31
+— Washington?
+1:03:32
+He would not allow them to come to the floor for a vote.
+1:03:37
+Because?
+1:03:39
+He didn’t want a vote.
+1:03:40
+He did not like the answers.
+1:03:43
+Because he recognized that it would impact—
+1:03:46
+Yeah.
+1:03:46
+The timber industry in his home state?
+1:03:48
+Well, he’d been talked to by the industry.
+1:03:54
+However, it’s also true that
+1:04:08
+with this report piled on the Thomas Report, there was no going back.
+1:04:13
+There was no going back.
+1:04:15
+Now, did you guys received pressure from the timber industry?
+1:04:19
+Pressure?
+1:04:20
+Or input or contact?
+1:04:22
+Oh, yeah, at the beginning of it.
+1:04:24
+I mean, however you interpret that?
+1:04:26
+No, and let me tell you, not much.
+1:04:27
+At the beginning, the industry was hanging around the Coliseum, too, and acted upset.
+1:04:32
+But, no.
+1:04:34
+Let me tell you why.
+1:04:36
+They didn’t believe anyone would take this seriously.
+1:04:40
+These guys worked for six weeks and they’re overturning something
+1:04:42
+that took fourteen years, what are you talking about?
+1:04:45
+And when you mean fourteen years, you’re talking about—
+1:04:47
+The forest planning efforts.
+1:04:48
+1976 to ’89 or ’90.
+1:04:49
+[Post-NFMA of 1976 planning dynamics]
+1:04:50
+Yeah.
+1:04:50
+When they’d basically been working on these the whole time.
+1:04:52
+Yeah.
+1:04:53
+Okay.
+1:04:53
+And so, I believe, they didn’t think anyone would take it seriously.
+1:04:58
+They took this very seriously.
+1:04:59
+And after that, after that, it was sort of downhill sledding
+1:05:04
+to the Northwest Forest Plan.
+1:05:06
+The big change happened between the Thomas Report and the Gang of
+1:05:09
+Four, from a political standpoint of a sense of what was possible.
+1:05:14
+And how would you characterize the political shift, whether it be out
+1:05:18
+here amongst the citizenry, and also in the powers of Congress and
+1:05:23
+the state governments and the like?
+1:05:24
+How would you characterize that shift?
+1:05:28
+The shift was that the realization, as John Gordon said here,
+1:05:39
+“There’s no alternative that provides abundant timber harvest and high
+1:05:42
+levels of habitat protection. There’s no alternative that does that.
+1:05:46
+You can’t have them both.” And it was clear where the law was.
+1:05:53
+So, if you’re not going to overturn these environmental laws, you’re going to
+1:05:57
+have a tremendous reduction in harvest.
+1:05:59
+And there’s no way out.
+1:06:03
+Now, when you were involved with the process that produced this report,
+1:06:08
+the hearing, did you perceive the size of the challenge ahead when you
+1:06:15
+were first getting involved in this?
+1:06:18
+And whether or not you did, when did you realize that this was really a big deal?
+1:06:29
+I realized it when I
+1:06:35
+calculated the harvest levels with the different options, and
+1:06:42
+realized that we went all the way from the low “L” to the “H” high.
+1:06:48
+There was “Low to Medium,” but there was
+1:06:58
+no option with “L’s,” [Low] for some aspect of the environment,
+1:07:05
+low levels of protection,
+1:07:11
+that didn’t have harvest levels about a third of historical levels.
+1:07:18
+I remember sitting with a friend who was helping do the calculations up at the
+1:07:24
+regional office, and I realized that.
+1:07:28
+And
+1:07:32
+you know, that was it.
+1:07:37
+I expected there was no coming back from that.
+1:07:40
+That’s when I realized that the world had changed, and the way
+1:07:45
+of thinking about it had changed.
+1:07:50
+My goal at the time was to get to the bottom line as rapidly
+1:07:54
+as possible, because all this uncertainty was killing everyone.
+1:07:57
+And this is still before FEMAT?
+1:07:59
+Yeah.
+1:08:01
+Did you realize that even changing the parameters of your career in terms of your
+1:08:06
+specialty as a forest economist, did you say, okay, I’ve got to now start including
+1:08:11
+all these other variables in terms of what society, but also the law, will
+1:08:16
+accept as legal and doable and acceptable?
+1:08:20
+That was kind of the end of my career as a forest economist and the
+1:08:23
+beginning of my career such as it is, as somebody in planning and policy,
+1:08:28
+because you can’t separate them, whereas it once seemed like we could.
+1:08:34
+So
+1:08:39
+then, nothing really happens.
+1:08:41
+You’ve got the injunctions, and Bush I leaves office.
+1:08:46
+Clinton campaigns that he’s going to take care of this, and he actually does.
+1:08:53
+During the first two to three months of his administration,
+1:08:55
+he had the Forest Summit.
+1:08:57
+Now, were you at that summit?
+1:08:58
+No.
+1:08:59
+I wasn’t at that summit.
+1:09:06
+I was the only member of the Gang of Four not speaking.
+1:09:13
+I had the tradeoffs.
+1:09:16
+I would have presented the tradeoffs, and they didn’t
+1:09:19
+want to see them at the summit.
+1:09:21
+They thought it would be too discouraging for everyone.
+1:09:25
+So, they wanted to see kind of a simple version of what?
+1:09:29
+Talk about the issues and they wanted upbeat and optimistic,
+1:09:33
+and since the President’s involved, we can’t have bad news.
+1:09:36
+Yeah.
+1:09:38
+Wasn’t the whole cabinet there, or most of them?
+1:09:40
+Yeah, right, and I would come in and showed them, look, this is
+1:09:42
+the way it is, and then that would have blown the meeting apart.
+1:09:46
+Been a downer, right?
+1:09:47
+Yeah.
+1:09:49
+So, how would you have told them, if you were invited, what would you have said?
+1:09:53
+Give me a one-paragraph synopsis.
+1:09:56
+John Gordon brought along our key slide for his presentation, and
+1:10:01
+they wouldn’t let him show it.
+1:10:04
+Because of the same concerns?
+1:10:05
+[Johnson agrees] Okay.
+1:10:05
+Yeah.
+1:10:09
+So, I would have shown them what we found, and I had a neat little
+1:10:12
+summary, one-page summary, just a graph, a very powerful graphic,
+1:10:16
+and I would have showed them that.
+1:10:19
+So, this is where we are now, so here’s some choices.
+1:10:25
+[Laughs]
+1:10:26
+Now, was that a fair predictor of some of the economic tradeoffs?
+1:10:33
+Oh, totally.
+1:10:34
+They’re pretty much unchanged.
+1:10:36
+Now, did you predict the, shall we say, and I’m using a nice word,
+1:10:41
+the “disappointing” timber harvests under the Northwest Forest Plan?
+1:10:45
+Yeah, well, we
+1:10:46
+— Did you see that coming?
+1:10:48
+Yeah, that was 1.2 billion [board feet] . That’s where it ended up.
+1:10:51
+So, you figured that was going to happen?
+1:10:52
+Yeah.
+1:10:57
+I was sure of it by that time.
+1:11:01
+Now this, you mean, by the time of FEMAT?
+1:11:02
+] Johnson: By the time of the Timber Summit , by the end of the Gang
+1:11:08
+of Four , and the reaction of the delegation to it, especially, I was
+1:11:16
+convinced as to where we were headed.
+1:11:18
+It
+1:11:21
+was one of the options that Congress was going to consider till Foley stopped them.
+1:11:26
+I don’t mean to say I’m a know-it-all.
+1:11:29
+I don’t mean that.
+1:11:30
+But it was clear that the party was over, if it was a party, and the
+1:11:39
+harvest levels were going to fall precipitously.
+1:11:43
+Independent of the formal plan?
+1:11:48
+No.
+1:11:48
+Or because of the formal planning dynamic?
+1:11:50
+Well, by this time,
+1:11:54
+there was an injunction on harvests in northern spotted owl habitat.
+1:11:57
+And so, in terms of getting a release of that injunction, and also dealing with the
+1:12:03
+fish issues, I knew where that was headed.
+1:12:06
+It wasn’t a mystery any more.
+1:12:09
+And it wasn’t a mystery to any of us involved.
+1:12:14
+Now, coming from a traditional forest economics perspective, how did you
+1:12:19
+see the other ways that people valued old-growth late-successional forests,
+1:12:26
+seeing them as churches, as sacred spaces, as things that you heard about.
+1:12:32
+I mean, you read poetry from some of the early American history, John Muir, and
+1:12:36
+all that stuff that was out there, but it wasn’t a broadly-held popular cultural
+1:12:41
+thing, and how did you see the values entering into how forests had to be
+1:12:47
+assessed from, let’s say, Earth Day on?
+1:12:50
+But let me just say, that that is not what we were asked to do.
+1:12:54
+No.
+1:12:54
+Nor not what we did.
+1:12:57
+We had a very specific assignment which is captured here, but it’s the same
+1:13:03
+one in the wonderful words of those for FEMAT, but about evaluating a different
+1:13:11
+approach to protecting ecological old growth and late successional ecosystems
+1:13:13
+and species and processes, including, but not confined, to the spotted owls.
+1:13:20
+We were not asked in any way to consider the emotional attachment
+1:13:24
+people have to forests in the Gang of Four report or in FEMAT.
+1:13:30
+Now, that was a flaw.
+1:13:32
+I’m asking you personally.
+1:13:33
+Oh.
+1:13:35
+I understand what was in the reports, I’m just asking you personally
+1:13:39
+as a forest economist who evolved over time as society is evolving.
+1:13:43
+Oh, yeah, okay.
+1:13:43
+Sorry, I should have made it more clear about that, because
+1:13:45
+we are mired in this stuff.
+1:13:47
+But just personally, how did that perception come to you, as you said,
+1:13:51
+wow, these other values are, all of a sudden, a much bigger deal than
+1:13:56
+they were when I was first trained?
+1:13:57
+In ’87, as Franklin may have told you, he came into my office.
+1:14:01
+I didn’t know him well.
+1:14:05
+And by that time,
+1:14:09
+I’d realized that the old-growth trees and forests are very special.
+1:14:13
+I said to him, “Jerry, we just have to find a way to reserve the
+1:14:17
+rest of the old-growth.” And he thought I was crazy. I don’t know
+1:14:23
+whether he mentioned this to you.
+1:14:24
+He tells the story often, and said that we can’t do that.
+1:14:28
+I said, “No,
+1:14:31
+these forests are something different. And we need to find a way
+1:14:35
+to reserve them, because they have value way beyond timber.” So, yeah.
+1:14:43
+So, you came to that realization even before Jerry, the “guru” of old
+1:14:48
+growth, came to that realization?
+1:14:49
+Is that fair to say?
+1:14:50
+Yeah.
+1:14:50
+Although he knew about their importance before I did in all these ways.
+1:14:58
+He just did not think it was possible to reserve them.
+1:15:02
+And then the Times did a story on me
+1:15:08
+that ended up on the front page of the local paper.
+1:15:13
+The Gazette-Times?
+1:15:13
+[Corvallis newspaper]
+1:15:14
+Yeah.
+1:15:14
+Okay.
+1:15:16
+That said, here’s a guy that spent his life thinking that sustained-yield
+1:15:20
+would sustain all the forest values, and now he’s realized it won’t.
+1:15:24
+It was during that period.
+1:15:26
+Was that, I don’t want to call it……was that like a crisis for you, or a
+1:15:33
+moment of consciousness-shifting?
+1:15:36
+Yeah, I’ll say.
+1:15:37
+I mean, what went on?
+1:15:39
+Do you remember about how you were reflecting on what you were and how you
+1:15:43
+were trained, and all of a sudden you say, “Wow, I’ve got to really rethink
+1:15:48
+my whole perspective on what I do?”
+1:15:51
+Yeah.
+1:15:53
+It hasn’t been real stable since.
+1:15:57
+[Laughs]
+1:15:57
+And you’re on a wobbly chair right now.
+1:16:01
+[Laughs]
+1:16:01
+Yes, it certainly did change the way I think.
+1:16:07
+Also, the realization that there are
+1:16:11
+a lot of
+1:16:15
+concepts needed now to manage forests that I was not an expert on.
+1:16:21
+So, how did you become conversant with the disciplines of the quote, “ologists” in
+1:16:28
+all these other earth science areas, so you could merge what you were good at and
+1:16:34
+trained in, and integrate that into more, shall we say, a progressive, post-modern
+1:16:40
+forest planning and policy perspective?
+1:16:46
+Well, I’m not sure I entirely have, actually.
+1:16:50
+But
+1:16:54
+the Gang of Four report was a labor of love for all those who were involved.
+1:16:58
+How long did it take you guys to write this thing?
+1:17:03
+Well, I wrote it.
+1:17:04
+How long did it take you to write it?
+1:17:07
+We didn’t have it when we presented it.
+1:17:08
+It took me a few weeks.
+1:17:10
+Okay.
+1:17:12
+But it was a labor of love.
+1:17:13
+And so,
+1:17:17
+I learned a lot because all these people were so forthcoming, especially, Thomas
+1:17:22
+and Franklin and Sedell and Reeves.
+1:17:28
+We knew we were on an adventure and knew things were changing.
+1:17:33
+We knew that at last, they all could speak out on things that have
+1:17:39
+been pretty squashed to that point.
+1:17:42
+So, that was a very uplifting experience, and that made it easy to learn.
+1:17:49
+It did.
+1:17:53
+That was good stuff, and it was exhilarating
+1:17:59
+and they were very kind to me.
+1:18:05
+John Gordon was trained in physiology, and there were
+1:18:11
+biologists, ecologists, and aquatic scientists.
+1:18:12
+I was just
+1:18:15
+this guy with this other stuff.
+1:18:17
+We had a grand time.
+1:18:18
+But isn’t that what makes great collaborations, is that you complement
+1:18:24
+each other and you’re able to see the wisdom of other things, and
+1:18:28
+then come together with something that isn’t necessarily committed to
+1:18:33
+any one person’s perspective or one discipline or one person’s interest?
+1:18:37
+Yes.
+1:18:41
+And it was a lot different than FEMAT.
+1:18:43
+Right.
+1:18:44
+And so, we go from this to the Forest Summit.
+1:18:47
+Did you watch it on television?
+1:18:50
+I listened to it when it was on radio.
+1:18:53
+I didn’t go.
+1:18:57
+I spent the day with my dog out in the woods.
+1:19:01
+I did listen, sure.
+1:19:03
+And not too long after that, the charge was given for sixty days originally and
+1:19:10
+I believe people begged for thirty more, and the whole FEMAT “pink tower” event,
+1:19:17
+I jokingly call the “Slumber Party.”
+1:19:20
+Yeah.
+1:19:20
+Where people basically “camped out” and put together this gigantic
+1:19:25
+document, or the information that came into this gigantic document.
+1:19:32
+What do you remember about how that came together?
+1:19:35
+Well,
+1:19:48
+Jack Ward Thomas
+1:19:52
+knew before the summit he was going to be asked.
+1:19:56
+And he got me together with him,
+1:20:00
+and I really believe this is before the summit, to outline who would
+1:20:03
+be involved, and who we would get.
+1:20:15
+Some of the people from the owl study didn’t want Franklin involved.
+1:20:20
+Was there a particular reason?
+1:20:22
+Yeah, they thought he was too powerful of an individual.
+1:20:27
+And Jerry is a presence, isn’t he?
+1:20:28
+Yeah.
+1:20:30
+And Jack and I actually
+1:20:36
+spent a lot of time together working on who would be involved.
+1:20:41
+Before it, the Gang of Four didn’t know Jack well, but afterwards, he
+1:20:44
+had a fair amount of trust in the end.
+1:20:45
+He was a fairly strong personality, as well.
+1:20:47
+I never met him, but know he was.
+1:20:50
+Yeah, he was.
+1:20:51
+And Franklin and he, kind of at times, clashed.
+1:20:56
+At any rate, I was sort of the grease between the two giant wheels.
+1:21:03
+[Laughs] Okay.
+1:21:06
+And so—
+1:21:10
+Now, John [Gordon] , was he involved in the FEMAT?
+1:21:13
+Not at all, he had broken his leg.
+1:21:15
+Okay.
+1:21:16
+He was back, but he was not involved at all.
+1:21:17
+Yeah, he told me he wasn’t.
+1:21:20
+He didn’t tell me he broke his leg, though.
+1:21:21
+Yeah, he did break his leg, or Lyons would have had him out there.
+1:21:30
+But we came to a crucial point.
+1:21:38
+For the Gang of Four report, there were no managers involved.
+1:21:42
+They were somewhat prohibited.
+1:21:44
+It
+1:21:46
+was just the staffers.
+1:21:48
+I was told different things about both the FEMAT [meeting] , but also
+1:21:51
+the Gang of Four [meeting] at the [Memorial] Coliseum in Portland.
+1:21:55
+For the record, both of them took place in Portland.
+1:21:58
+The Gang of Four, shall we say, the planning symposium, took place in,
+1:22:04
+shall we say, the exterior halls and rooms in Memorial Coliseum in Portland?
+1:22:08
+For one week.
+1:22:09
+And then for four weeks in the OSU Center [Portland]
+1:22:14
+. Okay, so there was two separate events.
+1:22:16
+Because the week in the Coliseum,
+1:22:23
+six days, were spent mapping.
+1:22:27
+Okay.
+1:22:28
+Basically, you were compiling all the known information in maps, and trying
+1:22:34
+to come up with a collaborative median series of maps that took the best of all
+1:22:40
+information and made the most complete?
+1:22:42
+Actually, mainly, we used the expert judgment and knowledge
+1:22:47
+of all the different specialists from the national forests [in
+1:22:52
+Northwest] . That was the first time they’d ever been asked to do that.
+1:22:54
+Okay.
+1:22:56
+And then, we spent many weeks in the OSU Center, in which we were doing—
+1:23:01
+That’s here in Corvallis?
+1:23:02
+No, it’s at Portland.
+1:23:04
+Oh, the OSU Center, okay.
+1:23:05
+Sorry, I didn’t make that clear.
+1:23:06
+Not your fault.
+1:23:07
+No, that’s fine, okay.
+1:23:08
+Yeah, it’s in Portland.
+1:23:15
+And
+1:23:19
+when we did this—we developed alternatives, because we had maps.
+1:23:24
+We developed alternatives, did risk analysis, did harvest calculations.
+1:23:29
+Now,
+1:23:37
+I don’t know where we were going with that.
+1:23:39
+Well, the reason I brought it up is I wanted it for the sake of
+1:23:42
+--- Oh, now I know, yeah.
+1:23:44
+-- For the sake of interesting anecdotes, really, how people that were managers
+1:23:50
+or presences or political personalities, were not supposed to be in the meeting
+1:23:56
+rooms where people were putting all the stuff together, and that they
+1:24:00
+even had to wear like special badges and reflectors, almost like they were
+1:24:04
+traffic cones walking through the room?
+1:24:07
+Yeah, they did that.
+1:24:09
+We were trying to “break the cord” of the managers in controlling what the
+1:24:13
+specialists said. By and large, it was successful, and sometimes it wasn’t.
+1:24:18
+And when we found out that still they would not identify any old-growth groves
+1:24:23
+except those outside current timber sales.
+1:24:27
+You knew they were under pressure from above.
+1:24:29
+Yeah.
+1:24:29
+And they weren’t being able to really “speak freely,” in other words?
+1:24:34
+Well, not very well-known or known at all, is that I took possession of the maps, and
+1:24:42
+they were in the basement of Peavy Hall.
+1:24:45
+And I would let specialists in at night secretly to redraw them.
+1:24:55
+Subterfuge.
+1:24:56
+[Laughs]
+1:24:57
+And a couple forests, of which Siuslaw and Deschutes were two
+1:25:02
+of them, we had to redraw them.
+1:25:05
+What was wrong with them?
+1:25:06
+They wouldn’t identify old growth that wasn’t in existing timber sales.
+1:25:09
+Right.
+1:25:10
+Or proposed.
+1:25:11
+They were afraid of being reprimanded by their bosses, right?
+1:25:13
+Yeah, these were sales that hadn’t been sold, but they were in planning.
+1:25:17
+So, that would go along with what I’ve heard about, and they said it for the
+1:25:22
+record, so I guess it safe for me to kind of encapsule the experience, is
+1:25:28
+that when the Gang of Four, actually the committee hearings leading up to the
+1:25:34
+report, that involved the Gang of Four, a
+1:25:38
+couple of the people, specifically Gordon Reeves and Jim Sedell, but Gordie, I
+1:25:43
+think, in particular, who was fairly young in this group at that time.
+1:25:47
+Yeah.
+1:25:47
+Was actually, kind of read the “riot act,” by some people [USFS] above.
+1:25:52
+Yeah, yeah.
+1:25:53
+And I guess that some Congressional people came to his aid because he was
+1:25:57
+concerned because of what he said, because basically the fish and the water issues
+1:26:03
+complicated the situation, to where, my God, I guess [Dale] Robertson and some of
+1:26:08
+the top people got unhappy, shall we say?
+1:26:11
+I’m putting a nice word on it, but they were not pleased.
+1:26:14
+No.
+1:26:15
+Would that be fair?
+1:26:16
+And that’s a good example of what you’re talking about, right?
+1:26:19
+Yeah, Thomas, and especially Reeves and Sedell, were in the Forest Service.
+1:26:27
+They were subject to this dismay and sanction.
+1:26:34
+Franklin and I were in the university and they couldn’t do a damn thing to us.
+1:26:39
+That is, from the Forest Service.
+1:26:41
+Now, it’s true that my dean sure heard about it from the industry.
+1:26:44
+But my dean George Brown, protected me famously.
+1:26:48
+He never even mentioned it once.
+1:26:51
+There’s one story you ought to know is that George—well, he never once came
+1:26:59
+to me and yelled at me for the Gang of Four, and yet, he got yelled at a lot.
+1:27:04
+He was a great dean.
+1:27:07
+Continuing along that line.
+1:27:09
+But yeah, so there I was.
+1:27:12
+And this was, I mean, what’s going on here?
+1:27:15
+I mean, things are totally out of control.
+1:27:17
+The Forest Service had never experienced this before.
+1:27:20
+BLM had never experienced it.
+1:27:22
+Where basically, the keys to the kingdom were being handed over to a group of
+1:27:29
+biologists, ecologists, scientists, and everybody else was pushed aside.
+1:27:36
+And
+1:27:44
+so, I was involved deeply with Jack in setting up the teams for FEMAT.
+1:27:52
+That’s right, we were on that, okay.
+1:27:55
+And
+1:27:58
+the question was whether to have managers on the team.
+1:28:03
+And the conclusion was?
+1:28:06
+I didn’t know how that would work because they were so committed
+1:28:10
+to their timber sale program.
+1:28:11
+So, you were once again, the same dynamic you’ve been talking about
+1:28:14
+for a while, just in that new forum?
+1:28:16
+Yeah, but that one was done behind the scenes, and they
+1:28:20
+just didn’t end up on the teams.
+1:28:23
+And so that continued the freedom of thought.
+1:28:26
+It also had the downside of
+1:28:32
+complicating the realism of the plan,
+1:28:39
+because they weren’t heavily involved in crafting it, and also, complicating
+1:28:44
+their commitment to it because they weren’t involved in crafting it.
+1:28:49
+So, okay, let’s just go to the FEMAT process.
+1:28:57
+Okay, the team is chosen.
+1:28:59
+Jack and you are the head planning people, right?
+1:29:02
+Well, no.
+1:29:03
+A lot of people were involved, but I was just
+1:29:09
+at one stage in process.
+1:29:12
+He [Thomas] came to me and we talked it through, and he
+1:29:14
+talked to a lot of other people.
+1:29:15
+I don’t mean to say I was the only one involved.
+1:29:17
+But it did get set up.
+1:29:22
+Marty [Raphael] was to be head of the ecological and biological, and I was going
+1:29:26
+to be head of the economic and social.
+1:29:28
+Marty Raphael, correct?
+1:29:29
+Yeah, but the PNW Station people really complained about that.
+1:29:38
+I had to calculate harvest levels, because that’s where things
+1:29:42
+turned, in terms of the interest by
+1:29:52
+the Clinton administration.
+1:29:56
+They wanted to take care of all the species, but they had commitments to the
+1:30:03
+other entities.
+1:30:05
+I really focused on the harvest levels, working with the
+1:30:09
+Forest Service and the BLM.
+1:30:12
+There were representatives of both, we had a team, and we worked on harvest levels.
+1:30:17
+I could talk to you more about that
+1:30:21
+later.
+1:30:21
+They chose a place, the “Pink Tower.”
+1:30:24
+Yep, the 32nd Floor.
+1:30:27
+What’s that?
+1:30:28
+32nd Floor.
+1:30:28
+32nd Floor of the Bank of America building?
+1:30:32
+Or no, it’s
+1:30:35
+the
+1:30:35
+- ? U.S. Bank.
+1:30:36
+U.S. Bank building in downtown Portland.
+1:30:39
+And everybody’s basically called in.
+1:30:42
+How many people, 175 total that were involved?
+1:30:45
+Oh, I think there were a couple hundred involved.
+1:30:47
+But some only came
+1:30:51
+when needed.
+1:30:51
+There was a core team that was there all the time.
+1:30:54
+But then, when they called in people for risk assessment and
+1:30:57
+review, there were other people that joined up for short periods.
+1:31:01
+Yeah, absolutely.
+1:31:04
+So what happened then, on day one?
+1:31:06
+You were given a sixty-day window that fortunately got stretched to ninety days,
+1:31:11
+because you just couldn’t get it done?
+1:31:13
+Well, no, no.
+1:31:13
+No, no.
+1:31:15
+We got it done.
+1:31:16
+The Clinton administration didn’t like the answer.
+1:31:18
+Oh, so they asked for more alternatives?
+1:31:20
+They asked for something better.
+1:31:22
+And they were given the— [report] —we reported to them in the Indian Treaty Room
+1:31:28
+back in the old executive office building that is on the White House grounds.
+1:31:34
+This is jumping ahead, I’ll just say this.
+1:31:36
+That’s fine.
+1:31:36
+That
+1:31:42
+again, to achieve something with no L’s [low ratings] in it, the level
+1:31:49
+of protection they were after, they didn’t get the harvest levels they
+1:31:52
+wanted, and there was kind of a magic [number] of about a billion board-feet.
+1:31:56
+And so, Franklin, and some others, Sedell, and maybe me, thought there
+1:32:04
+could be more integrated alternatives.
+1:32:05
+So, we presented the alternatives, and there was a lot of pushing and shoving.
+1:32:11
+FEMAT was not the friendly environment of the Gang of Four.
+1:32:17
+It was really
+1:32:20
+pretty contentious among all the scientists.
+1:32:25
+So, going back to day one.
+1:32:29
+I kind of leaped ahead and you were responding to my concluding
+1:32:33
+comment in that question.
+1:32:36
+You’re given sixty days.
+1:32:39
+What happened on day one, and how did you guys pull it together
+1:32:42
+as people started coming in?
+1:32:44
+Characterize the atmosphere of how the place was divided up, how the teams
+1:32:48
+worked together or didn’t work together, collaborated, fought, etc. Just tell
+1:32:54
+me that story as best you remember.
+1:32:58
+You had your specialty, but were involved in the whole thing.
+1:33:01
+Yeah.
+1:33:05
+The teams didn’t work much together.
+1:33:09
+The social scientists didn’t work much with the economists.
+1:33:12
+The aquatic people didn’t work much with the wildlife people.
+1:33:15
+As Jack used to say, it just kind of all clicked together at the end.
+1:33:20
+So, it very much it was tribal, very tribal.
+1:33:23
+And there was
+1:33:26
+the people that had put together the owl plan.
+1:33:29
+I don’t know if you have it here, the ISC report?
+1:33:32
+I’ve got one of the owl plans here.
+1:33:34
+I’ve just got the ’88 one, I believe, just for the sake of discussion.
+1:33:38
+No, the ISC, you know, there’s—
+1:33:40
+I’ve got this one.
+1:33:42
+I just bring this one along for a prop.
+1:33:44
+Yeah.
+1:33:44
+This was the ’85 one, actually, an early one.
+1:33:48
+Let me just tell you as an aside.
+1:33:51
+The ISC report really ushered in this monumental change, and
+1:33:59
+it’s a wonderful piece of work.
+1:34:02
+Yeah, I’ve got it on a pdf.
+1:34:04
+It’s really wonderful.
+1:34:06
+It really is a wonderful piece of work.
+1:34:11
+But the folks that put that together were pretty defensive about that’s
+1:34:14
+what we ought to have as the plan.
+1:34:15
+And thus—
+1:34:16
+Like a plan, a singular plan?
+1:34:18
+Well, just that that’s the one we really want here.
+1:34:27
+How would that have allowed for more or less timber harvest, for instance?
+1:34:32
+Well, it’s kind of funny here.
+1:34:44
+It was as much a planning philosophy, and it’s a little hard for me to
+1:34:48
+explain when I’m really thinking about it, and who was in charge.
+1:34:52
+There were battles over who’s in charge, and whose way of thinking
+1:34:57
+about things, was in charge.
+1:34:58
+Are we going with FEMAT now?
+1:35:00
+FEMAT.
+1:35:00
+Okay, got you.
+1:35:02
+Is it the wildlife biologist?
+1:35:04
+Is it the landscape ecologist?
+1:35:06
+Do the social people have any say in how we shape things?
+1:35:09
+Who is to shape the alternatives?
+1:35:10
+How do you shape them?
+1:35:11
+Those were the real arguments at the beginning.
+1:35:13
+What’s the role of the aquatic?
+1:35:14
+Yeah.
+1:35:15
+How big are the buffers going to be?
+1:35:17
+How are they going to relate to the—
+1:35:17
+Well, it wasn’t there yet.
+1:35:21
+It was whose way of thinking about things.
+1:35:26
+And the landscape ecologists think differently than the spotted owl folks.
+1:35:31
+We tend to emphasize structure, and the aquatic people emphasize process.
+1:35:36
+The social scientists have a whole different approach than the economists.
+1:35:40
+There was a real battle about who was in charge, and that went
+1:35:44
+all the way through the thing.
+1:35:45
+We didn’t have that battle with the Gang of Four.
+1:35:48
+How was that reflected in the final report here in terms of FEMAT, and from
+1:35:53
+what you say, the lack of unanimity and agreement on certain things?
+1:36:00
+Well—
+1:36:04
+It’s hard to get that from reading this master document unless you were
+1:36:06
+involved and you did the whole thing.
+1:36:07
+That’s why I’m asking you?
+1:36:10
+Yeah.
+1:36:17
+As an example,
+1:36:25
+the landscape ecologists wanted what they called an ecosystem plan, and so did Jack.
+1:36:29
+And the wildlife biologists, many of them wanted a very specific plan
+1:36:34
+for each species, and that’s how we ended up with “Survey and Manage.”
+1:36:37
+[Implementation policy added to NWFP after FEMAT was accepted] They didn’t agree.
+1:36:40
+So, the “coarse-filter” versus the “fine-filter” approach?
+1:36:43
+Yeah, exactly.
+1:36:51
+Exactly.
+1:36:51
+It was like
+1:36:54
+a five-sided star, or five-sided boxing ring.
+1:36:59
+And
+1:37:02
+the social scientists and economists had different views, too, like what
+1:37:05
+parts of the landscape are in trouble economically, and which aren’t.
+1:37:09
+So, a lot of this was not well-integrated.
+1:37:14
+We were trying to hold onto things by our fingertips to understand what
+1:37:19
+everybody was saying so we could model it.
+1:37:22
+By the way, there is another report on timber harvest scheduling you don’t have.
+1:37:26
+That was the report on the timber side of it that actually didn’t get
+1:37:30
+into FEMAT because it couldn’t be done until they’d finished their model.
+1:37:33
+Is that one that you wrote?
+1:37:33
+Yes.
+1:37:37
+We couldn’t develop harvest numbers until we got the alternatives
+1:37:42
+and what they meant, which meant, we had to sort of have that.
+1:37:45
+In other words, the maps and reserves, and how they all interlocked together?
+1:37:50
+Not only that, but what are the prescriptions you can
+1:37:52
+have and what can’t you have.
+1:37:54
+Yeah, what can happen on a later successional, what could happen on a
+1:37:56
+Matrix, what could happen on AMA’s, etc.?
+1:37:57
+Yes, yes.
+1:37:57
+And how they interlocked and
+1:38:02
+also you have the relationship of Forest Service lands with BLM lands.
+1:38:05
+And then we’re not even talking about Oregon and Washington
+1:38:08
+forest lands [state-owned]
+1:38:08
+. Yeah.
+1:38:09
+By the way, I forgot to ask you earlier.
+1:38:11
+How would you characterize the difference between cultures in
+1:38:14
+Oregon and Washington vis-à-vis forested lands, timber resources,
+1:38:22
+from the state perspective, mainly?
+1:38:26
+From the perspective of people in state government, do you mean?
+1:38:29
+Yes, or even
+1:38:31
+the cultures of the states.
+1:38:32
+I mean, Jerry has very strong opinions about the difference between Oregon
+1:38:37
+and Washington, and I just wonder what your view on that whole thing was?
+1:38:45
+Well,
+1:38:52
+I doubt Franklin and I agree on that, but we’ve never talked about it.
+1:38:59
+Oregon doesn’t have that much really high elevation forests like the North Cascades.
+1:39:06
+It’s not near as amenable to classic definitions of a
+1:39:08
+national park or wilderness.
+1:39:18
+So, they’re different, geologically and geographically.
+1:39:23
+But within that context, it’s true that timber has had a larger role
+1:39:32
+in shaping state politics on the national forests, in Oregon.
+1:39:38
+In Oregon, okay.
+1:39:40
+Timber companies, like Weyerhaeuser, have had
+1:39:47
+a major effect on shaping policy in Washington.
+1:39:49
+Here [Oregon]
+1:39:52
+, we don’t have a dominant state or private owner.
+1:39:56
+So, there have been a lot of differences,
+1:40:02
+and what’s throwing me here is much of this
+1:40:08
+perspective didn’t come from state government.
+1:40:11
+State government’s been largely insignificant and uninvolved
+1:40:16
+in federal forest policy.
+1:40:17
+It’s been our delegation.
+1:40:19
+[Congress]
+1:40:19
+Right.
+1:40:20
+That was very powerful and positioned and focused on timber.
+1:40:24
+So, it really is the difference in the congressional delegations, I
+1:40:26
+think more than state government.
+1:40:28
+Now, I was just trying to relate to what I remember Jerry talking about.
+1:40:31
+Yeah, so I think that our politicians in Congress, when it was a regional
+1:40:38
+issue, they were in the lead.
+1:40:40
+It was partly their positions of seniority.
+1:40:43
+I’m not sure the politicians in Washington would have done it
+1:40:45
+differently, but they weren’t in the positions of power during this time.
+1:40:49
+How would you characterize the congressional delegations, and I haven’t
+1:40:52
+talked about this yet, of Oregon and Washington, leading up to and during
+1:40:58
+the Northwest Forest Plan process?
+1:41:00
+Maybe singling out one or two people that took leading roles
+1:41:06
+in pulling or pushing it through?
+1:41:13
+Well, they stood back.
+1:41:14
+They didn’t push it through.
+1:41:16
+None of them.
+1:41:17
+I mean, they stood back.
+1:41:18
+Once they got the Gang of Four report
+1:41:22
+and they saw there was no really easy solution, they said, “We’re
+1:41:27
+staying out of it,” and turned it over to the Clinton administration.
+1:41:30
+In other words, they didn’t see a “win-win” for them politically?
+1:41:33
+Correct.
+1:41:35
+That’s what really came out of the Gang of Four.
+1:41:37
+So, they stood back, and
+1:41:45
+as an example, for the only time in history, all nineteen members of both
+1:41:51
+congressional delegations, and including the governors of Oregon and Washington,
+1:41:56
+signed a joint-letter asking for a seminar on all of this, by us and some others.
+1:42:02
+So, they were unified in the value of the scientific involvement, pretty much.
+1:42:08
+They were unified in knowing they needed a solution, and they were also unified in
+1:42:15
+saying, “We’re not passing legislation.
+1:42:17
+It’s got to be administrative, because we can’t find enough of a sweet spot to do
+1:42:25
+anything.” So, they stood out of the way.
+1:42:29
+So, this letter you talked about, was that after this, but before FEMAT?
+1:42:35
+This letter?
+1:42:36
+No, no, not that letter, but the letter you’re talking
+1:42:37
+about, the nineteen signatories?
+1:42:39
+Oh, that was before.
+1:42:39
+That was after the Gang of Four, before FEMAT.
+1:42:42
+Okay, got you.
+1:42:43
+That was their, “Okay, educate us more.” We met up at the Red Lion in
+1:42:48
+Vancouver [Washington] with the staffers.
+1:42:51
+So, they still wanted to know about it, but they just stepped back.
+1:42:57
+They did not in any way harass us, though.
+1:43:05
+There was
+1:43:07
+a representative, one from Washington, near the Olympics, and he was pretty
+1:43:13
+powerful in the Corporation Committee.
+1:43:14
+He called me before
+1:43:19
+FEMAT, and his name was Norm, too.
+1:43:21
+I said, “Hey man, this is a bitter pill to swallow, but this is as good
+1:43:25
+as it gets.” He said, “Okay.” He didn’t see broad condemnation of FEMAT.
+1:43:35
+However,
+1:43:41
+there was a hearing on it in D.C. with three congressional committees.
+1:43:51
+If you want, I can talk to you about this now or later?
+1:43:53
+Oh,
+1:43:59
+go ahead.
+1:44:00
+I’m listening.
+1:44:00
+This is great.
+1:44:00
+Regarding the delegations, we leader had to go talk, and Brian Greber,
+1:44:02
+from OSU, did the economic analysis.
+1:44:07
+And we went to the hearing,
+1:44:16
+and now,
+1:44:22
+they’re in prime time.
+1:44:25
+They knew very well that this is going to have enormous employment impacts.
+1:44:32
+And Bob Smith and Congressman DeFazio really got after the employment
+1:44:35
+analysis, and Brian Greber on the fly, couldn’t really satisfy
+1:44:40
+their requests for information.
+1:44:43
+You’re talking about FEMAT and employment?
+1:44:44
+Yeah, okay.
+1:44:45
+Yes.
+1:44:46
+The economic/social part of it?
+1:44:49
+Finally, he calculated some enormous number of jobs you might say were
+1:44:54
+being lost, and they got really angry.
+1:44:59
+Congressman DeFazio got all these other people to defer to him,
+1:45:04
+and he was really on a tear.
+1:45:07
+And
+1:45:10
+he actually took the report and said, “We asked for a credible analysis and
+1:45:15
+you gave us an incredible analysis,” and threw the FEMAT report over his shoulder.
+1:45:19
+So, he threw it like against the wall or
+1:45:23
+-- ? Oh, just behind him like this [over the shoulder gesture]
+1:45:24
+. Oh, okay.
+1:45:25
+They were in tears.
+1:45:26
+I don’t know.
+1:45:27
+So, there was this coming out, that people were upset about the job
+1:45:31
+loss from our delegation, but that was when the spotlight was on them.
+1:45:39
+We were just left alone.
+1:45:41
+It was a political show just a little bit?
+1:45:42
+Yes, totally.
+1:45:45
+But it was honest and genuine, and so was he [DeFazio] . But
+1:45:53
+when we were doing FEMAT, there wasn’t a lot of political interference.
+1:45:56
+That’s what I’m getting at.
+1:45:58
+We didn’t hear from them.
+1:45:59
+Well, I think that’s what makes this a rather remarkable process is how two
+1:46:06
+parts of the whole process, the Gang of Four and FEMAT, took place in, I
+1:46:13
+don’t want to call it a vacuum, but a relative vacuum in terms of how these
+1:46:17
+things usually happen where you had meddlers from all sides, and of course,
+1:46:22
+in the post-NEPA era, the public.
+1:46:24
+Yeah.
+1:46:24
+You know, the environmentalists, “Joe Blow,” everybody was giving their
+1:46:28
+input, and you guys were basically in these little bubbles, temporarily.
+1:46:32
+That’s right.
+1:46:34
+That’s very unique in the post-NEPA era, anyway.
+1:46:35
+Yeah, it is.
+1:46:38
+In fact, I
+1:46:42
+just want to come back to that, because it was.
+1:46:45
+We were in what you’d call this bubble.
+1:46:47
+We were sequestered.
+1:46:48
+And none of the political leaders bothered us then, but when we surfaced again and
+1:46:54
+Congressman DeFazio could register his dismay and outrage, he certainly did.
+1:46:58
+But it was his district that was going to lose most of this employment.
+1:47:01
+It was devastating.
+1:47:03
+So, I’m not surprised he got upset.
+1:47:04
+And boy, if you couldn’t respond to his questions quickly,
+1:47:08
+he got madder and madder.
+1:47:09
+But it was in this public setting after things were pretty well set,
+1:47:15
+so it wasn’t going to change much.
+1:47:19
+As you may have learned, FEMAT
+1:47:24
+was successfully litigated by the industry over a FACA violation.
+1:47:32
+Which federal act is FACA?
+1:47:35
+Federal Advisory Committee Act.
+1:47:39
+Which basically means the lack of the involvement, the cloistered-fact
+1:47:44
+aspect, was basically attacked.
+1:47:47
+And then partly, because they were non-federal employees?
+1:47:50
+[Some of team were not]
+1:47:51
+Yes, because I was involved, as well as Franklin and others.
+1:47:53
+That’s what I meant.
+1:47:54
+Yeah,
+1:47:57
+it turned out the judge said, yes, the way this was developed was illegal.
+1:48:02
+However, he didn’t see how opening it up would have changed things now.
+1:48:11
+So, this stood?
+1:48:13
+Yeah.
+1:48:15
+Yeah, I remember hearing about the challenge.
+1:48:16
+Right.
+1:48:17
+Now, looking at the broader sweep of economics and timber, and forestry
+1:48:25
+and logging and timber harvest in the Northwest, there are many other factors
+1:48:30
+involved with how things played out over the ‘60s, ‘70s, ‘80s and ‘90s.
+1:48:36
+How would you characterize those other factors, whether it be foreign markets,
+1:48:42
+technology, etc., in terms of what would lead to the drop-off in timber harvest
+1:48:49
+in comparison to what this document and the Record of Decision [guidelines
+1:48:55
+for implementing NWFP] and all the guidelines would play out in terms
+1:48:58
+of limiting harvest on federal lands after the implementation of a plan?
+1:49:04
+You understand what I’m saying?
+1:49:05
+Sure.
+1:49:05
+The broad sweep of things.
+1:49:07
+Your interpretation is the comparative weighting of factors versus perception.
+1:49:13
+Well, a couple of things happened.
+1:49:21
+Certainly you can see it, and I showed my students, that in ’82 there was a
+1:49:28
+recession caused by high interest rates.
+1:49:31
+Then, when timber harvests came back in the mid to late-‘80s, the employment
+1:49:37
+didn’t come back near as much.
+1:49:40
+The industry used that time, really, there was a wind roaring
+1:49:44
+at the industry’s back, a shift to automation and all sorts of things.
+1:49:47
+So there already was a significant reduction of employment before we
+1:49:52
+— Before the injunction and any of that stuff ever happened.
+1:49:56
+Absolutely.
+1:49:56
+Secondly, and I’d have to look in detail, but the export market
+1:50:02
+picked up in Japan, and a lot of private timber was going to export.
+1:50:06
+So, there was a reduction in raw material here before this hit in terms
+1:50:13
+of what the mills can have available.
+1:50:15
+There were other forces at work, no doubt, that would have reduced the employment.
+1:50:22
+And
+1:50:25
+another thing that came out of FEMAT was the acknowledgement that
+1:50:33
+the regional economy here wasn’t near as dependent on timber as it used to be.
+1:50:39
+That came out of the analysis.
+1:50:41
+Now, it’s true that within the range of the northern spotted owl, which
+1:50:45
+was the focus of the analysis, you have Seattle and Portland, and all
+1:50:49
+these other areas, so there, it’s the classic urban/rural divide.
+1:50:56
+But when you look at it all, the regional economy has got to keep
+1:51:00
+going even if the federal timber harvest changed dramatically.
+1:51:04
+Once that was realized by the political leadership, I think it changed, it
+1:51:10
+altered, how much energy they were going to put into rehashing this.
+1:51:14
+You’re talking about after the [Northwest] Forest Plan was implemented?
+1:51:18
+When
+1:51:21
+it was being developed.
+1:51:22
+The notion about let’s repeal the ESA, or all this, no.
+1:51:27
+That would take enormous effort.
+1:51:30
+Things were changing anyway, and this was one of the factors.
+1:51:34
+But the regional economy was still growing.
+1:51:38
+And that’s a big deal.
+1:51:39
+Right.
+1:51:40
+It changes it from a regional economic problem to a local community economic
+1:51:45
+problem, and not just based on timber.
+1:51:47
+In other words, communities out there where the smaller mills
+1:51:51
+are, let’s say, withered away.
+1:51:53
+Part of the reason was, well, there was a lot of different factors.
+1:51:56
+But do you understand why a lot of these communities point to certain factors that
+1:52:02
+may or may not be correct, but they see the “ologists” and the environmentalists,
+1:52:07
+and all these people, as basically laying the hammer down on their way of life?
+1:52:12
+Well, yeah, yes!
+1:52:15
+I’d be right there with them if I was in their community, so, yeah.
+1:52:21
+On the other hand, this [NWFP, social changes] did contribute.
+1:52:25
+But there were a lot of other forces at work.
+1:52:27
+That was my point that I was trying to get to.
+1:52:29
+Yeah, there definitely is.
+1:52:31
+And
+1:52:34
+we have it on the charts I show in my class.
+1:52:36
+I just talked to students about this two weeks ago.
+1:52:40
+You can really see it.
+1:52:45
+Also, FEMAT did really emphasize this is just part of the timber supply base.
+1:52:52
+There are private lands.
+1:52:54
+And that
+1:52:57
+this is just a piece of the puzzle.
+1:52:59
+How do you feel that BLM vs.
+1:53:02
+Forest Service issues were addressed adequately in this plan, and
+1:53:06
+just during the whole process?
+1:53:08
+There were no BLM issues that were recognized.
+1:53:10
+No, I mean how did the BLM-Forest Service collaborate?
+1:53:15
+Well, I think I’m trying to say something else.
+1:53:18
+That’s what I meant to say.
+1:53:19
+Okay, go ahead.
+1:53:20
+What I’m trying to say is, BLM has a different organic act.
+1:53:24
+BLM is also not under the viability clause [to National Forest Management Act, which
+1:53:28
+affects Forest Service only] . They were treated just like the Forest Service.
+1:53:31
+We’re still trying to figure out what that means as of today, because they’re
+1:53:35
+not quite like the Forest Service, and they have a commitment to communities,
+1:53:40
+and their economic development the Forest Service doesn’t have in its organic act.
+1:53:45
+Alright.
+1:53:45
+So, they were treated as the same.
+1:53:49
+Even though they’re not the same?
+1:53:50
+Yeah, so that’s the first thing.
+1:53:53
+So, that provides political and legal and cultural oddities, shall we say?
+1:53:59
+Yeah, and we’re about to hit it again with the Trump administration.
+1:54:02
+We’re about to hit it again.
+1:54:06
+I’d like to close with that later near the end, but I want to ask you about
+1:54:09
+that because there’s a lot of concern out in the Forest Service, amongst
+1:54:18
+science people, and a lot of people, about what’s coming down the pike.
+1:54:22
+Yeah, but in terms of how they collaborated,
+1:54:28
+I think
+1:54:33
+that if we talk about the scientists involved, I think they worked well.
+1:54:37
+I don’t think there were these “tribes” based on specialty, and it wasn’t really
+1:54:43
+confounded much by Forest Service or BLM. The ISC had set the model where they
+1:54:47
+worked together fine. That really wasn’t a big deal; the Forest Service and BLM
+1:54:53
+scientists being separate, or thinking about things differently, or anything.
+1:54:56
+But don’t you think that this whole process, though, was
+1:55:03
+positive in the sense that two agencies that can be at loggerheads, were actually
+1:55:10
+forced to sit down in the same room over extended periods of time, planning
+1:55:14
+and writing, hashing out, and it put a different face on that relationship.
+1:55:20
+But the agencies didn’t sit down and write anything.
+1:55:23
+No, but I’m just saying the people did, though.
+1:55:25
+But that’s different.
+1:55:26
+And they weren’t the managers.
+1:55:28
+Okay.
+1:55:29
+So, you think that the stove-piping never really changed much in terms
+1:55:33
+of things at the top, though?
+1:55:36
+I’m not saying that.
+1:55:37
+I’m just trying to be accurate in what happened.
+1:55:40
+No, I know that.
+1:55:41
+I’m just trying to get us to frame this a little bit, and
+1:55:44
+see the different aspects of it.
+1:55:46
+I think there was much more of a cooperative spirit afterwards for a while.
+1:55:51
+That’s what I’ve heard, but it didn’t last forever.
+1:55:54
+No, it didn’t.
+1:55:55
+But for a while, it did.
+1:55:57
+It was unprecedented and did engage the agencies in an
+1:56:02
+ecosystem plan across boundaries.
+1:56:04
+It was great.
+1:56:06
+They caught that,
+1:56:10
+yeah.
+1:56:11
+And for a while it was wonderful.
+1:56:13
+But that’s not the natural order.
+1:56:17
+[Laughs] That takes continued energy.
+1:56:19
+Right, I know.
+1:56:20
+I mean, “turf” will return to “turf.”
+1:56:23
+Yeah, there you go, there you go.
+1:56:25
+It’s like the Beavers and the Ducks.
+1:56:27
+[Oregon sports rivalry] [Break in audio.] Anyway, we took a little break for a
+1:56:33
+minute, and we’re going to return to where we were with the FEMAT process.
+1:56:37
+And Norm’s just going to continue talking here, and we’ll pick it up from there.
+1:56:45
+Just a couple of things about this.
+1:56:51
+In terms of FEMAT, it was very tribal.
+1:56:56
+Occasionally, the “tribes” would come together, talk to each
+1:56:59
+other, then go back and work.
+1:57:00
+It was done multi-disciplinary as they say, not so much interdisciplinary.
+1:57:08
+The
+1:57:13
+crucial time came when we put together
+1:57:22
+an update, as the Clinton administration wanted one on where we were.
+1:57:23
+This is about six weeks into our supposed two-month period, maybe seven weeks.
+1:57:29
+So, you were close to the sixty-day deadline.
+1:57:33
+We went back to D.C. with alternatives we had developed, somewhat like the Gang
+1:57:38
+of Four alternatives, but a little more sophisticated, as they had different
+1:57:42
+kinds of reserve systems, differences in the extent and kinds of activities
+1:57:47
+permitted within them, and different prescriptions for the “Matrix.” [Zoning
+1:57:51
+category in NWFP] We ended up with eight or nine alternatives that had different
+1:57:56
+themes and characteristics, and for which we’d estimated the harvest levels.
+1:58:01
+The billion board feet was somewhat of a magic number.
+1:58:05
+We wanted to protect the species and have harvest level over a billion.
+1:58:12
+The protection level the biologists hung on, was this eighty percent likelihood
+1:58:19
+of habitat for viable populations for the next hundred years, except for fish,
+1:58:26
+where you couldn’t likely achieve because of intermixed ownerships [waterways]
+1:58:30
+. At any rate, so we tried to do this.
+1:58:34
+Some of the alternatives didn’t meet the viability thresholds, others did.
+1:58:39
+But we went back to D.C., a set of maybe six of us, and met in the Indian Treaty
+1:58:47
+Room in the old executive office building with a number of Clinton staffers.
+1:59:01
+The President wasn’t there, the Vice President wasn’t there, the
+1:59:04
+Secretary of Interior wasn’t there.
+1:59:08
+It was really their staffers there.
+1:59:10
+Was Ag there?
+1:59:14
+It would have been just the staffers, right?
+1:59:15
+Yeah, it would be the staffers who were there.
+1:59:18
+Because Babbitt [Bruce] and Espy [Mike] were the Interior and
+1:59:21
+Ag secretaries at that time?
+1:59:22
+Right.
+1:59:22
+Yeah.
+1:59:23
+That’s good.
+1:59:24
+So
+1:59:28
+anyway, let me go on.
+1:59:35
+We presented these to Secretary Babbitt’s staff, and they talked for hours.
+1:59:42
+We went through this in great detail, much more detail than I
+1:59:46
+think we should have, and especially on the biological side, for them.
+1:59:49
+And also,
+1:59:53
+they gave us no food at all.
+1:59:55
+I don’t know who was thinking about what
+1:59:59
+we needed there.
+1:59:59
+It’s because it’s dinner time now for us, too.
+2:00:01
+Yeah.
+2:00:04
+And Secretary Babbitt had an associate or his undersecretary, who
+2:00:13
+was very tight with the Carpenter’s Union, come into the room, I’ll
+2:00:18
+never forget, jiggling his change.
+2:00:19
+He was standing in the back, and all he asked is, “what’s the harvest
+2:00:24
+level?” That’s all he wanted to know.
+2:00:27
+He heard some numbers and he laughed.
+2:00:30
+Basically, they were dissatisfied with the harvest that would be
+2:00:36
+associated with the levels of species protection they thought were needed.
+2:00:43
+So, the tradeoff was too much for what they initially heard?
+2:00:45
+Yeah.
+2:00:46
+And at the same time, even before we’d gotten there, and there was a sense
+2:00:56
+that we had done this all independently.
+2:00:59
+Perhaps if we integrated it, we could find some efficiencies.
+2:01:03
+It really was a look for efficiencies.
+2:01:05
+And the efficiencies were really related to where the key watersheds
+2:01:11
+and the late successional reserves
+2:01:14
+were located, and if we
+2:01:18
+could overlap them more and things like that.
+2:01:23
+We reached an agreement with them that we’d go back and craft one more that
+2:01:28
+had characteristics they’d like, they did like some things more than others,
+2:01:34
+and yet, might achieve a harvest level of over a billion board-feet.
+2:01:39
+And that meant a one-month extension [sixty- day deadline becomes ninety] . We
+2:01:46
+did that, and we went back to work.
+2:01:49
+And that’s where something unusual happened.
+2:01:56
+Members of the different groups, key members,
+2:02:03
+Franklin, Sedell,
+2:02:07
+Forsman, and myself,
+2:02:15
+we went literally behind a curtain and started.
+2:02:19
+There was a curtain.
+2:02:21
+And back there, we got pens and we started redrawing the alternatives to
+2:02:25
+try to incorporate the different ideas we’d gotten from D.C. and elsewhere
+2:02:31
+while still achieving a board-feet harvest level that was a little
+2:02:35
+higher, really over a billion, and yet, still would have the protections.
+2:02:42
+And so, that went on.
+2:02:43
+And with drawing, changing the boundaries of the reserves,
+2:02:50
+that certainly
+2:02:54
+was very collaborative.
+2:02:55
+But the people that were involved in that one were all friends and had been involved
+2:03:00
+with this at least from the Gang of Four.
+2:03:02
+So, it was collegial?
+2:03:04
+Oh, yeah.
+2:03:04
+By definition.
+2:03:06
+Yeah.
+2:03:06
+I give Eric Forsman all the credit in the world because if he hadn’t been
+2:03:12
+willing to participate, we didn’t really have somebody from the owl side.
+2:03:18
+He really helped.
+2:03:20
+We crafted something and quickly estimated the numbers, and the
+2:03:24
+numbers turned out okay, 1.1 billion.
+2:03:30
+What happened
+2:03:34
+all the way through this, is when we’d calculate the numbers, we did
+2:03:37
+get responses from operations people, who would ask, is this feasible?
+2:03:41
+We’d work them through and make deductions if it wasn’t feasible.
+2:03:44
+Then
+2:03:47
+what happened, for a couple of evenings,
+2:03:53
+Franklin’s idea, before the forest supervisors came in to
+2:03:57
+look at them, we would talk about
+2:04:04
+the alternatives.
+2:04:04
+And this was in Portland?
+2:04:07
+Yeah, it was in Portland.
+2:04:08
+So, that was against the spirit of the original idea to keep
+2:04:11
+the managers out, correct?
+2:04:13
+Yeah, yes.
+2:04:15
+Well, it
+2:04:18
+[laughs], it wasn’t so much that we wanted to keep them out, as that we
+2:04:25
+had to break through this commitment to their existing proposed sale program.
+2:04:29
+But, we still desperately wanted to know what they thought of it
+2:04:32
+all, and where the flaws were.
+2:04:34
+What is your recollection of what they thought of it?
+2:04:38
+Well, they were stunned.
+2:04:41
+Good stunned, or bad?
+2:04:42
+No, they were just stunned.
+2:04:44
+Okay.
+2:04:44
+And not quite sure what the hell all this was, because it was so unprecedented.
+2:04:50
+Is this really going to happen, and when do we get our shot?
+2:04:53
+And so, they did come in, and Jerry walked them through it.
+2:04:56
+I thought it was very brave for Jerry, very courageous for him.
+2:05:00
+He did walk them through it.
+2:05:02
+And by that,
+2:05:07
+I mean Alternative 9.
+2:05:08
+And so, we didn’t go back to D.C., but Jack may have
+2:05:13
+gone, I’m not sure about that.
+2:05:15
+However,
+2:05:19
+the President did pick it as his alternative [NWFP]
+2:05:25
+. That last crucial stage was where we started trying to
+2:05:29
+meld things together, and
+2:05:35
+Jack was very magnanimous because it was as much identified with
+2:05:40
+Franklin as anyone, but it happened.
+2:05:43
+And yeah, done with felt-tipped pens.
+2:05:49
+That’s how the LSR’s came to be, the boundaries.
+2:05:51
+[Late Successional Reserves]
+2:05:53
+Now, what was your feeling at the time, about the zoning scheme, criticisms
+2:06:05
+and compliments, and versus now, how you see it [NWFP] actually
+2:06:09
+working out in real time and space?
+2:06:11
+Especially when the new guidelines and rules were added, and Jerry
+2:06:14
+told me a lot about that, “survey and manage” and stuff like that.
+2:06:17
+Well, first off, in terms of the fundamental design, I am happy to
+2:06:22
+say that what I am going to say to you now, is confirmed by a headline
+2:06:26
+in the Oregonian from 1994 or ’93.
+2:06:36
+Okay, now we have Option 9 [Actually “Alternative 9”] done,
+2:06:40
+and it’s over, just about over.
+2:06:43
+We haven’t done a harvest report, because we’ve been calculating the harvest levels.
+2:06:49
+Within that zoning plan?
+2:06:51
+The latest one, yeah.
+2:06:54
+We never got a harvest report into the FEMAT report.
+2:06:58
+That’s the one part that’s missing.
+2:07:02
+In that report, we pointed out
+2:07:08
+that in the “Matrix,” for the first 30 years, the harvest was still supposed
+2:07:14
+to come from the mature and old growth, and we didn’t see how that would
+2:07:17
+happen. We didn’t see how it happened in 1993, and we put it in our report.
+2:07:23
+The Oregonian, I don’t know who gave it to them, I just turned the report in
+2:07:27
+to the group then working on the NEPA document, and I didn’t give it to anybody.
+2:07:33
+Then, it got leaked to the Oregonian, and they published the headline
+2:07:37
+above the fold, “Clinton Plan Doubly-Flawed, New Report Says.” I’d
+2:07:45
+got ahold of that, and it was because they were still cutting old-growth,
+2:07:52
+as without you wouldn’t have a sustainable predictable harvest.
+2:07:55
+We said it then.
+2:08:01
+Because what happened, the zoning was done, and with the distributed
+2:08:05
+cutting of the past, there was a lot of old-growth and mature forest not
+2:08:08
+in the Matrix, not as much in the reserves [Late- Successional] . It
+2:08:11
+was still there; it was still going to be the basis of the harvest.
+2:08:14
+So, in that part, which is a key part of this, we thought even before
+2:08:19
+the addition of “survey and manage,”
+2:08:27
+which really crunched the attempt to harvest the mature and old.
+2:08:33
+Adding another ESA element to it, right?
+2:08:35
+Well, not ESA.
+2:08:36
+[Endangered Species Act]
+2:08:38
+Oh, okay.
+2:08:39
+No, that’s real important, because that’s the rub.
+2:08:42
+The rub is, that I want to finish this thought, and I’m
+2:08:46
+going to come back to it, okay?
+2:08:48
+Yeah.
+2:08:48
+Go, go, go, just keep going.
+2:08:48
+The thing is that it was real improbable those harvest levels are going to be met.
+2:08:52
+We put it in our report.
+2:08:53
+All the people doing the harvest calculations.
+2:08:55
+The Oregonian picked it up.
+2:08:58
+Yeah, so from the beginning, we thought the plan was in some trouble.
+2:09:05
+Because you didn’t think that it would meet, especially, the
+2:09:08
+economic projections that were—
+2:09:11
+The harvest levels, because it’s dependent on the mature and old forests.
+2:09:14
+But there were basically two rows of the projections?
+2:09:17
+Yes, the projections were accurate, if those stands had been cut.
+2:09:23
+We were skeptical that they would ever be harvested.
+2:09:25
+And that’s because of?
+2:09:27
+They were still cutting old-growth, which is a major public controversy.
+2:09:31
+Yeah, so you just figured that it didn’t matter that this great plan
+2:09:34
+had come out, just the mere fact that it was continuing even within the
+2:09:38
+context of this multi-faceted plan, that was still going to be met by—
+2:09:44
+Protest and
+2:09:44
+-- Protests and controversy, and it was correct.
+2:09:44
+Yeah.
+2:09:49
+But the Survey and Manage , which Jerry talked about and was added later.
+2:09:54
+What happened is the notion that these are the living things within the mature
+2:10:02
+and old forests, of which there may be 800 species, most of them invertebrates.
+2:10:07
+We don’t know much about them.
+2:10:08
+You take 400 and say, if we find them, we’ll buffer them or figure this out.
+2:10:14
+That was Survey and Manage.
+2:10:16
+We said, if you’re going to reserve eighty percent of remaining old growth, none of
+2:10:19
+these species are known to be threatened.
+2:10:23
+You could assume this new set of reserves will protect them until
+2:10:29
+proven otherwise, or you can assume
+2:10:34
+that we don’t know.
+2:10:35
+Whenever we find one [“endangered” or “threatened”
+2:10:36
+species] , we’ve got to protect it.
+2:10:39
+Franklin and Thomas and myself were in the former camp, but folks,
+2:10:45
+after we left, convinced the Clinton administration to add “Survey and Manage.”
+2:10:57
+By the people that wrote the guidelines for implementation?
+2:10:58
+However, the thing is that there were difficulties before
+2:11:02
+because of this dependence on old growth and mature forests.
+2:11:06
+We wrote that.
+2:11:11
+The fact that it came true didn’t surprise me.
+2:11:19
+I wrote that
+2:11:23
+and turned in the report.
+2:11:25
+I didn’t make a big deal about it, but the Oregonian did before the ink was even dry.
+2:11:31
+So
+2:11:34
+that was a pretty big deal.
+2:11:37
+No.
+2:11:37
+In retrospect, we
+2:11:46
+made the mistake of continuing the same kind of division people have
+2:11:50
+done forever, which is dividing the area into reserves and matrix areas,
+2:11:54
+and that doesn’t work well anymore.
+2:11:58
+In the Thomas, et al. Conservation Biology 2006 or ’07 report,
+2:12:09
+we pointed that out.
+2:12:10
+The real well-known article, right?
+2:12:12
+Yeah.
+2:12:13
+Basically, they did it looking at the ten-year review numbers.
+2:12:18
+Correct?
+2:12:21
+So, nowadays,
+2:12:35
+the biggest change in our, my thinking,
+2:12:41
+certainly you can’t divide up the world into reserves and timber production areas,
+2:12:45
+it doesn’t work anymore on federal lands.
+2:12:47
+It just doesn’t.
+2:12:48
+So, you think that the zoning, however great it sounded and looked, that
+2:12:55
+it just was intrinsically-flawed?
+2:12:57
+Yes.
+2:12:59
+Elaborate a little more on that.
+2:13:01
+Intrinsically flawed in that
+2:13:06
+the “reserves”
+2:13:12
+needed a lot of harvest in the plantations, and to contribute a
+2:13:16
+fair amount of harvest as of this day, but we never counted it.
+2:13:20
+And the “Matrix,” federal lands just doesn’t have timber
+2:13:24
+production areas anymore.
+2:13:26
+There’s so many considerations on every acre, you just don’t have those areas that
+2:13:31
+we imagine where you just can schedule an allowable cut and be sure of it.
+2:13:35
+Somebody is going to be out there saying, I don’t want this to happen.
+2:13:38
+Yeah, or the biologists will come and say, no, we’ve got this or that.
+2:13:43
+So, that approach is not fruitful on the national forests.
+2:13:50
+I don’t think it’s fruitful much on BLM, either.
+2:13:52
+So, that’s a change in my thinking, that really is,
+2:14:02
+and the fact that economic considerations were sufficient to justify harvests.
+2:14:09
+Unless you provide an ecological benefit, you’re not going to have
+2:14:13
+a stable timber harvest program.
+2:14:16
+So, those are changes.
+2:14:19
+Why do you think the AMA’s failed, the Adaptive Management Areas?
+2:14:25
+There were one or two [Applegate, Central Cascades] that had some
+2:14:28
+activity, but most of them just didn’t.
+2:14:30
+The whole idea of the “laboratory” for new innovative methods and practices
+2:14:36
+on these areas, didn’t seem to go anywhere from what I’ve been told,
+2:14:41
+except for a couple of successes.
+2:14:42
+Well, it’s because of problems on both sides of the equation.
+2:14:46
+I
+2:14:48
+mean, [George] Stankey was right in his article, that when you’ve got threatened
+2:14:52
+species, it’s difficult to take risks, so folks protecting the threatened or listed
+2:14:57
+species, were reluctant for innovation.
+2:15:01
+That’s really true.
+2:15:02
+On the other side, I was part of the problem.
+2:15:07
+I’m sitting there one night in FEMAT, in Jack’s office.
+2:15:12
+Somebody from the White House called and said, “What the hell are these
+2:15:17
+AMAs”? Nobody knows this story. You’re the first to hear it, okay?
+2:15:25
+So, he [the voice from White House] says, “What in the hell,” I think
+2:15:27
+it was Lyons [who called] . “What in the hell are these AMA’s?
+2:15:30
+We can’t take any further reduction in timber harvest.
+2:15:33
+What are you doing with these AMA’s?” They were largely Franklin’s creation.
+2:15:38
+[Tom Spies also pushed the concept hard.]
+2:15:39
+It was basically a way to have a laboratory for his new forestry concepts,
+2:15:44
+would that be fair enough to say?
+2:15:47
+That’s a pretty good insight.
+2:15:52
+Because when we were thinking about them, they would be trying out things, but
+2:16:04
+would have some latitude in how much
+2:16:08
+timber was appraised.
+2:16:09
+Basically, the people with the threatened species and protecting them, said, “Don’t
+2:16:14
+try this in the LSR’s.” In the Matrix, that’s the timber production land.
+2:16:22
+They said, “What are you doing with this, you’re just going to try out things?
+2:16:27
+The harvest level’s already too low, and now you’re going to sort of cut loose some
+2:16:32
+land to try out things?” So, I said to him, “Well, you could reign that in some.
+2:16:40
+You could say that it’s an innovative way to reach the harvest level.”
+2:16:46
+Glass is half-full, in other words.
+2:16:47
+Yeah.
+2:16:49
+And actually constrain it to meet the harvest level, but that
+2:16:52
+they can also try other things, which is the way it turned out.
+2:16:56
+And so that greatly constrained what they could do.
+2:17:01
+And then the fact that some was mature and old,
+2:17:09
+where
+2:17:12
+they were already existing, like in Applegate [southern
+2:17:14
+Oregon] , they did find innovative ways to achieve the harvest level.
+2:17:18
+Down south, right?
+2:17:19
+And in a couple other places they did some experiments, but
+2:17:25
+soon, they were treated just like the rest of the Matrix,
+2:17:28
+because that’s what they were.
+2:17:29
+They never got the release from both sides to do something.
+2:17:36
+I was also told that for the AMA’s, it depended a lot on the
+2:17:39
+local supervisors and the staff [initiative, ideas, funding, resources]
+2:17:42
+. Oh, totally.
+2:17:42
+And whether they had people that were energized.
+2:17:45
+Like for instance, since I’ve been involved with the Andrews Forest, and
+2:17:49
+Fred Swanson and all those people, they had a particularly active core.
+2:17:54
+Yeah, they already had the institutional framework.
+2:17:58
+Yeah, they were right there ready to do the
+2:18:02
+experimentation.
+2:18:02
+Exactly, so Applegate had
+2:18:04
+— That was an exception.
+2:18:05
+Applegate had the institutional framework already.
+2:18:09
+They had an institutional framework [and engaged constituencies] . There was some
+2:18:13
+good stuff done in Goosenest, because it was near to the Redding office.
+2:18:17
+Again, an institutional framework.
+2:18:20
+You didn’t have that in most AMAs.
+2:18:21
+You didn’t create it.
+2:18:22
+The agencies didn’t realize that the agencies and their supervisors
+2:18:27
+didn’t have the wherewithal or the background, to create
+2:18:30
+institutions as experiment stations.
+2:18:34
+They just saw it as Matrix.
+2:18:36
+So, they basically saw AMAs is an extension of the Matrix?
+2:18:40
+Oh, yeah.
+2:18:41
+They just thought potential timber land versus laboratory land or whatever?
+2:18:45
+Exactly, because they still had the timber target.
+2:18:47
+Which they weren’t meeting?
+2:18:50
+Which they were going to have trouble with, yes.
+2:18:52
+Yes.
+2:18:56
+What happened is that Applegate did a lot of this, H.J. Andrews [Central
+2:19:01
+Cascades AMA] just did a little.
+2:19:03
+They have pretty much stopped harvest on
+2:19:10
+much of the AMA.
+2:19:11
+They had difficulties, so they did a little.
+2:19:14
+But Applegate
+2:19:17
+found really innovative ways.
+2:19:19
+They also had a collaborative group and a lot of public support,
+2:19:21
+which the H.J. Andrews didn’t have.
+2:19:25
+The Andrews floundered on the relationship with the collaborative groups.
+2:19:31
+I loved the work, don’t get me wrong, but
+2:19:44
+it’s hard to find anyone that supports the AMA idea in the region.
+2:19:50
+Because they saw how it didn’t work, and they understood why?
+2:19:54
+I don’t know
+2:19:59
+the reasoning, but that’s one
+2:20:05
+that’s still innovative.
+2:20:07
+But the basic zoning,
+2:20:19
+those three zones, the LSR’s, the Matrix and
+2:20:26
+AMA’s, didn’t create the distinctions that were hoped for.
+2:20:41
+The Aquatic Conservation Strategy was a tremendously innovative
+2:20:47
+development under FEMAT.
+2:20:49
+It’s really something and it’s evolved.
+2:20:52
+It was a major contribution to thinking.
+2:20:58
+We had this riparian buffer in the zoning.
+2:21:07
+Basically, the
+2:21:35
+zoning, all parts of it, are imperfect, and
+2:21:44
+the national forests are being managed without the distinctions
+2:21:51
+between the different zones
+2:21:57
+that were envisioned, especially those three.
+2:22:01
+The only one that gets close is the Aquatic Conservation Strategy, and
+2:22:07
+even that, because of an inability to innovate, is very limited.
+2:22:11
+But do you think that the Aquatic Conservation Strategy would be categorized
+2:22:14
+as perhaps the plan’s biggest success?
+2:22:23
+I think
+2:22:26
+it was the biggest intellectual innovation.
+2:22:32
+I think the plan
+2:22:37
+was successful despite what I just said about the zones.
+2:22:41
+I think the plan was successful in fundamentally changing our thinking
+2:22:49
+about national forests and their function, and how we look at that.
+2:22:57
+And so, I think it was really an important document to shift
+2:23:03
+perceptions and foundations.
+2:23:05
+I’ve got a question directly on that.
+2:23:07
+I don’t read all my questions because you were going along
+2:23:10
+and answering a lot of them.
+2:23:11
+But this one, I want to ask specifically right now.
+2:23:15
+In natural resource planning history, how would you describe the Northwest Forest
+2:23:20
+Plan, maybe in terms of if you were teaching a class, let’s even say, in terms
+2:23:24
+of process and policy content, and can it be considered a model or a one-time thing?
+2:23:33
+Read that again, please.
+2:23:33
+Okay, in natural resource planning history, how would you describe the
+2:23:38
+Northwest Forest Plan in terms of process and policy content, and can it be
+2:23:44
+considered a model or a one-time thing?
+2:23:54
+In
+2:23:58
+the process used, sequestering a bunch of scientists in a tower and
+2:24:03
+giving them the keys to the kingdom, I think it’s a one-time thing.
+2:24:07
+I think it only occurs in time of crisis.
+2:24:10
+And that was a time of crisis.
+2:24:11
+When existing institutions cannot cope.
+2:24:16
+So, you have to have a crisis, you have the have the failure of
+2:24:19
+existing institutions to cope.
+2:24:23
+But in terms of the notion that you need to deeply engage the scientific
+2:24:31
+community supported by, but unfettered by
+2:24:39
+management, to create planning frameworks,
+2:24:44
+where the scientists take what they’ve learned and turn it into
+2:24:47
+a framework for planning, that enabled the protection of species
+2:24:56
+and ecosystems, it was a major model.
+2:25:01
+Even though I would do it differently, still, the notion that you need scientific
+2:25:08
+involvement to move beyond summarizing the results to suggest a planning
+2:25:13
+framework, how you implement ideas for understanding of aquatics, the ideas for
+2:25:18
+understanding spotted owls, that was a really important contribution, and really
+2:25:28
+needs to be part of the institutional framework for planning on federal lands.
+2:25:32
+Have you seen aspects or large components of this transferred elsewhere in
+2:25:40
+the United States in federal land planning and policy implementation?
+2:25:47
+There hasn’t been one event this celebrated, this high level, but I
+2:25:51
+know elements of it have been used in transfer to tribes [Indian] . Right?
+2:25:56
+Yeah.
+2:25:59
+Many of them are species-specific like the lynx, in which they need to engage
+2:26:07
+the scientific community in moving beyond
+2:26:12
+explaining how you turn it into management.
+2:26:20
+I think that, in SNEP, we’ve tried to do that.
+2:26:26
+That is, the Sierra Nevada [Ecosystem Project]
+2:26:32
+. And in that little book you’ve got, the gray book—
+2:26:39
+The bio-regional assessment book?
+2:26:40
+Yeah.
+2:26:42
+That book has examples, okay.
+2:26:47
+But I’ve got to tell you that now, at least in this region, people
+2:26:53
+are moving the other direction, in which the scientists are being
+2:26:57
+told, “don’t do that.” You see that in the science assessment that’s
+2:27:01
+going on now led by the PNW Station.
+2:27:03
+The twenty-year assessment?
+2:27:04
+No, the one about the science findings framework.
+2:27:08
+Oh, basically, they’re assessing science, per se, as a tool.
+2:27:12
+Right?
+2:27:12
+Yeah, and supposedly providing a framework for planning, but it’s not
+2:27:17
+being done, because the scientists aren’t taking that next step.
+2:27:20
+They’re really staying way back inside their discipline, summarizing
+2:27:23
+the results, near as I can tell.
+2:27:26
+I think that’s a real problem.
+2:27:27
+I’m worried.
+2:27:28
+We’ll see how it all turns out.
+2:27:30
+But the lesson of FEMAT is if you want scientifically-credible strategies,
+2:27:36
+scientists have to help create them.
+2:27:39
+You just can’t turn them over to management.
+2:27:42
+Now, who are the people that put in some of the rules that Jerry, for instance,
+2:27:46
+said, and I know Jack, didn’t like either?
+2:27:49
+But I just want to come back to this for a minute, okay?
+2:27:51
+Okay, no problem.
+2:27:52
+Thomas changed everything with ISC when he said, “scientifically credible”
+2:27:58
+strategy for the northern spotted owl. If you want scientists involved in this,
+2:28:04
+you want scientifically-credible strategies. The scientists have to move
+2:28:08
+out of just summarizing results to helping create them, or they won’t be credible.
+2:28:13
+That’s the lesson of ISC, Gang of Four, FEMAT, for all of them.
+2:28:18
+You have to put in detail and prescriptions, and not just
+2:28:24
+-- ? You have to say what sort of planning frameworks fit the underlying
+2:28:30
+science of the way these things work.
+2:28:33
+You have to find a way to do that.
+2:28:36
+It doesn’t necessarily mean the scientists have to do it all,
+2:28:39
+but they have to be engaged.
+2:28:41
+And we have not figured out how to do that in this region.
+2:28:45
+But so, you think though that some of the prescriptions that were problematic
+2:28:49
+after FEMAT and its implementation.
+2:28:52
+Right.
+2:29:01
+I’m saying
+2:29:05
+that FEMAT and
+2:29:14
+this whole process, showed that, given the issues faced by federal lands,
+2:29:20
+and given our modern society and understanding, and their expectations,
+2:29:24
+until the recent election perhaps, of our reliance on science, that
+2:29:34
+you can’t separate science from management.
+2:29:39
+You can’t just say, “Scientists, summarize the results. We’ll figure
+2:29:43
+out how to use it.” That doesn’t work. That’s the major lesson of all of this.
+2:29:50
+And so, it did provide a new, if you want to use it, a new
+2:29:58
+intellectual and institutional approach to planning and policy on the federal lands.
+2:30:04
+Perhaps closer to what Jerry calls “wild science”?
+2:30:09
+Institutionally-directed science was what before ruled the roost, and it was
+2:30:15
+tied to previous goals and paradigms and philosophical foundations, and the “wild
+2:30:21
+science” being science, basic science for science’s sake, had a role of coming
+2:30:26
+in, this is what we see independent of what the institution previously viewed
+2:30:33
+as science and its role within that institution’s mission and mandate?
+2:30:38
+I actually think I’m saying something different, but I know.
+2:30:41
+Okay, I’m just saying what might have said—
+2:30:43
+I’m not talking about whether it’s directed science or original
+2:30:46
+science, but I am saying that you need scientists to help translate
+2:30:52
+it into planning frameworks.
+2:30:53
+I’ll give you the number one example.
+2:30:58
+Before the ISC,
+2:31:02
+the Forest Service was focused on little “free owl clusters” around the
+2:31:11
+region as the owl protective framework.
+2:31:14
+Which is essentially what this 1985 report was about, correct?
+2:31:17
+Exactly.
+2:31:21
+The owl scientists, it took them a long time to finally come up with the idea,
+2:31:30
+based on owl biological data, that you need self-sustaining areas
+2:31:35
+of owl populations close enough together so they could disperse.
+2:31:42
+And then they actually illustrated one of them.
+2:31:45
+There could be others, or there are others.
+2:31:49
+That’s what I mean by turning science into a planning framework
+2:31:52
+with a matrix in-between.
+2:31:54
+That’s what I meant by that.
+2:31:56
+While it needs to be more ecumenical than in the past, I am gravely
+2:32:02
+concerned that scientists are now being told to stay in their caves,
+2:32:11
+just summarize the results and they’ll figure out how to turn it into
+2:32:14
+planning framework, and it won’t work.
+2:32:15
+Kind of like the old days?
+2:32:16
+Yes.
+2:32:17
+The aquatic conservation strategies are another example, okay?
+2:32:24
+And so, that is a major lesson of FEMAT, it really is, that
+2:32:33
+managers can’t do it on their own.
+2:32:34
+They can’t just take the science, whether it’s domesticated or wild, and
+2:32:37
+figure out how to weave their goals into a framework that incorporates this.
+2:32:42
+Especially now that all the laws from the post-environmental age are
+2:32:48
+intricately intermeshed into our
+2:32:53
+political and legal framework.
+2:32:55
+I mean, you can’t just unweave that just because you want to not do it any more.
+2:33:00
+Yeah.
+2:33:00
+That’s right.
+2:33:01
+I mean, it’s hard, but you can’t just completely take it away, correct?
+2:33:06
+That’s right.
+2:33:06
+No, it’s right.
+2:33:08
+Now, on to your question about what happened after FEMAT.
+2:33:11
+We were sent home.
+2:33:14
+The Clinton administration got very concerned that
+2:33:21
+they might not pass muster with the judge.
+2:33:24
+Dwyer?
+2:33:25
+With Judge Dwyer, because they couldn’t say they had protected all the
+2:33:30
+invertebrates and the red tree vole, because we didn’t know much about them.
+2:33:36
+Dwyer wanted to know about these other creatures, too?
+2:33:38
+Correct?
+2:33:40
+He knew nothing about this.
+2:33:42
+Oh, okay.
+2:33:42
+At this stage.
+2:33:42
+I wasn’t sure.
+2:33:43
+No.
+2:33:44
+It’s not like he asked about them.
+2:33:45
+No, it hadn’t gone back to Dwyer.
+2:33:47
+Okay.
+2:33:48
+They wanted to craft something where they could say they protected everything.
+2:33:51
+Now, none of these were
+2:33:56
+threatened and endangered.
+2:33:57
+None of
+2:34:00
+them.
+2:34:00
+He just didn’t know about them.
+2:34:02
+Again, you’re going to assume the plan will protect them until you learn
+2:34:05
+otherwise, or you’re going to assume it won’t and have to use special features.
+2:34:08
+They decided to go to this approach.
+2:34:10
+The people that did it, many of them scientists.
+2:34:14
+But they were scientists, and they got
+2:34:19
+people
+2:34:28
+that had expertise for these creatures and some others, and
+2:34:34
+basically created an
+2:34:39
+additional layer that changed it from an ecosystem plan to a species plan.
+2:34:47
+And that’s the fine-filter versus the coarse-filter thing?
+2:34:48
+Yeah, the coarse filter and the fine filter.
+2:34:52
+The fine filter was for all these species.
+2:34:54
+Now,
+2:34:58
+what did it really impact?
+2:34:59
+Because that also came through various political settlements.
+2:35:03
+What that really
+2:35:08
+impacted, thinnings exempt, was the remaining mature and old growth.
+2:35:13
+So, that really was the death knell of doing that kind of harvest.
+2:35:18
+Keep going along where you were.
+2:35:19
+Well,
+2:35:22
+there is no question, we were disappointed with the
+2:35:28
+addition of “survey and manage,” in part, because we didn’t think it was
+2:35:33
+consistent with the philosophy of the plan, which was really an ecosystem plan.
+2:35:38
+Basically, the coarse-filter, landscape-level.
+2:35:41
+Right.
+2:35:41
+Save enough stuff, but you’ve got to have some freedom to do other things, correct?
+2:35:45
+And these species were not known to be in trouble,
+2:35:52
+and they didn’t take enough of a reduction in harvest
+2:36:04
+in terms of protecting these species.
+2:36:10
+On the other hand,
+2:36:17
+our latest ecological forestry ideas talk about leaving the
+2:36:22
+mature and old growth alone.
+2:36:24
+Survey and
+2:36:28
+Manage, and the red tree vole, indirectly assisted in that.
+2:36:32
+Maybe it would have been stopped anyway.
+2:36:35
+But
+2:36:39
+the national forests, realizing they couldn’t implement the harvest schedule
+2:36:48
+with FEMAT,
+2:36:51
+they shifted mainly to thinning in
+2:36:56
+plantations.
+2:36:56
+The national forests have, depending on where you are,
+2:37:01
+another 20-30 years of that.
+2:37:09
+They don’t have
+2:37:11
+the notion of FEMAT that you would have sustainable timber harvest levels
+2:37:17
+forever, long-term, sustained-yield.
+2:37:20
+That idea is pretty much gone.
+2:37:24
+How do you think that the timber industry, especially regarding
+2:37:27
+retrofitting mills for different sized logs and forest products broadly
+2:37:32
+speaking, has adapted to this lessened yield regime, and for what it is?
+2:37:38
+Well, over here on this side of the mountain [the “wet” west side of
+2:37:42
+the Cascades] , what they’ve adapted to is private wood. By and large,
+2:37:48
+the federal timber is bonus wood, as you can’t depend on it.
+2:37:52
+So, they basically have to go to something else.
+2:37:55
+And they say, oh, wow, we got manna from heaven, but we never can expect that,
+2:38:03
+right?
+2:38:03
+They can get some, but there’s private wood
+2:38:09
+which is how most of the mills are set up, mini-mills like
+2:38:11
+Seneca’s mill north of Eugene.
+2:38:14
+Aaron Jones’
+2:38:18
+mill.
+2:38:18
+They can take either, as their mill is set up for private wood or
+2:38:24
+federal wood that’s the same size.
+2:38:26
+It’s almost all from
+2:38:32
+thinnings.
+2:38:32
+The federal wood is not making the unique contribution to industry
+2:38:38
+it used to with old growth.
+2:38:40
+Not anymore.
+2:38:42
+It’s just your common, ordinary, mill-run wood.
+2:38:52
+At that time, we had a crisis across the region felt by political leaders.
+2:39:02
+They realized the regional economy is going to keep growing, but this is
+2:39:07
+also about local community dynamics.
+2:39:09
+Now, it’s pretty isolated.
+2:39:13
+I mean, it’s includes Sweet Home and Oakridge, communities
+2:39:15
+that have never recovered.
+2:39:17
+But
+2:39:19
+we don’t have the sense of economic crisis related to federal
+2:39:25
+timber we used to over here.
+2:39:30
+Over in eastern Oregon, especially way over into John
+2:39:33
+Day country, it’s different.
+2:39:35
+But over here, there is just not the economic crisis based
+2:39:39
+in dependence on federal timber.
+2:39:40
+Well, because you have urban cores.
+2:39:43
+And other things that support the economy.
+2:39:47
+The places over there are different
+2:39:49
+? That’s right.
+2:39:50
+And look at Philomath, they used to have ten mills when I was a grad student.
+2:39:54
+Now it has one.
+2:39:56
+Philomath, of course, is now a bedroom community of Corvallis.
+2:40:01
+And so much was very traumatic.
+2:40:04
+There was an economic calamity for the communities.
+2:40:07
+Many of them have moved on, some of them haven’t.
+2:40:11
+But we just don’t have that sense of things hanging on the federal timber.
+2:40:19
+Now, do you think even in whatever scenario going forward, that
+2:40:24
+administrative executive action can overturn these things, and things
+2:40:30
+can start going back to the way they used to be, in limited doses anyway?
+2:40:36
+Let’s
+2:41:11
+see, are things going to roll back?
+2:41:13
+What’s going to happen?
+2:41:14
+I believe
+2:41:17
+I’m pretty confident of this.
+2:41:22
+Ironically, just like in 1992 when candidate Clinton came to Eugene,
+2:41:33
+and said at a rally down there that included people
+2:41:40
+that worked in the timber industry, likely mill workers, he said, “I’m going
+2:41:44
+to fix this.” Meaning, the spotted owl difficulties and the whole injunction.
+2:41:50
+“I’m going to fix this.” And here, Donald Trump comes to Eugene and says,
+2:41:54
+“I’m going to fix this.” So, he did say, I’m going to increase the timber jobs.
+2:42:01
+You’re talking about when he spoke at the fairgrounds in Eugene?
+2:42:04
+I don’t know where he spoke, but I know is what he said.
+2:42:05
+It was at the Lane County Fairgrounds.
+2:42:07
+My friends went to protest.
+2:42:16
+But I don’t think that’s where the Trump administration has their heart.
+2:42:23
+They are on other things, like opening up the federal lands for gas and oil.
+2:42:28
+But they will sign anything like that which comes from Congress.
+2:42:49
+Again, we’re going to try to define the uniqueness of the O&C lands, basically
+2:42:54
+pull them out in some sense, of the Northwest Forest Plan, although the
+2:43:01
+main way in which they’ll be different than the Northwest Forest Plan, is
+2:43:08
+that younger stands now being thinned will be available for clear-cutting.
+2:43:14
+Is that a fair trade-out, considering everything, and the fact that the counties
+2:43:20
+are so strapped for money because a lot of the traditional receipts they were getting
+2:43:25
+all those years, are just almost gone?
+2:43:28
+I’ve never been happy with the idea of a special mandate [O&C lands] , but in the
+2:43:34
+last five years as this has bubbled up again about the O&C lands, I’ve come to
+2:43:40
+realize they do have a different mandate.
+2:43:42
+In FEMAT, we just treated them all the same.
+2:43:50
+I don’t know if it’s fair or not.
+2:43:54
+I mean, the counties do have very low property taxes.
+2:43:57
+So, there’s something going on there.
+2:44:02
+I think we’re going to go through that.
+2:44:05
+But I’m
+2:44:11
+not sure
+2:44:14
+they can get through that without having some modicum of ecological forestry.
+2:44:20
+So, they just can’t go, oh, we’re just going to do it the way it used to be and
+2:44:23
+just blade it flat [clear-cuts] . Right?
+2:44:25
+I think that will be difficult, first, for our senators to absorb,
+2:44:31
+for our governor who has a say in it, and for just people in Oregon.
+2:44:36
+This includes the downstate counties where there was a survey done.
+2:44:43
+By a combination Democrat and Republican pollsters, two
+2:44:48
+or three years ago, they were asked what choices they wanted.
+2:44:51
+You can have industrial practices on the O&C lands, or you could have ecological
+2:44:57
+forestry practices that would be more protective of wildlife and fish, and
+2:45:01
+get a quarter of the county receipts.
+2:45:02
+Which would you like?
+2:45:05
+All Oregonians were asked, including the people in the downstate counties.
+2:45:10
+They gave the same answer.
+2:45:12
+Which was?
+2:45:13
+We want ecological forestry.
+2:45:15
+Because?
+2:45:16
+Because they don’t like industrial.
+2:45:19
+It’s not good to look at, it’s not good for hunting, not good for fishing.
+2:45:24
+It spoils waters for the fisherman?
+2:45:26
+And there was no distinction between Republicans and Democrats.
+2:45:31
+How interesting.
+2:45:33
+So, I’m not sure about the people in downstate counties if you get
+2:45:38
+past the county commissioners.
+2:45:39
+You’re talking about Josephine and Curry?
+2:45:41
+[Counties in southern Oregon]
+2:45:42
+Douglas, yeah.
+2:45:43
+[County north of Curry and Josephine, Roseburg-Cty.
+2:45:43
+seat]
+2:45:43
+Douglas, right.
+2:45:43
+What they want there, and I think there may be a need to at least “paper
+2:45:48
+it over” with ecological forestry, which means some retention and some
+2:45:52
+recognition of diverse early seral.
+2:45:57
+I’m just convinced we’re going to see legislation. Previously, the
+2:46:02
+environmental community said that will never happen, so we’re ignoring that.
+2:46:07
+And Andy Kerr [environmental activist] , when he supported
+2:46:08
+Wyden’s bill I was involved with Franklin on concerning O&C lands,
+2:46:14
+he warned
+2:46:19
+that, “You guys will be real sorry if Trump’s elected and you see what happens
+2:46:22
+to these lands.” Well, it’s happening.
+2:46:24
+I think the main thing that the Trump administration will
+2:46:26
+do is rescind the legislation.
+2:46:28
+I think the energy for it will come from the national forests, and for the
+2:46:38
+O&C lands, from our local people and folks in the House.
+2:46:42
+But they’re going to have to get by the Senate.
+2:46:44
+Filibuster
+2:46:46
+possibility?
+2:46:47
+Yeah.
+2:46:49
+I don’t know where Senator Wyden stands.
+2:46:50
+I haven’t talked to him, and he hasn’t talked to me lately.
+2:46:53
+But on the national forests,
+2:46:58
+it would not be so much as changing the Northwest Forest Plan, as
+2:47:05
+potentially cutting off public protest under certain conditions, such as
+2:47:11
+if a collaborative group approves.
+2:47:14
+And that will come from Cathy McMorris-Rogers from Washington
+2:47:19
+State, and our own congressman.
+2:47:20
+What do you mean cutting off public protest?
+2:47:22
+What do you mean by that?
+2:47:23
+If a collaborative group agrees to it, you can’t litigate it.
+2:47:30
+That’s a real “third rail” for the environmental groups. It’s cutting
+2:47:34
+off their access to the courts.
+2:47:36
+Yeah, that’s
+2:47:40
+what I was going to say.
+2:47:41
+On the O&C lands in the Walden legislation, they said, this is enough
+2:47:44
+for the spotted owl, no matter what.
+2:47:47
+Now, just let me say, they do reserve the older half of the forest.
+2:47:51
+So at least, we have permanent reserves for the old growth.
+2:47:56
+It’s not all bad.
+2:47:56
+Can you see a complete overturn of the Northwest Forest Plan?
+2:48:03
+You know, this was tried by the second Bush administration.
+2:48:07
+And the trouble with it is,
+2:48:11
+it’s a lengthy process.
+2:48:13
+You just can’t withdraw regulation on all this.
+2:48:18
+You’ve got to go through a planning process and have some justification.
+2:48:22
+As
+2:48:25
+long as the Endangered Species Act is in place, I don’t see an overturning of it.
+2:48:32
+Can you see them taking that away?
+2:48:35
+No.
+2:48:36
+Not without getting rid of the filibuster rule?
+2:48:39
+Oh, and there’s a lot of support for it.
+2:48:42
+This stuff on protecting species is not a partisan issue when
+2:48:45
+you get out in the hinterland.
+2:48:47
+Okay.
+2:48:47
+Now, in terms of Republicans and Democrats, it’s not that.
+2:48:53
+So, regarding the Northwest Forest Plan, if it’s overturned, that would
+2:48:58
+be the result of overturning some of our fundamental environmental laws.
+2:49:02
+If they’re still in place, no, it won’t be overturned.
+2:49:04
+It just won’t.
+2:49:07
+Thank you for asking me that, as I hadn’t thought about that lately.
+2:49:09
+I just I think it’s an obvious question considering the era we’re entering.
+2:49:16
+Yeah.
+2:49:17
+I mean, this is unchartered territory.
+2:49:20
+No, but what we don’t know is whether the regional office [Region] wants to
+2:49:24
+overturn the Northwest Forest Plan.
+2:49:26
+They seem to want to go back to individual forest plans
+2:49:28
+[done by each national forest]
+2:49:29
+. You’re talking about PNW?
+2:49:31
+No, I’m talking about Region 6.
+2:49:32
+Region 6, excuse me.
+2:49:34
+And so, we’ll see.
+2:49:37
+So, at
+2:49:40
+any rate, but I do think BLM is going to be given a special deal.
+2:49:46
+What that does is it puts increased pressure on the national
+2:49:49
+forests to protect species.
+2:49:52
+That was clear in the Dwyer Decision.
+2:49:54
+So, regarding the BLM, what do you mean by special deal?
+2:49:57
+They’re be under legislation which will mandate more timber harvest.
+2:50:01
+Okay.
+2:50:01
+So you do think that’s going to happen?
+2:50:03
+That is going to happen.
+2:50:04
+I really think it is.
+2:50:05
+Yeah, and that will be both on the west side and the east side?
+2:50:08
+Well, they’re not really on the east side except Klamath Falls, the BLM.
+2:50:12
+Okay.
+2:50:12
+No, they’re not over there.
+2:50:13
+Okay.
+2:50:13
+But I think it is going to happen and fairly quickly.
+2:50:19
+In fact, congressional staffers are already talking to me, and
+2:50:22
+we’re trying to figure it out.
+2:50:25
+How would you describe the follow-up process [to NWFP] in terms of
+2:50:29
+monitoring, assessment and reassessment?
+2:50:32
+You can take any subjects you want.
+2:50:34
+Please just generalize about the whole thing.
+2:50:37
+You mean, what happened?
+2:50:38
+In terms of how you feel the schematics and the plan [NWFP] and the monitoring
+2:50:44
+follow-up, and how it’s been assessed and reassessed as it’s been implemented
+2:50:50
+and unfolding, over 5-10-20 years?
+2:50:57
+Well, I think in terms of monitoring the
+2:51:03
+key ecological variables, whether it’s old growth, owl habitat, or aquatic
+2:51:09
+ecosystems, it’s done quite well.
+2:51:12
+I think
+2:51:16
+the analysis has never been fully forthcoming on what was expected out of
+2:51:21
+the harvest, and how much was gotten.
+2:51:25
+I think that, continually, it’s been shaved and fixed and minimized, the
+2:51:29
+fact that they’re not meeting it.
+2:51:33
+You think that they have tried to put a pretty face on the
+2:51:39
+disastrous aspects to the economy?
+2:51:41
+Well, no,
+2:51:48
+I wouldn’t say that.
+2:51:50
+But, I believe
+2:51:54
+that may be what happened is that this was a promise by the President [Clinton]
+2:52:06
+. Now, you can say, no, it isn’t.
+2:52:07
+It was this harvest level.
+2:52:10
+And it was not met.
+2:52:12
+It was not met.
+2:52:13
+And yet, then they changed it [harvest levels] , so now we can’t.
+2:52:16
+But there’s always been a notion, there is no regeneration harvest.
+2:52:21
+[Refers to “regeneration” of Douglas-fir, which once was thought
+2:52:21
+to mean clearcutting] So, this is not real regeneration harvest, and that’s
+2:52:26
+part and parcel in keeping this going.
+2:52:28
+I don’t think that’s been acknowledged.
+2:52:33
+And it needs to be to make sure this is viable in 10-15-20 years?
+2:52:38
+Yeah, to be honest and fair.
+2:52:42
+And so, it has turned into sort of a lopsided monitoring analysis.
+2:52:48
+Very good on the ecological side, not so good and forthcoming on
+2:52:53
+the economic and social side.
+2:52:55
+That’s been my impression in talking to people.
+2:52:59
+I sense minimizing and avoiding.
+2:53:05
+Would that be a fair assessment?
+2:53:05
+Yeah.
+2:53:11
+What does the barred owl teach us about the limitations of proactive
+2:53:17
+management regarding humans and nature?
+2:53:21
+In other words, playing God while Darwin and natural
+2:53:26
+selection is ultimately the boss?
+2:53:31
+But that’s not a Northwest Forest Plan question.
+2:53:34
+No, but it’s related.
+2:53:36
+Did you add that one?
+2:53:39
+How’d that one get on there?
+2:53:41
+It’s in here.
+2:53:42
+I just didn’t ask it earlier.
+2:53:44
+Well,
+2:53:48
+one of the things the barred owl teaches is that
+2:53:54
+you should always be humble about whether or not you finally got it
+2:53:58
+right, and how you framed the problem.
+2:54:01
+Because the
+2:54:04
+Northwest Forest Plan missed that.
+2:54:14
+That teaches us is that we’ve messed a lot with this landscape.
+2:54:21
+We should not expect the ability to sustain species of interest
+2:54:27
+with continued human intervention.
+2:54:30
+This
+2:54:34
+is not natural selection.
+2:54:38
+That’s not what’s going on here.
+2:54:41
+We have engineered a landscape that is and has been very receptive to barred owls.
+2:54:48
+So, while they may have been here eventually and at these
+2:54:51
+numbers, we’ve helped . We’re living in a human environment.
+2:54:56
+That’s what the Anthropocene and all this discussion is.
+2:55:04
+We are just fortunate in this case
+2:55:09
+that we are able to counter this problem.
+2:55:15
+I mean, the [U.S.] Fish and Wildlife [Service] is having overwhelming success
+2:55:20
+with their barred owl experiment.
+2:55:24
+So,
+2:55:28
+we ought to get used to it.
+2:55:29
+We’re living in a human-dominated world, that’s a species of interest,
+2:55:36
+and we’ve probably made it harder for it to survive, but we’ve got
+2:55:44
+to step in.
+2:55:45
+But in this case,
+2:55:53
+we can on a continuing basis, change the power relationship.
+2:56:00
+What is the most important reason for having created and implemented
+2:56:03
+the Northwest Forest Plan, in
+2:56:07
+your view?
+2:56:12
+It
+2:56:15
+enabled
+2:56:19
+a
+2:56:24
+very wide community to understand forests and their functioning
+2:56:34
+better than ever before.
+2:56:36
+It really has been an amazing educational device.
+2:56:41
+And isn’t it true that almost even maybe more than in North America, a
+2:56:46
+lot of other countries have watched what happened during this process?
+2:56:49
+Oh, yeah, yeah.
+2:56:51
+Any examples that you can cite?
+2:56:52
+No, because I don’t keep track.
+2:56:54
+But I think that’s right.
+2:56:56
+It’s very hard when you’re in the middle of it to understand significance.
+2:56:59
+But
+2:57:02
+it’s like when,
+2:57:05
+and this is in another vein, but somehow we were talking to Bruce
+2:57:10
+Babbitt once in Union Station in Washington, D.C. He said, “This was
+2:57:18
+the major environmental accomplishment of the Clinton Administration, the
+2:57:21
+Northwest Forest Plan.” It really was.
+2:57:32
+It’s so significant and has filtered out into people’s thinking, that it’s hard
+2:57:40
+to understand its uniqueness any more.
+2:57:42
+I think it is.
+2:57:44
+But it really was, with the planning framework and its consideration
+2:57:49
+of the forest and ecosystems, a milestone accomplishment.
+2:57:53
+Even though, if you measure it by the metrics of the immediate issues, saving
+2:58:00
+the northern spotted owl, keeping the timber harvest going, it didn’t
+2:58:02
+do so well on either one of them.
+2:58:06
+But in the broader view, it’s really a magnificent accomplishment.
+2:58:11
+I’d like to get a couple comments about certain people that you worked with,
+2:58:20
+just kind of like short statements on
+2:58:24
+the main players.
+2:58:25
+First, Jack Ward Thomas, could you make some comments about Jack.
+2:58:29
+I’d follow Jack Ward Thomas anywhere.
+2:58:31
+He was just a fabulous leader.
+2:58:34
+And
+2:58:38
+as I told him, he does his best work when mad and upset.
+2:58:44
+[Laughs] No, he’s a grand leader.
+2:58:47
+That’s why so many of us hung in there.
+2:58:48
+He is just a wonderful leader and I’m so sorry he got hit
+2:58:56
+by that terrible illness.
+2:58:58
+He’s the coolest guy and was always good to me.
+2:59:00
+But he would test you.
+2:59:03
+And then, if he thought you passed the test, he believed in your forever.
+2:59:08
+John Gordon?
+2:59:11
+John Gordon is
+2:59:15
+somebody I never want to be on the other side of an argument from.
+2:59:20
+Because I can’t win it.
+2:59:21
+John Gordon could convince the birds to come out of the trees.
+2:59:27
+And he has a wonderful sense of humor.
+2:59:30
+He also has the ability to step back and understand,
+2:59:38
+to pull together in a summary way, as he did here, a lot of disparate ideas, and
+2:59:44
+to really understand the larger meaning.
+2:59:48
+Jim Sedell?
+2:59:50
+Jim Sedell was a real close friend of mine, I feel.
+2:59:56
+Jim
+3:00:00
+was
+3:00:04
+a sweet guy, but he
+3:00:09
+did not seem to have real ideological armament that would prevent him
+3:00:17
+from considering your point-of-view.
+3:00:19
+He seemed always willing to hear and learn from anyone he encountered.
+3:00:26
+I thought that was a really good trait.
+3:00:29
+Plus, he has more energy than six of us, but you know Jim.
+3:00:34
+Gordon Reeves?
+3:00:38
+Reeves?
+3:00:40
+Another close friend of mine, I feel.
+3:00:50
+Reeves is someone who,
+3:01:01
+let me just think for a minute how to say this.
+3:01:09
+He is one of the most difficult people to discourage of anyone I’ve met.
+3:01:17
+When he believes something - he follows his science anywhere,
+3:01:30
+criticism does not weigh him down, and he just keeps going.
+3:01:37
+He has a unique background because he was once a commercial fisherman.
+3:01:43
+He told me that.
+3:01:44
+And so, he has a love of
+3:01:50
+these creatures, the fish,
+3:01:54
+and he really thinks deeply and then pursues the implications
+3:02:00
+and conclusions of his thoughts.
+3:02:01
+And nobody can deter him, including anybody in a bureaucracy.
+3:02:08
+He’s really impressive.
+3:02:11
+Lately, then and now,
+3:02:15
+he will never moderate what he says to make somebody happy
+3:02:20
+or to agree with somebody.
+3:02:22
+He will not.
+3:02:26
+Eric Forsman?
+3:02:28
+Eric Forsman.
+3:02:29
+First,
+3:02:35
+I just want to say something about Sedell and Reeves together.
+3:02:37
+Oh, okay.
+3:02:38
+Again, the invention of the Aquatic Conservation Strategy, is a
+3:02:42
+magnificent intellectual achievement.
+3:02:44
+It just rippled out everywhere.
+3:02:47
+It’s the gold standard.
+3:02:50
+So, you think that’s maybe the aspect of this that’s maybe being used
+3:02:53
+and modeled elsewhere, more than any other one, is from this plan?
+3:02:56
+I think so.
+3:03:00
+In terms of Eric Forsman,
+3:03:05
+Eric Forsman is
+3:03:09
+a field biologist more than a modeler.
+3:03:15
+He is by far the most credible person to talk about the
+3:03:20
+northern spotted owl or about the
+3:03:24
+red tree vole or any of the species he studies.
+3:03:31
+It’s not too much to say, we wouldn’t have had Alternative 9 without him.
+3:03:39
+There was some resistance from other folks that had worked on the owl in the
+3:03:43
+ISC Report, but he was willing to assist in developing Alternative 9 as to how it
+3:03:50
+fit with a northern spotted owl strategy.
+3:03:53
+He was the key player in helping Franklin.
+3:03:58
+I’ve always appreciated that, that he was so willing to assist us, even
+3:04:06
+though we ended up with a little different plan than what he intended.
+3:04:09
+If
+3:04:15
+they’re going to make a movie about somebody in this [NWFP]
+3:04:17
+adventure, it’ll be about him, with Harrison Ford as the lead.
+3:04:21
+He’ll play Eric, huh?
+3:04:23
+Yeah.
+3:04:23
+But Harrison’s too old now.
+3:04:24
+Well, he is, but Eric’s getting old, too.
+3:04:28
+Yeah, I know, but I mean, the Star Wars remakes, because they look so
+3:04:31
+old and were not nearly as good.
+3:04:34
+Anyway, Marty Raphael?
+3:04:36
+I don’t know Marty very well.
+3:04:47
+He seemed more reserved and within,
+3:04:52
+really deeply within, the ecological perspective.
+3:04:56
+And he wasn’t much involved in trying to link all this together.
+3:05:01
+He’s a great scientist, though.
+3:05:04
+Anyway, Jerry Franklin.
+3:05:07
+Well, Jerry and I are very close friends, as you
+3:05:12
+know.
+3:05:13
+One more thing
+3:05:19
+regarding
+3:05:23
+Jack,
+3:05:27
+mainly in terms of FEMAT.
+3:05:29
+Jack provided the overall leadership
+3:05:35
+to make it all work, and to deal with all the federal and
+3:05:40
+political stuff coming at the
+3:05:46
+group.
+3:05:49
+Franklin
+3:05:53
+provided the optimism and the inspiration for enabling us to get a plan that
+3:06:03
+was acceptable to the administration, at least the ecosystem plan.
+3:06:08
+So, he provided optimism and inspiration.
+3:06:10
+Never forget that.
+3:06:11
+I mean, we’re working day and night.
+3:06:13
+And I saw him coming along the street in the morning, he was just whistling.
+3:06:16
+He was so happy.
+3:06:17
+Nothing would weigh him down.
+3:06:19
+And he has this credibility with almost all scientists.
+3:06:28
+It’s kind of remarkable.
+3:06:30
+Well, he was the first executive director of the LTER network, and his credibility
+3:06:35
+is found across many spectrums.
+3:06:37
+Yeah, and so it was.
+3:06:43
+His merely saying things, then and now, causes people to accept them,
+3:06:51
+where they wouldn’t necessarily accept them from other people.
+3:06:55
+And so all of that,
+3:07:01
+you’ve hit with the people you have
+3:07:08
+named, you’ve got the really, the important core group of FEMAT.
+3:07:16
+They’re the ones there, you’ve got them.
+3:07:19
+I only wish that I’d been able to interview Jim
+3:07:24
+and Jack.
+3:07:25
+[Both men died shortly before the Northwest Forest Plan
+3:07:26
+Oral History Project began.]
+3:07:26
+Yeah.
+3:07:27
+And ironically, I believe they both died of the same illness?
+3:07:30
+Yeah, they did.
+3:07:31
+Pancreatic cancer, correct?
+3:07:31
+Yeah,
+3:07:35
+it’s too bad you didn’t have that possibility.
+3:07:53
+These are all strong personalities, and in the end, it all worked out.
+3:07:58
+And many of us have stayed pretty close through the years,
+3:08:03
+and are still working together.
+3:08:04
+That’s cool.
+3:08:05
+Any last comments about the plan or the experiences or
+3:08:09
+something you hadn’t brought up?
+3:08:11
+Only that I wouldn’t have missed it for the world.
+3:08:13
+And
+3:08:17
+with that note, we will sign off.
+3:08:19
+Thank you, my friend.
+3:08:20
+Okay.
+3:08:20
+Sure.
+3:08:21
+Great interview.
+3:08:21
+Thank you.

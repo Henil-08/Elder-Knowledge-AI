@@ -1,0 +1,6002 @@
+00:02
+Good morning.
+00:04
+It is December 1, 2017.
+00:07
+This is Dr. Samuel J. Schmieding, Oregon State University College of Forestry
+00:11
+here in the U.S. Forest Service's Forest Science Laboratory and we are
+00:16
+here with Dr. Richard Iverson, Senior Research Hydrologist with the USGS.
+00:23
+Been with the USGS 35 years and most of that time he's been
+00:26
+stationed at the Cascades Volcano Observatory in Vancouver, Washington.
+00:31
+Today we are going to do an oral history interview which is part of Group
+00:35
+II of the H.J. Andrews Oral History Project which started back in 2013.
+00:41
+We're going to talk about Dick's career in geology with a specific focus on the
+00:48
+debris flow flume which was built at the H.J. Andrews Experimental Forest
+00:52
+in the early 1990s, but we're not going to be limited to that subject.
+00:56
+Anyway, good morning, Dick, how are you?
+00:57
+Good morning.
+00:57
+I'm just fine.
+00:58
+I want to thank you for being willing to meet with me.
+01:01
+These are always a process and they're interesting.
+01:04
+I really appreciate it.
+01:06
+Let's just start at the very beginning.
+01:09
+Where were you born and raised, or just give me a little biographical
+01:12
+sketch, however you want to.
+01:13
+I was born in Southern Minnesota in a small town called Albert Lea, Minnesota.
+01:18
+My parents were living on a farm at that time working as farmers.
+01:23
+I spent most of my childhood, however, in Iowa.
+01:26
+When I was too young to remember we moved from Minnesota to Iowa and I
+01:31
+grew up in several different towns.
+01:33
+The ones that I remember most distinctly were Denison, Iowa;
+01:37
+Ames, Iowa; and Sioux City, Iowa.
+01:40
+During that time, my father was working for the Iowa State University Extension
+01:44
+Service and was changing jobs, sort of moving up the ladder of responsibility.
+01:50
+That's why we shipped it from town to town.
+01:55
+So,
+01:58
+you understand Lake Wobegon humor, then, right?
+02:01
+I absolutely understand Lake Wobegon humor.
+02:04
+I understand a lot about how university politics work.
+02:08
+Both my brother and sister are university professors.
+02:11
+Really?
+02:11
+In what field?
+02:13
+Actually, my brother is also a geologist.
+02:15
+His specialty is glaciology and he's at Iowa State University where both he and
+02:19
+I were undergraduates many years ago.
+02:22
+Then my sister, who's older than me, is a professor of landscape architecture
+02:26
+at the University of Michigan.
+02:28
+So, you're a Cyclone fan?
+02:29
+I'm a Cyclone fan.
+02:30
+They're pretty good this year in football.
+02:32
+Kind of dyed in the wool.
+02:33
+Once you're hooked as a kid that doesn't go away.
+02:36
+They actually have a pretty good football team this year.
+02:38
+They did pretty well.
+02:39
+They even beat Oklahoma, if you can believe that.
+02:41
+The only team to beat Oklahoma.
+02:42
+Yeah, I know.
+02:43
+I watched it.
+02:45
+I unfortunately didn't see the game, but I heard about it.
+02:46
+I was very pleased because I don't like Baker Mayfield.
+02:50
+What
+02:55
+was your childhood like, especially in relation to the natural world?
+02:58
+You were in the Midwest in rolling hills, farm, flat country.
+03:01
+Exactly.
+03:02
+Tell me about that.
+03:05
+I think largely because of my parents' interests and my dad in
+03:10
+particular, I always had a real
+03:15
+sense of connection to the outdoors and to the landscape and so forth.
+03:21
+Spending time on a farm as a small child visiting my grandparents'
+03:25
+farm was something that was special.
+03:28
+Even more importantly for me, and I think what led me to become a
+03:31
+geologist, was camping trips that we would take to the Rocky Mountain
+03:36
+states, usually Wyoming or Colorado.
+03:39
+I remember one camping trip in particular, because I think maybe I was old enough
+03:44
+at that time to really appreciate things more than I had when I was younger.
+03:48
+It was 1963 and we took a long camping trip to Grand Teton and Yellowstone
+03:55
+National Parks, which at that time were a lot less crowded than they are nowadays.
+04:00
+It was just so spectacular.
+04:02
+I couldn't imagine anything better than seeing nature exposed in those ways and
+04:09
+being most impressed of all just with the landscapes and thinking about how they had
+04:15
+changed over time and what does it take to create this kind of spectacular scenery.
+04:22
+How would you characterize the contrast between the Midwestern topography and
+04:27
+ecology with the Rocky Mountains in terms of inspiring you to have a career or doing
+04:33
+science and studying natural processes?
+04:36
+The thing about the Midwest, at least the part of it that I grew
+04:38
+up in, is that there's really remarkably little of it that's
+04:43
+anything resembling a pristine state.
+04:46
+The one exception to that might be along a river bottom.
+04:49
+I did spend a lot of time as a kid playing around in creeks and fishing,
+04:56
+and so forth and so I did get an exposure to nature in that sense.
+05:02
+Other than that, things are largely developed.
+05:04
+Of course, mostly it's farmland.
+05:06
+You see the landscape very clearly, but it's all covered with crops and
+05:10
+largely surrounded by fences at that time, because in those days they would
+05:13
+also turn cattle out in the fields after they were done harvesting.
+05:19
+There
+05:21
+was certainly a connection to nature, but seeing things in a more natural state
+05:26
+as was true in the national forests and the national parks of the west-really,
+05:32
+to me it was just a tremendous eye-opener to be exposed to that.
+05:37
+You became a scientist later who would study disturbance processes
+05:42
+and dynamics to some degree.
+05:44
+What in the Midwest that maybe other type of disturbances on a very small
+05:52
+scale maybe, or arroyo cutting or tornadoes, or anything that made
+05:57
+you think shook you up in thinking about earth and processes in a real
+06:03
+remedial, even pre-academic kind of way.
+06:06
+I would say as a boy growing up in these Midwestern towns, again I spent a lot
+06:13
+of time on, in, and around creeks, small streams, typically no more than 10 m wide.
+06:25
+I was always really fascinated by just watching what was going
+06:28
+on with the moving water and the movement of sediment and so forth.
+06:31
+Of course, it was very conspicuous whenever there was a construction
+06:35
+project or anything of that nature that was tampering with the creek
+06:39
+that things changed dramatically.
+06:41
+You could see the turbidity change and...
+06:42
+You could see more erosion; you could see that the creek wasn't
+06:46
+looking the way it used to look.
+06:50
+I certainly didn't think about it in intellectual terms in those days.
+06:55
+I was too young, I think, but I think it had a deep imprint on me
+07:01
+just in terms of thinking about how nature works and how sediment moves
+07:05
+and the role of water and so forth.
+07:08
+I was always fascinated by that.
+07:11
+I remember one experience in particular in a creek near our
+07:14
+house where we had a particularly cold winter and the creek froze
+07:20
+essentially solid from top to bottom.
+07:22
+The ice was over a meter thick.
+07:25
+In the process of freezing the ice had arched up in various places
+07:31
+and there were actually tunnels you could get into by clamoring down
+07:35
+the stream bank and you could get in underneath the ice and be crawling
+07:39
+around basically on the stream bed.
+07:42
+You would see frozen fish that were trapped in the ice.
+07:45
+You could see all these things frozen in time, literally, and get some sense
+07:51
+of what that stream bed was like, which you ordinarily of course could never get
+07:55
+just from being there in the summertime.
+07:58
+Because our streams in the Midwest were never clear mountain brooks.
+08:01
+You basically couldn't see through the water.
+08:03
+The water was pretty muddy most of the time.
+08:05
+Well, and it was also slow moving.
+08:06
+And slow moving.
+08:07
+It had a high particulate and organic material content-
+08:10
+Exactly.
+08:10
+-built into the matrix of the water.
+08:12
+Exactly.
+08:14
+Now, taking off on that, and I'm thinking about mythologies and
+08:19
+first impressions and how we first see things as a child and how they
+08:23
+create a mythology and a perception.
+08:27
+What are your early memories about geologic processes and disturbances
+08:30
+in particular that you witnessed in person or saw in the media?
+08:34
+I mean on news, books, films, art, that influenced how you viewed such
+08:38
+processes as a child and did this create a stereotype that you had to overcome as
+08:44
+an adult when you became an intellectual.
+08:45
+I give you the example of myself when I first saw the first pictures
+08:50
+of Hawaii volcanoes and the runny lava and also a Tarzan movie with
+08:56
+this very weird stereotypical flow of lava in it from a '30s movie.
+09:01
+Sure.
+09:02
+That perception was in my head until I became an adult and studied it.
+09:06
+Did you ever have something like that that was a perception and then
+09:09
+you had to counter that and become an adult and an intellectual person?
+09:14
+I can't think of anything that specific.
+09:17
+Certainly, where I grew up in Iowa the most profound experiences that one had
+09:24
+in terms of seeing very powerful natural processes at work were all related to
+09:30
+weather events, whether it was tornadoes, powerful thunderstorms, hailstorms, we
+09:35
+had a lot of strong wind, and so there was a great deal of exposure to just how
+09:43
+unpredictable nature could be in terms of generating these kinds of weather events.
+09:48
+I think the other thing in those days it's easy to forget now,
+09:53
+but weather forecasting was much poorer then than it is now.
+09:56
+They didn't have all the modern technology.
+09:58
+As a consequence, there were a lot more surprises in the weather.
+10:02
+Nowadays when tornado weather is forming in the Midwest, generally they can
+10:08
+anticipate it a couple days in advance.
+10:09
+And you turn on the weather channel.
+10:10
+You turn on the weather channel and you track things and then you have
+10:13
+all the radar images and everything.
+10:14
+None of that was available then.
+10:17
+It would just often take you by surprise.
+10:19
+I remember times being out on just some of these little fishing excursions where
+10:25
+just seemingly out of nowhere a huge storm would boil up and suddenly this
+10:31
+small lake has huge waves on it and you're struggling to get back to shore
+10:35
+on your tippy little boat and so forth.
+10:40
+I think there was an imprinting at that time in terms of just
+10:44
+nature in general and how
+10:48
+unpredictable and sometimes violent it can be, and humans have to learn to adapt
+10:55
+because we're not going to change this.
+10:58
+This is just the way nature is.
+11:00
+We have to be flexible and learn to adapt.
+11:03
+Did you ever have any close calls with tornados?
+11:07
+Not terribly close calls.
+11:09
+There was one circumstance, well, two that stick in my mind.
+11:12
+I remember once we were driving out on a country road and we saw a tornado
+11:15
+approaching across the flat terrain probably a mile or two distant.
+11:21
+Of course, with a tornado you never know exactly which way it's going to
+11:24
+turn, but generally speaking you can outrun a tornado in a car as long
+11:29
+as you're not trying to drive toward the tornado as some storm chasers do.
+11:34
+It wasn't terribly scary, but it was impressive to see it standing out in
+11:38
+bold relief against the backdrop of sky.
+11:41
+There was another time when I was a bit older when a tornado
+11:43
+did pass directly over our house.
+11:46
+Luckily it did no damage to the house, but it did bring down a tremendous
+11:48
+amount of wood out of the trees.
+11:51
+I was a teenager at the time, and I spent a week, at least, cutting up
+11:56
+wood and so forth, big branches, that have crashed down out of our trees.
+12:04
+What was the first time you came to the northwest?
+12:08
+Was that as an adult?
+12:10
+Yeah, as a very young adult.
+12:12
+I had never spent any time at all on the west coast prior to moving
+12:16
+to California to attend graduate school at Stanford in 1977.
+12:21
+I had only been as far west as Utah prior to that time.
+12:25
+It was a tremendous adventure for me.
+12:28
+I remember getting in my old, beat-up jalopy car and driving
+12:31
+it 2,000 miles mostly across arid lands and then arriving at-
+12:35
+Praying that it made it, right?
+12:36
+Yeah, praying that it made it.
+12:38
+I had plenty of water along just in case.
+12:43
+Then crossing into California, crossing the Sierras, coming down into the Bay
+12:48
+Area and everything I felt like I was entering a sort of fairytale world
+12:52
+because I had heard about this place all my life, but I'd never seen it before.
+12:57
+That was a big deal.
+12:58
+Then that very first summer that I spent on the west coast I'd made a
+13:03
+trip up to the Pacific Northwest.
+13:07
+My parents and my younger brother had come out on a camping trip, had
+13:10
+traveled all the way to California and then collectively as a group
+13:13
+we came up to the northwest.
+13:16
+That was my first exposure to the volcanos of the northwest.
+13:22
+Prior to that time, I had never seen a volcano.
+13:24
+Of course, we passed by a lot of them.
+13:28
+My brother and I even made kind of a half-hearted attempt to
+13:31
+climb Mt. Rainier at that time.
+13:33
+We were under-equipped.
+13:35
+That's not an easy mountain to climb.
+13:37
+I climbed it later in my more-informed and more-equipped years.
+13:41
+At that time, we were poorly informed, poorly equipped and so
+13:44
+it's probably a good thing that we turned around where we did.
+13:46
+How far did you make it?
+13:48
+We made it up to a place called Steamboat Prow.
+13:51
+That's about 11,000 isn't it?
+13:52
+About 10,000.
+13:52
+10,000?
+13:52
+About 10,000 feet, yeah.
+13:55
+It's really where one of the two primary climbing routes on Mt. Rainier is,
+14:00
+but it's really kind of the halfway point in terms of getting to the top.
+14:05
+Anyway, but it was spectacular because I had always imagined really
+14:12
+liking and appreciating the Pacific Northwest just based on what I'd read
+14:16
+and seen on television and so forth.
+14:18
+I'm going to return to that in just a minute.
+14:21
+I want to get your impressions of the stratovolcanoes, the
+14:24
+topography and the geomorphology here, but you did mention Utah.
+14:28
+For a geologist and especially in terms of geomorphology, that's a paradise.
+14:33
+Oh yeah.
+14:34
+A photographer's paradise for me.
+14:36
+I wrote on
+14:39
+Canyonland.
+14:40
+What was the impression you had when you first saw Utah stuff?
+14:44
+At that time, it was just a very brief and short foray into northern Utah, into
+14:50
+the Wasatch County and so no exposure to the spectacular Canyonlands country.
+14:54
+Okay, you didn't see that.
+14:55
+Okay.
+14:55
+I didn't see that until many years later.
+14:56
+Oh, okay.
+14:57
+Then I'll retreat on that question.
+14:58
+I thought maybe you went there and you were just so inspired
+15:03
+you became a geologist.
+15:04
+It was really more, the single place that inspired me the most was the Tetons.
+15:10
+You mentioned that early on.
+15:11
+That spectacular mountain front which is really unlike any other in the United
+15:15
+States in the sense that there's of course this very flat valley floor of Jackson
+15:20
+Hole and essentially no foothills between that and the mountain front and so it's
+15:25
+very impressive and seeing that for the first time really left an imprint on me.
+15:30
+When you were in high school did you have an affinity for science
+15:36
+or geology, or did that develop when you got into higher education?
+15:41
+I certainly had an affinity for science, and particularly for math
+15:46
+when I was in elementary school student right through high school.
+15:50
+I took as much science and math as I could.
+15:53
+I was interested in other subjects as well, but it always seemed to me
+15:58
+that I probably would want to pursue a career where I could take advantage
+16:04
+of my interest in mathematics.
+16:07
+But you didn't really know about geology or whatever until
+16:10
+you got into college, correct?
+16:12
+Well, I took an Earth Science class when I was in high school, but
+16:16
+frankly it was, for lack of a better term, it was a little bit lame.
+16:21
+We didn't really learn very much, and it wasn't well-connected to other sciences.
+16:26
+I think part of what makes geology interesting is the way it connects with
+16:31
+other sciences and that was omitted
+16:35
+from that high school class.
+16:36
+One of the coolest things for me was when I got into my doctoral studies
+16:40
+and I studied under Stephen Pyne and got into all the stuff, the way he
+16:45
+approaches everything and basically everything we did it was contextualized
+16:51
+by geology and biology and you would study how Charles Lyell affected
+16:56
+Charles Darwin and how Humboldt's holism transferred into this and all of a
+17:01
+sudden to me geology for a historian it's like a sister discipline for me.
+17:09
+Well, it's interesting you should mention Stephen Pyne because I think I'm correct
+17:13
+that he's the one who wrote the book, G.K. Gilbert A Great Engine of Research, and
+17:19
+I think that was based on his Ph.D. work.
+17:20
+Yes, that was.
+17:21
+And G.K. Gilbert is more than anyone else the early geologist who
+17:26
+I've always held in high esteem.
+17:29
+Because he was into mechanics.
+17:30
+He was into mechanics.
+17:31
+He didn't do it mathematically, but he had a very clear conceptual
+17:35
+understanding of mechanics.
+17:38
+I've always been a great admirer of G.K. Gilbert, beginning when I
+17:41
+was in graduate school when I first started learning about his work.
+17:44
+That was one of my questions.
+17:45
+What a surprise huh?
+17:48
+No, but I mean in studying the Colorado Plateau and you look at
+17:51
+Powell's survey and Clarence Dutton wrote all of the artistic, did all
+17:55
+the stuff, and Holmes wrote those incredible sketches of the Grand Canyon,
+17:59
+but Gilbert was the mechanic guy.
+18:01
+It
+18:03
+was kind of a balance between, and Powell's kind of a synthesizer
+18:06
+and government operative.
+18:07
+Exactly, and the same would be true of Clarence King.
+18:10
+These guys were all very big-picture guys, whereas Gilbert more than anyone
+18:15
+else at that time was attentive to detail and thinking about the mechanisms
+18:21
+by how things actually worked.
+18:23
+I suppose you've read his analysis of the Henry Mountains?
+18:25
+Oh yeah.
+18:26
+I've climbed them, and I took it up there and I read it on top of Mt. Ellen.
+18:32
+Really?
+18:32
+I've driven by the Henry Mountains, but I've never
+18:34
+actually been up into the Henrys.
+18:36
+They're very isolated.
+18:37
+Oh yeah.
+18:39
+It's not something that tourists go to.
+18:41
+They drive to the parks around there, but it's funny it's the last
+18:45
+mountain range to be named by the U.S.
+18:48
+Yeah, well it's so remote and it's small and it's isolated and yeah.
+18:53
+Very interesting.
+18:56
+Iowa State, what did you study?
+18:59
+Did you start in geology or did you kind of develop into that?
+19:03
+I really didn't know what I wanted to major in when I entered college and
+19:09
+very quickly, and as I recall this was during my freshman year, I realized
+19:15
+I was sort of at a bifurcation point because I had this very strong interest
+19:20
+in science and mathematics, but at the same time I thought that I wanted to
+19:25
+be a writer because I've always been interested in writing and just beyond
+19:29
+writing scientific papers, I mean other kinds of writing: essays and
+19:32
+even a novel and that sort of thing.
+19:36
+A definitive moment for me was during my freshman year I didn't have a car
+19:41
+and I was catching a ride from Ames back to Sioux City where my parents
+19:45
+lived with a guy who was a professor of journalism at the university
+19:50
+who was a friend of my dad's.
+19:52
+We
+19:54
+had 3 hours of time trapped in the car together to talk.
+19:58
+He was asking me about what I was going to pursue as a career
+20:01
+and a major and so forth.
+20:02
+I explained to him that I was struggling between do I choose
+20:06
+science, or do I choose writing and be an English major or journalism
+20:10
+major or something of that sort.
+20:13
+He counseled me.
+20:14
+He said, if you have an interest and ability in science, I strongly
+20:21
+encourage you to go into science.
+20:23
+He said the reason is the following, and he was absolutely right: he said if you
+20:29
+don't pursue this science education now, you'll never be able to catch up with it
+20:35
+later, because this is something you have to start learning systematically now.
+20:39
+It's hard to be an amateur scientist nowadays.
+20:43
+Back in the days of Powell, he only had a master's degree.
+20:47
+And he was basically trained in the field.
+20:50
+Sure, yeah, a lot of them were.
+20:51
+But you could never even get a job at a university today with that.
+20:53
+A lot of them were semi-self-trained in those days.
+20:56
+He said on the other hand with writing this is something you could always
+21:00
+pursue at a later time, if you choose to.
+21:02
+It's actually something I'm hoping to do in retirement it
+21:05
+to spend more time writing other than just my scientific writing.
+21:11
+I think he was absolutely right.
+21:13
+It was some of the best advice I've ever received.
+21:16
+Basically, I made my decision shortly thereafter.
+21:18
+I'm going to follow the science track and then really what, I was sort of
+21:24
+debating between geology and physics is what I wanted to specialize in.
+21:28
+What really sold me was simply the fact that the geology labs were so much fun.
+21:35
+We would either spend our time going through maps and looking
+21:39
+at rocks and specimens and fossils or whatever it might be.
+21:42
+But more importantly we would go on field trips and visit streams where we could see
+21:47
+things actually happening in real time.
+21:49
+It was so enjoyable to have that very tangible connection to nature, whereas of
+21:55
+course physics is very much about nature but it's very much at an abstract level.
+21:59
+It's not that sort of tangible this is what we see every day in front
+22:02
+of us, other than at the most basic level of the cup falls on the ground
+22:07
+if I knock it off the table here.
+22:08
+You have models and more models.
+22:10
+Yeah.
+22:11
+Versus models and nature.
+22:12
+Exactly.
+22:13
+Is that a good, crude analogy there?
+22:14
+I think that's a reasonable analogy.
+22:18
+I ended up having as an undergraduate my major was in geology.
+22:22
+I ended up getting minors in both math and physics.
+22:24
+I continued to pursue those things.
+22:26
+That's exactly what happened with your career, am I correct?
+22:28
+That's exactly what happened with my career.
+22:30
+Because I mean just hearing you talk last night and reading some things
+22:33
+that you've written, that's kind of who you became in your field.
+22:37
+Exactly.
+22:38
+That's very appropriate.
+22:40
+How did the transition happen out of Iowa State into graduate school?
+22:44
+Did you get your masters at Iowa State?
+22:46
+No, just my undergraduate degree.
+22:47
+Okay.
+22:48
+Then you moved on to Stanford, or was there another school you went to?
+22:51
+No, I moved on to Stanford.
+22:55
+The way that I wound up at Stanford.
+22:58
+I was frankly not a terribly well-informed student about the nature of graduate
+23:04
+education and how the larger world worked.
+23:10
+I only applied to a couple of graduate schools.
+23:13
+They were both in the west, but they were two very distinctly different places.
+23:17
+One was Stanford, the other was the University of Montana.
+23:21
+I think my notion was that if I went to Montana, at that time I was
+23:25
+already an avid cross-country skier and I probably would've ended up
+23:29
+majoring in skiing to some degree.
+23:31
+You would have ended up at Big Mountain or wherever else all the time.
+23:37
+Something like that, yeah.
+23:38
+Or down in-what's the one down by Bozeman?
+23:39
+Yeah...
+23:39
+I just wasn't aware I think the way students are nowadays in general I
+23:43
+think students are much better informed and maybe more competitive nowadays
+23:47
+than they were back then, but I was not acutely aware of the fact that
+23:52
+there was a hierarchy of universities.
+23:54
+To me, one university was kind of like another.
+23:58
+So, you didn't think that when you got accepted to Stanford,
+24:01
+wow, I'm on the farm now?
+24:03
+Yeah, it didn't seem like that big of a deal, but in retrospect I'm very
+24:07
+happy that I went to Stanford because I realize that it opened all sorts of
+24:12
+doors of opportunity to me that probably wouldn't have been open otherwise,
+24:16
+not least of which is that Stanford is located only 2 or 3 miles from the
+24:22
+western regional center of the USGS in Menlo Park, and that was what eventually
+24:27
+got me established with the USGS.
+24:29
+I started working there while it was at graduate school at Stanford.
+24:34
+Going back to Iowa State, but jumping ahead to Stanford, what professors or
+24:38
+classes or experiences were particularly impactful and pivotal in your career,
+24:43
+and give me some couple names, perhaps.
+24:45
+As an undergraduate, certainly at that time the part of geology that
+24:52
+most attracted me was geomorphology.
+24:54
+I was interested in what happens where I can see it on the earth's surface and
+24:57
+it's happening right now, rather than what happened 100 million years ago.
+25:01
+The geomorphologist that I was with at that time was a guy
+25:04
+named Robert Palmquist, and I took every class that he taught.
+25:08
+This was at Iowa State?
+25:09
+At Iowa State.
+25:10
+Right.
+25:10
+I took every class that he taught.
+25:12
+I also did a couple of independent study projects under him.
+25:16
+I did a project mapping cirques, glacial cirques, in the Big Horn Mountains
+25:20
+in Wyoming and I did another project that was constructing the elements
+25:25
+of a model for rainfall runoff.
+25:28
+I was very interested in geomorphology early on and so he was quite
+25:33
+influential in that respect in terms of nurturing that interest of mine.
+25:37
+Then when I got to Stanford, the people who impacted me most were probably
+25:45
+two, no really three, one of whom was my advisor, Bernard Hallet, and he
+25:50
+was a glacial geologist himself, but was a very mechanics-oriented glacial
+25:55
+geologist and again really nurtured that interest in applying mathematics
+25:59
+and mechanics to geologic processes.
+26:03
+I also took courses from Arvid Johnson, who was on the faculty at Stanford at that
+26:07
+time and who was very mechanics focused.
+26:11
+His whole approach to research is that you pursue problems as a problem
+26:16
+of mechanics and that really made an imprint on me, even though I felt that
+26:22
+I was not very good at it at that time.
+26:24
+It took me some years to develop the facility to do the
+26:29
+kind of work I ended up doing.
+26:32
+The other person who was really important, more from a purely nurturing standpoint,
+26:37
+was the chairman of our department, Irwin Remson, who was a hydrogeologist.
+26:41
+My first two years in graduate school I was a TA all year long
+26:45
+for Irwin's undergraduate classes which were a series of classes
+26:49
+called Environmental Earth Sciences.
+26:53
+The great thing about Irwin, and this wasn't true just in my case,
+26:56
+it was true with nearly all of the graduate students, is the degree to
+27:00
+which he inspired our self-confidence and our belief in ourselves.
+27:05
+He would give us so much
+27:09
+latitude to do our TAing and so forth in the way that we felt was best
+27:14
+rather than simply telling us this is what you do, you follow my model.
+27:20
+Which a lot of professors do.
+27:22
+A lot of them are a little dictatorial.
+27:23
+Yeah,
+27:26
+I can't overstress the importance of the extent to which Irwin
+27:30
+inspired confidence in his students.
+27:34
+Even though he wasn't my direct line supervisor, to some degree
+27:38
+he was a surrogate supervisor.
+27:42
+Dick, just
+27:47
+continue along that track please.
+27:49
+Anyway, I was talking about some of the graduate school faculty at Stanford
+27:54
+who had a big influence on me, and I named Bernard Hallet, Arvid Johnson,
+27:59
+and Irwin Remson who were all in my department which was the Department
+28:03
+of Applied Earth Sciences, which is a department--they've morphed their
+28:08
+departments at Stanford since that time, so there's no longer a department
+28:11
+that has that name attached to it.
+28:14
+But
+28:16
+the other faculty who most influenced me while I was in graduate school
+28:20
+were actually in various departments within the school of engineering.
+28:25
+I took lots of engineering classes, both in mechanics and in applied
+28:31
+mathematics and that's really where I learned how to apply math
+28:36
+to real-world physical problems.
+28:40
+As an undergraduate I had this training in mathematics and physics, but again
+28:45
+it was at a highly abstract level.
+28:47
+It was difficult to relate it to real-world phenomena.
+28:50
+It was by taking all those engineering courses that it really
+28:55
+helped me develop that facility.
+28:57
+Some of those faculty were really terrific.
+28:59
+They were just world-class applied mathematicians and
+29:04
+excellent teachers as well.
+29:06
+There was a fella named Andy Acrivos, who left a big impression
+29:11
+on me, and several others.
+29:14
+Bob Street was another one.
+29:17
+You told me that you also became exposed to the USGS at that time.
+29:22
+Right.
+29:22
+Because of its proximity but also because of some other reason or
+29:26
+a faculty or you met somebody?
+29:28
+How did that connection start?
+29:30
+Sure, so my connection with the USGS in any formal sense had an interesting start
+29:37
+to it in that while I was in graduate school I took a lot of coursework in
+29:44
+all these different departments and that's why I wound up just sort of
+29:47
+through happenstance getting two masters degrees on the way to getting my Ph.D.,
+29:51
+but as I was embarking on my last few years of graduate school towards my
+29:56
+Ph.D. I had written a proposal with a professor in the Civil Engineering
+30:02
+Department, Joe Franzini, that was going to provide funding for my Ph.D. work.
+30:07
+This was in 1980, I guess, that we wrote the proposal.
+30:12
+It must have been early 1980, because when Franzini submitted it to NSF he
+30:19
+received very encouraging reviews, basically saying we have to go through the
+30:25
+formalities of the process, but you can basically expect that this will be funded.
+30:28
+That's the word he received.
+30:31
+Well, then, here's where a political connection comes in.
+30:34
+Of course, 1980 was the year Ronald Reagan was elected.
+30:39
+Shortly after coming into office, Reagan-I'm not sure exactly how this was
+30:45
+accomplished, but, in any event, there was a contraction of funding to NSF.
+30:52
+There were a lot of program managers at NSF who suddenly found themselves
+30:56
+in a position where they had made promises they couldn't keep because
+30:59
+they no longer had the funding to keep those promises, and our proposal was
+31:02
+one of those that fell by the wayside.
+31:05
+Now this leaves me, we're now into 1981 at this point.
+31:09
+At this point I'm four years into graduate school, have two master's
+31:14
+degrees, and no Ph.D. project.
+31:17
+At that point I went to Irwin Remson, our department chair, who
+31:22
+had been so helpful over the years, and I asked him for his advice.
+31:25
+What do I do at this point?
+31:27
+He suggested that I go over and talk to John Bredehoeft at the USGS.
+31:31
+John Bredehoeft at that time was the western regional hydrologist, so he was
+31:35
+kind of at the apex of the management structure of the old water resources
+31:41
+division of the USGS in the western region and he was a very eminent
+31:44
+researcher himself, had a long, long track record of very significant
+31:50
+accomplishment in groundwater hydrology.
+31:54
+I went to Bredehoeft and basically said what can we figure something out here?
+32:00
+Is there some way you could fund a Ph.D. project for me?
+32:04
+It turned out what Bredehoeft was interested in was using landslides as an
+32:11
+analogy for studying earthquake hydrology.
+32:14
+He had had a long interest in how distributions of groundwater
+32:18
+pressure affect earthquakes.
+32:20
+Landslides,
+32:23
+of course, are much more accessible.
+32:25
+You've got slip going on as you might have along an earthquake fault, but
+32:28
+it's much closer to the ground surface and more accessible system to study.
+32:31
+I had all the right background to do this because I'd had lots
+32:34
+of hydrology background, I'd had lots of soil mechanics background.
+32:39
+But prior to that time, I hadn't really even thought about
+32:42
+specializing in landslides.
+32:44
+I was really much more interested in
+32:48
+fluid flow and sediment transport and sort of those aspects of geomorphology.
+32:54
+Bredehoeft said, here's what we'll do.
+32:58
+You go off and write a proposal, bring it back to me in a couple of
+33:03
+months, and then I'll decide on that basis whether I'm going to fund you.
+33:07
+I did that.
+33:08
+I worked really hard on this proposal and brought it back to him.
+33:10
+It was kind of an informal process, because it was reviewed by a
+33:13
+committee of one, that being John Bredehoeft, but when he read it, he
+33:16
+was very pleased and so he funded me.
+33:20
+At that point,
+33:24
+he endowed me with a very exceptional opportunity for
+33:31
+a graduate student in that what I had was funding that not only paid
+33:36
+me a salary, a half-time USGS salary, but I also had, it was something
+33:43
+on the order of $30,000 a year of operating expenses for my research.
+33:52
+So, you had a budget and a salary.
+33:53
+I had a budget and a salary.
+33:56
+You were living the dream for a grad student!
+33:58
+And I also had already, my tuition at Stanford was already all paid off
+34:02
+because I had done all these years of assistantships and so forth.
+34:05
+I had all that behind me and so now I'm in this position of having a real job.
+34:12
+To write your dissertation, basically.
+34:13
+Yeah.
+34:13
+Basically, that was my job: to do the research and write my dissertation.
+34:17
+I actually had enough money I was able to pay an assistant to help me.
+34:22
+I just paid out of my pocket, paid cash out of my pocket out
+34:25
+of this $30,000 I was getting.
+34:27
+It
+34:31
+just worked great.
+34:32
+The other part that was serendipitous about it is that: what the focus of
+34:38
+my Ph.D. work was studying a big, slow-moving landslide in northern
+34:41
+California in Humboldt County just outside of Redwood National Park.
+34:44
+And this is a landslide where-
+34:46
+Where is it specifically, exactly?
+34:49
+Well, it's called Minor Creek Landslide and so it's upstream along Redwood
+34:53
+Creek, probably 15-20 miles as the creek flows, inland from the Pacific.
+35:01
+North or south of Arcata?
+35:03
+North of Arcata, but mainly east of Arcata.
+35:07
+Okay.
+35:12
+Anyway, this landslide was a site where the USGS had initiated studies in the
+35:17
+early 1970s and that was part of the Forest Geomorphology Project that was
+35:22
+initiated by Dick Janda, who was another person who became instrumental in my
+35:26
+career because he later was my boss at the Cascades Volcano Observatory.
+35:33
+But Dick, along with a couple of other able assistants-Mike Nolan and Debbie
+35:39
+Harden-had started this intensive geomorphic monitoring program in
+35:44
+the Redwood Creek Drainage Basin and that was something in response to a
+35:49
+need at the National Park Service.
+35:51
+The situation in Redwood National Park at that time was they had created
+35:55
+this park in the 1960s, however much of the watershed had been severely
+36:00
+impacted by intensive logging.
+36:02
+They were wanting to expand it [the Park] at that time.
+36:04
+They were thinking about expanding it, exactly.
+36:06
+Correct.
+36:07
+The question was to what degree was this legacy of logging and other kinds
+36:14
+of land use impacting the resources both within the existing park and also
+36:19
+within that potential expansion boundary?
+36:22
+There was no understanding of it.
+36:26
+This project was created which became collaborative with the
+36:30
+National Park Service to monitor all these sediment sources.
+36:35
+One type of sediment source was these big, slow-moving landslides.
+36:40
+This was one of several that they had instrumented back in the early 1970s.
+36:45
+When I came on board in the 1980s-
+36:48
+These were ones where you have the old stake arrays, and you
+36:52
+measure how much they move.
+36:54
+Exactly.
+36:55
+Right.
+36:55
+That was the most basic instrumentation: you pound hundreds of stakes into
+36:58
+the landslide and survey it with an old-fashioned theodolite and see
+37:02
+how fast it's moving and so forth.
+37:04
+Then, in addition, have other instrumentation: rain gauges-
+37:06
+Of course, there was slumping and moving [ground] because a lot of
+37:09
+the trees and the root structure of the top slope had been lost, or no?
+37:12
+Well, not at Minor Creek and not at many other sites, because these were sites
+37:17
+that are actually mainly grasslands with only small copses of trees here and
+37:23
+there, which is an interesting ecological question because I know people have
+37:27
+puzzled over why should these grasslands exist in a place that gets 2 meters of
+37:31
+rain a year in this very mild climate.
+37:35
+It's been speculated and to my knowledge it's still speculation rather than fact.
+37:40
+It's been speculated that Native Americans actually created these
+37:43
+grasslands by intentional burns because they realized that the grasslands were
+37:48
+going to provide a greater diversity of habitat and probably improve their
+37:52
+hunting opportunities and so forth.
+37:54
+But I'm not sure that anybody knows the answer to that.
+37:57
+At least I don't know the answer to that.
+37:57
+Well, it's basically what's true up here in the Willamette Valley where everybody
+38:02
+in Eugene and other places up here think they understand environmental history
+38:06
+that you can't cut any trees down.
+38:08
+Well, if you look at pictures back at the early settlement there
+38:12
+wasn't a lot of trees around.
+38:12
+No trees, yeah.
+38:14
+It wasn't just because people were clearing them for farms, it's because
+38:17
+the Natives had done systematic burning for whatever reasons or just
+38:22
+natural fires had been allowed to burn.
+38:23
+Anyway,
+38:27
+certainly some of the areas up there that they were monitoring
+38:29
+along Redwood Creek were severely impacted by logging and so forth,
+38:33
+but not the site that I was studying.
+38:34
+In fact, it's one of the reasons I chose that site is that it was in a relatively
+38:38
+pristine setting that really its only manipulation by humans was that there was
+38:47
+a gravel road that crossed it at one spot.
+38:49
+Other than that, it was in a pretty pristine state.
+38:52
+It had been monitored to a degree for 10 years and basically what I did in
+38:57
+the early 1980s was install a great deal more instrumentation, spent an entire
+39:01
+summer there drilling holes, taking samples, installing instrumentation
+39:06
+and so forth and then collected a few years of data and that became
+39:10
+the empirical part of my Ph.D. work.
+39:15
+That's all yours so...
+39:16
+Alright, yeah.
+39:19
+Sure.
+39:20
+Anyway, I pursued this Ph.D. project that was two-pronged.
+39:27
+Part of it was monitoring this big, slow-moving landslide in Humboldt
+39:30
+County and then part of it was developing a theoretical model to try
+39:34
+to explain how the landslide moved.
+39:36
+That
+39:38
+was my first serious attempt at really using relatively sophisticated
+39:43
+math and mechanics to try to understand something geologically.
+39:47
+An actual applied, real-life situation?
+39:49
+To apply to a real-life situation and it worked out well.
+39:55
+Got my degree and the USGS was sufficiently pleased with it.
+40:00
+John Bredehoeft would have been my boss at the USGS and offered me a permanent
+40:05
+job at the USGS when I graduated.
+40:08
+I would have to go through the formalities of course, but I at the time was
+40:12
+really thinking that I wanted to teach.
+40:14
+So, you were kind of like your brother and your sister?
+40:16
+You were in that mode of well I'm going to do an academic career?
+40:19
+Exactly.
+40:19
+I really thought I was going to pursue an academic career and of course that's the
+40:24
+nature of the academic job cycle that good jobs appear somewhat infrequently and in
+40:32
+unexpected times and places and so forth.
+40:35
+It happened that the year I graduated in 1984 that the most attractive
+40:42
+academic job that was available was at the University of Wisconsin in Madison.
+40:49
+I applied for that job and I was offered that job.
+40:53
+It was really the only job that was of interest to me among the academic jobs.
+40:56
+This was in '83, '84?
+40:57
+This was '84.
+40:59
+'84, okay.
+41:02
+So, I had this tough decision to make: was I going to go to work for the
+41:04
+USGS or was I going to go to Madison?
+41:09
+Frankly what decided it, again is that it all came back to geography.
+41:13
+Although Madison is a wonderful city, if you're going to live in the
+41:17
+Midwest, there's probably not too many better places to live than Madison.
+41:21
+However, by that time I felt so rooted in the mountain west that it was
+41:28
+difficult for me to think about leaving that and going back to the Midwest.
+41:32
+You were spoiled by big topography.
+41:34
+I was spoiled by big topography.
+41:36
+And also, the kind of research I did.
+41:37
+At that point I've now got quite an investment in studying landslides.
+41:44
+Of course, the only landslides they have in Wisconsin are along the bluffs
+41:49
+adjacent to Lake Michigan, which is pretty small potatoes compared to around here.
+41:57
+Mount St. Helens just a few years previously had produced
+41:59
+the world's largest landslide in historic times off the north flank
+42:03
+of Mount St. Helens, 2.5 km3.
+42:07
+There was all this great geological stuff going on here and much less
+42:11
+so in Wisconsin or in the Midwest.
+42:15
+I guess at that point I was also aware of the fact that, if I was going to come
+42:19
+to work for the USGS, it would be up at the Cascades Volcano Observatory [CVO].
+42:23
+The reason was at that time the USGS had a hiring freeze in
+42:28
+place, an absolute hiring freeze.
+42:30
+This was the Reagan era.
+42:31
+This was the Reagan era.
+42:34
+There was one exemption to that hiring freeze and that was related to Mount St.
+42:38
+Helens because Mount St. Helens, people sometimes forget that it had the big
+42:42
+eruption in 1980 but then it continued to erupt intermittently until 1986.
+42:47
+It was still very much an active volcano.
+42:49
+It was perceived to be a significant public threat.
+42:52
+So,
+42:54
+CVO-focusing on Mount St. Helens--had an exemption for the hiring freeze
+42:58
+based on a public safety basis.
+43:02
+They said we can hire you but that's where it's going to be.
+43:05
+That seemed not so bad.
+43:06
+It was sort of a twist of circumstance that led me to wind up at
+43:15
+CVO.
+43:16
+In 1980 when the big blow happened, you obviously remembered that.
+43:22
+Did you go up shortly thereafter as a curiosity, not even in a formal study way?
+43:28
+No.
+43:28
+I didn't.
+43:28
+But what I do really regret is that that first trip that I
+43:31
+made to the Pacific Northwest, which was in the summer of 1978-
+43:35
+The one you told me about that I wanted to elaborate on
+43:37
+further, not, like, right now?
+43:39
+Exactly.
+43:40
+On that trip we drove up through northern California and as I recall did not spend a
+43:46
+great deal of time in northern California.
+43:48
+We were really bound for the Pacific Northwest proper.
+43:51
+Spent some time camping in the Three Sisters area, here in Oregon.
+43:56
+Continued on past Mt. Hood and I remember being very impressed with Mt. Hood, which
+44:00
+is-I remember one view in particular of Mt. Hood from the north side that
+44:06
+is very much the view I'm going to have from my property where I plan to move
+44:11
+when I retire, outside of Hood River.
+44:13
+I was just going to say in Hood River Valley there somewhere?
+44:15
+Yeah.
+44:16
+So, I remember that.
+44:17
+And then I also remember that from there we preceded straight to Mt. Rainier
+44:22
+and went right past Mount St. Helens.
+44:25
+I really wish-
+44:26
+That you'd seen it before, right?
+44:27
+-that I'd had that perspective of visiting and spending some time
+44:32
+around Mount St. Helens prior to the eruption, because I still have
+44:35
+colleagues who did have that experience.
+44:37
+They're mostly older than me and sort of getting on in years at this point,
+44:43
+but boy I wish I had their experience.
+44:45
+A few of them even climbed the mountain prior to 1980 and I wish I had had that
+44:50
+experience because it obviously was a place that was extremely different than
+44:55
+the way it is today and very special to people in its beauty and so forth.
+44:59
+Like Jerry Franklin who became very involved with the ecology, he used to go
+45:03
+camping around that whole area and he even did some early studies in the area and
+45:10
+you kind of have that mythic perfect symmetrical cone, I call
+45:14
+it the "Cotopaxi of the North."
+45:15
+Yeah.
+45:15
+You know what I'm saying?
+45:17
+Oh, it was a beautiful mountain.
+45:18
+Those views from Spirit Lake, for example, that we now see only in
+45:21
+photos and paintings and so forth.
+45:23
+I wish I could have experienced that.
+45:27
+My first memory of Mount St. Helens was seeing it after the eruption
+45:30
+from the air, and this was,
+45:35
+I guess it was before I actually started working at CVO, but I had come up to visit
+45:39
+as a kind of recruitment trip or something of that nature and I was able to take a
+45:44
+helicopter flight around the mountain.
+45:46
+But this was in 1984, so four years after the eruption.
+45:52
+Frankly, I think any time you experience something from the air and haven't
+45:57
+been down on the ground it's difficult to appreciate the real scope of it.
+46:03
+It was very impressive flying around and seeing all this stuff from a helicopter
+46:07
+and so forth, but it really wasn't until later that I started work there and spent
+46:11
+time on the ground that it began to sink into my kind of psyche what a profound
+46:17
+event this was and what the scope of it was and the scale involved and so forth.
+46:28
+Just going back-did you travel anywhere else to see some of the other landslides
+46:34
+and volcanic eruptions that you mentioned?
+46:36
+Like Columbia happened in '82, right?
+46:39
+Well, you're thinking of Nevado del Ruiz.
+46:40
+Yes.
+46:40
+In 1985.
+46:40
+'85! Excuse me.
+46:40
+Yeah.
+46:40
+No,
+46:44
+I actually did not
+46:48
+participate in that Nevado del Ruiz response, although
+46:51
+several of my colleagues did.
+46:54
+I'm trying to remember-there was a particular reason.
+46:56
+There was something going on.
+46:58
+That was in the fall of 1985.
+47:00
+The eruption occurred in November and the USGS response began right
+47:06
+around the first of December.
+47:10
+I honestly don't recollect what my conflict was, but given that was early
+47:15
+December I would not be surprised if it somehow had to do with the upcoming AGU
+47:21
+[American Geophysical Union] meeting.
+47:22
+I think what it was I had organized a session, a technical session that was
+47:28
+going to take place at this AGU meeting.
+47:31
+I felt that I needed to be there.
+47:33
+I was supposed to be there to chair this session and I thought well if I go off
+47:37
+to Columbia now, I'm not going to get back in time for that and I'm going to be
+47:42
+not following up on my commitment here.
+47:46
+Retrospectively, it would have been, I certainly would have learned a lot more by
+47:52
+going to Columbia than at the AGU meeting.
+47:56
+Have you ever been to that site?
+47:56
+No, I've never been there.
+48:00
+Speaking of something I mentioned after your talk last night,
+48:02
+have you ever been to Huascaran?
+48:04
+Never been to Huascaran, either.
+48:06
+I highly recommend it.
+48:09
+Number one it's the Cordillera
+48:13
+Blanca and from a glaciology perspective and climate change is interesting too.
+48:15
+But it's a spiritually impactful experience because the park that's been
+48:20
+created where a young guy once was is a giant rose garden about 2 miles long.
+48:25
+There's a birthday cake like spiral staircase thing around basically a shrine
+48:31
+with a Christ figure on top at the end of it with Yungay right there and so you
+48:36
+realize there's 20,000 people below you that were buried and never excavated.
+48:42
+I'm just saying it's a powerful experience.
+48:45
+That would be a powerful experience.
+48:47
+I would like to visit there and for me it elicits thoughts of analogies
+48:51
+with the Oso landslide three and a half years ago in Washington state.
+48:54
+I was going to ask you about that later on about applied geology
+48:57
+and preventing human loss of life.
+49:00
+For me I was one of the first-my colleague, Jonathan Godt and I,
+49:05
+were the first two geologists on the ground there at the Oso site.
+49:09
+So, we're going to-okay, we're going to-go on about the Oso.
+49:11
+Well what I was going to say is that
+49:16
+hearing about the memorial at Yungay, and then there's a similar memorial
+49:20
+at the site of the Madison Canyon rock avalanche that occurred just outside
+49:25
+of Yellowstone National Park in 1959.
+49:27
+The Hebgen Lake earthquake triggered this rockslide and it buried a campground
+49:32
+where there were something like 30 people camped who were all entombed and what
+49:39
+they did at that site was much like you're describing, albeit on a smaller scale.
+49:42
+There's a very tastefully done interpretive center and memorial
+49:45
+there to list the names of all the victims and so forth.
+49:48
+To me that seems like the right response.
+49:52
+In contrast, at Oso, it was a horrific scene.
+49:56
+It was really-it impacted me tremendously, emotionally.
+50:00
+And you went out there shortly after, did you?
+50:01
+Yeah.
+50:01
+You were pretty close, right?
+50:04
+I was right in amongst the recovery workers who were slogging through
+50:09
+the quicksand and digging out bodies and body parts and everywhere you
+50:14
+looked there's evidence of humanity.
+50:18
+Some things are just heartbreaking, like a teddy bear sitting over
+50:22
+here and a children's shoes over there... just a chaos.
+50:28
+Like when you see a tornadic disaster like John Flynn or something
+50:31
+like, the same kind of thing.
+50:32
+What it reminded me of being from the Midwest of course and seeing tornado
+50:36
+debris before, what it looked like is that it had been struck by a tornado
+50:41
+just blasting everything to smithereens and then you poured quicksand on top
+50:45
+of the whole thing to turn it into this kind of nightmarish quagmire.
+50:48
+Because the whole thing liquified, didn't it?
+50:49
+Well, at least the distal part of it was liquified and very fluid
+50:53
+and moving very fast and deep, which is why it was so destructive.
+50:58
+But what happened at Oso, instead of there being something like a tasteful memorial,
+51:04
+there is now a type of memorial there, but it was constructed just kind of by local
+51:10
+citizens is my understanding without any real government assistance or oversight.
+51:17
+Instead shortly after the event the governor made the proclamation that
+51:21
+we're going to recover everybody.
+51:24
+We're going to recover everybody out of this deposit.
+51:27
+That's a lot of digging.
+51:28
+Well, 8 million cubic meters of debris.
+51:31
+To dig out everybody?
+51:33
+Well, eventually in a sense.
+51:36
+But basically, he made the statement that we will keep searching and we
+51:42
+won't let anything else happen there in terms of rebuilding the road and so
+51:48
+forth until we've recovered everybody.
+51:51
+Well, after several months had gone by, they still hadn't recovered everybody.
+51:56
+They recovered almost everybody but there were still a few people missing.
+52:00
+Wasn't it like 60 or 70 or 50?
+52:01
+No, it was 43.
+52:03
+Okay, right.
+52:04
+Which actually made it the most lethal landslide in U.S. history
+52:08
+with one exception, and that was an event that occurred in Puerto Rico.
+52:13
+Of course, Puerto Rico in some sense is technically part of the United States.
+52:17
+Although the Hurricane Maria victims might differ.
+52:19
+They may not feel that way right now.
+52:22
+But the thing that surprised me about Maria was that there weren't
+52:26
+more catastrophic landslides of major loss of human life.
+52:31
+Weren't you a little surprised?
+52:32
+Well, there were lots of landslides is my understanding, but the fact that there
+52:36
+wasn't an order of magnitude greater loss of life there is astonishing to me.
+52:42
+Cat 5 drilled right through the island.
+52:44
+It was amazing to me.
+52:45
+I thought there'd be thousands.
+52:46
+Yeah, I thought so too.
+52:48
+I did and I'm grateful.
+52:49
+I've got friends and colleague and family friends down there, so yeah very grateful.
+52:55
+Anyway, what was done at Oso was very different.
+52:58
+They did a great deal of excavation trying to recover bodies and then there
+53:05
+was this whole barrage of lawsuits, which are still not completely resolved.
+53:10
+I thought they had been resolved, but my understanding is that now
+53:13
+there's a second batch of lawsuits.
+53:16
+They're basically trying to pin blame on somebody for this event.
+53:20
+Planners or zoning or what have you, right?
+53:23
+Right-or trying to implicate logging, which
+53:31
+in a circumstance like this is simply unknowable as to whether
+53:35
+logging could have had any influence.
+53:36
+It's more conspicuous when you have shallow, rapid landslides that are
+53:42
+actually within the root zone of the soil.
+53:44
+This thing was 100 ft thick.
+53:46
+It was way, way below the root zone of trees, so who knows.
+53:52
+But the whole thing has been, including the science, the whole Oso response has
+53:59
+been greatly complicated by the fact that there had been all these ongoing lawsuits.
+54:06
+I'm going to return to this subject and the dynamic in your science and
+54:11
+how it applies to human societies, because I anticipate that some of
+54:17
+the reason you went into what became your thing was to prevent or at least
+54:24
+have better predictive mechanisms.
+54:25
+Absolutely.
+54:27
+Then you have human hubris and forgetfulness and what have you.
+54:33
+I will ask you that a little bit later after we get into the debris-flow flume,
+54:36
+which is going to be very soon, here.
+54:37
+Sure.
+54:38
+Okay, so
+54:42
+now do you think that some of your interest in developing something to study,
+54:48
+debris flows, of course the debris-flow flume up at the H.J. Andrews Experimental
+54:52
+Forest became your signature thing that you did in that area, do you think
+54:58
+that was maybe partly motivated by when you got up to the volcano observatory?
+55:02
+You were doing work in the aftermath of the big eruption, there were still small
+55:07
+processes going on comparatively, had to do with well I wasn't here for this.
+55:13
+I want to develop some way to look at processes in real time
+55:18
+because I wasn't here for this.
+55:20
+Well, absolutely.
+55:23
+In large part we built a flume simply because it's so difficult to study
+55:27
+these things in a natural setting.
+55:29
+After arriving at CVO my colleague Rick LaHusen and I had spent a lot of time
+55:35
+and effort instrumenting two different sites around Mount St. Helens trying
+55:40
+to capture good quality real-time data on debris flows or landslides as they
+55:45
+happened, and the short version of that story is that it was a failure.
+55:51
+We didn't succeed in either case.
+55:53
+Because nothing really happened, correct?
+55:54
+Well, in the case of one of these sites we had instrumented this channel
+55:59
+right at the mouth of the crater of Mount St. Helens, a place called Loowit
+56:02
+Channel which had frequent debris flows, but the next one that came down was
+56:07
+far bigger than the preceding dozen and just took everything with it,
+56:11
+removed all of our instrumentation.
+56:14
+All this hard work went for naught.
+56:15
+Of course, in the original debris flow it wouldn't have mattered
+56:19
+how big your instrument...
+56:20
+It wouldn't have mattered, yeah.
+56:21
+I mean you go down into that debris flow and you see these chunks.
+56:26
+It's stunning really.
+56:27
+Oh yeah.
+56:27
+I know.
+56:28
+So, it's fraught with problems.
+56:32
+Any time you're trying to measure something in the field that happens
+56:36
+infrequently and where it's difficult to anticipate the magnitude your chances
+56:42
+of success are pretty small, really.
+56:45
+There has to be a lot of luck on your side to be successful.
+56:48
+It became clear to me that the way to study this more efficiently
+56:53
+was experimentally rather than through field data acquisition.
+56:57
+Just like going back to the Midwest, another disturbance tornados.
+57:02
+Sure.
+57:02
+They're so unpredictable, even with present-day modeling
+57:06
+and satellite imagery.
+57:08
+Getting instrumentation in a position to where it can somehow
+57:13
+read the inner part of the vortex or whatever without getting you killed.
+57:17
+Yeah.
+57:17
+That stupid movie, Twister.
+57:19
+You probably saw it.
+57:22
+Sure.
+57:22
+As a consequence, they still don't really understand tornados.
+57:25
+It's just so difficult to acquire the data you need.
+57:30
+Anyway,
+57:34
+you were talking about Mount St. Helens and you arrived in 1983, three
+57:39
+years after the big 1980 eruption, when the studies of geologic and
+57:43
+ecologic processes in the post-eruption landscape were in full swing.
+57:48
+How did the Mount St. Helens process in its early years affect your
+57:52
+professional development as a catalyst for new direction or compelling subject
+57:57
+and example of natural processes and disturbance that may have fed an existing
+58:01
+interest that was already starting all the different things you studied at Stanford
+58:04
+and maybe with your early USGS work?
+58:08
+I would say the biggest influence of my experience at Mount St. Helens had to
+58:14
+do with the fact that whereas I had been studying slow-moving landslides, things
+58:19
+that move persistently but never more than a few meters a year typically, at
+58:24
+Mount St. Helens things routinely happened fast and there were dramatic changes.
+58:29
+Of course, the most dramatic of all being May 18, 1980: the huge landslide
+58:33
+and eruption and lahars and so forth, but even subsequent to that there were
+58:37
+ongoing on a nearly weekly basis in the wintertime significant events: debris
+58:44
+flows and so forth happening, tremendous changes happening along the Toutle
+58:49
+River in terms of the development of the drainage system and that in turn
+58:52
+was influenced by lots of landslides feeding sediment into the river.
+58:57
+You could see things unfolding sort of before your eyes at a pace that's sort
+59:03
+of atypical geologically in most cases.
+59:10
+Keep going?
+59:15
+I think for one thing it caused me to refocus my attention more
+59:21
+on fast-moving kinds of landslides and debris flows and so forth,
+59:25
+rather than these slow-moving ones.
+59:28
+Of course, it was also clear that that was really the issue.
+59:30
+That was much more significant from the standpoint of hazard assessment
+59:34
+and public safety and so on.
+59:38
+Very early on you saw an applied scientific reason for doing
+59:45
+what you wanted to do and-
+59:46
+Absolutely.
+59:47
+It had something to do with human society?
+59:53
+Yeah, frankly applications were on my mind from the very beginning, even when I was
+59:58
+an undergraduate student studying geology.
+1:00:01
+It was part of the reason that the part of geology that interested me
+1:00:04
+most was that part dealing with the current landscape and current processes
+1:00:09
+and how does movement of water and sediment influence ecology, influence
+1:00:17
+humankind, how, in turn, can humankind change those processes and so forth?
+1:00:24
+That was always very much on my radar screen as something that
+1:00:27
+I wanted to focus on rather than purely abstract scientific questions.
+1:00:32
+It seemed so important to me to try to apply the science as something
+1:00:39
+that was societally relevant.
+1:00:41
+Now,
+1:00:44
+what were some of the central assumptions you may have had, general or specific
+1:00:48
+axioms and paradigms, about debris flows, earth processes in general, about
+1:00:53
+ecological or geologic processes regarding major disturbance events, volcanic
+1:00:59
+eruptions in particular-how were they challenged, supported, or overturned by
+1:01:04
+what you saw at Mount St. Helens, other volcanos, and everything that happened
+1:01:08
+after you got up to Vancouver and after.
+1:01:13
+I would say, I'm just trying to think if there were any paradigms
+1:01:19
+that were really overturned in my mind as a result of what
+1:01:23
+I saw at Mount St. Helens.
+1:01:28
+Frankly, there's nothing that occurs to me that's very specific.
+1:01:32
+My understanding is that Mount St. Helens really did overturn a number of
+1:01:38
+paradigms from an ecological perspective-
+1:01:41
+About regeneration.
+1:01:42
+About regeneration, because it was certainly the impression that
+1:01:45
+most everyone had that there was a hundred percent annihilation,
+1:01:50
+within certainly the close-end part of the blast zone and even for-
+1:01:54
+Because the scorch was so hot it just fried every biological thing, right?
+1:01:57
+Absolutely.
+1:01:58
+I guess I was among those who was really surprised by the
+1:02:03
+speed of the ecological response.
+1:02:06
+Places on the debris avalanche that within several years not only had
+1:02:10
+young trees growing up, but amphibians had moved in, there were these whole
+1:02:14
+communities of plants and animals.
+1:02:16
+That was very obvious if you spent time walking around on the debris avalanche.
+1:02:23
+That was significant.
+1:02:24
+In terms of the geology, I think kind of the overturn of paradigms occurred more
+1:02:32
+during the eruption itself because St. Helens really did open people's eyes in
+1:02:38
+a very significant way to the role that huge landslides can play in sculpting
+1:02:45
+volcanos and influencing the types of eruptions that occur and so forth.
+1:02:50
+There had actually been an analogous event that had occurred
+1:02:54
+at a very remote location: Bezymianny Volcano on the Kamchatka
+1:02:58
+Peninsula of Siberia in the 1950s.
+1:03:01
+There had been a flank collapse that had led to a lateral blast,
+1:03:05
+really a close analogy to Mount.
+1:03:06
+St. Helens.
+1:03:07
+This area was so remote that it was largely unknown to western scientists.
+1:03:13
+Nobody lives close by.
+1:03:14
+Nobody lives there and whatever had been published was published
+1:03:17
+in Russian and very few Americans-
+1:03:19
+Did they have any science people that were close enough to be
+1:03:21
+there when the eruption happened?
+1:03:22
+To my knowledge, no.
+1:03:24
+Subsequent to that eruption-
+1:03:25
+Because that's a really remote peninsula.
+1:03:27
+Subsequent to that eruption the Soviets did establish a volcanology outpost there.
+1:03:34
+It exists to this day that there is a science presence, but I think prior to the
+1:03:37
+eruption there was no science presence.
+1:03:39
+Is that the big 15,000 ft volcano that's there, or is that a different one?
+1:03:42
+Well, there's a whole series of volcanoes on the peninsula and I'm
+1:03:45
+not sure how Bezymianny stacks up.
+1:03:46
+Well, there's one that's really big.
+1:03:47
+It's like 15,700 [ft] or something.
+1:03:49
+I don't think that's Bezymianny.
+1:03:50
+It's a different one, but those volcanoes in Kamchatka, you
+1:03:55
+know look a lot like say the
+1:04:00
+volcanoes on the Aleutian peninsula in Alaska.
+1:04:03
+Like Katmai and all that.
+1:04:05
+Very similar kind of setting.
+1:04:07
+So,
+1:04:10
+it was mainly about
+1:04:14
+the dynamics of debris flows and landslides that St. Helens educated,
+1:04:19
+challenged, gave a profound example of?
+1:04:23
+Absolutely.
+1:04:24
+Okay.
+1:04:27
+Now, you're there in the '80s, the Columbia Volcano happens.
+1:04:33
+How would you contrast and compare St. Helens with
+1:04:38
+Nevado del Ruiz?
+1:04:40
+The St. Helens eruption and landslide and lahars was a very different
+1:04:45
+kind of event, actually, than what happened at Nevado del Ruiz.
+1:04:49
+At St. Helens, of course, there was this immense landslide, 2.5 km3, that
+1:04:54
+removed the flank of the mountain, triggering this huge, explosive eruption.
+1:04:58
+The big part of the story there was not only the landslide and lahars but also
+1:05:03
+the immense lateral blast that leveled, what was it, 230 km2 or something
+1:05:08
+like that, a huge devastated area.
+1:05:10
+At Ruiz, in contrast, Ruiz is a very large volcano.
+1:05:14
+As I recall, it's about 18,000 ft. high, ice clad.
+1:05:18
+Even though it's near the equator, it has a substantial
+1:05:21
+ice cap on it at that altitude.
+1:05:24
+The eruption at Ruiz was actually kind of a piddling little eruption.
+1:05:28
+The explosive component and so forth, and even though pyroclastic flows were
+1:05:36
+too small to be of much consequence in terms of public safety, but what
+1:05:40
+happened at Ruiz is that these hot flows that issued out of the summit vent-
+1:05:44
+The lahars, right?
+1:05:45
+Well, they didn't start out as lahars.
+1:05:47
+Oh, okay.
+1:05:48
+They started out as dense, pyroclastic flows.
+1:05:52
+At least this is my recollection and scoured and entrained a
+1:05:56
+great deal of snow and ice.
+1:05:58
+Of course, because they were hot, they were very effective
+1:06:00
+at melting that snow and ice.
+1:06:03
+Ruiz is kind of a broad summit, a broad-capped volcano, shaped
+1:06:07
+kind of reminiscent of Mt. Rainier with that broad summit.
+1:06:11
+There's always activity going on near the summit of entraining
+1:06:14
+snow and ice and so forth.
+1:06:15
+Then these flows kind of drop off the top of the mountain and into
+1:06:23
+a topography of very high relief, very steep canyons and so forth.
+1:06:27
+It's also tropical, too.
+1:06:28
+Also, tropical.
+1:06:29
+Wet sediment down there.
+1:06:31
+These things now have transformed into lahars up near the summit, but now they
+1:06:36
+enter these canyons and grow enormously in size by scouring material, causing slope
+1:06:41
+failures and so forth along their path.
+1:06:44
+By the time they reach populated areas some 10s of km
+1:06:47
+downstream, now they're big.
+1:06:50
+That was really what resulted in the devastating lahars.
+1:06:53
+It was a case there of minor eruptive activity causing very devastating lahars.
+1:07:00
+That was a paradigm changer I think for many of us.
+1:07:04
+How so, exactly?
+1:07:05
+It made us realize it doesn't take much of an eruption to wreak havoc farther
+1:07:10
+downstream in the right circumstances, and we have some very analogous circumstances
+1:07:16
+here in the Pacific northwest, Mt. Rainier being a good example.
+1:07:18
+The Nisqually River, right?
+1:07:20
+The Nisqually drainage, the Puyallup drainage, those two being the key
+1:07:24
+drainages of Mt. Rainier that are most vulnerable to these sorts of things.
+1:07:28
+Mt. Baker to some degree is the same way.
+1:07:31
+What would be the danger of Mt. Baker?
+1:07:33
+It's so heavily ice-capped, too.
+1:07:36
+The danger there again would be that a relatively modest eruption could end
+1:07:39
+up producing sizeable lahars through melting and entrainment of snow and ice.
+1:07:43
+There, you don't' have population living so close to the volcano but
+1:07:48
+there are substantial reservoirs.
+1:07:51
+Of course, a big flow entering a reservoir could potentially not only overtop the dam
+1:07:58
+but could actually cause the dam to fail.
+1:08:00
+Are they earth-flow dams, those?
+1:08:03
+I believe that the critical dams, I'm not certain, because I've
+1:08:06
+actually never visited those dams, but I think they're concrete dams.
+1:08:11
+Of course, that could be a colossal disaster then downstream
+1:08:14
+in which you have a dam failure.
+1:08:16
+I'm just thinking of the model that you had in your talk last
+1:08:19
+night about earthflow dams and rivulets becoming bigger.
+1:08:25
+Yeah, right.
+1:08:25
+Exactly, so that could happen, too.
+1:08:27
+If it's an earthen dam it could be this progressive enlargement of the breach.
+1:08:30
+Wasn't the one down in California that they had to evacuate all the people out.
+1:08:34
+That was a big earth-fill dam, right?
+1:08:36
+The one Oroville, right?
+1:08:37
+Yeah.
+1:08:38
+It had sort of a concrete face on it, but it was basically an earth-fill dam.
+1:08:43
+Right, 700 ft high.
+1:08:45
+Highest earth-filled dam in the country.
+1:08:47
+I never realized it was that big.
+1:08:49
+That was a very scary situation.
+1:08:51
+I thought it was going to get out of control, but we were lucky.
+1:08:56
+Anyway, you're at Mount St. Helens.
+1:08:59
+Tell me about the events and the processes that led for you to
+1:09:03
+realize that you wanted to do something like this debris flow.
+1:09:06
+I believe that there was one other in the world that existed.
+1:09:11
+No, there was really no other [debris-flow] flume-man, to this
+1:09:13
+day there's really no other.
+1:09:14
+Even the one in Japan that you mention in your talk?
+1:09:16
+That's a different kind of facility.
+1:09:18
+The facility in Japan is very impressive.
+1:09:21
+It's a different kind of facility.
+1:09:23
+It's well-equipped for studying the onset of landslides, but it is
+1:09:29
+not constructed in such a way that allows you to study the downslope
+1:09:35
+runout process.
+1:09:36
+Because they stop it before it-
+1:09:37
+They stop it at the foot of the slope and the story is over.
+1:09:38
+And it's not that high anyway, is it?
+1:09:40
+No, it's not that high.
+1:09:41
+It looked like it was about 30 ft high, maybe, 40 ft. high?
+1:09:43
+Something like that, yeah.
+1:09:47
+That, however, that experience of participating in those large-scale
+1:09:51
+experiments in Japan was a seminal event for me in terms of kind of catalyzing
+1:09:59
+thinking about how we could build our own large-scale experimental facility.
+1:10:08
+I probably wouldn't have conceived of doing that had it not been
+1:10:10
+for that experience in Japan.
+1:10:12
+So, it gave you a visual model of sorts.
+1:10:15
+Exactly.
+1:10:15
+And you said, okay.
+1:10:17
+But then you said we want something bigger that can do more.
+1:10:20
+Yeah, bigger or different, focusing more on the flow dynamics rather
+1:10:24
+than just the initiation process.
+1:10:29
+How did that process hatch, ferment, go from idea to conception?
+1:10:36
+Take me through that.
+1:10:37
+Well, the notion that we should try to do experiments, I guess, became clear to me
+1:10:44
+quite early on as we were trying to make these field measurements of debris flows,
+1:10:48
+and they weren't terribly successful.
+1:10:49
+The ones like at St. Helens you were talking about.
+1:10:50
+At Mount St. Helens.
+1:10:51
+Because you couldn't catch lightening in a bottle, so to speak.
+1:10:52
+You couldn't catch lightening in a bottle.
+1:10:58
+It seemed like studying them in a controlled environment
+1:11:01
+was going to make sense.
+1:11:03
+It also seemed to me that it needed to be done at quite a large scale,
+1:11:08
+simply because I was already aware at that time through doing simple
+1:11:11
+calculations that there were going to be real scaling problems if you tried
+1:11:15
+to do this at miniature benchtop scale.
+1:11:17
+People had done miniature benchtop experiments with debris flows, and
+1:11:21
+frankly I think that's what led to some of the false preconceptions
+1:11:25
+regarding debris flows that existed in the 1980s in terms of what was really
+1:11:30
+important in controlling their behavior.
+1:11:31
+Just give me a couple of examples of false assumptions.
+1:11:34
+Well, the most significant example I think is simply that most people in this
+1:11:40
+country, and probably worldwide as well regarded this Bingham Model, also known
+1:11:47
+as the viscoplastic model, as being the best way to represent the underlying
+1:11:53
+mechanics of how debris flows work.
+1:11:57
+The gist of that model is that the material is assumed to flow much like
+1:12:02
+a liquid with the only difference being that it has a finite yield strength,
+1:12:05
+meaning that it won't start to flow until you put enough of it on a steep-enough
+1:12:10
+slope until it overcomes this yield strength and then it starts to flow.
+1:12:13
+But thereafter it basically behaves much like a viscous liquid.
+1:12:20
+I think that that way of thinking about the problem was biased by
+1:12:24
+the fact that people had done these small-scale experiments, these benchtop
+1:12:27
+scale experiments, because when you mix up a batch of mud and run it at
+1:12:34
+that scale it does behave that way.
+1:12:36
+It really does sort of act like a viscoplastic material and the
+1:12:40
+cohesion of the mud provides the dominant resisting force that
+1:12:47
+regulates the motion of this mass of mud.
+1:12:51
+However, when you go to a much larger scale the mud starts to play a very
+1:12:56
+different role, which is that it helps preserve the high pore fluid pressure
+1:13:01
+that develops within this material.
+1:13:04
+That high pore fluid pressure is what enables the material to flow fast and far.
+1:13:09
+That's a matter of mass and scale, correct?
+1:13:13
+It's a matter of scale.
+1:13:15
+That effect becomes increasingly important at increasingly larger
+1:13:21
+scales and it grows in importance faster than the growth in scale.
+1:13:26
+If I double the size of the flow, the importance of that pore
+1:13:32
+fluid effect increases more than twofold by doubling this scale.
+1:13:39
+Based on those kinds of considerations I really felt that the experiments needed
+1:13:43
+to be done on a large scale but really didn't think about it seriously, didn't
+1:13:46
+really think about building a facility until I'd seen that facility in Japan
+1:13:52
+and participated in those experiments and realized what could be done at that scale.
+1:13:56
+That was in the '80s, correct?
+1:13:57
+That was in 1987.
+1:13:58
+I spent several months in Japan.
+1:14:01
+That made a big difference.
+1:14:03
+The other thing that you start to appreciate in large scale
+1:14:05
+experiments like that is that there's actually an economy of scale.
+1:14:11
+When you scale up far enough you can start using standard
+1:14:15
+construction equipment as part of your battery of experimental devices.
+1:14:22
+The unit cost goes way down.
+1:14:24
+Because now you're buying things at a marketplace that's sold to a million
+1:14:28
+contractors around the world as opposed to having to fabricate some highly
+1:14:33
+specialized scientific apparatus that costs 100x as much per unit
+1:14:37
+utility because it's so specialized.
+1:14:39
+At our flume we used, we have a backhoe loader that's much like what you'd
+1:14:44
+see out on some construction site.
+1:14:52
+By the way, you were in Japan.
+1:14:54
+When did Unzen Volcano have a big eruption?
+1:14:56
+Was that in the '80s or in the early '90s?
+1:14:58
+Unzen-so, well Unzen was in the '90s, but there was another event in Japan.
+1:15:08
+I'm trying to remember what year it was.
+1:15:10
+I think in 1984 there was a volcano called Ontake in Japan that had a
+1:15:18
+minor eruption that was accompanied by a sizeable debris avalanche, sort
+1:15:22
+of like the Mount St. Helens debris avalanche, although Ontake is a smaller
+1:15:25
+volcano with a smaller debris avalanche.
+1:15:27
+But it provided one more piece of important evidence about how
+1:15:32
+significant these kinds of events can be at volcanos, even when the eruptive
+1:15:38
+activity itself is relatively modest.
+1:15:41
+What kind of lessons or even frustrations did your experience, and
+1:15:45
+your colleagues, up at the volcano observatory in trying to historically
+1:15:50
+reconstruct processes from the photos, the videos, measurements in the field?
+1:15:56
+I've seen a lot of that stuff that's been done.
+1:15:59
+What did you learn positively but also, like, this just
+1:16:02
+doesn't take us far enough?
+1:16:04
+That's a good question.
+1:16:05
+It is true that at St. Helens the eruption of May 18, 1980
+1:16:12
+was fortuitous in many ways.
+1:16:14
+It occurred at 8:30 a.m. on a Sunday morning.
+1:16:19
+It was a clear, spring morning.
+1:16:21
+As we all know here in the northwest, clear mornings in May
+1:16:25
+are not to be taken for granted.
+1:16:27
+I'm sure they're a minority.
+1:16:29
+The fact that it was a weekend-there were all sorts of amateur photographers
+1:16:34
+and what not distributed around the mountain, had their cameras set up
+1:16:38
+because it was a time of day when they were already out for the day.
+1:16:40
+They were just kind of beginning to putter around their campsite
+1:16:42
+but they had their cameras set up.
+1:16:45
+So, we have this remarkable photographic record of what happened, which is
+1:16:49
+really even today quite extraordinary.
+1:16:52
+You read Richard Waitt's book.
+1:16:53
+Oh yeah.
+1:16:53
+That's pretty cool.
+1:16:54
+It's a good account of all that.
+1:17:01
+Despite all that, despite this remarkable body of evidence and
+1:17:05
+despite the fact that all kinds of detailed scientific measurements
+1:17:09
+had been made prior to the eruption-
+1:17:11
+Because there were sensors all over the volcano, right?
+1:17:13
+Yeah, well to the degree that that was possible.
+1:17:15
+Back in 1980 it was a different world then, in terms of the world of
+1:17:18
+sensors and computers and so forth.
+1:17:20
+But
+1:17:23
+despite all that there were all these unanswered questions about the dynamics
+1:17:27
+of the landslide and what allowed it to move so fast and so far, and so forth,
+1:17:31
+and how did the lahars really get started?
+1:17:34
+What was it about the landslide that allowed it to partly transform into
+1:17:39
+lahars that traveled all the way to the Columbia River and that sort of thing?
+1:17:44
+The great body of evidence answered lots of questions, but it probably posed
+1:17:50
+as many new questions as it answered.
+1:17:54
+Because there just wasn't enough ways to calibrate and-?
+1:18:00
+Exactly.
+1:18:02
+Fred told me about how the Rosenfeld [Gary Rosenquist] photographs
+1:18:05
+they were trying to do time-lapse and estimation of distance and
+1:18:10
+trigonometry and this and that.
+1:18:12
+That's the thing, the photographs, commonly when you see the photographs
+1:18:16
+of the beginnings of the eruption, they have these timestamps applied.
+1:18:21
+But the fact is none of those were actually timestamped photos.
+1:18:25
+Those timestamps were all applied after the fact through reconstructions and
+1:18:29
+trying to piece the evidence together.
+1:18:31
+So, there was a lot of room for error?
+1:18:32
+There was a lot of room for error.
+1:18:34
+Anyway, you're in the late '80s and you're thinking about doing this.
+1:18:38
+How did the process really begin of I want to do this, here's a design model?
+1:18:44
+How did culminate around in your head and what other collaborators did you have with
+1:18:48
+you that were helping you conceive this?
+1:18:51
+The way the process unfolded, it really began in earnest when my colleague,
+1:18:56
+Rick LaHusen, and I returned from this experience in Japan because he was
+1:19:00
+with me during that period of several months working on those experiments.
+1:19:03
+He was up at the volcano observatory?
+1:19:04
+He's retired now, but yes, we were colleagues for many years at
+1:19:09
+CVO.
+1:19:09
+He was an instrumentation specialist.
+1:19:12
+In fact, I had recruited him to come to work for the Survey
+1:19:15
+for that particular reason.
+1:19:16
+He was so good at doing his instrumentation work.
+1:19:22
+It was after we came back from Japan, frankly probably while we were in
+1:19:26
+Japan, we started talking about what we need is something kind of like this.
+1:19:31
+We need a big experimental facility where we can make debris flows and then study
+1:19:36
+their dynamics as they run out down slope and pick up high speeds and so forth.
+1:19:41
+Arriving back at CVO, soon thereafter, we started to
+1:19:47
+start a campaign of lobbying our managers in the USGS.
+1:19:52
+First of all, just locally, my immediate boss, John Costa, who was
+1:19:56
+receptive to the idea, and then he in turn floated the idea with higher
+1:20:01
+levels of management in the USGS.
+1:20:03
+They were pretty receptive, although there
+1:20:07
+was a tug of war of sorts.
+1:20:10
+There were people who were very strongly opposed to investing this kind of money.
+1:20:15
+Which was a quarter million dollars.
+1:20:18
+A quarter million dollars, which was more in those days than it is today.
+1:20:23
+In doing so, on something that was completely different than what had
+1:20:26
+ever been tried before and in trusting a couple of early 30-somethings,
+1:20:32
+meaning Rick and me, with this amount of money and responsibility to do
+1:20:37
+something well and carry it out.
+1:20:38
+There were those who were quite skeptical.
+1:20:40
+But fortunately, the people who really mattered, my direct boss
+1:20:45
+John Costa, and his direct boss, John Conomos, who was in Menlo Park,
+1:20:49
+California, were both very supportive.
+1:20:52
+The lobbying process began late in 1987 and by '89 or '90,
+1:21:01
+I can't remember exactly what year, we'd sort of been given
+1:21:06
+unofficial authorization to proceed, meaning to start making plans.
+1:21:12
+The process then was first of all coming up with a sort of sketch level design,
+1:21:18
+just Rick and I batting ideas back and forth about this is what we want
+1:21:22
+this thing to look like more or less.
+1:21:24
+Once we had that image in mind of what we wanted it to look
+1:21:27
+like, the next big question was where can we possibly do this?
+1:21:32
+The original sketches are they quite similar to what
+1:21:35
+actually was finally built?
+1:21:36
+Yeah.
+1:21:38
+They're primitive sketches, but in terms of the geometry, the size-
+1:21:45
+The gradient.
+1:21:45
+The gradient, yeah, it ended up being pretty similar to
+1:21:49
+what we originally had in mind.
+1:21:52
+There were some fortunate circumstances in that as well,
+1:21:55
+which I'll get to in a minute.
+1:21:59
+Once we had this unofficial authorization to proceed, the next big question in
+1:22:03
+our minds was where can we possibly do this, because we knew that there
+1:22:06
+was no way we could actually buy land to do it so pretty much had to be
+1:22:11
+federally administered land somewhere.
+1:22:15
+We talked to a number of different agencies who had land in the area.
+1:22:18
+We talked to Bonneville Power Administration, who has a number
+1:22:21
+of facilities scattered up in the Portland, Vancouver area and in
+1:22:24
+the Columbia Gorge and so forth.
+1:22:27
+One of the people I talked to was Fred Swanson, who was the
+1:22:30
+person I knew best in the Forest Service in the Pacific Northwest.
+1:22:33
+You'd been around him at St. Helens stuff, right?
+1:22:36
+Well, and I'd also met him years before, actually, at the H.J. Andrews Forest
+1:22:41
+when we were leading a field trip focusing on landslides, both within
+1:22:45
+the Andrews and the larger compass of the Willamette National Forest.
+1:22:51
+He was talking about the slow-moving landslides?
+1:22:53
+Slow and fast.
+1:22:54
+Slow and fast.
+1:22:56
+We visited some big slow-movers and also some sites where there'd
+1:22:59
+been rapid, shallow debris flows.
+1:23:02
+I had known Fred for some years.
+1:23:05
+Also, a key person who I haven't mentioned yet was Dick Janda, who was my original
+1:23:10
+boss at the USGS CVO who was an old friend of Fred's and who had also been
+1:23:20
+one of the people responsible for starting that project down at Redwood Creek
+1:23:24
+Country where I'd done my Ph.D. work.
+1:23:26
+Dick was important to have on board as well, even though he had stepped down
+1:23:32
+from his management job at that point and was no longer my line authority manager.
+1:23:42
+Just talking to people about where we might possibly do this and it was
+1:23:45
+Fred Swanson who suggested the H.J. Andrews, which hadn't really occurred
+1:23:49
+to me because I always thought of it as being more of an ecological, forestry
+1:23:54
+research area and how would they think about having a big flume built there.
+1:24:01
+Fred, in turn, I think floated the idea with Art McKee who was the director
+1:24:06
+of the Andrews Forest at that time and possibly with others in the Forest
+1:24:11
+Service and not long thereafter we all got together at Andrews to look at
+1:24:15
+potential sites and here was this site only 100 yards or so from where the
+1:24:21
+headquarters compound area is at the mouth of Lookout Creek at the Andrews Forest.
+1:24:28
+Art and Fred agreed that this would be a good place to do it.
+1:24:31
+Art didn't see any issues in terms of environmental impact really because
+1:24:37
+it was an area that had been logged recently anyway, and just sort
+1:24:40
+of second growth scrub in there.
+1:24:43
+It didn't appear that it was going to harmfully impact anything.
+1:24:48
+I don't recall that we had to do any sort of formal EIS or anything like that.
+1:24:55
+The thing that I will send you even if you drop-box or whatever, I didn't
+1:24:58
+have time to give you a whole thing.
+1:25:00
+But I've got scanned all the EA preliminary reports that never
+1:25:05
+went to full EIS, but they had a biological survey, a cultural
+1:25:09
+survey, a sensitive plant survey.
+1:25:11
+Just so you know, there was stuff that happened.
+1:25:12
+Well, I knew that, and that was all going on within the offices of
+1:25:17
+the Willamette National Forest, so we were extremely fortunate that-
+1:25:21
+Lynn Burditt, that was the District Ranger.
+1:25:22
+Well, she was the District Ranger up in the McKenzie Ranger District [Blue
+1:25:24
+River Ranger District at that time; now merged into the McKenzie River
+1:25:24
+Ranger District] . Then there were also folks down at their headquarters
+1:25:27
+office down in Eugene who got involved.
+1:25:32
+This individual John Cissel
+1:25:37
+[liaison between the research and land manager communities] . There was
+1:25:38
+another fella whose name is escaping me.
+1:25:40
+But we got a tremendous amount of assistance from Forest
+1:25:42
+Service staff on this stuff.
+1:25:44
+We in the USGS had no experience doing this because we don't manage land.
+1:25:48
+We don't build structures.
+1:25:50
+We don't have that kind of background.
+1:25:53
+You were coming into this right at the time where the Andrews was a maturing
+1:25:58
+as an LTER site [Long-Term Ecological Research] , and their campus was
+1:26:01
+becoming professionalized and nice.
+1:26:04
+Absolutely.
+1:26:05
+Yeah.
+1:26:06
+The "ghetto in the meadow"-
+1:26:08
+Was disappearing.
+1:26:08
+Was disappearing.
+1:26:10
+You were coming in about that time.
+1:26:12
+Absolutely and in fact when the flume was under construction, which was in 1991,
+1:26:18
+as I recall that was the same year that they were building, or maybe they had
+1:26:24
+just completed construction of what is now the headquarters building at the Andrews.
+1:26:27
+I think that had just been finished in '90 or '91.
+1:26:31
+The plans were in '90 I believe.
+1:26:33
+And the shop building had been constructed already.
+1:26:35
+It's larger today than it was then.
+1:26:37
+But the building had been constructed and they were just starting to
+1:26:41
+work on the first of what are now the several housing units there.
+1:26:47
+So, the flume was built in 1991.
+1:26:50
+It didn't finish construction until late in the fall, so we didn't actually
+1:26:54
+use it until the spring of '92.
+1:26:57
+We did some of the finish work on the flume ourselves, in terms of we built a
+1:27:02
+small instrument shack there and so forth.
+1:27:05
+But the timing was very fortuitous in terms of changes that were happening at
+1:27:09
+the Andrews being basically coincident in time with when we were building the flume.
+1:27:15
+So,
+1:27:20
+how did it go from sketch to formal design?
+1:27:23
+I know there were some back and forths and geotechnical suggestions and adjustments.
+1:27:28
+I've had the fortune to read all the documents in the last week.
+1:27:33
+The transition from sketch to formal design, a crucial part of that process was
+1:27:41
+contracting with an individual professor at Portland State University, Franz Rad,
+1:27:45
+who was a relatively recent addition to the faculty there whose expertise
+1:27:49
+was structural reinforced concrete design, perfect for what we had in mind.
+1:27:57
+I guess I was aware of Franz, or first met him, through another guy who I knew
+1:28:03
+at Portland State University who was in the Mechanical Engineering Department
+1:28:07
+who I had recruited one of his students to do some work for us previously,
+1:28:12
+so I had a bit of a toehold there.
+1:28:14
+Anyway, Franz was interested in pursuing this project.
+1:28:17
+I have no recollection of what we paid him in the way of a consultation fee.
+1:28:22
+He was the one who transformed our drawings into actual construction
+1:28:26
+documents, meaning that he created the blueprints that were used by
+1:28:31
+the contractors, both in the bidding and in the construction process.
+1:28:35
+He developed the actual specs for the concrete, for the steel that
+1:28:39
+was going to go in the concrete and all those sorts of things.
+1:28:43
+He transformed it from basically being an idea to something that
+1:28:47
+looked like construction plans.
+1:28:50
+Then the next step was once we had those in place, and there was a lot
+1:28:53
+of iteration between Franz and me.
+1:28:55
+We would bat things back and forth, which was a fun process and a
+1:29:00
+completely unique one in my experience.
+1:29:02
+It really was good that you had your engineering background
+1:29:05
+because you really could-
+1:29:06
+I could talk his language.
+1:29:07
+You could talk shop.
+1:29:07
+Yeah, I could talk his language.
+1:29:09
+Interestingly the single biggest point of divergence of opinion was how exactly
+1:29:17
+are we going to operate those big steel gates at the head of the flume.
+1:29:20
+At the top of the flume there are these gates that are 2 m high, 2 m wide, and
+1:29:26
+they retain or have to resist about 20 tons of force against them when you have
+1:29:31
+this wet sediment piled behind them.
+1:29:33
+So, they have to be really heavy and build-
+1:29:34
+Really heavy and really stiff and strong and have a very secure latch mechanism.
+1:29:40
+Then you have to be able unlatch them and allow them to open very rapidly.
+1:29:45
+We had lots of discussions about what was going to be the
+1:29:47
+best design for these gates.
+1:29:50
+Ultimately, I ended up deferring to Franz's judgment as to how best to do it.
+1:29:54
+I was in favor of a gate that would pivot on a horizontal hinge so that the gate
+1:30:01
+would flip open in a vertical sense.
+1:30:06
+That design had many advantages, but it had one really big disadvantage
+1:30:10
+and that's in order to open the gate you were going to need some sort of
+1:30:14
+a hydraulic system that could apply a very large force very quickly to lift up
+1:30:25
+this huge steel gate and flip it open.
+1:30:30
+That was a big disadvantage.
+1:30:31
+The advantage of that type of gate is as it flipped open it enabled
+1:30:35
+complete clearance for the sediment to just discharge from beneath it.
+1:30:38
+There was no gate in the way.
+1:30:41
+Whereas, instead what we have are gates that open sort of saloon door fashion,
+1:30:46
+where the hinges are mounted vertically on each side wall and when you unlatch
+1:30:50
+the gate it flips open like a saloon door.
+1:30:54
+Franz's argument was that from an engineering standpoint this
+1:30:57
+was a much more straightforward, more bomb-proof kind of design.
+1:31:01
+I think he was absolutely right.
+1:31:04
+It has minor disadvantages scientifically because, really
+1:31:07
+two-fold, one is that the gate does not open instantaneously and clear
+1:31:11
+room for the sediment to pass through.
+1:31:12
+It's more of a progressive opening.
+1:31:16
+The other is that then the gate when it does fully open it impacts the
+1:31:19
+side walls of the flume and bounces.
+1:31:22
+Those are disadvantages but I think on balance we've now been running the flume
+1:31:26
+for a quarter of a century, we've had no mechanical problems with the gate.
+1:31:30
+The doors have never broken.
+1:31:32
+Doors have never broken.
+1:31:33
+Have you replaced them?
+1:31:34
+No.
+1:31:34
+No.
+1:31:35
+They're the originals, okay.
+1:31:35
+We've replaced the hydraulic system, but that's actually a
+1:31:39
+pretty inexpensive component.
+1:31:41
+In this case it's a very simple, off the shelf hydraulic system, not some
+1:31:46
+huge, powerful specialty system.
+1:31:48
+Whereas, for example, yesterday I visited the big wave tank facility
+1:31:52
+here at OSU and there they do have a huge hydraulic system that has to do
+1:31:58
+something comparable and has to very quickly move this huge steel plate
+1:32:02
+and create waves at high frequencies.
+1:32:06
+It's immense.
+1:32:08
+That's the kind of hydraulic system we probably would have required if we
+1:32:11
+had a gate of the kind I had in mind.
+1:32:13
+Which would have been more money than you had.
+1:32:16
+More money and probably more problematic to keep it functioning.
+1:32:20
+Long-term maintenance, right.
+1:32:20
+Exactly.
+1:32:21
+So, I think on balance Franz's design was a good one
+1:32:28
+and so that gave us the blueprint for building the flume and the next big
+1:32:32
+step was actually getting, putting out an announcement and getting
+1:32:38
+contractors to bid on the project.
+1:32:41
+Of course, nobody'd ever built anything like this.
+1:32:42
+Nobody'd ever built anything like this.
+1:32:45
+The timing was very fortunate because this would have been happening, I
+1:32:48
+guess in 1990 that this solicitation of bids happened and in 1990 there
+1:32:57
+was an economic downturn and I can't remember exactly what the scope of that
+1:33:01
+was and whether it was more regional or national or whatever, but the bottom
+1:33:04
+line is the contractors were hungry.
+1:33:07
+They were particularly hungry for things like concrete structures because I think
+1:33:12
+the downturn had really affected the road and bridge construction industry.
+1:33:18
+In order to solicit bids, we again worked through the Forest Service because
+1:33:23
+they had experts who worked for the Willamette National Forest in Eugene.
+1:33:28
+This was their job.
+1:33:30
+Their job was designing contracts and orchestrating the
+1:33:34
+bidding process and so forth.
+1:33:37
+They basically did that work for us, again with lots of back and forth,
+1:33:43
+but they did the real heavy lifting
+1:33:47
+and so pretty soon we had this announcement went out where other
+1:33:50
+federal announcements go out and we ended up getting four bids,
+1:33:55
+from four different contractors.
+1:33:58
+This was the next stage that was a real eye-opener for me because
+1:34:01
+the bids ranged from about $220,000 to just over a million dollars.
+1:34:10
+There was almost a factor of 5 difference in the bids.
+1:34:15
+My reaction to this, being naïve about such things, I
+1:34:18
+just thought this was baffling.
+1:34:19
+How could there possibly be a factor of five difference in the bids?
+1:34:23
+Again, fortunately the professional contracting folks at the Willamette
+1:34:27
+Forest, being more experienced and knowledgeable, they explained to me, they
+1:34:31
+said you know this is actually kind of common on these sorts of one-off projects.
+1:34:36
+The reason is-
+1:34:36
+Because people don't know, yeah.
+1:34:37
+There reason is there's quite a bit of risk involved.
+1:34:40
+It's a new and different kind of thing.
+1:34:43
+They said, moreover, usually when these federal solicitations come out there will
+1:34:47
+be a certain number of bidders who they're just going to take a flyer at it in the
+1:34:51
+hope that nobody else is going to bid.
+1:34:56
+And they'll get a high bid.
+1:34:57
+And they'll get a high bid and make a killing on it, an absolute killing on it.
+1:35:00
+Well, fortunately we had competitive bids and not just this one wild-as
+1:35:05
+I recall there was this bid for $220, there was another one that
+1:35:08
+was maybe $300, another one $400 and then way up to a million dollars.
+1:35:13
+You go with the low bid?
+1:35:14
+We did go with the low bid, even though the law did not require us to.
+1:35:19
+Again, the contracting folks explained to me that oftentimes the contractor
+1:35:25
+who makes the lowest bid, as long as you do due diligence and make sure this
+1:35:31
+person is actually qualified can make that lowest bid because they're the
+1:35:35
+most knowledgeable and most experienced in doing similar kinds of work.
+1:35:39
+In fact, this company that was based in Roseburg, a construction company based in
+1:35:44
+Roseburg, what they traditionally did was building a lot of small, concrete dams.
+1:35:50
+When you think of building a small, concrete dam you're working in
+1:35:52
+steep terrain, you have to pour concrete on steep slopes and get
+1:35:57
+it to stay in place and so forth.
+1:36:00
+You're probably going to have to do a lot of slope preparation work.
+1:36:03
+Really a whole skill set for building something like this.
+1:36:07
+They did a great job.
+1:36:08
+They-
+1:36:11
+What's the name of the company?
+1:36:12
+Well, I'm trying to remember what the name of the company was.
+1:36:14
+It'll probably-
+1:36:14
+I could probably find it in the records, but for the sake of this
+1:36:17
+recording if you can remember.
+1:36:18
+Yeah.
+1:36:19
+Maybe it'll come back to me.
+1:36:20
+It's escaping me at the moment.
+1:36:22
+At any event, the project was so successful as a concrete construction
+1:36:26
+project that actually a year later or something it received this,
+1:36:31
+there's an award for excellence in construction in concrete which
+1:36:34
+is given by the Oregon Concrete Association or something of that nature.
+1:36:40
+Maybe it's broader in scope than Oregon, but anyway so the
+1:36:43
+contractor received an award.
+1:36:46
+Was it for the flume?
+1:36:47
+Yeah, for the flume.
+1:36:48
+They received an award for the construction.
+1:36:52
+Franz Rad as the designer received the award and we received the award
+1:36:56
+as being the owner of the project.
+1:36:59
+It's called a hat trick.
+1:37:01
+And that plaque, it's a concrete plaque with a nice brass plate on
+1:37:05
+it that still hangs down in our instrument shack at the flume.
+1:37:09
+The award for excellence in concrete.
+1:37:12
+It's held up remarkably well.
+1:37:13
+We've made some modest changes over the years.
+1:37:18
+Frankly, wherever we've made changes and added new concrete hasn't generally held
+1:37:24
+up as well as the original concrete.
+1:37:28
+Because how it was designed?
+1:37:30
+How it was formed?
+1:37:31
+How it was spec'd.
+1:37:33
+And the quality of the concrete itself.
+1:37:35
+The quality of the concrete itself.
+1:37:36
+Because that's a big deal.
+1:37:37
+People say it's just concrete.
+1:37:38
+No, concrete's not just concrete.
+1:37:38
+No.
+1:37:39
+It was a very big deal to get the right mix for this stuff and it was a very, very
+1:37:42
+strong mix and fortunately the weather was favorable when they were pouring it.
+1:37:46
+It was cool, moist weather, which is what concrete likes for curing and so forth.
+1:37:53
+No, it's really, really well-built and wherever we've got concrete chipping
+1:37:59
+away or anything it's where we put in patches for reasons, not for structural
+1:38:03
+reasons, but we decided that we had to put in some new instruments or something,
+1:38:08
+so we'd cut away at the concrete and put a patch in or something like that.
+1:38:12
+Now at the talk you gave last night you talked about it's 31° [slope] , right?
+1:38:17
+Right.
+1:38:18
+That was basically, 30° was-
+1:38:20
+30° was our target.
+1:38:22
+Your target but you came to the realization that some kind of average
+1:38:25
+gradient for the stratovolcanoes in the northwest was 31°.
+1:38:29
+About 30°.
+1:38:30
+Oh, okay.
+1:38:30
+Well, no 30° was the target, the design target.
+1:38:33
+It's just that the slope that was available-
+1:38:35
+Was 31°.
+1:38:36
+Was closer to 31°, and the thing is one of the major costs in building
+1:38:41
+something like this is simply earth moving and we were going to have to do
+1:38:46
+a lot more earth moving if we leveled it down to 30° than if we kept it at 31°.
+1:38:51
+So, we just went with 31°.
+1:38:52
+We were fine with that.
+1:39:00
+What was I going to ask you?
+1:39:00
+Now, what difference does it make, if any, that this is in this particular climate?
+1:39:10
+For the behavior of the dynamics of the flows and all the stats?
+1:39:16
+I would say that there was an upside and a downside to the climate of the
+1:39:18
+Andrews for doing experiments like this.
+1:39:21
+The main thing with the Andrews being that it's wet and that the mean annual
+1:39:26
+rainfall there is something greater than 2 m, and I don't know the exact number.
+1:39:30
+But it basically means-
+1:39:31
+It's 80 something, I think.
+1:39:32
+Yeah, 80-some inches.
+1:39:34
+Because you're on the west gradient of the west slope of the Cascades.
+1:39:36
+So, it's wet and it's
+1:39:41
+sort of reliably wet for about 8 or 9 months of the year and that effectively
+1:39:47
+limits our experiment season to the months of May through September.
+1:39:53
+We've done them at other times of the year.
+1:39:55
+We've tried doing them as early as March.
+1:39:56
+Because you need it when it's not wet so you can control-
+1:39:59
+So, we can control water contents.
+1:40:01
+And equally important, when you're working with a lot of electronics, and
+1:40:05
+we have a great deal of electronics at the flume and many, many wiring
+1:40:08
+connections and so forth, water is not your friend in that environment.
+1:40:13
+You've got to keep your electronic connections dry.
+1:40:17
+We work in the rain.
+1:40:18
+We've done a lot of working in the rain there, but it slows us down.
+1:40:21
+It complicates things.
+1:40:23
+It's a lot easier to work when the weather is nice.
+1:40:26
+In the early years when we were really motivated to maximize our number of
+1:40:29
+experiments we started as early as March and we continued through October
+1:40:34
+and we worked in a lot of pretty miserable weather in March and October
+1:40:39
+so now in more recent years we've limited our window for working there.
+1:40:45
+The wetness has a downside.
+1:40:48
+The upside to the wetness there is that we've always had an
+1:40:52
+ample water supply, because our experiments do use a lot of water.
+1:40:55
+We've got to mix up debris flows, which take a lot of water and then we need
+1:40:59
+a lot of additional water for cleaning up the mess at the end of experiments.
+1:41:03
+We've always been able to just withdraw our water from Lookout Creek, which
+1:41:07
+is only roughly 100 yards away from the flume and it's a big enough
+1:41:13
+creek that our rate of withdrawal, which is only 4 or 5 gallons a
+1:41:17
+minute is kind of inconsequential.
+1:41:23
+Do
+1:41:25
+you remember when it was christened?
+1:41:27
+When it was finished?
+1:41:29
+Oh yeah.
+1:41:30
+Tell me about the finishing.
+1:41:34
+Was there like an anointing or a ceremony?
+1:41:37
+Well, there wasn't so much a ceremony when it was finished, because like a
+1:41:40
+lot of construction projects it sort of approached finish asymptotically
+1:41:46
+and the final finishing touches were things, we did ourselves in terms
+1:41:49
+of, again, building this instrument shelter and that sort of thing.
+1:41:54
+What was more profound, I guess, was the first experiment, the first
+1:41:58
+attempt to actually use the flume.
+1:42:00
+Tell me about that.
+1:42:02
+So, the very first attempt was a foolish one that was probably guaranteed to be
+1:42:07
+a disaster because we hadn't thought things through very carefully, I guess.
+1:42:13
+What we did for our very first experiment, and this again we did this in March.
+1:42:18
+The weather was wet and cold.
+1:42:21
+At that time, we didn't appreciate just how much manpower it was going
+1:42:25
+to take for these experiments.
+1:42:26
+There were just 3 of us working there.
+1:42:28
+It was Rick LaHusen, Tony Bequette, and myself.
+1:42:33
+We went down there and the hopper area at the top of the flume behind
+1:42:37
+the steel gates is capable of holding as much as 20 m3 of sediment.
+1:42:44
+Now, in recent years we've never used that much because it proved to be
+1:42:47
+impractical, but for some reason we had it in our mindset we're not going
+1:42:52
+to skimp on the first experiment.
+1:42:53
+We're going to load it right up to the top.
+1:42:55
+We put in a full 20 m3.
+1:42:59
+We also chose to do use pea gravel because-
+1:43:03
+Without any mud in it.
+1:43:04
+No mud in it.
+1:43:05
+Okay.
+1:43:05
+Basically, because we thought it'd be simple to clean up because there
+1:43:08
+wouldn't be any mud to make a big mess.
+1:43:10
+It'd just be nice, clean gravel.
+1:43:14
+We sort of had it in our heads, or I had it in my head anyway, that what
+1:43:17
+was going to happen when we opened the gates is that this pea gravel would
+1:43:22
+flow down the flume and basically pile up in a heap at the foot of the flume.
+1:43:28
+What I didn't take into account was the fact that it was early
+1:43:32
+spring, and the pea gravel was wet.
+1:43:36
+It wasn't by any means saturated but it was very moist.
+1:43:39
+And moist gravel has a lot of-
+1:43:42
+Sticks together.
+1:43:42
+Sort of stick together.
+1:43:44
+It's all due to the capillary forces, you know the little films of water that are
+1:43:48
+binding the gravel particles together.
+1:43:51
+We're all excited.
+1:43:52
+This is going to be the big, grand opening of the flume.
+1:43:55
+We release the gate and the pea gravel, 20 m3 of pea gravel just sort of drizzles
+1:44:01
+slowly down the flume and leaves the entire bed of the flume from top to bottom
+1:44:07
+coated with pea gravel about 10 cm thick.
+1:44:11
+So, you had to clean that mess that was-
+1:44:12
+So, now the question is how the heck are we going to get
+1:44:15
+this pea gravel out of there.
+1:44:16
+Because it's hard to climb out of that thing, isn't it?
+1:44:18
+Yeah, really hard, especially when there's pea gravel underfoot.
+1:44:23
+When the flume bed is nice and clean, bare concrete, you can walk up and down
+1:44:26
+it without too much difficulty but not when it's got slippery stuff underfoot.
+1:44:31
+There are only 3 of us there to do the work.
+1:44:35
+So, we spent the rest of that week, we were there for an entire week and we spent
+1:44:40
+3 or 4 days of that week, the three of us, getting this pea gravel out of the flume.
+1:44:48
+The way we did it, this was just-thank God we were young then, because
+1:44:51
+this was just back breaking work.
+1:44:58
+Getting the gravel down the flume was a non-trivial deal.
+1:45:03
+Couldn't you just wash it down with water?
+1:45:05
+Well, at that time we didn't have-later we did have a high-pressure pump where
+1:45:11
+we could blast things with water.
+1:45:13
+We didn't have it at the time.
+1:45:15
+So, it was going to be some sort of manual operation.
+1:45:17
+You can't just sweep it down, didn't you?
+1:45:18
+Well, what we ended up doing-we started out just trying to push
+1:45:22
+it down with shovels and stuff and that was way too much work.
+1:45:25
+So, what we ended up doing is Tony on the spot, he had, I can't remember
+1:45:30
+if he had a welder with him or
+1:45:34
+how exactly this was fabricated but somehow-maybe we came back-anyway, he
+1:45:39
+fabricated what was essentially a dredge, like a steel plow that fit inside the
+1:45:48
+flume and was designed in such a way that Rick and I could stand on the back
+1:45:53
+of it to apply our bodyweight to it.
+1:45:56
+What we would do is we had a winch on a big pickup down at the foot of the
+1:46:01
+flume and we would drag that winch cable up to the top, hook it onto this
+1:46:06
+big dredge thing, and then we would just stand on it and Tony would engage
+1:46:11
+the winch and we would ride this thing down trying to dredge the gravel down.
+1:46:16
+After 3 or 4 days we finally got all the gravel down to the foot of the flume.
+1:46:21
+Were there people from the Andrews there that witnessed the first
+1:46:24
+experiment or was it just you three?
+1:46:25
+I think it was just us three.
+1:46:26
+I think we realized-
+1:46:27
+Aren't you glad?
+1:46:27
+I think we realized, I know that this was kind of a high-risk operation and there
+1:46:32
+was a high chance of failure, so we tried to do it when there was nobody around.
+1:46:38
+Of course, that time of the year there are very few people at the Andrews.
+1:46:41
+It's kind of a skeletal staff during that season, especially in
+1:46:45
+those days, more so than today.
+1:46:48
+So, this was in 1992.
+1:46:49
+This was in '92, yeah.
+1:46:50
+So that whole first season of 1992 we were down there, we
+1:46:54
+spent a lot of time at the flume.
+1:46:55
+We were down there pretty much one week a month for the next five or six months,
+1:47:03
+and it was just a gradual learning experience of how to use the flume.
+1:47:10
+How did you write up the learning curve?
+1:47:12
+Almost like not in the sense that we learned all this great science,
+1:47:17
+but we learned how not to and then eventually how to use the flume.
+1:47:21
+We never did write up a learning curve like that, in part because by and large
+1:47:27
+people don't have interest in something like that when it's a one-off facility.
+1:47:31
+If this was something that other people were going to be doing somewhere else,
+1:47:34
+then they'd probably have interest in learning about our mistakes.
+1:47:36
+Well, we want to know what happens if you don't do this.
+1:47:40
+So, the only people who have had interest, and this has been much, much later, just
+1:47:43
+within the last several years is that the Chinese are now building their own flume.
+1:47:48
+The Chinese did come and visit us, and we spent an entire day
+1:47:51
+with them at the Andrews talking about how to try to do it right.
+1:47:56
+I'm not sure if they'll embrace all of our advice, but we did
+1:48:00
+our best to convey our advice.
+1:48:04
+One of those pieces of advice was you need to be thinking about cleanup.
+1:48:08
+Don't just be thinking about how you're going to do the experiments,
+1:48:11
+think about how you're going to clean up after the experiments and have a
+1:48:14
+plan for how you're going to do that.
+1:48:15
+And this is when the concrete's relatively smooth, because you added-
+1:48:19
+Yeah, the bumps later.
+1:48:20
+Texture and bumps, yeah.
+1:48:21
+Yeah.
+1:48:22
+And that would have made it harder, right?
+1:48:23
+Oh yeah, much harder.
+1:48:25
+Thank goodness it was smooth in those days.
+1:48:27
+Did you ever ski the flume, Dick?
+1:48:31
+No.
+1:48:31
+It looks kind of like a giant ski jump, but you'd have to be, well, maybe there
+1:48:35
+are crazy young people out there who'd be willing to ski it, but I wouldn't,
+1:48:38
+not with concrete walls on either side.
+1:48:42
+No opportunity to make turns on that flume.
+1:48:44
+No.
+1:48:47
+So, yeah,
+1:48:50
+that whole first season was just a learning experience with really
+1:48:55
+no meaningful scientific results.
+1:48:57
+It was all just about how to try to use the facility.
+1:49:01
+The biggest challenge we ran into, once we understood the limitations of
+1:49:07
+what kind and volume of sediment we could use, the next big challenge we
+1:49:11
+ran into was how to seal the gate in such a way that we could retain water
+1:49:17
+behind it and have very little leakage.
+1:49:19
+As your saturating whatever-
+1:49:20
+As we're saturating the sediment.
+1:49:22
+Yet at the same time have the gate be completely unencumbered when it opens.
+1:49:27
+We tried a number of things, but, basically, I recall four
+1:49:32
+different attempts, the final one of which was successful.
+1:49:37
+One attempt was just using neoprene flaps.
+1:49:40
+We somehow had the notion that if you had nice, flexible neoprene that the
+1:49:44
+sheer force of the sediment up against it would create some sort of a sealing bond.
+1:49:50
+Then we tried using clay, modeling clay, packing the cracks with modeling clay.
+1:49:55
+That didn't work.
+1:49:57
+Then we tried various kinds of caulks and so forth that you might use for
+1:50:02
+caulking household flashing and so forth.
+1:50:05
+That didn't work.
+1:50:06
+The thing that we finally tried, which we've been using ever since,
+1:50:09
+and this stuff was quite new on the market at this time, is polyurethane
+1:50:16
+expansive foam insulation.
+1:50:20
+This is this really sticky stuff-
+1:50:21
+Kind of like the stuff you spray on the roofs in the southwest kind of stuff?
+1:50:25
+I don't know if they use it on the roofs in the southwest, but they
+1:50:28
+use it for construction around here.
+1:50:29
+If you have just a little gap in a wall, like you've done some new construction,
+1:50:36
+you put in a new electrical outlet or something and you now have a gap around
+1:50:40
+it and you want to fill you buy this spray foam stuff and [whooshing noise] just
+1:50:43
+blast it in there with the spray foam.
+1:50:45
+The thing is the stuff is super sticky and it expands to fill space.
+1:50:49
+That's important but it's single most important property probably from
+1:50:53
+our standpoint is that it for the first several hours after you apply
+1:51:00
+it, it remains really quite pliable.
+1:51:03
+Eventually it becomes almost rigid, but from our standpoint-
+1:51:08
+But it'll hold long enough.
+1:51:09
+But, it'll hold long enough.
+1:51:09
+The key for us, and this was a learning process as well, is you apply the
+1:51:14
+foam to all the cracks that you're trying to seal and then you give
+1:51:18
+it roughly one hour of cure time.
+1:51:20
+It's developed a nice, leathery, tough skin on it but it's still kind of pliable.
+1:51:25
+Then you load the sediment in water behind the gate while that stuff is still
+1:51:30
+kind of pliable and the reason you want it to be pliable is that with that 20
+1:51:34
+tons of force against that steel gate, it actually does flex a little bit.
+1:51:39
+So, the crack that you're trying to seal is not a completely static crack.
+1:51:43
+It's one that grows a little bit through this flexure of the gate.
+1:51:46
+But that keeps the moisture behind.
+1:51:49
+It traps the water and the foam is pliable enough that it will kind
+1:51:54
+of expand as the crack expands.
+1:51:56
+And the stuff works, when you do a good job-I mean, like any job you
+1:52:00
+can do a good job of it, you can do a poor job of it, but when you do a good
+1:52:03
+job it's essentially an ideal seal.
+1:52:07
+It works really well, and we learned that totally by trial and error.
+1:52:11
+It took you a couple of years to figure that out.
+1:52:13
+Yeah, probably a couple of years before we really had that wired.
+1:52:16
+There was a long learning curve.
+1:52:18
+Now, describing the learning curve regarding the matrixes and the
+1:52:22
+combinations of materials, explain a little bit about that-from the
+1:52:26
+pea gravel to mud, to water, I mean all the different things
+1:52:32
+that you used.
+1:52:32
+We realized early on that pea gravel was a pretty poor
+1:52:34
+representation of a debris flow.
+1:52:36
+We never thought it would be a good representation, but it was
+1:52:38
+nice, easy material to work with.
+1:52:40
+So, the first material that we worked with that more resembled debris flow was
+1:52:47
+simple, standard, what the local sand and gravel retailer would just in those days
+1:52:51
+would refer to as their concrete mix.
+1:52:53
+It was just about a 50/50 mix of sand and gravel.
+1:52:56
+The gravel is rounded river rock, sort of ¾" rounded river rock, just
+1:53:02
+like they'd make sidewalks out of.
+1:53:04
+That actually works pretty well.
+1:53:06
+There's enough sand in it and enough fine sand in it that it will actually
+1:53:10
+retain water and retain pore pressure when it's released and deformed.
+1:53:16
+But it's not as realistic as when you add mud to that material.
+1:53:20
+As years went by, we moved more towards material that started with
+1:53:25
+that same sand/gravel mix but to that mix we added 20% loam by dry weight.
+1:53:33
+The loam itself had a grain size distribution such that we ended up
+1:53:37
+with a silt and clay content that was about 8% by dry weight, which makes
+1:53:42
+a nice muddy mixture that we could still work with pretty practically.
+1:53:47
+We've tried using still more mud.
+1:53:49
+We've tried using as much as 50% mud, and then you run into all sorts of practical
+1:53:55
+problems with just getting the stuff wet.
+1:53:59
+Anything that's really muddy just becomes a nightmare to work with, both
+1:54:03
+in terms of getting it wet and then in terms of cleaning it up once it is wet.
+1:54:07
+It just sticks to everything.
+1:54:10
+The majority of our experiments have been done with one of those two mixes:
+1:54:14
+the sand-gravel or the sand-gravel-mud.
+1:54:17
+We have used other materials.
+1:54:18
+For example, we've left out the gravel entirely and just used a sandy mix,
+1:54:23
+or we've added larger rocks, sort of fist-sized rocks, because big rocks
+1:54:27
+do play an important role in debris flow, so we've done that as well.
+1:54:32
+But the basic materials have been those two mixtures.
+1:54:36
+Then,
+1:54:39
+the other key variable that we changed over the course of the year was just
+1:54:43
+the texture of the flume bed itself.
+1:54:45
+It started out for the first 8 years it was a relatively smooth concrete
+1:54:51
+surface, a broomed finish, similar to what they'd apply to standard sidewalks.
+1:54:56
+Then in the year 2000 we added bumps to the entire, or nearly
+1:55:01
+the entire bed of the flume.
+1:55:04
+We specially fabricated some concrete tiles that had exactly the texture
+1:55:09
+we wanted to produce the amount of friction that we wanted and then
+1:55:12
+laboriously applied those tiles, grouted them to the bed of the flume.
+1:55:17
+That was a project we did ourselves.
+1:55:18
+We didn't hire a contractor.
+1:55:21
+A group of about 8 of us spent an entire week at the flume with this elaborate,
+1:55:27
+orchestrated process of mixing grout and tiling the entire bed of the flume.
+1:55:33
+Did this work out well?
+1:55:34
+It did.
+1:55:35
+It's worked out extremely well.
+1:55:36
+It hasn't broken, or you haven't had to-
+1:55:38
+It hasn't broken and we, I remember, Matt Logan, who was the mastermind for
+1:55:43
+how exactly we were going to build these tiles and apply them and so forth he used
+1:55:49
+to jokingly he'd say, well, the design life of this, this is about 5 years.
+1:55:54
+He wasn't going to give it more than 5 years.
+1:55:56
+He wasn't optimistic about the long duration, right?
+1:55:58
+No, but Matt has a history of building things extremely well and
+1:56:05
+thoughtfully, and the fact is now 17 years have passed and those tiles
+1:56:09
+are hanging in there just great.
+1:56:11
+Basically, they went in in 2000, then?
+1:56:12
+The year 2000, yeah.
+1:56:15
+Okay.
+1:56:16
+What about the sensors?
+1:56:18
+You talked about last night at your talk that that would
+1:56:21
+be really hard to add more.
+1:56:23
+You never have, correct?
+1:56:25
+We have actually in one location.
+1:56:28
+We have put in a new cross section down near the foot of the flume.
+1:56:32
+How many were in the original design?
+1:56:33
+In the original design, what there were, were
+1:56:38
+3 pods of sensor ports in the bed of the flume and each one of
+1:56:42
+those pods had 6 individual ports.
+1:56:45
+A port consists of a block out in the bed of the flume where there's roughly
+1:56:49
+a cubic foot of concrete that's missing from the bed and there's a hollow
+1:56:53
+underneath that and the idea is you put your instrument in that hollow
+1:56:56
+and cap it off with a metal plate.
+1:56:59
+There were 18 of those in the bed of the flume initially and then,
+1:57:03
+well, I guess initially that's all there were, were just those 18.
+1:57:08
+Then as we added to the runout area at the foot of the flume, we successfully added
+1:57:12
+more concrete to create a progressively larger concrete runout area to contain
+1:57:18
+our flows entirely within the concrete.
+1:57:21
+We added some instrumentation ports out there and then at the time it was
+1:57:29
+coincident with the time that we tiled the bed of the flume we realized that we also
+1:57:34
+had an opportunity then to maybe put in a new cross section of these ports down near
+1:57:42
+the foot of the flume at the 80 m mark.
+1:57:43
+80 m downslope from the gate.
+1:57:46
+It's 95 m, right?
+1:57:46
+It's 95 m top to bottom.
+1:57:49
+We did that and that was laborious because that involved actually sawing
+1:57:55
+into this thick concrete and cutting through a lot of rebar and so forth
+1:57:59
+and then having to drill laterally through the subsurface because these
+1:58:03
+boxes that house the instruments have to have their wires come out beneath
+1:58:08
+the flume along the side of the flume, so you had to drill in laterally in
+1:58:11
+order to accomplish that as well.
+1:58:12
+Were you afraid that you might compromise the structure by doing too much of that?
+1:58:17
+No, simply because by that time enough years had passed that we
+1:58:22
+had a great deal of faith in the structural integrity of the thing.
+1:58:27
+Remarkably being built on a 31° slope, there's never been
+1:58:32
+any sign that the structure as a whole has shifted over time.
+1:58:36
+In terms of land settling or anything?
+1:58:38
+Yeah, exactly.
+1:58:39
+I think part of the reason for that-well, it's all about the way it was constructed.
+1:58:44
+Part of the construction is that on either side of the flume sort of
+1:58:47
+stepping up along its length are big concrete pads that are bolted into the
+1:58:54
+flume itself and those concrete pads in turn have big rock bolts, steel
+1:59:01
+bolts that are probably 4" diameter or something, rock bolts that go all the
+1:59:06
+way down to bedrock at those locations.
+1:59:09
+In principle the whole structure is pinned to bedrock.
+1:59:13
+What passes for bedrock around there-we're not talking Sierra Nevada granite.
+1:59:18
+It's pretty punky, old
+1:59:22
+semi-metamorphosed volcanic rock.
+1:59:25
+That's a pretty old part of the Cascades.
+1:59:27
+Yeah, it's old Cascades and so none of the rock there is very solid.
+1:59:31
+Nonetheless, I think just having anchors that go down 40' or 50' makes a difference
+1:59:36
+in terms of holding the thing in place.
+1:59:39
+Alright, of course.
+1:59:40
+What about photographic-how was that set up originally and what
+1:59:45
+have you added in terms of?
+1:59:47
+I mean you hear the cameras when they're shooting, I mean there must
+1:59:50
+be several ports or places for that-
+1:59:53
+Absolutely.
+1:59:53
+We use lots of cameras to record these things from different
+1:59:57
+angles, different locations.
+1:59:59
+That, like so many other things, the technology has changed so greatly
+2:00:03
+over the course of the quarter century we've been working there.
+2:00:07
+When we first started working there, you have to remember what video
+2:00:11
+cameras looked like in those days.
+2:00:12
+So, we initially had one video camera.
+2:00:16
+It was a VHS, full-sized VSH video camera that you carried around in a big suitcase.
+2:00:24
+It cost something like $3,000 for just a primitive VHS video camera
+2:00:31
+and then we started incrementally adding cameras over the years.
+2:00:35
+Still frames, they changed as well, but we started out with more of
+2:00:40
+a full battery of SLR still-frame cameras with motor drives so we could
+2:00:43
+record sequences of still photos.
+2:00:47
+By
+2:00:50
+the mid '90s, that seems about right in my mind, video
+2:00:57
+technology was already changing.
+2:01:00
+Remember there was an 8
+2:01:04
+mm format and then something they called high-8 or super-8 mm format
+2:01:08
+video camera and we kind of kept increasing the level of technology.
+2:01:12
+Of course, now everything is digital HD and costs one tenth of what our
+2:01:18
+big old VSH camera cost back then.
+2:01:20
+I can imagine how much film you must have gone through in the still cameras.
+2:01:24
+We went through a lot of film on those still cameras.
+2:01:25
+I mean now you can just get chips and shoot as many as you want.
+2:01:28
+Absolutely and for much less cost.
+2:01:31
+Because we went through a great deal of 35 mm film.
+2:01:33
+In my office I have a shelf that's probably 10 ft long that's full of
+2:01:40
+nothing full of notebooks full of 35 mm slides and black and white
+2:01:44
+negatives of all those old photos.
+2:01:47
+We have digitized all those, however, so they now all of those many thousands
+2:01:51
+of photos exist in digital form.
+2:01:54
+Of course, the digitized version never looks quite as sharp
+2:01:58
+as the original film version.
+2:02:01
+Anyway, the changes in video technology have really helped us a lot.
+2:02:07
+We can do so much more nowadays with these HD digital videos, because you
+2:02:12
+can get sharp stills out of the videos.
+2:02:14
+In fact, to some degree the videos have almost entirely supplanted
+2:02:18
+using still frame cameras at all because particularly the newer 4K
+2:02:25
+HD video stills look just as good as a regular still camera photo when
+2:02:32
+viewed on a standard computer screen.
+2:02:34
+I'm sure if you expanded the image enough, you'd see a difference.
+2:02:39
+You shoot everything in big, raw type format things where you can blow
+2:02:43
+them up and really analyze micro?
+2:02:47
+Certainly, with the still photography we've shot a lot of raw photos,
+2:02:51
+so it gives us more latitude for post-processing and so on.
+2:02:57
+We do a lot of stuff that's sort of photogrammetric in terms of trying
+2:03:01
+to infer 3D shapes of deposits and so forth based on photogrammetry.
+2:03:07
+Our way of deploying cameras has changed a lot over the years, too.
+2:03:12
+You asked about that.
+2:03:13
+Where it's changed the most is at the foot of the flume where we've
+2:03:17
+always known that we wanted to do overhead photography because it's
+2:03:21
+really great to have a vertical view looking down on top of that runout area
+2:03:25
+when the deposits are being formed.
+2:03:28
+That, too, was a real learning curve endeavor.
+2:03:32
+The very first efforts at doing that we tried using a balloon,
+2:03:35
+or a blimp, a small helium blimp.
+2:03:38
+Like above everything?
+2:03:39
+Yeah, we put a camera in a box and hoisted up on this little blimp and
+2:03:48
+the problem with that is that any amount of wind whatsoever, if there's
+2:03:53
+even a breath of wind, you've got this big, bulbous blimp up in the
+2:03:56
+air and it's just getting tossed.
+2:03:58
+You can't control the thing.
+2:04:00
+Of course, for photos you really want a fixed frame of reference.
+2:04:03
+You don't want something blowing all over.
+2:04:05
+That was a failure.
+2:04:06
+The blimp was a rapid failure.
+2:04:09
+Then we built a,
+2:04:13
+so we put up a tower kind of like one of those prefab metal radio tower type
+2:04:20
+assemblies that went up about 30 ft. On the end of that put a big boom arm and
+2:04:26
+suspended a camera off that boom arm.
+2:04:28
+That actually worked pretty well but it gave us limited range because you could
+2:04:34
+only reach out as far as the boom reached.
+2:04:37
+When the flows got out beyond that point you lost them from the field of view.
+2:04:41
+Then in later years what we did is assemble a second tower, second sort
+2:04:46
+of prefab steel radio-type tower further out in the runout area and we
+2:04:51
+now have an overhead cable that sort of serves as a gantry or tramway for
+2:04:58
+a traveling cable car that has cameras housed in it, which is a much better
+2:05:04
+way of doing the overhead photography.
+2:05:08
+Of course, the improvements in cameras over the years have made that
+2:05:11
+whole process much simpler as well.
+2:05:15
+Now, the sensors measure speed and force and what else?
+2:05:22
+Well, the sensors in the bed of the flume measure normal force on the bed; shear
+2:05:29
+force on the bed; which is something that we've only been able to do in
+2:05:31
+relatively recent years because it's a much trickier thing to measure than normal
+2:05:35
+force; pore fluid pressure on the bed; and then suspended above those sensors
+2:05:42
+we have lasers that measure the evolving thickness of the flow passing overhead.
+2:05:48
+That combination of measurements tells you a great deal about
+2:05:52
+the mechanics of the flow.
+2:05:56
+When do you feel that you kind of had it down of how this thing operated
+2:06:02
+and how you could best use it?
+2:06:03
+How the flume operated?
+2:06:04
+Yeah, I mean when could you say I'm comfortable with this creation and getting
+2:06:09
+the best scientific results out of it.
+2:06:12
+I think we felt really good about it operationally as early as
+2:06:17
+say 1994, so within a couple of years of beginning operations.
+2:06:21
+I felt like we knew how to make debris flows reliably and we could start actually
+2:06:26
+posing important scientific questions.
+2:06:29
+We started doing experiments involving things like runout processes and flow
+2:06:34
+around a curve and that sort of thing.
+2:06:36
+Things you can actually compare to model predictions systematically and it'll be
+2:06:41
+useful for testing and calibrating models.
+2:06:45
+So, we knew by 1994 that we had a really useful tool on our hands and probably the
+2:06:52
+biggest frustration in those earlier years had more to do with our sensor and data
+2:06:59
+acquisition technology, because it was so much more primitive than it is nowadays.
+2:07:06
+We couldn't collect data as rapidly.
+2:07:09
+All of our data had to be transmitted in analogue form via long cables to a
+2:07:14
+central computer and so we might have electronic sensors that were 100 m away
+2:07:19
+from the computer that was logging the data and the thing is transmitting a
+2:07:24
+small, electronic signal through a long cable is inherently a bad idea, because
+2:07:31
+there's all sorts of opportunities for introducing electronic noise and so on.
+2:07:35
+Well, nowadays what we do is we digitize the data very close to where
+2:07:39
+the sensors are, and the data are transmitted through an ethernet cable.
+2:07:44
+Once everything is digitized, it's now basically free of
+2:07:49
+introducing new electronic noise as it travels down the cable.
+2:07:53
+Of course, the computer is so much faster.
+2:07:55
+It's cheaper.
+2:07:56
+Everything is so much better and easier than it was in those early days.
+2:08:05
+That was a much longer learning curve than learning how to use the
+2:08:09
+flume as a mechanical facility.
+2:08:10
+That learning curve of learning how to take advantage of technology
+2:08:16
+to get the best quality data.
+2:08:19
+Of course, partly it was just a financial matter, too.
+2:08:21
+If we had had unlimited financial reserves back in the 1980s, we could
+2:08:28
+have done what the military does and just throw huge amounts of money at it
+2:08:32
+and probably had a pretty good system.
+2:08:33
+But we were doing everything on the cheap, using just off-the-shelf
+2:08:38
+or stuff we fabricated ourselves.
+2:08:40
+How many questions do you get from the skeptics for the $250,000
+2:08:45
+higher up from the USGS and how long before you had good answers?
+2:08:49
+Well, nowadays we really don't have skeptics.
+2:08:51
+I think everybody realizes-
+2:08:53
+But, back then?
+2:08:55
+Well, I don't know.
+2:08:56
+I didn't interact a lot with the skeptics.
+2:08:59
+I knew who they were.
+2:09:02
+I think that frankly by 1997,
+2:09:07
+we had pretty much dammed up most of that skepticism, because that's when
+2:09:11
+our first set of major papers came out.
+2:09:15
+Prior to that we'd had some minor publications and conference
+2:09:20
+proceedings and that sort of thing.
+2:09:22
+But in 1997 we had a wave of major publications that really laid out
+2:09:28
+the basics of how we understood the mechanics of these flows to be working.
+2:09:34
+I think once those papers appeared that kind of shut everybody up, because
+2:09:39
+they realized that this was valuable.
+2:09:42
+That was about the time when essential assumptions that were had about geological
+2:09:50
+processes, debris flows, this was either challenging or supporting or overturning
+2:09:56
+or providing tangible, believable evidence that said, okay, this is for real.
+2:10:02
+This really does.
+2:10:02
+And we have to rethink or-
+2:10:04
+Yeah, absolutely.
+2:10:06
+It essentially established a completely new way of thinking
+2:10:12
+about the mechanics of debris flows.
+2:10:14
+The fundamental underlying mechanics, there was nothing new about that.
+2:10:19
+It was still Newton's laws.
+2:10:20
+It was still basic principles of mechanics of two-phased systems.
+2:10:27
+But the fact that we could make measurements that demonstrated
+2:10:30
+that this two-phase aspect of the behavior was really important and
+2:10:34
+was really influencing the overall mechanics and wasn't a minor nuance.
+2:10:38
+It was a central element of how you had to think about these things.
+2:10:42
+That was important.
+2:10:43
+Taking into account-it kind of happens in all fields-Thomas Kuhn's
+2:10:49
+theory of scientific revolutions and the process of this belief and its
+2:10:54
+supporters, no matter what the evidence is originally pushing back and-
+2:11:00
+Oh, we've run into that.
+2:11:01
+Tell me a little about that.
+2:11:05
+Yeah, I certainly have read enough about the philosophy of science as
+2:11:08
+espoused by people like Thomas Kuhn to understand how it hypothetically works.
+2:11:16
+But I think the reality is different in different fields of science.
+2:11:21
+A lot of it has to do with people's perceptions, which
+2:11:24
+they're more than perceptions.
+2:11:26
+They're realities, I think, as to how important it is for people to
+2:11:31
+embrace a fundamentally new view.
+2:11:35
+A lot of those philosophers of science in the 20th century they always use the
+2:11:41
+development of quantum mechanics as their
+2:11:46
+prototypical case because of course for a period of years, maybe a decade
+2:11:51
+or so, there was a lot of pushback against people who were starting
+2:11:55
+to develop quantum mechanics.
+2:11:57
+But very quickly that pushback disappeared because the evidence became
+2:12:02
+overwhelming that this really did work and it really did not only describe
+2:12:07
+real-world phenomena but that some of these were really useful things that were
+2:12:11
+going to be important technologically.
+2:12:12
+In the practical world.
+2:12:13
+Yeah.
+2:12:14
+That dissipated the skepticism pretty quickly.
+2:12:17
+Similarly, with
+2:12:21
+the discovery or really the documentation is maybe a better word
+2:12:26
+of the structure of DNA, people knew.
+2:12:31
+There was a real scientific competition underway at that time to try to uncover
+2:12:36
+that because people already knew this was going to be really important.
+2:12:39
+When the structure was published there wasn't a lot of pushback.
+2:12:43
+Everybody knew right off this is really fundamental.
+2:12:46
+This is important.
+2:12:47
+I think that a lot of these people who study the philosophy of science
+2:12:50
+they tend to focus on those really profound things like that rather
+2:12:54
+than what I would call ordinary science, which is more the kind I do.
+2:12:59
+I think the difference with ordinary science is that the
+2:13:03
+consequences of somebody retaining their older cherished view of
+2:13:10
+something are really not very great.
+2:13:14
+They can continue to publish papers and so forth and they can continue to
+2:13:17
+follow the path they've been following without much in the way of consequences
+2:13:22
+because it's not as though the field has suddenly turned like the turning
+2:13:27
+of the Titanic and everybody's got to head off in this new direction or
+2:13:31
+you're just completely left behind.
+2:13:33
+There's still lots of room for people to keep doing things as they have.
+2:13:37
+That's very true in debris flow science.
+2:13:41
+You'll still find people nowadays, it's a minority, but you'll still
+2:13:44
+find people who treat debris flows as Bingham materials and so forth.
+2:13:49
+They can still publish papers and that sort of thing.
+2:13:52
+Describe Bingham materials
+2:13:54
+Bingham materials, again, that's a person's name but it describes,
+2:13:58
+the other descriptive term is a viscoplastic material, and what it is,
+2:14:02
+is a material that's a single-phase, homogeneous continuous material that
+2:14:08
+has two important physical properties.
+2:14:10
+One is that it has viscosity just like a conventional liquid, like water or
+2:14:14
+honey being a more viscous material, but it also has yield strength, meaning
+2:14:19
+that it won't start to flow until you have it on a steep-enough slope
+2:14:25
+or there's a deep-enough pile of it.
+2:14:27
+It's more like ketchup.
+2:14:28
+Ketchup is the classic viscoplastic material that a
+2:14:32
+lot of people are familiar with.
+2:14:33
+You put ketchup on a plate, and it doesn't immediately spread
+2:14:38
+out like a puddle of water would.
+2:14:40
+It sits there because it has this certain amount of strength.
+2:14:43
+If you tip the plate to a steep-enough angle, the ketchup will start to flow.
+2:14:48
+It's a very simple way of thinking about things and it also is attractive
+2:14:52
+to people because it's very easy to work with mathematically.
+2:14:56
+But as far as I'm concerned, it's just plain wrong.
+2:15:00
+I think the majority of the community has appreciated that at this point.
+2:15:08
+But there also can be a disconnect I think between the research side of things and
+2:15:14
+the people who are doing, say, practical consulting work and who don't have
+2:15:19
+time necessarily to read and appreciate all the latest research findings.
+2:15:25
+It's really been in the consulting community that they've continued
+2:15:29
+to embrace this idea of Bingham models and so forth because they
+2:15:32
+can buy off the shelf software that will do this for them and so on.
+2:15:36
+They don't have to get involved in all this more complicated stuff.
+2:15:42
+What was the importance beyond infrastructure of having
+2:15:47
+this built at the Andrews?
+2:15:52
+Obviously, you have the support of the water, the infrastructure, the lodging,
+2:15:55
+but what about the fact that the Andrews has become a famous ecosystem
+2:16:01
+science, it's learned, it's a community.
+2:16:05
+It's an experience, a place.
+2:16:06
+Well, you can think of the importance, I guess, in two different ways.
+2:16:10
+The importance to us as a group working at the Andrews is not only all the ancillary
+2:16:18
+services that are available to us there: the housing, the shop, and so forth.
+2:16:22
+Nowadays we have internet access there and so on.
+2:16:25
+There's all this stuff that we probably wouldn't have access to.
+2:16:31
+There are also the human resources.
+2:16:33
+There are the people right there, the full-time employees at the
+2:16:36
+Andrews site who we've interacted with a lot over the years and have
+2:16:41
+been extremely helpful to us when-
+2:16:43
+I bet you Terry Cryer helped you a lot.
+2:16:44
+Terry, I mean, to give you an example of a crisis-
+2:16:47
+He just retired; you know.
+2:16:47
+Yeah.
+2:16:48
+To give you an example of a crisis situation we ran into one time,
+2:16:53
+we were right in the middle of an experiment.
+2:16:56
+The whole flume was wired with AC line power as part of the
+2:17:01
+greater Andrews power system.
+2:17:05
+We're right in the middle of an experiment and a construction crew was doing
+2:17:10
+some road work down near Blue River Reservoir somewhere and they accidently
+2:17:15
+cut through the main power line.
+2:17:17
+Just like that all the power goes out to the whole Andrews site.
+2:17:21
+We've got this experiment that's at a crux stage.
+2:17:25
+We're past the point of no return.
+2:17:27
+We have to keep going with this experiment.
+2:17:29
+We've lost all our power, so we go running over to Terry who quickly
+2:17:35
+supplies with a couple of big generators and we plug those into our system and
+2:17:40
+so now we've got line power again.
+2:17:42
+They've rescued us that way.
+2:17:44
+They've rescued us when our phone has gone out.
+2:17:47
+Our phone line has gone out on occasion and we've had to
+2:17:50
+fall back on the Andrews phone.
+2:17:52
+They've helped us in countless ways.
+2:17:56
+Then there's
+2:17:59
+a more subtle but broader kind of impact that the Andrews has had on
+2:18:06
+us, which is that just the countless visitors and researchers who passed
+2:18:12
+through the Andrews, most of whom are biologists of one or the other but it's
+2:18:16
+a great, great variety of scientists and almost all them come to understand
+2:18:22
+that the flume is there because it's so close to where they're lodgings are.
+2:18:27
+Many of them will come and watch an experiment if they happen to
+2:18:30
+be on site at a convenient time.
+2:18:34
+So, it's given an opportunity for us to not only expose them to this type
+2:18:39
+of work but educate them a little bit about the kind of work we do and
+2:18:42
+why we do it and why we think it's important and also how it fits into the
+2:18:46
+bigger picture of ecosystem science.
+2:18:51
+In these steep,
+2:18:54
+sort of temperate rainforests, really, that we have on the western slope of
+2:18:57
+the Cascades or in the Coast Range of the Pacific Northwest, debris flows
+2:19:02
+are such a pervasive process that they really do have a major imprint on
+2:19:10
+redistributing material and nutrients and so forth in these watersheds.
+2:19:14
+One of the best examples I can think of is the redistribution of woody debris.
+2:19:19
+Something people have come to realize over the last few decades is how important
+2:19:24
+debris jams are in small streams in terms of providing habitat for smolts [young
+2:19:31
+fish] , whether it's salmon, whether it's just resident fish, whatever it might be.
+2:19:38
+A steep-mountain stream is a pretty inhospitable environment unless
+2:19:41
+it has sheltered areas within it.
+2:19:43
+A lot of that woody debris that makes its way into these channels is there
+2:19:48
+because debris flow has carried it in.
+2:19:51
+Exactly.
+2:19:53
+What about more existentially about just the energy, the almost existential,
+2:19:58
+spiritual quality of a high-level learned community being there.
+2:20:02
+Yeah, it's a great place just to be around people who are studying things
+2:20:07
+that you've never thought about before and you can chat with them and learn
+2:20:10
+something about owls or whatever it might be that they're studying.
+2:20:17
+That's been a lot of fun over the years.
+2:20:19
+I've always been very interested in biology, even though I
+2:20:21
+don't pursue it professionally.
+2:20:23
+It's fun to get chances to learn.
+2:20:26
+Now,
+2:20:28
+if you were going to, I'm going to merge three questions here: what aspects of
+2:20:34
+debris flows were well-understood in the 1980s when you were conceiving this, what
+2:20:39
+turned out to not be well-understood and taking specific examples going forward,
+2:20:45
+maybe some crystal moments, how has the flume helped build knowledge in that area?
+2:20:52
+Some really important moments for the record tell us why this is important
+2:20:58
+and what we've really learned from this.
+2:21:00
+I think
+2:21:03
+things that were relatively well-understood in the '80s had to
+2:21:08
+do with conditions under which debris flows initiate, and I don't mean it
+2:21:14
+at a high level of specificity, but everybody knew that there was certain
+2:21:19
+ranges of steep slopes and certain kinds of environments where debris
+2:21:23
+flows were more likely to occur.
+2:21:26
+They knew quite a bit about the sedimentological characteristics
+2:21:29
+of debris flow deposits and where they tended to occur, those kind of
+2:21:34
+broader geological framework topics.
+2:21:39
+What was really poorly understood had to do more with the mechanics of how do
+2:21:43
+these flows actually behave and what-
+2:21:45
+How they start, what's the saturation buildup, what's the
+2:21:48
+break point, that kind of thing?
+2:21:49
+Yeah and what controls how far and how fast they move.
+2:21:53
+People had always been fascinated by the fact that debris flows that are chock
+2:21:58
+full of rocks and in many cases logs and so forth and have sediment concentrations
+2:22:03
+up around 60% or 70% commonly can flow almost as fluidly as water.
+2:22:14
+Although on a conceptual level I think people realized that liquefaction
+2:22:18
+was part of that, there were no data whatsoever that really demonstrated that.
+2:22:24
+There were no models, mathematical models, that incorporated
+2:22:28
+that kind of understanding.
+2:22:30
+I think one of the real kind of breakthroughs at the flume, and this
+2:22:34
+happened within the first several years as soon as we start being able to make
+2:22:38
+good debris flows and collect decent data, our early measurements that showed that
+2:22:45
+you really did have these characteristic distributions of pore fluid pressure and
+2:22:50
+debris flows, where you had a coarse grain front that was high-friction and that it
+2:22:55
+was basically being pushed from behind by this liquefied body that had high pore
+2:23:00
+fluid pressures, we made measurements that actually demonstrated that and then
+2:23:05
+in addition kind of showed how you could incorporate that into mathematical models.
+2:23:09
+That was really important.
+2:23:13
+I think understanding exactly how grain size segregation occurs and how these
+2:23:18
+coarse-grained lateral levees form was really important because the levees
+2:23:24
+play such a role in directing exactly where the flow is going to go and
+2:23:28
+what areas are going to be impacted.
+2:23:30
+From a hazards perspective the levees are very, very important.
+2:23:34
+They're pervasive.
+2:23:34
+When you go out in the woods around here and if you're just kind of walking
+2:23:40
+around on something that looks like an alluvial fan, if you look hard enough,
+2:23:45
+you'll almost invariably find vestiges of the evidence of these linear assemblages
+2:23:52
+of boulders that go through the woods and you may ask yourself why are they there?
+2:23:57
+Why are these boulders lined up-
+2:23:59
+Some flow, some time, somewhere.
+2:24:01
+Yeah and they almost look as if they were placed there by humans.
+2:24:03
+No, they were placed there by some debris flow many, many years ago.
+2:24:06
+Now it's all grown up with vegetation and you don't really
+2:24:09
+see that other than the boulders.
+2:24:10
+But they're all over the place here in the northwest and in many other environments.
+2:24:16
+So, that was a real kind of eye-opening set of experiments
+2:24:22
+to understand that better.
+2:24:24
+The experiments we've done involving entrainment of bed material, that still
+2:24:28
+is the least understood part of this process, but we understand it a lot better
+2:24:33
+than we did before doing the experiments.
+2:24:35
+That's one though that there's still work to be done.
+2:24:38
+Yeah, quite a range of things.
+2:24:41
+What about the human applications in terms of whether through publications
+2:24:47
+or actual examples or sharing and what have you with planning in terms
+2:24:53
+of where you should build, where you shouldn't build, what safety mechanisms
+2:24:57
+need to be here if somebody has built or has a city or what have you?
+2:25:02
+We're really only now, and by now, I mean within the last 4 or 5 years,
+2:25:08
+reaching a state of fruition with this work where it's really starting
+2:25:13
+to impact ways that people can do practical hazard assessments.
+2:25:20
+The reason for that all has to do with development of this mathematical model,
+2:25:24
+which we call D-Claw, and that model development has been going on hand-in-hand
+2:25:27
+with all the flume experimentation for the last quarter century.
+2:25:31
+But the model has now reached a stage of fruition where we really feel like
+2:25:35
+we can apply it with some confidence as a prognostic tool and put those results
+2:25:42
+in the hands of planners and so forth.
+2:25:44
+In fact, we're doing a couple of projects right now, one of which relates to big
+2:25:50
+debris flows [lahars] that start as rock avalanches high on Mt. Rainier and
+2:25:56
+transform into debris flows that get down into the major river valleys on the west
+2:26:01
+side, the Nisqually Valley, the Puyallup Valley, and can travel up to 100 km
+2:26:07
+downstream and really impact populated areas and infrastructure and so forth.
+2:26:12
+We're doing that work right now.
+2:26:15
+We're doing some similar types of work but on a somewhat reduced scale related to a
+2:26:22
+hazard that exists in the town of Sisters, Oregon, which is downstream along Whychus
+2:26:29
+Creek, which has its headwaters up at Carver Lake, which is a moraine dam lake
+2:26:34
+on the east side of south Sister Volcano.
+2:26:38
+There's been concern for many years, going back to the 1980s,
+2:26:43
+that that moraine dam could breach up on Carver Lake, most likely
+2:26:47
+it would breach if there were a-
+2:26:49
+Is that right next to Three Creek Lake, or close?
+2:26:52
+It's close, yeah.
+2:26:54
+Okay.
+2:26:57
+Then there's evidence of past moraine dam breaches at some other locations
+2:27:02
+in the Three Sisters and this is one of the few places where there's
+2:27:04
+still a pretty good-sized lake that's perched at pretty high altitude.
+2:27:07
+So, that can come down and do significant damage in Sisters?
+2:27:10
+Yeah, well, there were some calculations, simple model calculations, done back
+2:27:14
+in the 1980s that basically predicted a rather catastrophic flood through
+2:27:18
+the town of Sisters as a result of breaching in this moraine dam.
+2:27:21
+Well, now because of our model, which is much, much more sophisticated than what
+2:27:25
+they had available in the '80s, we can do a much better job with that problem.
+2:27:30
+We've done simulations where we simulate a landslide coming down off south
+2:27:34
+Sister, entering the lake, causing a wave that overtops the moraine dam,
+2:27:39
+you then get a flood/debris flow that travels down that channel, hits
+2:27:44
+the alluvial fan above the town of Sisters and then starts spreading out.
+2:27:49
+What we found with our recent calculations is that the hazard to Sisters is probably
+2:27:56
+quite a bit, the town of Sisters, is quite a bit less than what was predicted
+2:28:00
+in the 1980s, mainly because we can now model the 3-dimensional spreading of
+2:28:07
+this flow, instead of assuming it's all going to go straight through town, which
+2:28:12
+is what they assumed back in the 1980s.
+2:28:16
+It's exciting, certainly exciting to me, to see all this work coming
+2:28:21
+to fruition in a way that allows us to give really useful information to
+2:28:26
+people who are tasked with planning and mitigation and those sorts of things.
+2:28:30
+I would guess that as the debris flume continues to do its work over time this
+2:28:37
+kind of dynamic will be more useful for practical human applications.
+2:28:41
+You were talking about the Chinese want to build one.
+2:28:45
+How has this served as a model that's actually either other flumes
+2:28:51
+in other countries have been built or in the United States, even?
+2:28:54
+Is this the only one in the U.S., though?
+2:28:55
+It's the only one in the United States.
+2:28:56
+Okay.
+2:28:56
+But like in Japan, have they built a bigger one?
+2:28:59
+No.
+2:28:59
+There's nothing that has superseded this.
+2:29:02
+Well, we've actually had quite a few groups come and visit us at Andrews to
+2:29:07
+tour the flume with the notion that they were going to build their own flume.
+2:29:14
+I think that after they saw what was involved and the scope of the effort and
+2:29:18
+so forth, they were all dissuaded from pursuing that idea, except for the Chinese
+2:29:23
+that now have construction underway of a flume that's going to be larger than ours.
+2:29:26
+It's not-
+2:29:26
+Of course [laughs]
+2:29:28
+. It's not going to-
+2:29:29
+Like their dam.
+2:29:29
+The one dam that's the biggest thing in the history of humanity.
+2:29:31
+Yeah, it's got to be the biggest.
+2:29:33
+I can't remember the name of it, but it's on the Yellow or the-
+2:29:37
+On the Yangtze River.
+2:29:39
+The Yangtze, right.
+2:29:40
+Yeah, the, is it the Three Gorges Dam?
+2:29:44
+I want to say the Three Gorges.
+2:29:48
+It makes Grand Coulee look like a-
+2:29:51
+Yeah.
+2:29:52
+And displacing a million people or something who live upstream.
+2:29:56
+You can do that in a dictatorship.
+2:29:57
+Yeah.
+2:29:59
+No NEPA [National Environmental Policy Act] involved.
+2:30:01
+No.
+2:30:01
+Same thing with building there-so their solution as they've got this
+2:30:06
+huge flume under construction, their solution for disposing of the sediment
+2:30:10
+when they're done with it is that their flume simply terminates into a river.
+2:30:15
+The idea is they're just going to dump all this sediment into the river and
+2:30:18
+let the river carry it away downstream.
+2:30:20
+How well do you think that will pass NEPA?
+2:30:22
+Not quite, huh?
+2:30:23
+Not very well.
+2:30:24
+No.
+2:30:29
+Tell me a little bit about the community dynamics of working
+2:30:35
+with people on the flume.
+2:30:37
+You talked about your original group of 3 and then, obviously, you
+2:30:40
+came to understand what an ideal size was for different sizes of
+2:30:45
+experiments and the labor necessary to do all the various facets.
+2:30:49
+Talk about that a little bit, but also talk about the community of doing
+2:30:53
+this and how do you learn to work with people and know them and tell
+2:30:59
+me how that's affected your life.
+2:31:01
+Well, the people aspect of working at the flume is a huge part of the endeavor,
+2:31:06
+because these experiments being of large scale, they necessarily require a crew.
+2:31:10
+It's by no means a one-person endeavor.
+2:31:13
+From the very beginning, my partner was Rick LeHusen, who did the
+2:31:19
+original brainstorming with me for how we're going to do this.
+2:31:23
+Once the flume was built, we gradually started adding people to the mix.
+2:31:28
+The next person to come on board was Tony Bequette, who was kind of a build it,
+2:31:33
+fix it, handyman kind of guy who helped with all kinds of important things.
+2:31:39
+Then, over the course of the next few years, for a while we had sort of a
+2:31:42
+stable five-person crew at the flume, and we did all of our experiments with
+2:31:47
+just those same 5 people, the additional two being Jon Major and Kevin Hadley.
+2:31:52
+Then we realized as we got into increasingly complex experiments that
+2:31:57
+were usually more labor-intensive that we needed even more help.
+2:32:02
+So, many, many people have rotated through at the flume over the years
+2:32:06
+and some of them many times over.
+2:32:08
+Certain people, Mark Reid comes to mind.
+2:32:12
+Jim Vallance, Roger Denlinger, they are people who've helped with this
+2:32:18
+probably tens of experiments there at the flume, or several tens of experiments.
+2:32:23
+Then there's a still larger group of people who might be there for just one
+2:32:26
+specific set of experiments because they have a particular interest, or they
+2:32:30
+might be a student or a volunteer who is interested in helping but is only
+2:32:35
+available for a relatively short time.
+2:32:37
+Most of the experiments we do nowadays are large enough and complex enough that we
+2:32:42
+typically have a crew of about 10 people.
+2:32:46
+It's quite a dynamic in terms of people engaged in all their individual
+2:32:52
+tasks simultaneously, but then trying to orchestrate the whole thing into,
+2:32:56
+it's like conducting a symphony or something, where you've got to make
+2:33:00
+sure the violins, you sort of entrust the violins to be doing the right
+2:33:04
+thing, but we've got to make sure the violins are in synch with the-
+2:33:06
+Cellos and the bass and the drums.
+2:33:06
+The people over here and the cellos and the, yeah exactly.
+2:33:11
+That's usually my job is to be that
+2:33:16
+sort of orchestrator.
+2:33:16
+It's worked remarkably well over the years.
+2:33:19
+Another interesting part of the dynamic, which I think really helps
+2:33:24
+from the standpoint of working together is we all live together
+2:33:28
+while we're there at the Andrews.
+2:33:31
+We're sharing an apartment, and you're cooking and eating with these people and
+2:33:36
+so in the evening you have time to-you can either talk science if you want
+2:33:40
+to or you can just completely unwind and drink your beer and play darts
+2:33:46
+or whatever it is you're going to do.
+2:33:47
+Sometimes you can even interact with other scientists and grad students
+2:33:50
+who are out in the Salt Salmon [building name] overhang, you know?
+2:33:54
+Exactly.
+2:33:54
+And the best times are when the weather is really nice in the summertime
+2:33:58
+and most people are outdoors in the evening and that's when you really get
+2:34:01
+a chance to interact and people aren't hunkered down inside their apartments.
+2:34:09
+The people dynamic is really important in any kind of group science endeavor, I
+2:34:14
+think, but probably particularly important in something like this where people have
+2:34:19
+to work collectively towards a common goal but are also doing their individual
+2:34:27
+things and it all has to come together and by and large that's worked out very well.
+2:34:34
+I should mention one other key person who just retired but who worked with
+2:34:38
+us for about 20 years at the flume.
+2:34:40
+His name is Matt Logan.
+2:34:42
+Matt has been my key right-hand man for 20 years and-
+2:34:47
+He's also up in Vancouver with you?
+2:34:48
+He's up in Vancouver.
+2:34:49
+Okay.
+2:34:50
+He has a skill set that ranges from digital photogrammetry to building stuff.
+2:34:57
+He's a master technician when it comes to fabricating equipment.
+2:35:01
+[He] can weld any kind of material and he's built countless
+2:35:06
+specialized devices for us that exist nowhere else in the world.
+2:35:10
+He's essentially an inventor.
+2:35:11
+He'll take an idea of saying this is what we want to do.
+2:35:14
+We want to contain sediment in the following way.
+2:35:18
+He'll figure out how to build it and make it work.
+2:35:21
+He's your Leonardo, right?
+2:35:22
+Yeah.
+2:35:24
+Having somebody like that is incredibly helpful at a facility like the flume.
+2:35:30
+What were some of the biggest surprises scientifically that have occurred at
+2:35:35
+the flume or disasters or funny events or things that went weird and wrong?
+2:35:41
+Just start out with the surprises scientifically.
+2:35:45
+Well, I can think of-one of the more interesting, counter-intuitive
+2:35:50
+things we found at the
+2:35:53
+flume is that when we roughened the bed of the flume-so this, again, prior to
+2:35:56
+the year 2000, the bed of the flume was just smooth, broom-finished concrete.
+2:36:01
+Then we surfaced it with these bumps which make the bottom of the flume kind
+2:36:06
+of look like the bottom of an egg carton, that kind of rough, textured surface
+2:36:10
+with sort of similar amplitude bumps.
+2:36:14
+Intuitively you would think that okay you increase the roughness so drastically.
+2:36:20
+Surely the flows won't go as far.
+2:36:23
+But in fact, what happened after we put in the bumpy bed is that our
+2:36:26
+debris flows actually ran out farther than they did with the smooth bed.
+2:36:31
+The reason for that had to do with the fact that the bumpy bed increased
+2:36:36
+the efficiency of the grain size segregation process, which in turn
+2:36:41
+increased the efficiency of the flow in building these lateral levies
+2:36:45
+that confine it once it starts running out at the foot of the flume.
+2:36:49
+As long as the flow is self-confining, it's able to just kind of keep its
+2:36:54
+longitudinal momentum going and it runs out a farther distance than if
+2:36:58
+it spreads out laterally and so with a smoother bed there would always
+2:37:02
+be more lateral spreading of the deposits, simply because the levee
+2:37:05
+development wasn't as pronounced.
+2:37:07
+So, some really counter-intuitive things like that.
+2:37:12
+In terms of
+2:37:15
+sort of funny or unexpected things, I guess what I think of-
+2:37:19
+Well, the first thing, number one-
+2:37:22
+Oh, yeah, yeah, our first-
+2:37:23
+It wasn't very funny, though, when you were cleaning it out.
+2:37:24
+Well, I was going to say most of these are the sorts of things
+2:37:27
+that are only funny in retrospect.
+2:37:29
+Like shoveling the pea gravel out was not funny at the time.
+2:37:32
+Yeah, moving 20 km3 of moist pea-gravel by hand, yeah, that was not funny at
+2:37:37
+the time, but it is retrospectively.
+2:37:40
+Another event kind of along those same lines, well, a
+2:37:44
+couple of things I can think of.
+2:37:47
+One is that
+2:37:51
+one of our very first experiments, in fact, it could have been
+2:37:54
+the first experiment that we did where we ran a water flood
+2:37:59
+across an erodible sediment bed.
+2:38:01
+So, we've lined the bed of the flume with sediment, discharged
+2:38:04
+6 km3 of water on top of it, the question is what's going to happen?
+2:38:10
+In the first one of these experiments out in the distal part of our runout pad,
+2:38:13
+we had an individual, Roger's his name, who had a video camera set up out there.
+2:38:21
+His job was to film this flow coming down the flume toward him.
+2:38:26
+I think because he was viewing it through the viewfinder of the video camera and
+2:38:30
+not doing it in person, he didn't fully appreciate how fast it was coming and
+2:38:36
+how rapidly it was approaching him.
+2:38:38
+Anyway, he got overrun by the flow.
+2:38:41
+It's the only time we've ever had that happen; somebody get overrun by a flow.
+2:38:44
+Was it funny or scary or both?
+2:38:46
+At the time it was scary.
+2:38:47
+It was scary because it knocked him down.
+2:38:50
+It covered him with mud and debris and so forth.
+2:38:54
+He wasn't injured by the impact, but in the process of this he was wearing
+2:39:01
+glasses and his glasses got broken and he got a piece of glass in his eye,
+2:39:05
+or several pieces of glass in his eye.
+2:39:08
+It was bad enough I took him down to the hospital in Springfield.
+2:39:13
+Luckily, they were able to get the glass out without too much difficulty.
+2:39:16
+But it was pretty scary at the time because his eye, you know,
+2:39:22
+you don't want to have something like that happen to your eyes.
+2:39:23
+So, this is the only real accident in the history of the flume?
+2:39:26
+That's the worst accident.
+2:39:27
+Oh, okay.
+2:39:27
+There had been a lot of really minor accidents.
+2:39:30
+You know, the-
+2:39:31
+Slipping on the flume when trying to-
+2:39:33
+The skinned knee.
+2:39:36
+The smashed thumb or whatever, but nothing that has seemed, well, there
+2:39:42
+was one other incident that was scary that also seemed potentially lethal.
+2:39:47
+In fact, even more so.
+2:39:50
+This was probably 15 years ago, something like that.
+2:39:56
+We were in the process of setting up an experiment.
+2:39:58
+It
+2:40:01
+was just sort of a standard debris flow experiment, where we'd open the gates
+2:40:04
+and let the flow go, no erodible bed.
+2:40:11
+It was getting close to the time to release the flow, so the
+2:40:14
+sediment was charged with water.
+2:40:16
+It was completely saturated.
+2:40:20
+One of the folks who was working there, she later worked on a lot
+2:40:24
+of experiments, but she was a relative neophyte at this time.
+2:40:28
+She climbed into the flume 32 m downslope from the gate in
+2:40:35
+order to make a final adjustment.
+2:40:36
+I think what she was doing was cleaning the, there's a glass protective plate
+2:40:40
+beneath the laser, and it was splattered with mud and she was just going in
+2:40:44
+to clean the mud off, make sure there was a good, clear view for the laser.
+2:40:49
+For very mysterious reasons that we still don't completely understand other
+2:40:54
+than clearly there was a voltage leak somewhere, the gate spontaneously opened.
+2:40:59
+It's the only time it's ever done that.
+2:41:01
+Because the gate has sort of a failsafe mechanism on it, but in this case,
+2:41:08
+the failsafe in the sense that it has to be engaged in two separate places.
+2:41:13
+In this case, the primary initial engagement had already taken place and so
+2:41:18
+it was just waiting for the final trigger.
+2:41:21
+Somehow there was a voltage leak in the system that was enough to very,
+2:41:25
+very slowly power the hydraulic pump that withdraws the latch mechanism.
+2:41:31
+But it was so slow that you couldn't hear it.
+2:41:35
+Normally when that pump grinds you can hear it [grinding noises] grinding away.
+2:41:38
+Get out of the way!
+2:41:38
+Right?
+2:41:40
+But this time you couldn't hear it and just all of a sudden, the gates open.
+2:41:44
+So, here's now this debris flow bearing down on this woman who's only 30 m away.
+2:41:48
+In the flume?
+2:41:49
+In the flume.
+2:41:50
+She fortunately had been there enough at that time that she knew
+2:41:54
+exactly what was going on and she just deftly hopped over the side wall
+2:41:58
+just before the flow came past and-
+2:42:01
+That could have really hurt her.
+2:42:02
+Well, it could have killed her, could have killed her because it would've knocked
+2:42:06
+her down and probably dragged her the length of the flume on bumpy concrete.
+2:42:11
+And she didn't have a helmet on, did she?
+2:42:13
+Well, and that wouldn't have helped in that circumstance, anyway.
+2:42:16
+So, that begs the question how easy is it to get insurance for the work up there?
+2:42:26
+You know it's a federal facility and the federal government
+2:42:28
+doesn't insure anything.
+2:42:32
+Self-insured as they say, which basically means no insurance.
+2:42:35
+Yeah,
+2:42:38
+so we've hit some scary, scary things like that.
+2:42:41
+Those two are definitely the most scary.
+2:42:45
+There was one other one that was scary, only to me, and it turns out it was
+2:42:48
+just a joke that they played on me.
+2:42:50
+Over the years we've quite a few film crews and stuff most of whom have
+2:42:56
+done, well, they range from those who are quite sophisticated and very
+2:43:04
+focused on creating a good educational film, people from NOVA for example.
+2:43:10
+At the other end people who are there just to have something dramatic that
+2:43:15
+they can flash on the screen and they don't care at all about the science.
+2:43:18
+Especially in the modern day where everybody's got a
+2:43:20
+YouTube of everything else.
+2:43:22
+In one of these other kinds of film crew episodes, they had shown up and
+2:43:28
+they brought this-I can't remember this girl's name, but she was a child star.
+2:43:32
+She had her own TV program on cable TV or something where you know it was let's
+2:43:39
+go touring with Susie, or whatever her name was, and we're going to go all
+2:43:44
+around the world and look at all kinds of crazy stuff and she'll tell us about it.
+2:43:48
+So here they are at the debris flow flume and she's acting as the master of
+2:43:52
+ceremonies for the camera and telling them what's going on with the flume.
+2:43:56
+Well, unbeknownst to me, so I'm up working at the top of the flume.
+2:44:00
+Traditionally when we release the flows I'm always at the top of the flume and
+2:44:03
+I'm the one who triggers the release.
+2:44:07
+I'm busy doing stuff up there, not paying much attention to
+2:44:09
+what's going on down there.
+2:44:12
+This film crew thought it would be funny if they brought with
+2:44:15
+them a mannequin and to have this mannequin overrun by the flow.
+2:44:24
+So, I'm up there doing my thing and time comes to release the flow
+2:44:32
+and we release it and I look down the flume and here apparently is
+2:44:36
+this human being standing like-
+2:44:37
+You didn't know it was a mannequin?
+2:44:38
+No, and like right in the path of the flow.
+2:44:41
+I just scream bloody murder.
+2:44:44
+I thought it was this little girl, this child star who was
+2:44:47
+just standing there or something.
+2:44:49
+They thought it was a big joke, but at the time it didn't seem very funny.
+2:44:53
+I bet you were not pleased.
+2:44:54
+No, I was not pleased.
+2:44:55
+I didn't think it was very funny.
+2:44:57
+They were a real nuisance to have around, anyway, that crew.
+2:45:00
+They were just in our way.
+2:45:01
+Now, have you been there for every experiment?
+2:45:04
+I missed one, back I can't remember what year it was.
+2:45:08
+What did you say on the chart, the graphic of-163?
+2:45:10
+163.
+2:45:10
+163, right.
+2:45:13
+Over 27 years?
+2:45:14
+26 years.
+2:45:16
+26 years.
+2:45:16
+About 5 ½ a year, 6 a year about the average?
+2:45:21
+Per year?
+2:45:22
+Yeah.
+2:45:23
+Well, no more like 10 a year.
+2:45:25
+No, I mean 10 a year, excuse me.
+2:45:26
+No, no actually if you divide-
+2:45:28
+No, wait a minute.
+2:45:28
+That doesn't make sense.
+2:45:29
+27 years-no, that's about 6.
+2:45:31
+Yeah, I guess it has been more like 6 a year.
+2:45:33
+That's why-
+2:45:34
+I'm surprised the number is that small.
+2:45:35
+I did the math in my head last night.
+2:45:36
+I thought was I not thinking straight?
+2:45:38
+So, anyway.
+2:45:39
+No, no, yeah.
+2:45:40
+You're right.
+2:45:41
+About 6 a year.
+2:45:42
+Okay.
+2:45:43
+But you only missed 1, huh?
+2:45:44
+Missed 1.
+2:45:45
+I can't remember what the circumstance was, why I wasn't there.
+2:45:47
+I was at a meeting or something.
+2:45:50
+Now, how has doing this work and not only the visual and experiential aspects
+2:45:56
+of it, but the science and the modeling and the building on knowledge and going
+2:46:00
+from that-how has that affected how you now go out and see real-life examples
+2:46:05
+during the course of your career as you know almost 30 years of this?
+2:46:09
+Describe that dynamic, the back-and-forth between the model
+2:46:12
+and the flume and real-life stuff.
+2:46:15
+Well, I have to say that when I go out now and look at real debris flows, whether
+2:46:20
+they're in progress, which that's an opportunity you don't get very often.
+2:46:23
+More often what you see is the aftermath, the deposits and so forth.
+2:46:27
+I really do feel that I have a very complete understanding of what happened.
+2:46:33
+Now, partly that's written up in papers and documented with data
+2:46:39
+and calculations and so forth.
+2:46:42
+But partly it's just a, it's a very sort of visceral level understanding because
+2:46:46
+I've watched so many of these things.
+2:46:48
+I've been a firsthand observer to 160 roughly of these debris flows
+2:46:55
+in different circumstances, whether they're impacting barriers or flowing
+2:46:59
+around corners or running up against slopes and whether they're initiating
+2:47:03
+or whether they're entraining sediment.
+2:47:05
+I've been able to witness this all with my own eyes in real time and
+2:47:10
+there's no substitute for that in terms of giving you a strong, intuitive
+2:47:16
+impression as to what's going on.
+2:47:20
+I think maybe people think that I've got a lot of hubris if I go
+2:47:24
+out to the field and I say I think I know exactly what happened here.
+2:47:30
+But what they don't realize is that-
+2:47:32
+Because of your long experience looking.
+2:47:33
+The reason is that I've got a lot of experience looking at this stuff
+2:47:36
+when it's actually happening and not just looking at the deposits.
+2:47:41
+Have you seen an actual, live, massive volcanic or other event that has
+2:47:46
+happened during your whole time or has it always been in retrospect or
+2:47:49
+through or video or something else?
+2:47:51
+I've seen small debris flows, plenty of small debris flows.
+2:47:54
+I've never personally witnessed a really big one.
+2:48:00
+I have colleagues who have, who for example were at Pinatubo not
+2:48:05
+long after the eruption, and there were recurrent, big debris flows.
+2:48:09
+There was lahars that covered the whole area, right?
+2:48:12
+Right, yeah.
+2:48:13
+But I mean fortunately nowadays video documentation of things tends to be so
+2:48:21
+much, there's so much of it available.
+2:48:23
+It's actually spectacular what you can find nowadays, if you go online and
+2:48:28
+just Google name your hazard, you know?
+2:48:31
+Type in high-speed landslide video.
+2:48:34
+You'll get 50 hits of stuff from Europe and China and wherever it might be.
+2:48:41
+Usually it's not been done by scientists, it's done by people who
+2:48:45
+just accidently happen to be there when it happens, and they've got
+2:48:48
+their handy smartphone with them or whatever and they shoot video of it.
+2:48:51
+Kind of a,
+2:48:54
+maybe not, well related loosely-but tsunamis.
+2:48:58
+Yeah.
+2:48:59
+Watching the 2004 Andaman fault one.
+2:49:03
+Then Tohoku.
+2:49:04
+Then Tohoku
+2:49:07
+debris flow of oceanic origin.
+2:49:10
+Tell me a little bit about that.
+2:49:13
+Well, actually there's a strong synergy I think between understanding how debris
+2:49:18
+flows work and understanding how tsunamis operate once they've made landfall and
+2:49:25
+they're now picking up lots of debris.
+2:49:27
+That was my point, yeah.
+2:49:28
+Because the leading edge, that's so striking in the videos, both of Tohoku and
+2:49:34
+from the Sumatra and Andaman tsunami that once they make landfall if there's debris
+2:49:41
+around-if there are trees, if they're cars, whatever happens to be in their
+2:49:45
+path-it will get picked up and it will get shoved along in front of the flow.
+2:49:50
+I really think that the mechanics of tsunamis making landfall like
+2:49:55
+that need to be modeled more like the way we model debris flows and
+2:49:59
+I've talked with tsunamis modelers about that and they basically agree.
+2:50:02
+I think we have the mathematical architecture in place for doing that,
+2:50:07
+but it hasn't actually been done yet.
+2:50:09
+I'm hoping it is done.
+2:50:11
+I would like to live to see it done, even though that's probably not work
+2:50:15
+that I'll do myself, because I think we have all the pieces in place to do that.
+2:50:20
+Certainly, it's an important phenomenon, right here on the Oregon and Washington
+2:50:25
+coast to say nothing of around the world.
+2:50:27
+Well, my wife is from Peru.
+2:50:30
+They have tsunamis and earthquakes there and we are slowly putting together our
+2:50:35
+Cascadia subduction zone emergency kit.
+2:50:38
+Emergency kit, yeah.
+2:50:38
+It's not finished yet, but-
+2:50:40
+It's good to be thinking about because-
+2:50:43
+Well, 1700 it did happen.
+2:50:44
+And we all-
+2:50:46
+What was it they figure?
+2:50:46
+It was a 9 about?
+2:50:47
+Roughly 9 yeah.
+2:50:50
+There's like debris evidence way up the river channels.
+2:50:54
+Oh yeah.
+2:50:55
+I mean, like, 30, 40 miles, right?
+2:50:57
+In some cases?
+2:50:57
+Well, I think-
+2:50:59
+Or is that too far?
+2:51:01
+I think in the Columbia River there's evidence of tsunami backwash.
+2:51:07
+I'm not talking about a huge wave, but there's evidence that the river flow
+2:51:11
+was influenced all the way back to where Bonneville Dam is today, and of course
+2:51:16
+that's where there used to be rapids.
+2:51:18
+That's where the old Cascades Rapids were.
+2:51:20
+Right.
+2:51:21
+So, the river felt the effect of that tsunami all the way
+2:51:24
+upstream to the first big rapids.
+2:51:29
+What is the expected longevity of this debris flow flume and what repairs are
+2:51:34
+typical of a year or every other year?
+2:51:37
+Really, it's lasted longer, I think, than we ever expected it to.
+2:51:40
+I didn't really expect that it would still be fully functional
+2:51:44
+probably 27 years after we built it, or 26 years after we built it.
+2:51:50
+But the concrete, the basic concrete structure has held up remarkably well.
+2:51:55
+The only things that have needed attention over the years are usually
+2:51:58
+places where we've monkeyed with things and we've put in new concrete
+2:52:02
+patches or something of that sort.
+2:52:04
+I think that as long as it receives a small amount of regular
+2:52:10
+maintenance and, again, the concrete doesn't need much maintenance
+2:52:13
+other than occasional cleaning.
+2:52:15
+But painting the metal parts, keeping the plumbing [there's a lot of
+2:52:20
+plumbing at the flume, a lot of plastic pipe, a lot of pumps and so forth.
+2:52:25
+The plumbing needs to be maintained].
+2:52:27
+But it's all pretty inexpensive stuff, normally.
+2:52:33
+Just kind of like maintaining a house, you just got to kind of
+2:52:36
+chipping away at it over time.
+2:52:40
+Do you think it will be here in 25 years?
+2:52:42
+I would like to believe it will be.
+2:52:44
+Why wouldn't it be?
+2:52:45
+Why wouldn't it be?
+2:52:46
+As long as people continue to have interest in using it.
+2:52:48
+That's the key thing.
+2:52:50
+Interest and the willingness and dedication to put the effort
+2:52:55
+into it to actually do it.
+2:52:56
+Now, if you had an unlimited budget and a wish list, what would be your
+2:53:01
+expansion, extension, or improvement on the debris flume if you had a, oh
+2:53:05
+let's build another one somewhere else.
+2:53:07
+Just give me an idealized vision.
+2:53:09
+Well, at the Andrews, if I had an unlimited budget, what I would change
+2:53:18
+about the existing facility is it would frankly be nice to put-particularly up
+2:53:23
+at the time of the flume-it'd be nice to put a roof over the whole thing so that
+2:53:28
+it was more protected from the weather.
+2:53:30
+Mainly because of the electronics you're talking about.
+2:53:31
+Well, electronics and also the whole process of getting the gate
+2:53:34
+sealed and everything and trying to maintain a water balance.
+2:53:38
+Our biggest problems with rain are up at the top of the flume and the
+2:53:43
+work we're trying to do up there.
+2:53:45
+So, if we had a roof over the whole thing that would be great.
+2:53:49
+If I had to build it over again, there'd be a few things I would tweak
+2:53:55
+with regard to the geometry and so on.
+2:54:00
+Currently the flume slopes uniformly throughout almost all of its length
+2:54:04
+at about 31° and then fairly quickly it transitions through a curve, a
+2:54:07
+catenary curve to about 2° slope.
+2:54:10
+I would broaden out that transition so that the change in slope angle is less
+2:54:15
+abrupt and a little bit more like it would be in a natural alluvial fan setting.
+2:54:21
+I would probably change some things about the configuration of the hopper
+2:54:24
+area up at the top of the flume so that it made it easier to use more sediment
+2:54:30
+and get it wet without worrying about the sediment failing prematurely,
+2:54:35
+because that's been a problem.
+2:54:36
+Particularly in the early years it was a problem.
+2:54:40
+I'd change some aspects of the plumbing system.
+2:54:43
+Now,
+2:54:46
+if I really had unlimited money and we're doing it all over again, but this gets
+2:54:51
+into a whole other order of magnitude, it'd be nice to have a variable slope.
+2:54:56
+But, of course, when you're talking about something of this scale
+2:54:59
+and this weight, variable slope becomes a very non-trivial thing.
+2:55:05
+You're now talking about you know something more like building an
+2:55:09
+aircraft carrier or something.
+2:55:12
+Really big, yeah.
+2:55:14
+How would this react differently, or not, in like for instance a desert climate?
+2:55:21
+Would the difference on drag or anything else be negligible or would it mean you
+2:55:27
+have less worry about rain and weather in terms of your saturation process?
+2:55:30
+Yeah, I don't think it would change much about the behavior of the flows.
+2:55:34
+It would be a lot more challenging to come by all the water we
+2:55:37
+need to do the experiments.
+2:55:40
+But the actual character of the flows themselves, I don't
+2:55:44
+anticipate they would change much.
+2:55:47
+What would you say is the most satisfying aspect of having hatched
+2:55:49
+this idea and seeing its successful operation for 30 years almost?
+2:55:55
+To me the most satisfying thing is the synergy that the flume work has had with
+2:56:01
+the development of the mathematical model.
+2:56:03
+That was really the single, biggest motivation for building the flume was we
+2:56:10
+needed data to better inform development that would improve mathematical models
+2:56:16
+and then to aid in testing that model.
+2:56:18
+Now we actually have that model and it's good enough and complete enough
+2:56:23
+at this point that we're actually using it for practical problems.
+2:56:27
+Our hope is that in the fairly near future it will become widely available.
+2:56:32
+Meaning, we'll have some user-friendly interface for it
+2:56:35
+that will make it accessible to a much wider group of people.
+2:56:39
+Currently it's arcane enough-running the model's sufficiently arcane that
+2:56:44
+we're the only ones who can use it.
+2:56:46
+But we hope to change that.
+2:56:47
+Now, a couple retrospectives and then-so,
+2:56:55
+how would you view the debris flume's most important contribution
+2:56:58
+to science and society and more philosophically its legacy.
+2:57:02
+If you want to cite a couple papers or chapters in books or what have
+2:57:07
+you-you might want to throw that into that retrospective question, too.
+2:57:11
+Okay.
+2:57:14
+I would say the most important contribution of the flume scientifically,
+2:57:19
+which in a sense is also its most important societal contribution, is
+2:57:24
+just the way it's provided reproducible,
+2:57:30
+sort of incontrovertible data that has informed development of a new
+2:57:35
+generation of mathematical models, not only our own model but models
+2:57:39
+developed by other people as well.
+2:57:41
+There are a large number of people now around the world who are using the same
+2:57:45
+basic conceptual framework for building their model that really was initially
+2:57:51
+informed by data from our flume.
+2:57:54
+Since that time there have been more supporting data coming from other sources,
+2:57:57
+but our flume was really the first to establish a framework for thinking about
+2:58:02
+the role of evolving pore pressures and grain segregation and so forth.
+2:58:08
+I think that was really important and the fact that those models are used
+2:58:11
+for practical purposes that inform hazard assessments and so on that's
+2:58:17
+where the societal connection comes in.
+2:58:21
+In terms of how that pertains to things we've published over the years; I
+2:58:27
+mean probably the most single important paper that I've ever written
+2:58:31
+was published way back in 1997.
+2:58:33
+When you told me about the original important thing that
+2:58:36
+came out of this, correct?
+2:58:37
+Exactly.
+2:58:38
+That was based in considerable part on those first several years of experiments
+2:58:43
+at the flume, where unsurprisingly we were learning things rapidly
+2:58:47
+during those first several years.
+2:58:48
+The pace has maybe slowed down somewhat over time.
+2:58:51
+We're refining things at this point, but I wrote a paper back then that just
+2:58:55
+had the broad title, "The Physics of Debris Flows." In it I tried to lay out
+2:59:00
+all the empirical evidence as well as a theoretical, mathematical structure
+2:59:07
+for how to represent the basic mechanics of debris flows, how do you model them.
+2:59:15
+A lot of people have bought in to that since that time.
+2:59:19
+That paper has been cited about 2,000 times at this point and it's a pretty
+2:59:25
+widely acknowledged way of thinking about the problem at this point, but
+2:59:31
+it was not true at all prior to that.
+2:59:34
+A lot of our successive work has kind of built on that.
+2:59:40
+Certainly, the work on grain size segregation, work on runout processes and
+2:59:46
+so on-it all feeds back into continuing to refine these sort of prognostic
+2:59:53
+tools, the mathematical models and so on.
+2:59:57
+Now, retrospectively how would you describe the impact of the debris flow
+3:00:02
+flume, its operations, its findings on your research career and life?
+3:00:07
+Well, I didn't really anticipate at the time we built the flume back in 1991
+3:00:13
+but it became the central element of my research career in the sense that
+3:00:22
+it guided the modeling work I did.
+3:00:25
+It provided all sorts of evidence that inform my research as
+3:00:29
+well as that of other people.
+3:00:33
+I've sometimes asked myself the question in the absence of the flume
+3:00:36
+if we'd never built it, what would the trajectory of my career have been?
+3:00:41
+It's a non-answerable question.
+3:00:44
+But chances are it would have been very, very different.
+3:00:48
+I could well imagine that I would've continued working on
+3:00:50
+mathematical models, but they wouldn't have been as well-informed.
+3:00:55
+They would've been more speculative and, who knows, it might have branched
+3:00:58
+off in an entirely different direction.
+3:01:01
+So, yeah, it's been very much a central organizing force in terms of guiding
+3:01:08
+my career, which has in turn has been a central part of my whole life trajectory.
+3:01:14
+I assume that being with the USGS for basically your whole career has been a
+3:01:21
+very satisfying and a good place for you?
+3:01:24
+Yeah, I'd say it's become increasingly satisfying over the years in the sense
+3:01:28
+that there was certainly a time when I thought I would leave the USGS to
+3:01:31
+take an academic job because I do enjoy teaching and I always wanted to teach.
+3:01:37
+But when our USGS work has become more satisfying as we've increasingly been
+3:01:44
+able to apply it to practical problems and to see our methods used around the
+3:01:50
+world by other people and something I didn't mention earlier in our interview
+3:01:56
+is along the way we developed this relatively simple statistically-based
+3:02:01
+way of forecasting debris flow inundation areas and that gets used all around
+3:02:06
+the world in a lot of third-world countries and so forth where people
+3:02:09
+don't have very many resources and they're really not equipped to run
+3:02:13
+fancy computer simulations and so on.
+3:02:16
+But, the simple statistically based methodology, which was
+3:02:19
+informed by the flume work,
+3:02:23
+is used all over the place.
+3:02:24
+It's gratifying to know that you've been able to have an impact on people
+3:02:31
+you've never met and never will meet.
+3:02:34
+And maybe some lives have been saved because of that.
+3:02:35
+Possibly, possibly, yeah.
+3:02:38
+That's a pretty good legacy, I think.
+3:02:40
+Yeah.
+3:02:42
+Anything else that you'd like to add that we didn't cover, Dick,
+3:02:46
+just in the last few minutes we have left here that maybe I didn't
+3:02:49
+mention or maybe that comes to mind?
+3:02:51
+I don't know.
+3:02:51
+I feel like, no not really.
+3:02:54
+Nothing that's nagging at me that I feel didn't get covered.
+3:02:57
+This has been a pretty comprehensive interview.
+3:02:59
+Yeah.
+3:03:00
+Anyway, I want to thank you for your time.
+3:03:02
+Yeah, well thank you.
+3:03:03
+I've enjoyed it very much, both meeting you last night.
+3:03:05
+I appreciate you doing it.
+3:03:06
+Anyway.
+3:03:07
+Will this ultimately be edited- [recording cuts off]

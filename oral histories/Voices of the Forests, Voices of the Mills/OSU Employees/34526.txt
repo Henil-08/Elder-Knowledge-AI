@@ -1,0 +1,2756 @@
+00:03
+Yeah, what we’re trying to do here is establish a record that will
+00:30
+be acceptable for not only people reading the book, but also for people who
+00:34
+might be interested in future research.
+00:35
+You bet.
+00:37
+What I try to get started out with here is a little bit of background information.
+00:41
+Okay.
+00:42
+From my understanding, you started working with the Andrews group
+00:46
+somewhere in about the beginning of the IBP, in the middle of the 1970’s.
+00:48
+Maybe you could talk about your academic and personal background
+00:53
+until that time, to get started.
+00:53
+Okay.
+00:57
+I completed a Ph.D. at the University of Georgia in 1973.
+01:05
+I came out here at the beginning of 1973, and had a one-year fellowship
+01:11
+with the U.S. Forest Service.
+01:15
+That was with Jerry Franklin and
+01:22
+his group at that time.
+01:25
+Then, the following year I joined Oregon State University in what had
+01:29
+been the Forest Management Department [College of Forestry] . That was all
+01:33
+during IBP [International Biological Program] . IBP started in earnest
+01:38
+about a year before I got here.
+01:44
+I was pretty early in it.
+01:46
+I actually got a one-year,
+01:50
+federal government internship, which were federal, government-wide.
+01:53
+They weren’t specifically forestry, but the Forest Service got a couple of them.
+01:58
+That’s how they were able to hire me.
+02:02
+Then I came on as a research associate post-doctorate
+02:06
+with Oregon State University
+02:15
+for the remainder of IBP.
+02:16
+1974 through ‘78?
+02:17
+Well, that part went through about
+02:22
+1977.
+02:23
+Then, we started getting some additional National Science Foundation grants.
+02:29
+They were kind of designed to go for a term or so after IBP, but
+02:35
+they still included some IBP-type
+02:41
+projects.
+02:42
+Then, years later, that led to the formation of the succession of grants
+02:48
+that led to the formation of the EER [Experimental Ecological Reserve] , and
+02:51
+ultimately the LTER you have now.
+02:55
+It was kind of a transition out of IBP.
+03:02
+I got a regular position at OSU about 1980 or so.
+03:16
+So, now you’re on regular appointment?
+03:19
+In what’s now the Forest Science Department.
+03:23
+When I came here with the Forest Management Department,
+03:26
+there had been a split to
+03:30
+form Forest Management and Forest Science.
+03:32
+[OSU
+03:35
+College of Forestry] That includes people like Dick Waring, and people like that.
+03:50
+Okay.
+03:50
+I was going to ask you about
+03:56
+your background.
+03:56
+I went to Texas Southwest Junior College in Brownsville, and I went
+04:01
+to University of Texas at Austin.
+04:04
+I did a Bachelor’s in Zoology, and a Master’s in Zoology.
+04:10
+The master’s work was in population ecology of arthropods,
+04:17
+which are decomposer organisms.
+04:19
+I then went to University of Georgia, and
+04:26
+after a couple years of course work there, the IBP was just starting there, also.
+04:32
+This was in the Deciduous Forest Biome [IBP category] . So, I
+04:34
+did my doctoral work at a place called Coweeta Hydrologic Lab,
+04:41
+which is now an LTER site, and I worked on nutrient- cycling and decomposition
+04:47
+in hardwood watersheds back there.
+04:50
+I came out here and continued similar research in the
+04:55
+Coniferous Forest Biome of IBP.
+04:58
+So, that was kind of a little background.
+05:01
+I was just looking at the chronology here.
+05:05
+You were at U of Georgia about the time that Art McKee was out
+05:10
+there.
+05:10
+Uh-huh [affirmative]
+05:11
+Did you know him when you were there?
+05:11
+Oh yes, I did.
+05:11
+We overlapped.
+05:12
+Art actually started out with Phil Johnson to pursue a degree.
+05:16
+Phil left to go to the National Science Foundation, and Art decided
+05:20
+to stick around that while the Andrews site manager job came up.
+05:28
+He was kind of between professors because his original major prof
+05:31
+had left, and he had a couple of years of coursework to get through.
+05:35
+He just decided to come on out here and take the job.
+05:38
+I think he eventually intended to go on for a degree again,
+05:45
+and he
+05:47
+took some courses here, but eventually, the way things worked
+05:50
+out, Art just kind of evolved into what has become his kind of job.
+05:59
+Did that play a role at all in why you came into ecosystem science here?
+06:01
+Well, there’s one person, unfortunately you’re not going to
+06:07
+interview, but you’ll hear about him, and that is Dick Fredriksen.
+06:09
+Sure, yeah.
+06:10
+Dick did a lot to pioneer some of the water sampling approaches,
+06:15
+but he came back from a trip to Coweeta to help him install one of
+06:20
+those proportional water samplers that’s a key part of his own work.
+06:25
+I met Dick and talked to him about the work out here.
+06:30
+So, through his contact, I
+06:36
+had an opportunity to come here and be a post-doc.
+06:41
+Those people played a role in getting me out here, plus Jerry Franklin
+06:46
+secured a one-year fellowship.
+06:50
+Had you known Jerry Franklin before?
+06:52
+I had not known Jerry, just his reputation as a plant
+06:59
+ecologist.
+07:00
+Well, the thing that was really important is that people like Dick
+07:03
+Fredriksen, Jerry Franklin, and Ted Dyrness, who were here with the Forest
+07:09
+Service, played a tremendously powerful role for those of us who weren’t
+07:14
+used to these particular forests.
+07:16
+Basically, getting us started, getting us oriented.
+07:21
+Jerry had developed a habitat-typing approach.
+07:32
+People like he and Dick Fredriksen took me around to all the watershed research sites
+07:37
+of the Andrews, right after I got here.
+07:39
+That was early in the winter of ‘93.
+07:42
+But, we were able to get started right away on the research, because
+07:47
+they got us oriented and sort of laid the groundwork for us.
+07:52
+And, we had technical help and financial support from the IBP
+07:56
+to start that research out.
+07:57
+Back up
+08:00
+just a minute here
+08:01
+Sure.
+08:02
+On the decision to go to Georgia from Texas, what was
+08:05
+the attraction again in Georgia?
+08:07
+The ecosystem part that Georgia was pioneering at that time.
+08:15
+And, I wanted to go on and do something more general, and
+08:22
+there were a number of people there that were influential.
+08:25
+Dave Coleman, who’s there now, is an ecosystem scientist
+08:30
+who had just joined there.
+08:32
+Odum, of course, was there, Eugene Odum, and my major professor,
+08:37
+Carl Monk, was there, who had worked on plant ecology at Rutgers
+08:43
+Carl?
+08:43
+Carl Monk
+08:45
+M-o-n-k?
+08:46
+M-o-n-k.
+08:49
+Okay.
+08:50
+Another thing that influenced my decision was the opportunity I had in 1966 with
+08:56
+a NSF fellowship to go to the University of Minnesota’s Itasca Biological Station.
+09:01
+That’s the forestry site on Lake Itasca, and they teach
+09:07
+courses there in the summer.
+09:10
+I had a plant ecology course under Murray Buell from Rutgers, who had
+09:15
+done all his work at Minnesota and knew a lot about Minnesota forests.
+09:18
+I really got introduced to forest ecology, plant ecology, in that ecosystem up there.
+09:24
+But, I didn’t really have any background in forest type exposure at Texas.
+09:29
+Yeah.
+09:31
+And Murray Buell was Carl Monk’s major professor, who then became
+09:37
+my major professor at Georgia.
+09:39
+So, there was a connection there and I had an interest in that and in the ecosystem
+09:42
+approach, so that’s why I went to Georgia.
+09:46
+While you were working at Georgia and at Coweeta, were you aware of things
+09:51
+going on at the Andrews at that time?
+09:54
+A little bit, but most of us were right in the middle of our graduate work.
+09:59
+One of the nice things about this whole IBP thing, was that they had
+10:04
+a fair bit of money for people to travel and put on workshops, to kind
+10:09
+of get across the biome boundaries.
+10:12
+And I did get to take part in one at North Carolina where some people
+10:17
+came out from the Andrews group.
+10:21
+We knew about the other biomes.
+10:23
+I went out to Colorado State to
+10:28
+the short-grass prairie site.
+10:32
+There was a site there in IBP and we worked on Pawnee Short-Grass site.
+10:38
+So, a lot of people were meeting each other across geographic
+10:44
+and disciplinary boundaries.
+10:45
+This was with IBP.
+10:46
+There was a big modeling effort there, to bring together people in
+10:51
+plant and animal ecology and soils.
+10:53
+It was a very great time to be in ecological ecosystems
+10:58
+research.
+11:03
+I wish we had similar opportunities now.
+11:07
+We have the LTER.
+11:08
+Still, I wish we had a similar kind of national effort to allow
+11:11
+the current generation of graduate students and post-docs to have
+11:16
+that kind of cross-fertilization.
+11:18
+We do at some levels, but we had a remarkable kind of national effort
+11:24
+behind that whole thing at that time.
+11:26
+You don’t see the IBP showing up in LTER?
+11:28
+Well, they do.
+11:30
+There’s is an outstanding network, okay.
+11:32
+I think what we need is also some educational funds to allow people to
+11:37
+move a little bit more between them.
+11:42
+To promote cross-fertilization?
+11:43
+Yeah, to promote more inter-site work.
+11:47
+I think we’d all benefit from that.
+11:48
+We had the basics there by just kind of adding some things
+11:53
+that strengthen the inner ties.
+11:55
+And it sounds like there will be some additional inter-site funds
+11:59
+for the next year or two to promote
+12:03
+them.
+12:03
+But, the other part was the strength of the foresters.
+12:05
+The foresters had an inspiration at Coweeta, and out here, having been all
+12:13
+the years of work in watershed studies and laying out all the stuff, we knew
+12:17
+about vegetation, all the basics that you would need to go in and start
+12:21
+a new study, had already been done.
+12:24
+Ted Dyrness has done a lot of work on soils.
+12:27
+Dick Waring was Jerry’s physiological ecologist, and he was ready to get
+12:31
+into ecosystems-style research.
+12:34
+There were a really good combination of
+12:40
+folks.
+12:40
+You could say IBP itself, but you have to add all the institutional support.
+12:46
+For me, the Forest Service was very important, as well as the National
+12:51
+Science Foundation, and Oregon State University was willing, too.
+12:57
+We had people working at the University of Oregon, and we had interchange
+13:02
+with the University of Washington, which made this whole effort possible.
+13:06
+If
+13:08
+you can think back to when you first started working there.
+13:15
+What did you perceive as being the opportunities or your
+13:20
+career goals at that time?
+13:22
+In relation to working with the IBP group at the Andrews, where
+13:25
+did you see that taking you?
+13:26
+I wanted to do good basic research in soil
+13:33
+ecosystems, related to how different water systems work, components
+13:38
+decompose, and how nutrients cycle.
+13:41
+This was an excellent place to do that.
+13:43
+So I felt that I had time, if I could get several good years of work done and out
+13:48
+in publications, whether I stay here or end up going somewhere else, that would
+13:52
+lay a real good groundwork for future work I wanted to do, and teaching that I
+13:58
+would eventually want to do, and students that I would eventually want to have.
+14:02
+So, you were looking at about a three or four-year investment of your time?
+14:05
+That was the initial outlook, sure, for I think the majority of the years.
+14:09
+Also,
+14:12
+many of us thought that there would be a career opportunities for people who were
+14:16
+trained from the ecosystem perspective.
+14:21
+We had a group of senior leaders, like Dick Waring and
+14:24
+Jerry Franklin, Stan Gessel
+14:31
+and
+14:33
+Carl Monk, and the people at Georgia.
+14:38
+They had come out of pretty classical disciplinary areas, but they were leading
+14:42
+this effort to do the ecosystem research.
+14:45
+They gave a large number of post-docs and graduate students a chance
+14:49
+to really get in on the ground floor of a new era in ecology.
+14:57
+I think it basically has worked out for many of us in that program, who have
+15:03
+had excellent career opportunities to do ecosystem-oriented research ever since.
+15:07
+So, you see a lot of people going off from the IBP into other leadership areas
+15:13
+then or with different organizations?
+15:16
+Oh, sure, in other areas.
+15:19
+I think it has strengthened nationally, the programs in a number of universities.
+15:27
+Cornell is one example
+15:32
+among many.
+15:38
+But do you see people from the Andrews from the Coniferous [Forest] Biome
+15:43
+taking those kinds of leadership roles on a national level, or
+15:47
+people that you worked with?
+15:49
+People from the Andrews have served in leadership positions at NSF, for example,
+15:54
+and at NASA, as program directors.
+15:58
+Jerry was a program director at NSF, Dick Waring is at NASA.
+16:07
+That’s one type of example.
+16:11
+Our better achieving students have done well getting jobs.
+16:17
+That to me, is one of the ways you’re going to train people and
+16:22
+move them out, and I think they have.
+16:24
+There’s a book coming out any day now, by Dick Waring and Steve Running, and Steve
+16:33
+Running was a master’s student here at the time of the IBP, Dick Waring’s student.
+16:37
+He was doing physiological modeling of trees and plant-water
+16:41
+relations, which lead to the development of one of the first
+16:47
+plant-oriented part of the structure of the hydrological
+16:48
+model Waring started working on.
+16:52
+Steve is at Montana.
+16:53
+He’s
+16:56
+just one example.
+16:58
+I had a student, Dan Binkley, who’s now a professor in Forest
+17:02
+Sciences at Colorado State.
+17:04
+He’s done a lot of ecosystems research.
+17:08
+What was his name?
+17:08
+Dan Binkley.
+17:09
+Dan Binkley?
+17:09
+And I have another student who did a masters with me, Richard
+17:15
+Boone, who’s at the University of Alaska, at the LTER up there.
+17:22
+Working with Keith Van Cleve?
+17:23
+No, Keith retired.
+17:25
+Unfortunately, a little too soon.
+17:27
+I wish he had not retired quite yet, but Rich is doing
+17:31
+forest soils research up there.
+17:33
+Maybe you could talk a little bit about your first impressions of the place
+17:39
+and people at the Andrews when you came here to start working with the IBP.
+17:44
+What’s your recollection of how the place struck you at the outset?
+17:49
+Well, I thought it was well-organized and well-structured, considering we
+17:53
+didn’t have very much in the way of actual facilities at the Andrews.
+17:57
+But, we had the watershed installations.
+18:01
+We had a little office down there at what was then the Blue River
+18:05
+Ranger Station, and we had a couple of trailers to stay in.
+18:09
+If you’re familiar with the whole layout of the Andrews
+18:14
+now, none of that was there.
+18:19
+You can see that we needed a good organization of the research and
+18:24
+support of that research down there.
+18:28
+That had all been pioneered.
+18:30
+It was starting in the early ‘60’s with the watershed-level research.
+18:37
+It was then kind of a remote area, but because all that structure
+18:41
+there, people knew their way around.
+18:43
+The senior people did, and people like Al Levno or one of the main
+18:51
+field technicians or the foresters, kept all that stuff running.
+18:58
+Even with the handicap of not having much in the way of facilities there, it
+19:01
+did not, except for the inconvenience of having to go back-and-forth, it didn’t
+19:06
+inhibit getting started right away on
+19:10
+stuff.
+19:11
+It’s the same thing in Coweeta, although Coweeta has a little bit
+19:13
+better facilities, I guess you’d say.
+19:16
+It had a little better lab and office facilities, because it was a
+19:21
+hydrologic station since the 1920’s.
+19:25
+It didn’t have a really good lab and research station
+19:29
+until a number of years later.
+19:32
+But it had the organization.
+19:33
+It had the background.
+19:35
+When you’re going into a new place, unless you’re clearly pioneering something there
+19:40
+like a survey or maps, you need that.
+19:43
+And we had the support here at OSU.
+19:45
+With this building, although partly-completed, we had excellent labs
+19:50
+and OSU gave us the support we needed for, in my case, chemical analyses, because
+20:01
+we already had been doing that, and we had a water lab here with the
+20:07
+Forest Service group.
+20:13
+By today’s standards it was not much, but we had a pretty good computer system,
+20:18
+and started early to try to manage data.
+20:22
+Like everybody else, we’ve had to learn a lot
+20:31
+about that.
+20:33
+You’ve probably seen or heard something about that history down
+20:42
+there.
+20:42
+You come here from a, like you say, fairly well-established site
+20:47
+like at Coweeta, to one that is on
+20:51
+the rise.
+20:51
+A major investment from IBP coming in and a lot of new people arriving.
+20:57
+What was your impression of the working group, the people that were coming in?
+21:03
+Tremendous amount of enthusiasm and cross-disciplinary discussions.
+21:14
+We really had an interest in ecosystem philosophies.
+21:17
+Not only on the land, but in the streams, also.
+21:21
+We had a very good stream group evolving and we were trying to get ideas about
+21:25
+how the forest and stream interacted,
+21:30
+because we did focus on a key watershed down there, which was Watershed 10.
+21:36
+That integrated a large part of the group effort.
+21:38
+Although in my case, I utilized habitat types spread across several locations
+21:47
+in addition to the Watershed 10, because it was starting to be cut.
+21:50
+So,
+21:53
+then we hired Fred Swanson to look at erosion processes.
+22:00
+We
+22:02
+were beginning work on modeling, at least conceptual modeling,
+22:05
+how the system tied together.
+22:07
+So, I think it enabled people to get some very good ideas.
+22:12
+We did have a watershed base to work upon, but the idea was to put together
+22:16
+integrated model structures for how these forests work, how forests and stream might
+22:23
+interact, what would be the short-term and long-term erosion processes.
+22:28
+And it was amazing just to think about it.
+22:31
+Fred Swanson, for example, was trained originally as a volcanologist.
+22:36
+He actually wanted to study volcanoes, but he also wanted to study near-term erosion
+22:41
+processes, and he kind of made a career choice, kind of with the Forest Service.
+22:45
+He said, “Well, I kind of have to give up volcanoes, because
+22:47
+it’s never going to happen.” So, what happened a few years later?
+22:51
+He was the main expert they had already hired.
+22:55
+Fred could turn right around and point north, and be ready
+23:00
+to lead on Mount St. Helens.
+23:02
+That’s kind of a fortuitous coincidence.
+23:04
+People like Jim Sedell, who got interested in what happened to Spirit Lake.
+23:08
+So, I mean, that was a really unanticipated opportunity.
+23:12
+Nobody could have foreseen that.
+23:14
+But I do think the leadership here promoted a very good atmosphere for
+23:21
+integration of ecosystem processes.
+23:29
+We were encouraged just to work hard on our specialties, but we
+23:33
+were not isolated specialties, as we worked in integrated groups.
+23:37
+And I think that made a tremendous difference.
+23:41
+Would you see it as a function of the university, or with
+23:42
+your group in particular?
+23:44
+Well, I would say, the overall group here, which included the
+23:47
+university [OSU] and Forest Service.
+23:49
+I mean, some of the people in the Forest Service were adjuncts of the
+23:54
+university, but I think of it as sort of a unified whole, personally.
+23:59
+As you pointed out, you have a similar structure as at Coweeta
+24:03
+with the cooperation of a university and the Forest Service.
+24:06
+Was there a distinct difference here in terms of the climate for that
+24:09
+kind of disciplinary involvement?
+24:11
+I think they were both very good.
+24:14
+I
+24:17
+was quite early in the Coweeta group.
+24:19
+They didn’t have much stream research.
+24:20
+When I first came, they were just starting it.
+24:22
+So, more of their integration came a little bit after I left there, whereas I
+24:31
+finished my doctorate and came out here, during the formation of some of that.
+24:34
+So, it’s not that one necessarily had it better, truly, than the other, it’s just
+24:40
+they were about a year or so out of phase.
+24:43
+If I had stayed on as a post-doc there at Coweeta, for example, which could have
+24:48
+been a possibility, I would have probably worked with that group for a while.
+24:58
+We had a goal to try to really understand ecosystems.
+25:02
+To
+25:04
+try to get a really good understanding of ecosystem functions, given the
+25:08
+structure of these forests that we had, and their complexity.
+25:12
+So, it was things like that that enabled people to start thinking
+25:14
+about the roles of some of the trees that make coarse woody debris.
+25:20
+As an organic matter component in these forests, and ultimately as a
+25:26
+nutrient-cycling component and as a wildlife component, and all the other
+25:29
+things that have been done since then.
+25:32
+I think we’ve been able to open up a remarkable number of doors, you
+25:37
+know, into the future.
+25:38
+I’m curious.
+25:39
+You mentioned working with Al Levno when you first got here.
+25:44
+Maybe you could talk a little bit about the kinds of interaction you had with
+25:47
+different groups like technicians at the Andrews, or other people at the
+25:51
+district [Blue River RD] down there.
+25:52
+You mentioned using the facilities there.
+25:53
+What was the degree of interaction with people?
+25:54
+Well, they helped us put out and set things up, helped find places.
+26:00
+It was
+26:03
+kind of an efficiency process.
+26:04
+You can do it all yourself, or you go out and have somebody help you for a
+26:08
+couple days and get ahead by a factor of
+26:14
+several days.
+26:14
+Al would go down there to service the samplers.
+26:19
+Dick [Fredriksen] would also go along.
+26:21
+But,
+26:24
+they took time out to take me around, as did other people.
+26:28
+Because I wanted to look at litter decomposition, and on a habitat
+26:33
+gradient, which is basically a micro-environment gradient from
+26:36
+the dryer to the wetter side.
+26:39
+We could look at gradients, which will allow us then to integrate
+26:43
+across types of habitats that occur on the watersheds, like Watershed 10.
+26:49
+But I didn’t know where all those [places] were, but they
+26:51
+had mapped all this stuff out.
+26:52
+So, there was a good infrastructure there of information for locating your plots?
+26:59
+Getting all that was done very, very efficiently on the Andrews.
+27:02
+Well, just kind of bringing me up to speed on the plant
+27:06
+communities and so forth out here.
+27:07
+Because up to that point in time, I’d had plant ecology in Minnesota
+27:12
+and worked at Coweeta, but I had not been exposed to western forests.
+27:17
+I mean they’re so different, because they’re big and old and evergreen.
+27:21
+At least, there’s this old-growth hemlock at Coweeta, but you don’t
+27:27
+get much feel of the old growth here.
+27:31
+Coweeta had another big interesting phenomenon in that there had been the
+27:35
+chestnut blight there in the 1930’s, which wiped out about half of the trees
+27:40
+in that entire basin, of “old-growth” chestnuts, well, “mature” chestnuts.
+27:46
+Some of which were over 200 years in age.
+27:49
+I looked at some of the rings in a few of the downed trunks.
+27:53
+Even
+27:55
+though it had not been logged since the 1920’s when they did selective
+28:01
+logging, it was not pristine or as undisturbed as the Andrews.
+28:09
+Did you see that as offering unique research opportunities?
+28:13
+What?
+28:13
+The different kind of a forest you’re concerned with here
+28:17
+[research opportunities]
+28:18
+? Well, I wanted to look at the role of chemical substrate quality of litter,
+28:27
+and that includes things such as different as Douglas-fir and dogwoods
+28:32
+and some of the [understory] plants, because of their soil-building qualities.
+28:38
+And the other nice thing that I got to do out here, kind of just immediately
+28:44
+post-IBP on the Andrews, was to look at
+28:49
+post-fire succession.
+28:50
+So, I got to do two very interesting projects on that, one with my
+28:55
+student Dan Binkley, and another with Dave McNabb, who was here.
+29:09
+I thought that would be something that would be important for management, given
+29:12
+that these are fire-prone ecosystems, given that, maybe we’re thinking of
+29:18
+going back to use of fire in management.
+29:26
+So, we need to know more about the understory plants.
+29:29
+And knowing more about the understory plants, you need to know what they
+29:33
+contribute to the nutrient cycle process.
+29:35
+Even though their productivity may not always be very great, they’re
+29:40
+there for a long period of time.
+29:41
+And in older succession, they dominate the sites.
+29:44
+I did have a chance to do some interesting new work that I
+29:49
+really am very interested in.
+29:52
+And another thing I got started on in Coweeta and pursued here was work on
+29:57
+the role of fungi in nutrient cycling.
+29:58
+Was
+30:03
+that affected by the difference among species?
+30:05
+I was interested in the role of fungi in the ability to network
+30:10
+in the soil and litter, both as decomposers and as mychorrizae, to
+30:15
+intercept and recycle nutrients.
+30:17
+So, they’re critically important in sort of helping tie the rhizosphere, the root
+30:23
+zone, the litter zone and rotting wood and all that; all those things together.
+30:30
+The dominant sort of microorganisms do about 90% of the decomposition,
+30:38
+and fungi do a big part of that.
+30:41
+Bacterials are important, but we’ve had some really nice chances
+30:45
+to try to look at how mychorrizae functions in these forests.
+30:49
+Which ties back into what I call all the “belowground.” So
+30:55
+that’s some of the research I’ve been doing.
+30:56
+So,
+30:59
+you started that as a post-doc.
+31:02
+You’re mentioning several of these students that you’re working with.
+31:04
+Do you take on students?
+31:05
+Well, I also had a student here who worked with me.
+31:08
+His name was Robert Fogel, Bob Fogel.
+31:12
+He was a Ph.D. student with Jim Trappe.
+31:15
+But he worked as my research assistant for the first three years that I was out here.
+31:21
+He helped me do the litter decomposition research while finishing his own
+31:27
+Ph.D., which was in mycology.
+31:30
+He was looking at the taxonomy of micro-active fungi.
+31:38
+He and Jim Trappe helped me get started doing
+31:44
+research in my garage.
+31:46
+Bob finished his Ph.D. here, and he stayed and got his own
+31:50
+post-doctoral funds to do some work on
+31:56
+mycorrizhae studies.
+31:57
+Then he got a job at the University of Michigan in Ann
+31:59
+Arbor, and is now a professor.
+32:05
+Again, it was because of the entire group that’s here, there
+32:08
+was a lot of interesting times.
+32:10
+But there was a person here by the name of Chet Youngberg, who had actually
+32:14
+been Ted Dyrness’ major professor, who had done research on soils and
+32:21
+had done some very nice work on it, as had some of Chet’s students.
+32:27
+One of his students, Dave McNabb, came over and worked with me
+32:33
+on a project at the Andrews.
+32:38
+Chet had a small but important part in the IBP program, too.
+32:43
+He did soils work on the Andrews, and some of his students did
+32:47
+some projects on the Andrews.
+32:49
+And then, of course, Ted had been his Ph.D. student, so he
+32:53
+had an interaction in that.
+32:55
+He just died here this last fall, I guess.
+33:07
+Both Jim and
+33:09
+Jerry had appointments in botany, and Jerry I guess had appointments
+33:12
+both in botany and forestry.
+33:15
+I’m
+33:23
+curious to know about interactions with people in the district,
+33:27
+staff at the Blue River station.
+33:29
+Was there much interaction with them in terms of locating
+33:31
+sites on or off the Andrews?
+33:35
+Well, I didn’t have much interaction with the actual district staff at that time.
+33:38
+It was really only later when we evolved a much broader working
+33:43
+relationship with what became the
+33:48
+EER and the LTER, that we had silviculturists dedicated
+33:50
+to the Andrews program.
+33:51
+I mean, more of that staff was dedicated to specific project ties with the LTER.
+33:56
+They gave us access, but I think it was the PNW Station folks
+34:00
+who really facilitated things at that time when I was first here.
+34:06
+The district folks were just kind of doing the district things, I mean,
+34:11
+I don’t think they were terribly interested in ecosystem studies.
+34:17
+So, the PNW Station was really the more involved ones?
+34:20
+Yeah, they were the leaders on that.
+34:23
+Now, we’ve evolved I think to what once was described as a pretty good partnership
+34:29
+with the Blue River Ranger District.
+34:33
+You know, district rangers back in those days were still kind of in charge of
+34:38
+timber operations and that kind of thing, and I don’t think they and the research
+34:43
+community were interacting very well.
+34:46
+There was hope that would happen, and I think it has happened,
+34:50
+more as time has gone by.
+34:51
+Do you see what I’m saying?
+34:53
+I don’t think it’s unique to the Blue River Ranger District.
+34:57
+Now you’re with the Forest Service?
+34:59
+No.
+35:00
+Right now I’m on appointment at OSU.
+35:02
+I’m actually a historian with Western Oregon University
+35:10
+[in Monmouth, Oregon]
+35:10
+. You’d get a better appraisal of that from people like Jerry Franklin,
+35:15
+depending on who was district ranger.
+35:17
+Some were interested, some were not very interested, and some couldn’t care one
+35:21
+way or the other, in the early days.
+35:26
+The critical thing, was that places like the Andrews, Coweeta, and several
+35:29
+of these places around the country got set up as experimental forests.
+35:33
+Not all of them succeeded, but out of that entire matrix, some did succeed,
+35:39
+and it allowed the research contingent of the Forest Service to develop and
+35:44
+do some meaningful long-term studies.
+35:48
+I’m curious about knowing how the relationship changed over time.
+35:53
+One of the factors there is the management of the growing number of
+35:58
+scientists on the Andrews in this period.
+36:00
+Was there a regular check-in procedure, or people you advised where your study sites
+36:06
+were, so you didn’t overlap those people?
+36:09
+In the beginning, it was quite informal because there were so few
+36:12
+of us, and we had Watershed 10.
+36:16
+We did have information, but there wasn’t a lot of formal structure.
+36:23
+There weren’t many people, as it was a fairly small number of people, and
+36:25
+people like Art McKee in key positions.
+36:30
+I think his role was at that time more facilitation and support,
+36:37
+what became the evolution of the Quantitative Services Group and
+36:41
+data bank [Forest Science Data Bank/FSDB] , and the need to manage
+36:44
+data and document studies better.
+36:46
+Then, came a much better appreciation of where things might overlap.
+36:52
+Now we have GIS: geographic information systems.
+36:55
+We just didn’t have all of that infrastructure.
+36:59
+I guess there was some chance that people could accidentally step on each other’s
+37:03
+toes, but we had very little of that.
+37:06
+You just worked through Art mainly?
+37:07
+We worked through Art, and people knew each other, and people
+37:11
+knew where things were going on.
+37:13
+They kind of knew where each other’s sites were.
+37:15
+So, we didn’t have any problems.
+37:20
+Now it’s a much bigger organization
+37:25
+with lots more people in it to manage.
+37:26
+There’s a lot more people-managing going on.
+37:28
+Sure.
+37:29
+But there’s also a lot better documentation work by far being done.
+37:34
+I was curious how those kinds of processes changed during the
+37:38
+time you were involved there.
+37:40
+How would you characterize your level of involvement in decision-making
+37:44
+about how to run things at the Andrews?
+37:47
+I had really no involvement in that.
+37:50
+I think that was true mostly with the
+37:55
+age class of researchers that came in here.
+37:58
+We were given a lot of latitude to concentrate on the problem.
+38:03
+We didn’t worry much about management.
+38:08
+I wasn’t told to go down and manage Art McKee for the next three
+38:12
+months or something like that.
+38:14
+They interfaced directly with people like Waring and Franklin.
+38:20
+Number one, we didn’t really need to do that.
+38:21
+Number two, I think it worked a lot better to have pretty much
+38:26
+senior leadership for this stuff.
+38:27
+Do
+38:29
+you see what I’m getting at?
+38:30
+Yeah.
+38:31
+So, that left us a lot more time to work with each other, a lot less red tape.
+38:37
+There
+38:40
+are many senses of that term, but we didn’t have to worry about management.
+38:47
+Like now with the LTER meetings each month, there wasn’t anything
+38:51
+formally-structured like that at the time?
+38:53
+We had meetings, but they were more science and integration-oriented.
+38:58
+We did have organizational ones, periodically, particularly at the
+39:03
+beginning of the field season each year.
+39:04
+But with a much smaller organization, you really only needed a couple of those
+39:09
+per year to kind of keep things on track.
+39:11
+Now they have monthly meetings.
+39:14
+If you’ve been to a couple of them, you see how structured they are.
+39:18
+We had some definite structure, but you could basically organize things
+39:22
+for the field season in late May or early June, get together and kind
+39:26
+of plan what was going to happen.
+39:29
+And if there was going to be logging somewhere, and then we had to be aware
+39:32
+of the logging stuff, things like that.
+39:36
+Safety concerns they were quite good at calling our attention to
+39:44
+it.
+39:44
+I’m also curious where you stayed while you were working there.
+39:46
+Did you tend to drive down to the Blue River to work each
+39:49
+day, or did you stay overnight?
+39:51
+We had a couple of trailers and somebody could camp out.
+39:56
+Often, we’d go down for two or three days, just because of logistics.
+40:00
+I did a fair number of one-day runs, especially in the summer
+40:04
+when you could get in long hours.
+40:07
+But, we had enough, just enough.
+40:09
+We were a small group with a couple of trailers, so we were able to make it work.
+40:16
+We got by with that for I don’t know how many
+40:22
+years.
+40:22
+When we got the beginnings of funding for
+40:27
+the full site together, we built a garage.
+40:30
+There’s
+40:32
+still part of that thing left.
+40:34
+Other than the two trailers and that one garage when you first come into the
+40:36
+Andrews site, which was a good storage depot for stuff, that’s all we had.
+40:41
+And then, a couple of small trailers put out up on Mack Creek for overnight
+40:47
+stays, because some of the stream group would go up there doing storm watches,
+40:50
+and they needed to stay overnight in inclement weather and for safety reasons.
+40:54
+If somebody got hurt or a road got closed, you want to have a place for
+40:59
+people to stay out of the weather.
+41:01
+They also built this log cabin on Mack Creek.
+41:06
+The other thing was when the full IBP came in, at sort of an end of an era
+41:11
+when NSF had been supporting building a lot of field station facilities.
+41:15
+They were supporting this big national research effort, and they were just
+41:19
+kind of finishing a big building stage.
+41:22
+It was still going on, and we got around to wanting to put a major
+41:27
+installation in, but it was kind of hard going, because they weren’t
+41:31
+wanting to do that much anymore.
+41:34
+Art and Jerry had to work years and years, numerous grants, to get
+41:37
+all the pieces of that together.
+41:40
+I think they can be credited, along with people helping them, with
+41:43
+a major effort in getting that whole facility thing together.
+41:49
+I guess this was so that the NSF could move to a different emphasis?
+41:53
+Well, they had put a lot of work into building up field stations, and they
+41:56
+felt that, I think, they had done that.
+42:00
+There were excellent ones in existence, and
+42:04
+in some ways I think they were kind of hoping that the Forest Service, for
+42:07
+example, might want to do that, but it was encountering some budget considerations.
+42:11
+It wasn’t ready to build a field station itself, either.
+42:16
+Kind of like, each party would say, “Why don’t you do it?” No, “Why don’t you
+42:19
+do it?” So for several years, we went back-and-forth, and not much got done.
+42:24
+It was kind of critical because we were evolving
+42:30
+along the way towards the EER, which was the predecessor to the LTER,
+42:36
+with only minimal facilities, and now we’re up to nearly full facilities.
+42:43
+If we get a bit more laboratory and classroom space down
+42:47
+there, we’ll be able to really
+42:50
+do both the research and teach down there.
+42:54
+See, the other thing was that a lot of people wanted to do some teaching
+42:57
+at the Andrews, but they had to take classes down for a day or overnight,
+43:01
+or we’d have these short courses in the summer where people would camp out.
+43:04
+We didn’t have the facilities for doing that kind of
+43:09
+thing either.
+43:09
+So, there’s a lot that, probably more of that [teaching] would have been done
+43:11
+if we’d had the facilities earlier.
+43:13
+But, at the same time, I would say the lack of facilities didn’t
+43:16
+really inhibit us from getting a lot of stuff done in the beginning.
+43:20
+It did make it less efficient, though.
+43:22
+Were there ways you had to compensate for that?
+43:25
+Well, I don’t know that you compensate for low efficiency.
+43:28
+You just don’t get as much done, if you had to drive down and
+43:33
+have to bring all your gear and stay a couple days and come back.
+43:37
+That’s less efficient than having your stuff down there, when you can go down
+43:40
+and work for several days and come back.
+43:42
+That’s what people did.
+43:45
+But it didn’t affect the kinds of studies that you put in?
+43:48
+No, it didn’t.
+43:50
+It just meant that we had a little bit more extended travel time back-and-forth.
+43:59
+Was there any impact on the kinds of people you could recruit
+44:01
+to help you work down there?
+44:04
+We had good support for the task force people.
+44:09
+We had started those who worked through the whole organization.
+44:15
+And the counterpoints in the Forest Service like Al Levno and Ross Mersereau.
+44:21
+I had Bob Fogel.
+44:24
+They hired a guy by the name of Mike McCorison, who helped set up the entire
+44:28
+Watershed 10 sediment sampling network.
+44:30
+Mike who?
+44:30
+Mike McCorison, M-c-C-o-r-i-s-o-n.
+44:35
+I think just one “r”.
+44:43
+We
+44:45
+had a small, but critical group of field-technical people that
+44:48
+went back-and-forth, and helped keep everything running for us.
+44:52
+These were the people on-site there, when you were up here trying to do studies?
+44:55
+And then, there were individual professors who had graduate students working, so
+44:59
+all that made a pretty good network.
+45:02
+Looking back, it’s kind of remarkable to me how much we could do and did get
+45:06
+done, considering we didn’t have the facilities down there that we do now.
+45:12
+Was there much interaction with local residents in Blue River?
+45:16
+Were people hired from the community to work?
+45:17
+There was some hiring in Bend, as I recall.
+45:22
+We didn’t have what we now have, which is that the Forest Service has evolved
+45:28
+a much better structure to educate the public about its activities.
+45:35
+There at the ranger station [Blue River RD] , you could stop and get a map or
+45:39
+some information, but couldn’t stop in and learn about ecosystem research.
+45:46
+In other words, whether it was a local resident or a traveler, there
+45:49
+wasn’t much there to inform people.
+45:52
+And we didn’t have a headquarters to set up anything like that.
+45:59
+I don’t know if that meant some foregone opportunities to get
+46:02
+the residents a little more educated about what we were doing.
+46:07
+There’s a small number of local people.
+46:09
+So, they didn’t come beating down your door looking for work?
+46:11
+No, they didn’t.
+46:12
+And we didn’t go beating down their doors and seeing if they heard
+46:15
+about it, but they didn’t know a lot about what we were doing.
+46:20
+I think now we’re in a much better position to educate all
+46:24
+levels of people who come there.
+46:27
+We’re obviously geared to disseminate information here at
+46:30
+the university, for students.
+46:31
+We might as well be in a position to educate
+46:39
+the general public.
+46:40
+Also, it’s the general public that was paying the tax bill for IBP.
+46:52
+You keep talking about how you
+46:56
+would identify as your primary audience.
+46:59
+Who do you think you should be communicating your results of research to?
+47:04
+Well, I think my primary audience was and is the research community, primarily, and
+47:11
+secondly, management, of course, to the degree that we can learn from the basic
+47:18
+science studies of how to manage forests.
+47:22
+That’s what I’ve been trained to do.
+47:26
+But, I also feel
+47:30
+that there should be people who can take this information and bring it down to
+47:38
+primary and secondary education levels in this country,
+47:44
+and to the public-at-large.
+47:47
+In terms of what your particular responsibilities are concerning writing
+47:51
+for other researchers and managers, who have helped you reach other audiences?
+47:56
+I’ve taken part in some educational programs and extension workshops
+48:01
+to work with training Forest Service professionals, such as
+48:05
+silviculturists, about ecosystem studies.
+48:08
+We have a thing here called the “Silviculture Institute,” which was
+48:12
+active until just the last year or so.
+48:16
+It was active for
+48:20
+almost 15 years.
+48:23
+And there was a short course designed to bring people back for two week modules,
+48:27
+and we did an ecosystem module here.
+48:31
+So, we had some training, because many of the folks that had gone through
+48:35
+and gotten degrees in forestry, had not been exposed to what was
+48:39
+going on in ecosystems research.
+48:42
+They had a basic degree in forestry maybe ten, twenty years ago.
+48:47
+Some of them got their degrees at or before we were just
+48:51
+cranking up this kind of work.
+48:53
+It wasn’t in the textbooks; it wasn’t in the courses.
+48:56
+So, we had that kind of educational effort.
+48:58
+We’ve had to continue a lot of extension activities.
+49:02
+We’re doing less of that at the moment only because the funding
+49:06
+is down in the Forest Service.
+49:11
+Forest Service managers that were cycled in here for training?
+49:13
+Also forest scientists, wildlife biologists, and a lot of professionals.
+49:18
+I’m not sure, I think, Lynn Burditt was one of the people that cycled in for that.
+49:24
+I don’t know whether she did.
+49:27
+If she didn’t do it here, she may well have done it somewhere else.
+49:30
+She did something at OSU.
+49:30
+I can’t remember if it was this particular program or not.
+49:34
+Well, there are now a number of people who went through that program and
+49:38
+went on to become district rangers.
+49:41
+I don’t have the full list, but it’d be interesting.
+49:45
+You could probably get a list.
+49:48
+Anyway, that certainly helped a lot.
+49:52
+The one area I see needing more work, is to get it down to
+49:56
+primary and secondary education and more into the general public.
+49:59
+That’s a
+50:02
+current need?
+50:04
+I think it’s a continuing need because we are trying to involve
+50:08
+public in a lot of decisions about the management of our public lands.
+50:14
+So, an informed public would be nice to have.
+50:17
+It’s a complex issue.
+50:19
+Just to clarify things for me.
+50:20
+The Silviculture Institute was offered by Oregon State
+50:23
+University, or by the Andrews Group?
+50:25
+That was operated by Oregon State University.
+50:28
+Okay.
+50:28
+Then, people would need to know, what is Andrews, and what is not.
+50:30
+We have had short term extension courses that were done on the Andrews.
+50:34
+This one had some field trips to Andrews, but it was headquartered here.
+50:39
+There had been, I don’t know if people like Jerry Franklin talked about it, but
+50:44
+he originated some programs to bring in folks just to the Andrews like for a week,
+50:52
+and to do a grand tour of the studies there, and then, different people would
+50:56
+talk about their studies in the field.
+50:58
+And they still are doing some of that.
+51:02
+I’ve got some copies of the early draft from the first program.
+51:07
+I think one of the earliest that would
+51:11
+have been done is probably the early 80’s.
+51:11
+Yeah, that seems about right.
+51:12
+Seems about right.
+51:13
+Maybe as early as ‘79 or so, I don’t know.
+51:18
+Silviculture Institute didn’t get going until
+51:22
+… wish I could tell you the date on that, certainly by 1980, it was started.
+51:28
+And actually, Dick Waring was one of the first leaders of it.
+51:38
+Maybe you could talk
+51:43
+a little about your perception of how the decision-making process of
+51:46
+the Andrews group has changed in the time you’ve been associated with it.
+51:50
+Initially, there was not much involvement by people below the level of Jerry
+51:56
+Franklin and Dick Waring, I think.
+51:59
+We were allowed to make our own decisions about our own research, once we were
+52:04
+recruited to do work in a particular area.
+52:09
+All the day-to-day decisions about my own work with
+52:14
+Chris and Bob Fogel, and with help I got from people like Dick Fredriksen and Al
+52:18
+Levno, I got to make my own decisions, so I could carry on my own research.
+52:27
+But I wasn’t making the major decisions, about let’s say hiring post-docs
+52:34
+or managing research funds.
+52:37
+We did get to help with some of the NSF reports, writing some of them.
+52:42
+We got to help work on some of the budgets, stuff like that.
+52:47
+It was just such smaller, sort of close-knit group that we
+52:55
+didn’t need a real formal sort of hierarchical structure to make it work.
+52:59
+It worked quite well with people like Dick and Jerry and me at the main institutions.
+53:06
+Plus, you know they kept up with what we were doing.
+53:11
+How would you view that change in your career since you’ve been
+53:14
+associated with the group since then.
+53:18
+What would you identify as some of the more important changes?
+53:20
+Well, some of it is organizational.
+53:23
+People like Jerry eventually left here, and went to the University of Washington.
+53:33
+Dick Waring stayed here,
+53:43
+and did other things.
+53:47
+Ten or twelve years ago, Dick Waring decided to get involved with NASA,
+53:52
+because they were starting to do
+53:57
+surveys of planet Earth in conjunction with their planetary exploration program.
+54:02
+They showed that they didn’t really know a lot about planet Earth.
+54:06
+Ironically, because they didn’t.
+54:08
+And this was one of the first efforts at use of remote sensing imagery,
+54:13
+and everything began to evolve as remote sensing and GIS and all
+54:17
+that technology came into being.
+54:18
+So, Dick got involved with NASA to try to educate them more so that they
+54:25
+could address landscape, regional, and even global sort of questions.
+54:31
+He sort of got out of the Andrews thing in order to get into the NASA work.
+54:38
+He still is very interested in ecosystem level applications,
+54:41
+but he went off in that direction and he gave up some leadership.
+54:48
+And then Jerry eventually left here, so other leaders came into being.
+55:05
+Jerry went to Washington and got a whole new set of things going, and
+55:09
+eventually got the funding together for the Wind River Canopy Crane
+55:13
+set up, all that sort of thing.
+55:17
+So, this was a fairly smooth transition then from Waring and Franklin?
+55:21
+Well, I don’t know how to describe it.
+55:24
+It was kind of a natural change in career direction and interest for them.
+55:29
+Whether it was smooth or not, I’m not going to judge.
+55:35
+But nationally, the program for what became the LTER system was evolving.
+55:44
+I believe Jerry and Dick were still here working with this group, maybe
+55:49
+not full-time, but were here when the first LTER proposal was put together.
+55:55
+So, they did take us through the IBP and several years post IBP, up to kind
+56:01
+of the doorstep of LTER, if you will.
+56:06
+Parts of what was called the EER.
+56:13
+So, once the LTER was started, it was kind of a natural transition
+56:20
+[point for them] . Dick got involved in that and then Jerry
+56:22
+left for University of Washington.
+56:24
+So, their own interests diverged from here and from each other’s interests.
+56:48
+Could you talk about how your own career goals and your perceptions of
+56:55
+your area of specialization, changed in that time, and different models
+56:59
+or paradigms of research that might have paralleled that transition?
+57:05
+The IBP in immediate post-doc years, certainly did make it possible
+57:14
+for us to put together some of the first
+57:20
+pretty-detailed ecosystem level budgets, for
+57:25
+not only the structure of system, but also dynamics of the system.
+57:30
+That was a major synthetic effort of the group.
+57:32
+What I think many of us have been doing since, depends on people’s interests.
+57:36
+They have
+57:38
+diverged.
+57:38
+For myself, I’ve been very much interested in focusing on
+57:42
+below-ground ecosystem processes.
+57:45
+There’s a lot we didn’t know then and we still don’t know now, there’s a lot to do
+57:54
+there.
+57:54
+So that has been a pretty good pick up?
+57:56
+It’s pretty good.
+57:59
+We had the opportunity to put together major ecosystem models.
+58:03
+I’ve been interested in looking at below-ground ecosystems
+58:03
+functions, gotten off a lot of into work on mycorrhizal fungi.
+58:03
+Some of it continues on the Andrews, some of it continues
+58:05
+elsewhere in the Northwest.
+58:05
+Usually I’ve been
+58:15
+involved in fires and fire ecosystems.
+58:25
+I got that interest from a project on the Andrews, but I’ve been interested
+58:32
+in fire in east side forests and
+58:39
+its impact on nitrogen-cycling, wood decomposition, and
+58:46
+ecosystem recovery, from fire.
+58:50
+We’re faced now with having to deal with the consequences of many decades
+58:53
+of fire suppression in the forest, how we’re going to get that back in there,
+59:03
+and avoid big, big, total landscape fires.
+59:09
+People are learning how to do it, experimenting with or doing it
+59:11
+on a smaller scale, but they’re not really able to do it on a big
+59:19
+scale, on a scale of many, many thousands of acres, but they’re trying to get there.
+59:21
+We’ve got literally millions of acres to deal with.
+59:27
+So, it seems different, but it is ecosystem application, because one of
+59:32
+the things the Andrews taught us is that you have to look at disturbance
+59:37
+as being part of the system; they’re not undisturbed entities.
+59:39
+Fire is rare over here.
+59:40
+Windstorms may be more common.
+59:44
+Insects and diseases are in all these forests.
+59:50
+Another important area is to look at is the effects that pests and pathogens have.
+59:54
+I’ve been
+1:00:00
+working on that.
+1:00:04
+People were going to have a project up there to look at the impact of
+1:00:07
+forest diseases on ecosystem processes.
+1:00:11
+Since it’s a very nutrient-limited forest, we’re going to have
+1:00:13
+very large disease centers.
+1:00:19
+What we’ve done is to use some of the other forests around
+1:00:22
+here, as sort of satellite places to do selected components.
+1:00:28
+You can see we do all these things on the Andrews, but on the other hand, you
+1:00:33
+can take advantage to satellite areas.
+1:00:38
+At least that’s what I’ve been doing for mine.
+1:00:40
+As the IBP began to wind down,
+1:00:45
+you participated in jobs in other regions.
+1:00:48
+You stayed here, but your work began to spread out a little.
+1:00:53
+Is that because of changes in the policy concerns or
+1:01:00
+more just in your research interests and [funding] opportunities?
+1:01:02
+I would say more my research interests and opportunities.
+1:01:03
+But, I managed to be in policy management [related arena]
+1:01:09
+, trying to improve management,
+1:01:13
+that’s what I would
+1:01:17
+say.
+1:01:17
+You’re suggesting though, that your lessons learned from the Andrews,
+1:01:17
+some of that informed your choice of the kind of research you did?
+1:01:18
+Right.
+1:01:18
+How would you characterize your current involvement with the LTER group and the
+1:01:32
+Andrews group?
+1:01:35
+One major research project I’ve had going on down there looks at the effects
+1:01:39
+of water chemistry on decomposition.
+1:01:45
+I had
+1:01:48
+several years before that
+1:01:54
+from about ‘86 to ‘94, when we had a period of research on mycorrihizae, and
+1:01:59
+some of that was done at the Andrews.
+1:02:04
+Then, since about ‘94 to now, we’ve been focusing on water quality stuff.
+1:02:08
+Some of our main research sites are at the Andrews, so we’re still using it.
+1:02:13
+And who would you identify as kind of your leading collaborators?
+1:02:17
+Well, Robert Griffiths here at OSU.
+1:02:21
+Bruce Caldwell.
+1:02:21
+I have a master’s student, Illyana Balachovic, B-a-l-a-c-h-o-v-i-c,
+1:02:33
+who’s completing her master’s research on that project, which
+1:02:36
+should be done by this spring.
+1:02:39
+What about
+1:02:49
+your current involvement with decision-making on the Andrews
+1:02:52
+or with the LTER group here?
+1:02:54
+I have no involvement with that.
+1:02:56
+You don’t get involved with the LTER meetings?
+1:02:59
+I go to them occasionally, but I’m not involved with the main
+1:03:10
+group, you know, the main decision-makers.
+1:03:13
+I’m curious about the
+1:03:18
+connections of the IBP people after you’ve left here.
+1:03:23
+Would you identify yourself as being fairly typical in that regard?
+1:03:29
+I think so.
+1:03:30
+I think we retain a lot of our original interest in the
+1:03:34
+big picture of the ecosystem.
+1:03:37
+But, we’ve had our own career paths, and we have a remarkable amount of
+1:03:43
+freedom and opportunity to work together.
+1:03:45
+As a young, evolving group, we’ve developed our specialties.
+1:03:50
+I’d assume
+1:03:54
+nearly all the people who’ve stayed in the research arena have continued to
+1:04:00
+do some type of ecosystems research.
+1:04:03
+Whether they stay working here or elsewhere or with each
+1:04:07
+other in the original group.
+1:04:08
+People like Jim Sedell about stream ecosystem
+1:04:17
+research.
+1:04:17
+Fred in erosion and geomorphology research.
+1:04:19
+Both he and Jim are more into a little more administrative stuff, so they
+1:04:23
+don’t have as much time for that.
+1:04:26
+I don’t have administrative work, so that’s why I have more
+1:04:29
+time for research than they do.
+1:04:31
+You’ve mentioned quite a few students that you’ve worked with and my impression
+1:04:36
+is that you tend to work with graduate students more than with post-docs.
+1:04:40
+That’s right.
+1:04:41
+Students.
+1:04:41
+Is that a choice?
+1:04:43
+Well, that was mainly an opportunity I had with monies for people like that.
+1:04:50
+I’ve had some outstanding graduate students.
+1:04:52
+I haven’t had, personally, hardly any money for post-doc people.
+1:04:56
+That’s just the way it worked out.
+1:05:00
+Given the best of all situations, I would probably have liked to have had
+1:05:06
+a couple of post-doctoral folks, doing some things and following up on some
+1:05:11
+things that they do on the Andrews.
+1:05:13
+I might well be a little more formally involved with the Andrews there.
+1:05:17
+But I haven’t had the financial wherewithal to do, that plus
+1:05:21
+keep certain students going.
+1:05:25
+I think some choices in life are a little more opportunistic.
+1:05:31
+The IBP gave them then leaders of that work here
+1:05:40
+during the main years I was here, about a million dollars a year.
+1:05:44
+In 1974, 75, and 76, dollars.
+1:05:48
+That would be a markup of at least three-fold, today.
+1:05:52
+So, envision three million dollars today, in today’s money, as guaranteed.
+1:05:58
+You know, definitely available for foreseeably three to five years,
+1:06:04
+or whatever it’s going to be.
+1:06:06
+That was a tremendous window of opportunity.
+1:06:12
+I would like to see us get, not necessarily me, personally, but
+1:06:18
+just to continue to create some of that kind of opportunity for the
+1:06:21
+next generation of researchers.
+1:06:23
+And it wouldn’t have to necessarily be here.
+1:06:27
+The LTER infrastructure allowed you some opportunity to do that.
+1:06:36
+I’m just trying to say that I think that the framework for the opportunity is even
+1:06:40
+greater than it was when I started here, but it takes a certain amount of funding.
+1:06:47
+The infrastructure is well funded, but I think it takes a certain
+1:06:50
+amount of money to fund students and post-docs on top of that.
+1:06:55
+And keeping the infrastructure going, is quite a bit more expensive
+1:06:59
+now than it was when first we had no infrastructure to keep going.
+1:07:05
+And the Forest Service supplied more of that support, they had more money for
+1:07:12
+supporting that.
+1:07:12
+Now about the time the IBP dissipated, about the time you started to get
+1:07:15
+leads on an appointment at OSU, if I’m looking at the time frame here.
+1:07:19
+Did that have a bearing also on the kinds of research that you began to
+1:07:28
+do?
+1:07:28
+Well, Oregon State University has an area of research in forest
+1:07:34
+productivity and culture and management.
+1:07:37
+Both of those are relating to management.
+1:07:39
+So, the kinds of work I did in soil ecosystem studies fit right into that,
+1:07:44
+so that was a niche that was here.
+1:07:48
+I did apply for and competed for a position here.
+1:07:53
+In terms of potential research sites and the kinds of work in Coweeta you
+1:07:58
+started, as I understand it, your focus diffused out from the Andrews
+1:08:02
+and you began work in Eastern Oregon.
+1:08:06
+Well, actually, that came quite a bit later, but I would say
+1:08:13
+we continued to do some research on the Andrews.
+1:08:17
+Then, we worked on
+1:08:21
+the effect of pathogens on the forest ecosystem at Waldo Lake.
+1:08:25
+That was done in, what, ‘81 through about ‘83?
+1:08:29
+Then, we had another opportunity in the mid ‘80’s to go on the east side
+1:08:33
+to look at three big insect outbreaks.
+1:08:36
+I don’t know how long you’ve been out here yourself, but in the ‘80’s there
+1:08:39
+were big insect outbreaks in the east side, bark beetles and spruce budworms.
+1:08:47
+We had a project over there.
+1:08:49
+Then, toward the end of the ‘80’s, early ‘90’s, I had this fire project.
+1:08:53
+I
+1:08:56
+just finished that up.
+1:08:57
+Actually, we got the last paper out last year.
+1:09:01
+Then, I started some research on
+1:09:05
+mycorrihizae in the mid ‘80’s, some of which was at the Andrews,
+1:09:08
+some of which was nearby Coast Range forests, just because they’re
+1:09:11
+handy, you know, easy to get to.
+1:09:13
+In fact, that’s how we would gain some credibility, and
+1:09:17
+still do, any of these things.
+1:09:18
+It’s good to have sites that are satellites of the Andrews, so that you
+1:09:23
+could broaden the applications of those.
+1:09:27
+As good as the Andrews is, I’ve always felt that you should try to demonstrate
+1:09:33
+relevance elsewhere, because we’re demonstrating ecosystem principles,
+1:09:36
+and try to take it outside that.
+1:09:41
+Other people have gone on, they’re interested in landscape
+1:09:45
+applications and that sort of thing.
+1:09:47
+I haven’t gotten into that, but clearly you have to build bridges outward.
+1:09:57
+Once you
+1:10:00
+get on a tenure-track appointment at OSU, does it then become easier to
+1:10:05
+work with graduate students, or are you more willing to take on a graduate
+1:10:09
+student than you might be otherwise.
+1:10:10
+Both, because you have the time.
+1:10:12
+I would have liked to have had students very early, but when you’re a post-doc,
+1:10:21
+you’re not in a position to be an advisor.
+1:10:22
+You could help students and work with-them, but you can’t
+1:10:24
+be a major professor until you get a real faculty position.
+1:10:28
+So, in that situation you would tend to work more with technicians?
+1:10:32
+And other fellow post- docs, is what I did.
+1:10:37
+So, your circle of collaborators would change?
+1:10:39
+Right, definitely.
+1:10:40
+Well, and I very much wanted to take what I learned and to help
+1:10:46
+train a new generation of students.
+1:10:49
+So, if I was given an opportunity, I’d like to turn around and do it for
+1:10:53
+as many more as I could in my career.
+1:10:55
+Sure, sure.
+1:10:56
+Still doing that, I hope.
+1:10:57
+[Chuckle] A few more grey hairs.
+1:11:03
+One
+1:11:06
+more thing I wanted to ask you though.
+1:11:08
+Did you get to talk to Jim Sedell today?
+1:11:08
+Yeah, I did.
+1:11:10
+I got to this morning.
+1:11:11
+It was a long haul to get on his calendar.
+1:11:14
+Get him tied down and disciplined and not fidgeting in his chair?
+1:11:17
+[Chuckle] He’s a great guy.
+1:11:19
+Mainly just because he
+1:11:20
+-- -- Going in a million directions, though.
+1:11:22
+Yeah.
+1:11:23
+Just getting in on his schedule was the problem most of the time.
+1:11:25
+Yeah,
+1:11:30
+I understand.
+1:11:30
+Off-the-record, how long have you been involved in this project?
+1:11:33
+Oh, I’ve been with the Andrews project since ‘96.
+1:11:41
+But I’ve been working with the PNW Station here on these history
+1:11:46
+projects since about ’91, actually.
+1:11:49
+So, you’ve gotten to know the LTER group fairly well.
+1:11:52
+Fairly good, yeah.
+1:11:53
+Been down there in the summer and you’ve seen some of what they do.
+1:11:56
+Yeah.
+1:11:56
+You have a feeling for what they’re doing now?
+1:11:59
+Yeah, in general.
+1:11:59
+I tend to go to most of the meetings when I’m in town here so, yeah.
+1:12:03
+Okay, alright.
+1:12:04
+So, you really do know people pretty well.
+1:12:05
+If you didn’t really know folks like Jerry Franklin and Dick Waring, who weren’t
+1:12:10
+directly working with it, you should.
+1:12:12
+Yeah.
+1:12:12
+They, I only know through interviews I’ve done with them.
+1:12:15
+You know because they haven’t really been involved with the group
+1:12:17
+very much since I’ve been here.
+1:12:19
+People like Ted, who was here at that time, he went off to Alaska for a major
+1:12:23
+period, but came back as a retired guy helping us put the soil database together.
+1:12:27
+He started out on it and then we finished.
+1:12:29
+Yeah.
+1:12:29
+You know, it’s interesting how they
+1:12:32
+circle back.
+1:12:33
+Ted, I’ve really enjoyed working with him, because before I did this, I
+1:12:36
+was working on the Alaska history.
+1:12:38
+That’s right, you’ve got two bangs for [him] , right?
+1:12:41
+He was up there for 15 years.
+1:12:43
+Okay.
+1:12:43
+Because I just was curious.
+1:12:45
+It just helps me to ask you a couple of questions.
+1:12:54
+I’ve been asking everybody I interviewed just to get a sense of changes over time.
+1:12:58
+Maybe you could tell me how you might characterize the difference between basic
+1:13:01
+and applied science, as you understand it.
+1:13:05
+In forestry, I think it’s more difficult to do, because
+1:13:14
+you could see the applications
+1:13:21
+easily.
+1:13:21
+In other words,
+1:13:24
+understanding the basis of things like forest productivity or soil
+1:13:30
+fertility or how mycorrihizae work or
+1:13:35
+how a log decays.
+1:13:37
+These are all good, basic science questions, but we urge that we
+1:13:40
+need to know them because of the tremendous resource use in forestry.
+1:13:46
+I
+1:13:49
+don’t see there being real hard and fast lines between those.
+1:13:54
+That’s what I enjoy about being in forestry.
+1:13:56
+You can concentrate very hard on those basic science questions, and you
+1:14:01
+can sit back and turn it around and sort of think about the adaptation.
+1:14:05
+Maybe, I wouldn’t directly do that, but try to write stuff out,
+1:14:09
+and try to cast our findings so that others can incorporate that
+1:14:19
+into management.
+1:14:21
+Given what you’ve said there, in forestry, is it likely that all
+1:14:28
+findings will drive the kinds of basic questions that are being asked in
+1:14:32
+research as kind of a demonstration of the value of the discipline?
+1:14:37
+I don’t know that it drives it.
+1:14:42
+Some people might think that that’s true.
+1:14:45
+But I’ve felt that good research should be somewhat policy-independent.
+1:14:51
+Because you’re trying to formulate what one would think are important
+1:14:55
+questions about how an ecosystem might function, might be sustained or managed.
+1:15:04
+There’s a lot we have to learn about that.
+1:15:12
+It’s inevitable that policy will come into play, but I would rather see good research
+1:15:21
+and management guide policy rather than policy simply driving research.
+1:15:30
+On the other hand, where do you get your directions for ideas and
+1:15:36
+creativity, and trying really new things?
+1:15:42
+The public has a lot of interest in managing the resources of the country,
+1:15:47
+so that translates itself into policy.
+1:15:50
+That’s why we ended up with things like an EPA, because we were very
+1:15:53
+concerned about the environment.
+1:15:54
+So that’s there, but
+1:16:00
+they’re also kind of expecting people who have had training and research and
+1:16:08
+education, to come back to them with
+1:16:15
+a better knowledge base upon which to base management.
+1:16:24
+I think at a university, we have a chance to interact with policy, but
+1:16:28
+I don’t feel we should be driven by
+1:16:32
+it.
+1:16:33
+We can contribute to it, but it is dialogue.
+1:16:38
+I don’t think we should just formulate policy either.
+1:16:42
+We contribute to the ideas of how to formulate policy.
+1:16:46
+I
+1:16:50
+think we have to be
+1:16:54
+careful how we do that so that we don’t try to impose our values, because there
+1:16:58
+are difficult issues to deal with here.
+1:16:59
+They’re interesting issues, they’re challenging issues,
+1:17:02
+but they’re sometimes difficult
+1:17:07
+issues in relation to the resource base of this planet.
+1:17:08
+So that puts a lot of responsibility on people to try to handle them in
+1:17:12
+a responsible manner, so that the
+1:17:16
+different sides of these questions get explored.
+1:17:20
+Some are popular and easy, some are not easy, and they may not be popular,
+1:17:26
+but maybe they’ll be important.
+1:17:30
+That’s the way I feel about it.
+1:17:33
+Do you have a sense of the relative success of the Andrews in
+1:17:37
+particular, in achieving that kind of balance in comparison with other
+1:17:41
+places like, for example, Coweeta?
+1:17:47
+I think they have certainly contributed to our knowledge
+1:17:52
+base of how ecosystems function.
+1:17:55
+I certainly think that that’s going to have a bearing on future management.
+1:18:02
+For me, being sort of in the middle of it, it’s a little more difficult to say how
+1:18:06
+much they’ve really contributed to policy.
+1:18:09
+They certainly contributed to the national discussions about
+1:18:11
+ecosystems, ecosystem management.
+1:18:14
+I think that’s fair to say.
+1:18:17
+We’re right in the middle of that now, so, it’s an ongoing
+1:18:26
+conversation.
+1:18:27
+One other thing here that’s kind of a corollary to what we were talking about
+1:18:29
+earlier in terms of what you view as your
+1:18:34
+audience for the work that you do; how successful or consciously do
+1:18:42
+you think the Andrews group has targeted an audience or audiences?
+1:18:48
+In other words, how well are they known for what they do?
+1:18:51
+They’re known, I think in professional audiences, they’re known very well,
+1:18:56
+nationally and internationally.
+1:19:00
+I think they’re also known quite well in management circles,
+1:19:08
+and they certainly have had some impact on policy.
+1:19:12
+When we talked earlier about this whole, levels of education, I don’t know how
+1:19:16
+much the general public knows about them.
+1:19:20
+People in Oregon have certainly heard about them, but I don’t
+1:19:24
+think somebody in New York has heard about the Andrews or Coweeta
+1:19:30
+or Hubbard Brook.
+1:19:31
+It would be an interesting question to ask.
+1:19:33
+But, nationally, many people,
+1:19:39
+have heard of ecosystem management.
+1:19:39
+I think a bit of an educational sort of job still to do there yet.
+1:19:43
+So, the legacy of ecosystem management has become well-known?
+1:19:47
+I think so.
+1:19:48
+But the links between that and what people are doing, and from what I
+1:19:52
+hear and from what you’re saying, I’m gathering the Andrews has been
+1:19:57
+a leader in ecosystem management.
+1:19:57
+Look at
+1:20:03
+the recent
+1:20:06
+Mars lander and the tremendous focus that that got all over the world.
+1:20:13
+I think
+1:20:16
+the involvement of things like NASA is going to help to educate about
+1:20:21
+global ecosystems, and integrate up.
+1:20:25
+So, there are various levels on which this educational process will occur.
+1:20:29
+I think we need more of it.
+1:20:32
+I’m not gifted at working with, say, elementary school kids, personally.
+1:20:36
+But I think people who can do that, need to be trained in some of that
+1:20:40
+information base, so they can incorporate it, because there’s a lot happening in
+1:20:46
+science and medicine and everything else.
+1:20:49
+There’s a lot of information to teach people today.
+1:20:54
+Our policy-makers, our governmental leaders need education as well.
+1:20:57
+We don’t have that many scientists in Congress.
+1:21:01
+Look at the impact on Congress of the astronauts who became Congress-people.
+1:21:06
+You know that a relative handful were primarily
+1:21:13
+flight engineers.
+1:21:17
+They were not even basic researchers, but, as a group, they certainly
+1:21:20
+have had a big impact in Congress, because of their expertise in science.
+1:21:25
+That’s just one illustration of what I’m getting at here.
+1:21:28
+We need more of those kinds
+1:21:31
+of
+1:21:35
+people.
+1:21:35
+I wonder if you could tell me, from your perceptions of having worked with
+1:21:39
+this group for a while, what would you consider to be the more enduring legacy
+1:21:44
+of this research group at the Andrews,
+1:21:51
+from 1971 up to the present?
+1:21:53
+I think we will have an enduring legacy of a really good foundation level of
+1:22:03
+coniferous forest ecosystem research.
+1:22:10
+That includes the
+1:22:14
+watershed studies, it includes model development, includes
+1:22:22
+all of the vegetation and plant ecological applications.
+1:22:28
+It includes physiological ecology that was done, soils work, little
+1:22:35
+things like coarse woody debris,
+1:22:39
+the role of the crowns of tall trees, the epiphytes, because we have a
+1:22:44
+clean atmosphere out here, things like lichens, where some of the
+1:22:50
+findings canopy research pioneered.
+1:22:54
+There are many facets to it.
+1:22:55
+The stream research.
+1:22:57
+You know there’s erosion research.
+1:22:59
+You can go back to the major sub-themes of that work, I think are all going to have a
+1:23:04
+very good legacy, both scientifically and
+1:23:10
+in policy and management.
+1:23:10
+Now, we’re
+1:23:14
+not just at the Andrews but are trying to interact with countries in Eastern Europe
+1:23:18
+to deal with all the pollution problems in the countries of the former Soviet Union.
+1:23:26
+I don’t know if you’re going to interview Mark Harmon, but he’s doing a lot of work,
+1:23:29
+and has done a lot of work in Russia.
+1:23:32
+Yeah, I did, but I’m trying to remember if we talked about it.
+1:23:35
+I can’t recall.
+1:23:36
+Okay.
+1:23:36
+But that’s an example where it’s going out onto the planet.
+1:23:40
+Jerry Franklin had some very good ties with Japanese forest ecologists.
+1:23:44
+Some of them came here during the IBP.
+1:23:47
+We now have several Japanese graduate students here doing ecosystems research,
+1:23:55
+and we’ve certainly had very good interactions with China.
+1:24:06
+Those are just select examples.
+1:24:11
+The International Biological Program didn’t only occur here; it occurred
+1:24:14
+in Canada, it occurred in Western Europe, they were counterpart programs.
+1:24:19
+I think some of those international ones never had quite the funding levels,
+1:24:25
+duration, or widespread scope we had here, partly because they didn’t have the
+1:24:30
+money, even in places like Britain, but they did get ecosystem groups together.
+1:24:40
+Dick Waring’s done a sabbatical there, and he could tell you about that.
+1:24:44
+So, if you’re looking for how it’s gone out from here, it’s gone out from
+1:24:49
+here in a lot of very interesting ways.
+1:24:51
+We had the Swedish ecology team over here, and we had Japanese ecologists.
+1:24:54
+In other words, all through the years it’s been a very large international contingent
+1:24:59
+of folks who’ve come through here.
+1:25:01
+Some of them on sabbatical some of them, short stays, so,
+1:25:07
+there are a lot of threads.
+1:25:08
+It will be interesting to figure out, I know some of them, but you’ve
+1:25:15
+been a little more focused in this discussion with how we interacted with
+1:25:18
+places like Coweeta and University of Washington, but there’s been
+1:25:21
+all this international interaction.
+1:25:26
+And we’re probably sort of starting to have impacts in
+1:25:29
+Third World countries, too,
+1:25:32
+‘cause of the issues of reforestation and land degradation
+1:25:37
+and all those sorts of things.
+1:25:39
+But, I tell my students that an education in forestry will give them the chance
+1:25:44
+to not only apply things in U.S. forest management, but they, if they
+1:25:49
+want to do international work, there’s going to be really good opportunities.
+1:25:55
+If you have a good, stable economic environment, we don’t have wars going
+1:25:59
+on.
+1:26:00
+In other words, if you look at the 20th century, it’s been pretty disrupting.
+1:26:05
+And, if you’ve got a country like Sweden, you see where you didn’t have two world
+1:26:09
+wars, you look at the infrastructure.
+1:26:10
+You go down to Germany, and they have a lot of excellent science and a
+1:26:14
+lot of things that have been rebuilt after two world wars, but they don’t
+1:26:18
+have a lot of forest that hasn’t been pretty seriously impacted by it.
+1:26:25
+Sweden has old growth, some of the old-growth forest left.
+1:26:28
+You get that sense when you get in Europe, of the different
+1:26:32
+impacts that have occurred.
+1:26:36
+It’s something that if you try to look at this internationally, do get to go to
+1:26:39
+some of these places, as there’s a story you’re going to be interested in seeing.
+1:26:47
+Sweden’s very environmentally conscious, Germany is becoming more so.
+1:26:52
+So, what you’re saying is one of the important legacies, is in the people?
+1:26:54
+Well, you know another country that’s really blossomed, is Spain.
+1:26:57
+Because Spain after Franco has really trained an outstanding young group
+1:27:02
+of scientists who are doing excellent things, but are not having nearly the
+1:27:07
+financing some other countries do.
+1:27:09
+They’re doing some excellent work.
+1:27:14
+They care about their ecosystems.
+1:27:16
+They’ve been doing things since the time of the Romans, so
+1:27:21
+they’re not exactly pristine.
+1:27:25
+[Chuckle]
+1:27:25
+I’m following what you’re saying.
+1:27:26
+To give you an example, in Spain, the local jurisdiction of grazing
+1:27:30
+cattle on land have been in business for hundreds and hundreds of years.
+1:27:36
+And they take precedence over, say a U.S. Forest Service.
+1:27:41
+It’d be like the county regulations having been in existence for 500 years,
+1:27:47
+the United States came into being, and now we have the Forest Service.
+1:27:50
+Guess whose regulations would sort of be the prime for local land management?
+1:27:54
+It’s reverse to what you’d think of in this country.
+1:27:57
+So, that makes it challenging for people in Spain to govern.
+1:28:01
+They are forced to work with local people, and almost first to educate
+1:28:04
+them in what they’re trying to do.
+1:28:06
+To deal with local jurisdictions and then bring in the national
+1:28:10
+system, makes it a little harder.
+1:28:15
+Something I learned from my Spanish students.
+1:28:21
+Trying to extrapolate?
+1:28:22
+I know we’ve progressed, but I just see a lot of ways in which
+1:28:26
+something like the Andrews and these other ecosystem study groups
+1:28:33
+are potentially interacting nationally and internationally.
+1:28:39
+So, what you’re talking about is a model of interdisciplinary exchange that’s been
+1:28:43
+extrapolated into international arenas.
+1:28:44
+Right.
+1:28:46
+People like Dick Waring are developing short courses.
+1:28:49
+He’s done it in Austria and I think he’s going to go to Eastern Europe
+1:28:52
+with it, because those students need to be able to catch up with us and not
+1:28:59
+duplicate all the intermediate steps.
+1:29:03
+They need to be brought up to speed in terms of computers, methods, and
+1:29:09
+where we are in our science, so that they can catch up and start doing
+1:29:14
+work that’s comparable to ours.
+1:29:16
+They’re going to have to go through some of the same experiences in
+1:29:21
+terms of developing organizational structure and all that.
+1:29:25
+You just have to kind of go through some of that, but at the same
+1:29:27
+time, they shouldn’t have to go back and do all of the 1970’s type
+1:29:31
+research we did, or the ‘80’s.
+1:29:35
+Some things, yes, but we should enable them to catch up a lot easier.
+1:29:40
+They’ve got a huge job to do and in many cases not nearly the funds we had.
+1:29:45
+All of these countries are still dealing with both the aftermath of wars and real
+1:29:50
+resource pressures on their forests.
+1:29:54
+So, they’re challenged.
+1:29:57
+Well, I probably should let you get back to work.
+1:29:59
+Phil Sollins is talking just along the same lines about the Canadians
+1:30:03
+as part of the IBP, and the history of how people have moved from the IBP
+1:30:10
+into national leadership positions.
+1:30:14
+Right.
+1:30:15
+Well, one way to think of it, is Canada’s a huge country, but it’s not a large
+1:30:19
+population, it’s about like California.
+1:30:22
+They
+1:30:26
+did some very nice stuff, but they didn’t have all the funding and all
+1:30:33
+the groups behind it that we had.
+1:30:37
+But, we had some very good interaction with
+1:30:41
+some of the Canadians, some of the British and Canadian specialists.
+1:30:44
+There’s a doctoral student from the UBC [University of British
+1:30:49
+Columbia] research scene I’ve been trying to steer in that direction.
+1:30:52
+Well, one person that you need to talk to [would be Hamish Kimmins]
+1:30:55
+, because he has been one of the outstanding ecosystem research.
+1:31:03
+He’s written a major textbook on forest ecology.
+1:31:06
+He’s been working on forest ecosystem models for nearly 20 years now.
+1:31:15
+He’s a Yale-trained ecologist.
+1:31:20
+In fact, Dan Binkley, who’s my student, did a masters with him
+1:31:23
+and then came down to work with me.
+1:31:29
+But there are people like that that would be well worth talking
+1:31:32
+to sometime or knowing about.
+1:31:37
+I shouldn’t take up all of your afternoon here.
+1:31:39
+You’ve been generous enough, but I’ve got to get my daughter from daycare, too.
+1:31:42
+Did you have anything that you wanted to zero in on, because I
+1:31:46
+kind of actually jumped around?
+1:31:46
+Well, I appreciate the opportunity to try to provide you, hopefully, some
+1:31:52
+useful information about my experience.
+1:31:54
+It was very positive for me, all the way.
+1:31:58
+Yeah, good.
+1:31:59
+Well, it’s been helpful.
+1:32:00
+I feel I could have done more, sometimes, with maybe more resources,
+1:32:04
+post-IBP, but I’ve been very blessed to get a lot of good things done.
+1:32:09
+Now Phil’s done some really nice work in the tropics, too.
+1:32:14
+I don’t know if he’s brought that out, but he’s done a lot of work in Costa Rica.
+1:32:17
+Yeah, we talked about that, a little bit of the transition.
+1:32:19
+He had originally lived down there in Puerto Rico and moved, I think, during
+1:32:23
+his high school years or something.
+1:32:25
+You already had that, that he had several interesting projects down there.
+1:32:31
+He’s gone out
+1:32:53
+and done some nice stuff for
+1:33:17
+the classes.
+1:33:18
+Well I better-
+1:33:18
+Gotta
+1:33:47
+go.

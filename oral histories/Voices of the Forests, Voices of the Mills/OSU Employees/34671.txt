@@ -1,0 +1,3218 @@
+00:17
+I’m trying to remember how much I told you on the phone, so I don’t know
+00:21
+if you’ve gotten any communications on what I’m up to here yet?
+00:22
+I thought I knew.
+00:25
+I did get this draft outline of the book proposal.
+00:28
+Okay, good.
+00:29
+Yeah, you did.
+00:30
+I wasn’t sure exactly where I was going to fit in, but I wasn’t going to worry.
+00:36
+I’ve
+01:01
+got a series of questions I was going to ask you.
+01:03
+Okay.
+01:03
+But if you have something you want to talk about, let’s go ahead and do that.
+01:06
+Can we do the slides?
+01:08
+[Speaks with support of visuals, including organization charts.]
+01:09
+Yeah, why don’t we start with that.
+01:09
+Perfect.
+01:09
+Okay.
+01:10
+So, I wanted to share with you the history of how we got to where we are today.
+01:17
+Because where we are on that Xerox [historical lists/organizational
+01:20
+charts] , there is quite an evolution from where we started in 1980.
+01:25
+I joined [HJA-OSU-USFS] in ‘79, and I was brought in as a consulting statistician,
+01:30
+and there was one programmer on site.
+01:33
+So, we’ve grown substantially, but we’ve grown so that the organization
+01:38
+is in tandem with the research, that it was always coupled to where
+01:43
+we saw the research going, what we saw we needed to be addressing.
+01:50
+I like the slides because, “do unto data before it does unto you,” is kind
+01:54
+of good. Basically, what I wanted to show you is the Quantitative Scientists
+02:01
+Group and the Forest Science Databank.
+02:06
+When I think about the goals for the Quantitative Sciences Group,
+02:10
+I think of them as two-fold, and that’s what differentiates us
+02:14
+from computing centers, perhaps.
+02:17
+We have to facilitate research, meeting the computing and the statistical needs
+02:23
+that our researchers have, and of our students, but we also need to anticipate.
+02:28
+So, we get involved in the science-doing as well as the
+02:32
+making-it-possible-to-do-the-science, because the role of science and technology
+02:37
+is getting so intertwined today, that you need a foot in both camps to do that.
+02:45
+So, what I wanted to do is say who we are, where we’ve been, and what
+02:49
+we’re doing and where we’re going.
+02:53
+Now this is where this next list is important.
+02:55
+This was done, probably in
+03:02
+‘93, so in the three or four years since then, this list has been
+03:09
+replaced with this group here.
+03:14
+What’s interesting is that here, it’s just a linear listing of who we’ve got.
+03:20
+There is a director and a consulting statistician, myself.
+03:22
+We have a databank manager, Gody Spycher, who is over here.
+03:27
+We have Tom Sabin, who’s an assistant statistician.
+03:31
+He left to go and work with Gore, the people that make Goretex.
+03:35
+And we hired Dr. Lisa Ganio in his place, so we’ve grown in that direction.
+03:43
+Mark Klopsch, the network administrator, is now the [OSU] College of
+03:47
+Forestry Computer Coordinator.
+03:50
+Ken
+03:53
+West was Mark’s assistant, and what we were able to do there, is move Ken
+04:00
+in by a direct appointment, because he was obviously the candidate.
+04:04
+I did a market analysis and we were able to go through the process so that
+04:08
+Ken took Mark’s position, and then, we hired behind Ken, and that’s the
+04:14
+position that Sean San Romani has.
+04:18
+And Barbara Marx, who’s our GIS technical support programmer.
+04:23
+She’s still with us.
+04:26
+Lisa Ganio was a spatial statistician at Point Sevren, and we did a similar move
+04:33
+of Lisa into Tom’s job when Tom moved.
+04:36
+I think there’s great advantage in being able to promote from within if
+04:43
+you’ve got the high-quality people that we’ve been so fortunate to attract.
+04:48
+When we are going off in new areas, then we have open searches and we do everything
+04:53
+as broadly represented as we can, but I don’t see any point in pretending if
+05:00
+we pretty much know that we’ve got the best talented individuals here, then
+05:04
+let’s be up front with that and go with it, so that’s what we did with Lisa.
+05:09
+Sharon Clark is our GIS-geographer,
+05:14
+and Michelle Murillo was providing some UNIX support.
+05:19
+She has left and has gone to Los Alamos Lab in New Mexico, and we
+05:27
+have Taralynn Vendetta that we hired as a UNIX system administrator.
+05:32
+And then, we had a whole bevy of students, so we’ve got pretty much all
+05:37
+of these positions covered plus some more, because you see additional names.
+05:42
+The other thing that is really important to notice, is that from our inception,
+05:47
+we’ve had a very close partnering with the U.S. Forest Service, and in particular
+05:54
+the Landscape Ecology Research Work Unit.
+05:58
+That’s Fred Swanson’s group.
+06:00
+And it will become even clearer, because you’ll see some grant-writing that came
+06:07
+in a strategic time that was really able to sort of get us on the right trajectory.
+06:13
+And these people are pretty much here as well.
+06:16
+There’s Don Henshaw, who is here, there’s George Lienkaemper, who
+06:21
+is here, there’s Hazel Hammond.
+06:24
+And
+06:29
+John Gray was recruited into this spot.
+06:32
+Maria Fiorello was working in remote sensing, and we have Sharon Clark
+06:40
+and John doing some of that work now.
+06:43
+Steve Acker is doing some data management,
+06:51
+but Gody and Don are doing a lot of that now as well.
+06:56
+And then we’ve always been fortunate enough to recruit students.
+07:01
+So that’s the evolution, just from ‘93-’94 to where we are now.
+07:09
+We also have a close tie with the U.S. Forest Service Management Systems Group.
+07:17
+Nancy Barnes said that position is currently vacant.
+07:20
+Carla Veach, who’s in telecommunications, and Theresa Larabee.
+07:24
+So, you can start to see how the tentacles of QSG, the Quantitative Sciences
+07:28
+Group, are really expanding out and extending, so that it’s very difficult
+07:35
+in most instances to know who is Forest Service and who is Forest Science.
+07:41
+We as scientists, think that is very helpful.
+07:45
+Where that causes some challenges is on the administrative side of trying
+07:50
+to keep things that are supposed to bureaucratically, kept separate,
+07:55
+and so we have to work on that.
+07:58
+One of the things that we’ve tried hard to do is break down any potential barriers
+08:05
+that could come from those who manage the data and manage the computer network,
+08:12
+and those whose data we are working with.
+08:15
+The old model of taking your data to the “high priest” in the computer center,
+08:22
+we’re trying to break all that down.
+08:25
+Everybody within QSG, has, to some degree or another, some either biological
+08:32
+or natural resource background, in addition to their technical ability.
+08:38
+So that gives people that you’re working with as a researcher and as a student,
+08:45
+the sense that they understand why this is important, and they are as
+08:48
+intrigued with your work as you are.
+08:51
+And it really helps break down any barriers that, or, “Just give
+08:55
+me the data don’t tell me what it’s all about,” because people
+08:58
+spend their lives collecting their data, and makes it easier.
+09:02
+Another thing we do is we give a series of workshops so that we can train
+09:10
+our users on all that which we feel they need to know about information
+09:16
+management, and they can pick and choose.
+09:17
+We have workshops on how to get into the network and how to remotely log in,
+09:24
+how to run GIS, how to learn UNIX at an introductory level, so we try to do
+09:30
+some of the teaching features as well.
+09:34
+And then we have a help desk, which is in a centralized location.
+09:39
+In fact, we’re just now working on the schedule, because one of our
+09:44
+key people has left and she was doing a number of shifts on help
+09:49
+desk, so we’re scrambling to cover.
+09:52
+But the idea there, was to provide a point of contact for users in
+09:56
+the building who had immediate problems to come and get some help.
+10:01
+It also was a time management ploy on the part of QSG, so that people
+10:06
+wouldn’t be coming in all the time, interrupting when there’s something
+10:10
+you’re working on that you really need a big block of time to get done.
+10:13
+So, we’re constantly trying to wrestle with how do you meet the needs of our
+10:17
+users, and how do you preserve and protect your own schedule to try to do things?
+10:25
+One of the things I think you have to realize is that within any user
+10:31
+community there’s great diversity.
+10:34
+So having one approach, or a one-size-fits-all kind of
+10:40
+strategy doesn’t make it.
+10:44
+This is an area that we are continuing to improve ourselves on.
+10:49
+But, there’s a number of different kinds of folks such
+10:53
+as extroverts and introverts.
+10:55
+That’s
+10:58
+an important issue, especially for some of our international students who
+11:01
+feel that it is inappropriate to ask for help, or they’re burdening us, or
+11:06
+they are imposing on us in some way.
+11:09
+That’s why having the help desk where people can come one-on-one,
+11:13
+where you have workshops, so that people could sign up ahead of time.
+11:19
+And then Lisa and Manuela and I teach a class winter quarter.
+11:26
+It’s basically entitled “Natural Resources Data Analysis.” The point of the course
+11:32
+is to teach students how to analyze their own data. And we teach them how
+11:38
+to use stats so that they can take their synthesized information that they’ve
+11:42
+learned in their service stat courses, and
+11:47
+know how to get their research done.
+11:50
+This may seem very general for the history of the Andrews, but the
+11:55
+Andrews and the cadre of students from the Andrews, all fit within
+12:00
+this model, so it’s not separate.
+12:03
+You know that we’re part of
+12:23
+the LTER network?
+12:25
+Right now there are 20 sites within the LTER, but you probably know that.
+12:40
+Basically, what we’re doing here is encouraging and fostering the idea that
+12:45
+data management might be integrated into that whole research process.
+12:51
+We came up with a systematic approach, it was really as much for us as our
+12:58
+users, because it demonstrates the phases that we like to see people go through.
+13:07
+What we want to do is avoid having students come in after the fact,
+13:13
+with a poorly-designed experiment or poorly-documented data, and then not be
+13:20
+able to pull the most out of that work.
+13:24
+We start with study planning, where the PI, the investigator, the
+13:29
+researcher, sit down and identify the objectives of the research.
+13:33
+Come and sit with a statistician, get the statistical design approved
+13:37
+or discuss what options there are, and then also see the data manager
+13:43
+so that you can get your data set up from the outset, appropriate for
+13:50
+long-term archival storage in the Forest Science Databank.
+13:54
+Then, go out and collect the data, and that’s the part
+13:57
+that usually happens first.
+14:04
+Work with
+14:09
+the folks on data documenting and editing.
+14:14
+Then comes the fun time for the analysis.
+14:20
+That’s where the class comes in because I hope that my students
+14:23
+use, if not all, at least a portion of their data in the analysis, for
+14:27
+the final project in the class.
+14:30
+The wrap-up is data interpretation and synthesis, where you come back
+14:35
+and sit with a statistician, if necessary, to help with interpretation
+14:40
+of results, so we make sure that what’s being said is statistically sound.
+14:48
+Many of the issues that we work on the Andrews, have potentially
+14:55
+controversial findings or audiences.
+15:00
+It’s even more critical that the statistical rigor of the approach
+15:06
+be very sound, and whatever boundary conditions need to be attached to
+15:11
+conclusions, are stated up front.
+15:13
+Because you’d much rather do that yourself, than have a letter
+15:17
+to the editor do that for you.
+15:20
+And then, I always emphasize that we want to get the results out, synthesized
+15:25
+and published, because if something is just sitting in a notebook or on
+15:29
+a floppy disk, it’s very helpful.
+15:32
+Does that include placement on inner and outer web sites?
+15:38
+Now it does, now it does.
+15:40
+That’s a really good question.
+15:42
+There is tremendous interest on behalf of the National Science Foundation
+15:47
+to have as much data online as possible as quickly as possible.
+15:52
+Some of the sites within the LTER network are making a distinction between their
+15:57
+core data sets, the ones that are on the five major areas, primary productivity,
+16:03
+disturbance, whatever, and the work that their graduate students are doing.
+16:10
+We find that a lot of the work that our students are doing is really
+16:15
+interesting and has long-term potential.
+16:18
+So, we would like to have the graduate student data, in most instances, put
+16:26
+in a form, so it could be in the data bank and then available over the web.
+16:31
+We’re not there yet though.
+16:32
+We have some of our data available online.
+16:36
+We have abstracts for data available online and things like that.
+16:41
+There’s still a great of discussion within the user community on what
+16:47
+constitutes a reasonable time limit.
+16:50
+And funding agencies are saying that what is reasonable from the funding
+16:55
+agencies’ views, and what is reasonable from someone’s view who sits on their
+16:58
+data and doesn’t get their act together and doesn’t get it published very
+17:01
+quickly, are two very different things.
+17:04
+So, we’re wrestling with this.
+17:06
+We had a meeting of the data managers from each of the LTER
+17:10
+sites in Albuquerque in August.
+17:13
+One of the topics of discussion was helping NSF and the LTER community
+17:20
+re-write what would be an appropriate data-access policy at the site level.
+17:27
+So, that’s a long answer.
+17:31
+I’m
+17:34
+sorry.
+17:35
+This is to point out that timing is everything.
+17:40
+We’ve found that if you work with people at the right stage in that
+17:45
+research process, again integrating the whole attention to data and
+17:50
+information management at the appropriate step, rather than after the fact
+17:54
+or trying to retro fit something, is a far more effective strategy.
+18:00
+So that’s sort of in a nutshell, who we are.
+18:11
+The QSG, Quantitative Scientists Groups, I think of as having five major
+18:17
+areas: the connectivity support area,
+18:21
+the data management area, the statistical consulting, technology,
+18:28
+and then as we’ve grown, this physical tracking has become more important.
+18:33
+These are the kinds of things I see us providing in these different areas, and
+18:39
+these are the people that are associated.
+18:42
+Now I can go through and mark who is OSU and who is Forest
+18:46
+Service, but from our perspective.
+18:49
+That’s not a meaningful distinction, because we really try to work
+18:53
+together in a partnering way.
+18:55
+So, let me give you that.
+18:57
+Oh, I’ve got that.
+19:02
+Let me give you a little bit on where we’ve been.
+19:07
+Like any group, we started with mainframe, which was in the late 70’s, early 80’s.
+19:17
+We suffered with the same kinds of things that most people go through, delays.
+19:24
+Then we had the evolution of PC’s.
+19:30
+Not only did we have one PC, we had tons of PC’s, and it became clear that
+19:37
+a set of PC’s that weren’t connected to each other, was not going to be helpful.
+19:42
+So, we needed to figure out a way to create a local area network.
+19:49
+And that resulted in 1987 in a grant to NSF with Phil Sollins, Fred Swanson,
+19:58
+and Stan Gregory, who should all be familiar names to you in this scenario.
+20:02
+We wrote a grant for an integrated science workbench for ecosystem research.
+20:08
+We asked for online accessibility of what was currently in
+20:12
+the Forest Science Databank.
+20:14
+We wanted to provide high resolution graphics and computing power, so
+20:19
+we got one whole Sun workstation.
+20:22
+We now have 44, and a local area network [LAN] linking the PC’s to the
+20:28
+FSDB [Forest Science Data Bank] . So, basically in ‘87 we were successful
+20:32
+with this and were able to make our first stab towards connectivity.
+20:37
+Needed to get the bugs out.
+20:39
+And a year later, with a slightly different group of folks, Fred Swanson,
+20:46
+Tom Spies and Bill Ripple, who’s in the ERSA Lab, [Remote, Environmental Remote
+20:52
+Sensing and Application Laboratory in OSU] , with that we were trying
+20:58
+to link GIS with remote sensing.
+21:02
+We were working
+21:07
+on connecting the ERSA Lab to what we had in the Forest Science LAN.
+21:13
+We added another hard disk, another Sun workstation, and what was really
+21:17
+critical is this is where we got the seed money for Barbara Marx,
+21:22
+who was the support programmer.
+21:25
+What was interesting about this is that this is the first time we were
+21:28
+able to get money for a person, rather than just hardware and software.
+21:32
+This was a real step in the right direction in terms of recognition
+21:36
+on the part of NSF, that besides the stuff, we needed the people.
+21:42
+We were able to use that one year of support as a way of leveraging
+21:48
+other support from other projects.
+21:50
+When this support ran out, I was able to move Barbara because she’d already
+21:53
+proven her value to other projects.
+21:56
+This
+21:58
+is a schematic of what the local, the FSL LAN [Forestry Sciences Lab Local
+22:03
+Area Network] looked like back then.
+22:09
+This is the comic who said, “Wasn’t it your idea to improve communications,”
+22:13
+and everyone’s with mega-phones.
+22:15
+It became clear that we recognized that we had sort of two entities
+22:21
+that were not really connected to us.
+22:25
+Yeah, I was going to ask about that.
+22:25
+Yes.
+22:26
+The Forest Service and the H.J. Andrews.
+22:30
+In fact, this is now what we look like.
+22:46
+The Forest Service is part of this FSL, Forestry Science Lab.
+22:54
+So, as a result of this next grant I’ll tell you about, that was the
+22:58
+seed money to make this connection.
+23:02
+The Andrews is on a 56 KB line to the Andrews in Blue River.
+23:10
+That is a very modest connection.
+23:13
+If we are going to grow the H.J. Andrews into the vision that many of us have for
+23:18
+it, we need to be bringing down a T-1 line out to the Andrews, but that takes
+23:24
+a significant commitment of dollars.
+23:28
+The rental on that line per month is $1,000 to $1,500.
+23:34
+It’s substantial, and you can’t run it as a small mom-and-pop
+23:38
+operation; you’ve got to step up.
+23:42
+This is how we are today.
+23:46
+We wrote a grant that provided a gateway to the Data General, a local
+23:51
+area network for the Andrews, with some wide-area networking connections,
+23:56
+a Sun spark station, and net-ware SQL for increased network storage.
+24:01
+That was 1990?
+24:02
+This is 1990, and the three grants were key.
+24:10
+The first one was a separate grant, the second two were technological
+24:15
+supplements to existing LTER grants.
+24:18
+And what NSF and Ecosystems Long Term Studies, or whichever program you
+24:23
+want to associate with there, did, was recognize that if LTER was going to
+24:29
+mandate that 20 percent of the site budget was going to go into data management,
+24:34
+they also better make some resources available to build the infrastructure.
+24:39
+And then it was up to individual sites to take advantage of that.
+24:45
+That was a very insightful move on the part of NSF and the biological sciences
+24:51
+directorate to not make this sort of happen occasionally, but really put some
+24:58
+top-down impetus by making resources available, opening the competition so
+25:03
+that people could go forward and compete.
+25:05
+Do you know who was behind that idea?
+25:07
+John Brooks.
+25:08
+John Brooks was the Division Director in Division of Environmental
+25:13
+Biology of NSF, and David Kinsbury
+25:23
+was the Assistant Division Director.
+25:32
+Tom Callahan was the program manager in Ecosystem Studies.
+25:39
+So, you’ve got the program, the division, the directorate.
+25:43
+Uh-Huh.
+25:43
+[affirmative].
+25:44
+And there was alignment at all three, which was really critical.
+25:53
+As a result of that grant, we were able to do a better job connecting with
+25:57
+the Data General [Forest Service ‘DG’ communications system] , which you see
+25:59
+in here, and which is growing now because of the IBM contract and the 615 Project.
+26:05
+But back then they were just worried about the Data General, and connecting
+26:10
+with net lasers through to the Andrews.
+26:12
+I have to admit that the solution that we used with net lasers, had we made
+26:19
+this now, we wouldn’t have chosen that.
+26:22
+One of the things you’re always wrestling with is, that if you
+26:27
+wait just a little bit longer, the technology will change and improve,
+26:31
+but sometimes you can’t afford to wait.
+26:33
+So, you’ve got to jump, you’ve got to do, and then you have to be able to stand
+26:37
+back and evaluate the decision you made, and decide, do you keep going with this?
+26:42
+Or has it served its purpose, and you unplug it and put something else in?
+26:47
+What’s the current concern about the net laser?
+26:49
+It’s older technology and it is trying to make the 56KB line sort of as a kluge.
+26:57
+Whereas, if we bit the bullet and went with the T-1 lines, I don’t believe
+27:02
+the net lasers would be necessary.
+27:04
+Some of the net laser problems emerge as you change versions of
+27:10
+Novell from 3.1 to 4.1 or whatever.
+27:16
+The net lasers were designed for the older versions, and it’s always, you
+27:20
+push the upgrades out over the 56KB line to the remote locations, they’re not
+27:26
+able to figure out what to do with it.
+27:29
+So, you’re not always able to capitalize on the improvements in the versions of
+27:37
+some of the software, because of some of the trappings you have in place.
+27:45
+This was the grant that we wrote
+27:50
+a year later
+27:53
+after we worked on connecting the things, then we decided.
+27:58
+As we always do, as our users always decide, that whatever we
+28:01
+have isn’t enough, so we double.
+28:05
+On one grant, in one fell swoop, we doubled the GIS capacity that we
+28:09
+had, and we enhanced the databank.
+28:16
+This is what it looked like then, and this is what we were able to add.
+28:20
+But you can start to see how we grew this system in a sort of a
+28:25
+strategic step-by-step way, and a lot of times that’s forgotten
+28:29
+when you come in now and look at
+28:34
+as many PC’s and as many Sun workstations we have.
+28:38
+But, it’s critical to your story, because of the role that the Andrews and research
+28:45
+on the Andrews played in allowing us to capitalize on opportunities through that
+28:51
+Long-Term Ecological Research program and mindset at NSF to build the infrastructure
+28:57
+here, on-site and also out at the Andrews.
+28:59
+Uh-huh [affirmative].
+29:00
+So, there’s a long-term planning component?
+29:01
+Yes.
+29:02
+Everything we did from that very first grant in ‘88, we designed
+29:08
+the system, knowing that it was always going to be growing.
+29:12
+And that way, when we were able to go in for the subsequent grants, we
+29:17
+were able to say, “This is where we are, this is our long-range plan. This
+29:20
+is what we are requesting funds for to move us along this trajectory.”
+29:27
+This was the internet connection in, ‘90-?
+29:35
+Let me think here.
+29:36
+I think in ‘94 we had about 180 PC’s, a year later we
+29:41
+had 280 PC’s, and we now have probably close to 500 PC’s.
+29:48
+That’s just on the Novell side, so you can just see this exponential
+29:53
+growth that we’re going through.
+29:55
+The Forest Science Databank history is interesting because it gives you
+30:01
+a little perspective, starting in ‘73 through ’80, the data were on mainframe
+30:07
+tape, paper documentation, entry forms.
+30:12
+Then in ‘80 to ’84, we moved to a tape library with automated access abilities.
+30:19
+In ‘84 to ’88, we transitioned to the PC, because that coincided with the time
+30:24
+that we were able to write the grants to bring the PC’s, the local area network,
+30:28
+and the FSDB up as a node on that network.
+30:33
+Then we ported to the Novell server.
+30:35
+Now,
+30:39
+we are looking at client server architecture and trying to create
+30:45
+the Forest Science Databank in such a form where the data and the metadata,
+30:49
+primarily focusing on the metadata, would be query-able over the web.
+30:55
+A lot of the sites are working on that.
+30:58
+We have our data in flat ASCII files, and we have our metadata, the data
+31:04
+about the data, the documentation, if you will, in FoxPro primarily.
+31:10
+So, you can start to see how we’ve gone.
+31:15
+Was there any effort to integrate this planning with what was
+31:19
+going on in other sites?
+31:20
+Oh, yes, definitely.
+31:21
+In fact, because we were the first cohorts of sites funded in ’80, when we would
+31:29
+write our supplement grants, we accepted the responsibility of prototyping, so that
+31:37
+others sites didn’t have to do it again.
+31:40
+We could do some of the testing of things, and then we could share the results.
+31:44
+There’s a great sense of community among the LTER data managers.
+31:49
+We meet every year.
+31:51
+We have our annual business meeting.
+31:54
+Sometimes these meetings are held in conjunction with other professional
+31:58
+meetings, like ESA, sometimes they’re held with data management meetings where we
+32:04
+will organize a contributed paper session like we did a year ago at EcoInforma.
+32:10
+So, it gives everybody an opportunity not only to gain visibility within
+32:15
+the scientific community, but also to share and let your hair down.
+32:20
+You’d say, “Boy, you know I’m really having trouble with bringing up
+32:24
+Solera,” an operating system version on the Sun workstation, and, “What
+32:29
+are other people doing?” Some people
+32:33
+trying to pull together the network information system
+32:38
+are playing with many SQL’s.
+32:40
+So, we have a couple of people doing that, we have a couple of
+32:43
+people looking at Oracle, some of these larger database systems.
+32:47
+And we can kind of have some tech support groups within the network itself.
+32:55
+This is allowing us, we came in early, to look in terms of some of our
+33:03
+protocols for capturing information about data, how to manage it, how
+33:08
+to document it and everything else.
+33:10
+Other sites use that from us.
+33:14
+So, it would be accurate to say the Andrews has become or this
+33:19
+group or the LTER group here has been the prototype group, for other
+33:22
+long-term ecological research groups?
+33:23
+Yes.
+33:27
+Early on, we felt we were a flagship in the information
+33:31
+management arena because we were fortunate enough to have resources.
+33:37
+We were also fortunate enough to have this partnering going on, that allows
+33:43
+more people to be brought into the fold.
+33:46
+More challenges to be addressed as well, more jobs for everyone to do, but we
+33:51
+were able to get a critical mass more quickly, and we were actually able to
+33:56
+build a staff or a group, rather than having half of a position dedicated
+34:01
+to data management, which is what some of the sites [LTERs] have to do.
+34:04
+Do you get any sense of, in relative size
+34:09
+of your group here.
+34:10
+This is a large group here.
+34:11
+Is this the largest group
+34:15
+in the LTER?
+34:16
+I think so.
+34:16
+In terms of this kind of operation, I don’t know of any that is
+34:25
+larger.
+34:29
+We are fairly comprehensive too, in terms of tasks.
+34:33
+I think there are groups that, probably within the GIS area, that may have
+34:40
+more and go deeper than we do, but I don’t think that they have the
+34:45
+companion and statistical consulting
+34:50
+strength.
+34:50
+We are a little bit
+34:53
+broader-based, and fairly deep, when you look at that.
+34:59
+The only thing that’s misleading, is that some of these people are not full time.
+35:06
+They are liaisons to other projects, but these other projects have
+35:10
+information management, and data, and connectivity, and statistical needs,
+35:14
+so we use a person within their project as sort of a conduit, as a liaison.
+35:23
+That’s where we’ve been.
+35:29
+In terms of where we’re going, this whole concept of metadata and
+35:33
+data is an important one to us.
+35:36
+Are you clear on metadata?
+35:38
+I was just going to ask, how do you define that?
+35:41
+Metadata is what you would need to make sense out of the numbers
+35:47
+that I collected on my field study.
+35:51
+So, you would need to know why I collected it, for an abstract,
+35:55
+was it an overall study purpose?
+35:57
+You would want to know what were the formats of the data?
+36:00
+You’d want to know how they were collected, you’d want to know what units
+36:03
+they were collected in, you’d want to know whether they were rounded or not.
+36:09
+If I had some codes, you’d want to know what those codes meant.
+36:14
+I’d want to know what those codes meant, because two days
+36:16
+after I use them I forget.
+36:17
+All of that metadata, which used to be called documentation, is something
+36:25
+that we’ve spent a lot of time on.
+36:26
+And this is an area that other sites have followed our lead in as well.
+36:32
+Context is kind of what it sounds like.
+36:34
+Exactly.
+36:35
+So, metadata is a standard set of all pertinent information describing
+36:40
+the data that is essential for personal, independent access.
+36:45
+NASA has a policy that they would like their data to have adequate
+36:50
+metadata, so someone can come in a decade later and make sense out
+36:59
+of what they used.
+36:59
+When I talk about the Forest Science Databank, I’m talking about
+37:02
+the metadata as well as the data.
+37:05
+And in the metadata, we’re talking about catalogues, studies, formats,
+37:11
+data files, the investigators, the owners of the data, if you will.
+37:16
+That’s a tricky word, we’re trying to get away from data ownership because
+37:19
+of the push to make data accessible.
+37:23
+Project categories, locations and p-work.
+37:28
+One of the efforts that we’re currently involved in right now is taking all of the
+37:34
+data, all of the papers that the Andrews group has created, and key-wording them.
+37:43
+You’ve probably heard about that.
+37:44
+At the last LTER meeting I think they were talking about that.
+37:47
+Sounds like quite a project?
+37:48
+Yes.
+37:49
+But the abstract forms, the format forms, the code forms, all of
+37:54
+that resides in the metadata.
+37:59
+This is an example of a form.
+38:05
+I can show you this.
+38:07
+Actually, I use it in my class notes here.
+38:29
+So, this is a kind of paper form that we have.
+38:32
+We’re moving to online forms, but this is a good example where
+38:36
+you’ve got the variable names.
+38:40
+Are there blanks embedded in this variable?
+38:43
+What’s the format?
+38:44
+Alpha numeric means that you’re going to have letters as well as numbers;
+38:48
+“i” is integer, “f” is floating point.
+38:51
+Is it coded?
+38:52
+Yes.
+38:55
+What’s “ni”? I’ve forgotten.
+38:57
+Units, centimeters, what’s the minimum, max, and whether it’s missing.
+39:02
+The minimum and max is important because we can run checks.
+39:08
+If you’re saying that basically you’re not expecting a tree to grow more than
+39:12
+two or three centimeters, and I get a number out here that’s been punched in
+39:16
+or data entered, that’s seventeen, well, then we can instantly flag it, and we
+39:22
+can go back and say “Well, was it entered wrong? Was it transcribed incorrectly
+39:27
+in the field, or was it transcribed onto the screen incorrectly?” So, this would
+39:32
+be an example of the variable format.
+39:36
+So, the scientists would use this when they put up their study, to say what
+39:40
+they want their database to be showing?
+39:41
+Yeah.
+39:42
+Okay.
+39:42
+And you know that second block, where it said, “Sit down with the data manager?”
+39:48
+And, “Talk about the data documentation and the database design?” This is where
+39:52
+you would hopefully start identifying how you are going to organize your data.
+39:55
+How are you going collect your data?
+39:59
+And you’ve captured that at that point.
+40:01
+These are the variable names, and then this is what they are.
+40:06
+Sometimes it’s very clear, sometimes it’s not clear at all.
+40:09
+So, having the accurate definition is very useful.
+40:15
+Then here’s one.
+40:16
+If you have site 1 through 4, treatment 1 through 7, animal damage code 1 through
+40:24
+4, cause of death, what do those mean?
+40:27
+So, you have to capture all that.
+40:30
+That’s what we talk about in terms of what these are, but
+40:34
+this is a little easier to see.
+40:38
+That’s
+40:40
+a definition form, and that’s a code form.
+40:46
+We’ve gone through the abstract format and the codes, and then the catalogues.
+40:52
+Some of those are in place and some of them we’re working on.
+40:55
+But that’s what you would think of as a catalogue, a
+40:57
+listing, so that we can do that.
+41:00
+And with the web, it becomes even more important to have these catalogues
+41:05
+accurate so that people from the outside know what resource we have.
+41:12
+We have all different kinds of data.
+41:14
+We have meteorological records.
+41:15
+I’m sure talking with Art McKee, you’ve heard about the length of records there.
+41:20
+The met [meteorological] data is really interesting, Max, because
+41:23
+these are the data that people are always the most willing to share.
+41:30
+We have some vegetation plot data, mortality, growth and yield data,
+41:35
+some of these are now decades-long.
+41:40
+You know, so when you think about the resource that those data represent, or
+41:48
+model validation, it’s incredible.
+41:52
+And that’s why it’s important that, I’m not preaching to the converted,
+41:57
+but that’s why we’ve always felt that taking care of these data are
+42:02
+resources in and of themselves.
+42:03
+Because you’re not going to have the funds to go out and start a new study
+42:08
+every time you want to test a hypothesis.
+42:10
+So, if you can use and capitalize on data that’s already been collected and
+42:15
+well cared for, you know you’re using it in appropriate ways, then you can
+42:19
+build on what you’re doing and take those new research dollars, and collect the
+42:24
+data that you haven’t gotten already.
+42:26
+So now, what we’re able to do is take field reconnaissance data that we’ve
+42:32
+had for 60, 80 years worth of records, and link it with satellite data which
+42:38
+wasn’t available when these studies were initiated, and you can start
+42:41
+to sort of calibrate on the ground with what you observe from the air.
+42:47
+Was
+42:50
+there a problem with taking the way that data was collected in, let’s say 1951,
+42:55
+and putting it into the same system of data that was collected in 1988?
+42:58
+That’s
+43:01
+a problem.
+43:06
+It’s less of a problem than you might think, because you’re not starting ‘97
+43:11
+with data that you collected in ‘52.
+43:15
+The data that the databank inherited was brought into the fold as
+43:22
+it was sort of brought along.
+43:31
+Before we were a LTER site, we were a IBP site, and you heard about that.
+43:39
+They [IBP era workers] also had
+43:43
+a directive to take care of data.
+43:45
+The problem was, you could put data into a system, but
+43:49
+no one could get it out.
+43:50
+LTER was working on making that arrow work in both directions, from the data side.
+43:59
+The most recent project, it’s not LTER work, was anadromous fish
+44:05
+habitat survey data from the ‘30s and ‘40s on the Columbia River.
+44:11
+One of my students went back in early ‘90 and re-did that, and what
+44:17
+he looked at was habitat change.
+44:20
+Part of it was teasing out how much of it is because the protocols of
+44:24
+collecting the data had changed, versus that the actual system had changed.
+44:28
+Yeah, yeah.
+44:28
+So, you have to recognize that.
+44:29
+Has the accuracy of the measuring techniques changed?
+44:32
+Yes.
+44:34
+I was also thinking about the format in which data is stored,
+44:37
+starting with written records.
+44:39
+Yes
+44:39
+And then, I don’t know, punch cards?
+44:41
+Right.
+44:42
+We’ve tried to convert everything to magnetic media as fast as possible.
+44:48
+Is that complete?
+44:52
+I don’t think it’s ever complete, but, what I found was the best strategy to
+44:58
+use was to go on those data that someone was interested in working with you on.
+45:07
+If I were to independently say, “Okay, all these data have to be converted,” but
+45:13
+no one has a pressing need for these data right now. That’s like pulling teeth.
+45:17
+But, if all of a sudden somebody realizes that this old data is really
+45:22
+going to be critical to sort of give an initialization, of where the forest
+45:27
+was, or where the stream was, or where whatever was 20 or 30 or 40 years
+45:32
+ago, they will move mountains to get that data up and ready and cleaned.
+45:37
+So, yes, there’s probably stuff lurking out there, but it’s by need.
+45:45
+And need and utility sort of defines the strategy for going
+45:50
+back and rescuing the data.
+45:53
+So is the biggest barrier time and people, or is it technology?
+45:56
+I mean for the old records.
+45:57
+No, time and people.
+45:59
+It takes a lot of time.
+46:01
+If you were to sit and talk with Gody Spycher about cleaning some of
+46:04
+these old data, there’s a long story.
+46:08
+And that’s why you really, I think you have to recognize, that the
+46:12
+system will never be perfect.
+46:14
+And you have to pick where you really want to put your resources and where
+46:18
+you really want to put your efforts.
+46:23
+It’s on a computer, and I’ve got the data, but I can’t get it out.
+46:29
+Yeah?
+46:29
+And for me, it’s technology.
+46:32
+And people, I mean, I need somebody to do it for me.
+46:34
+Really?
+46:37
+Stream data.
+46:39
+I’m sure you’re talking with Stan Gregory and the Stream Team, and then
+46:42
+speak with Linda Ashkenas as well.
+46:44
+I probably should.
+46:45
+Is she on your list?
+46:47
+No, I don’t think so.
+46:49
+A-s-h-k-e-n-a-s.
+46:54
+She is the right arm of Stan’s effort over there.
+47:02
+She’d be another good one.
+47:04
+And Mark Harmon, his log decomposition study and the LIDET project.
+47:08
+Mark is an excellent example of a scientist who really pays
+47:13
+attention to data management issues.
+47:18
+The only way this multi-site, international, multi-national project
+47:24
+is working, is because he’s put in the time to coordinate the data management
+47:30
+for all these litter sample bags that he will get back here and analyze.
+47:35
+And you can imagine the nightmare, if you lose track of which one came from the
+47:39
+tropics and which one came from Russia.
+47:41
+Right, yeah.
+47:43
+So, that’s a good example.
+47:46
+GIS, Geographical Information Systems.
+47:49
+That opened up a whole new arena for us in terms of spatial data.
+47:55
+The issues of metadata with spatial data is really fascinating
+48:00
+because it’s edge detection.
+48:02
+How do you know if you’re in the middle of the cell?
+48:05
+Yes, you’re probably correct it’s a value that shows that pixel is quite good.
+48:10
+As you get out to the edge of that pixel, should it still
+48:14
+be a 7 or should it be an 8?
+48:17
+And of course, that depends on the granularity of the data, as well.
+48:24
+Landscape issues are driving primarily
+48:30
+the research focus that I see from the technology side.
+48:34
+If we were content not to look at the landscape level, then a lot of the
+48:41
+work we’re doing with remote sensing and GIS and imaging, I don’t think
+48:47
+would be as intriguing as it is.
+48:50
+This is an example of the 16 years between 1972 and 1988 in the central Cascades.
+48:59
+Changes in land-use patterns, cutting patterns, you can start to see the
+49:05
+increased fragmentation of the forest.
+49:08
+I’m sure you’ve spoken with others who’ve talked a lot about this.
+49:14
+This is a remote sensing image of the Andrews.
+49:17
+I think of the Andrews as sort of a heart lying on it’s side.
+49:22
+And it’s sort of somewhere over
+49:27
+here.
+49:38
+A heart lying on it’s side?
+49:40
+[Laughter]
+49:40
+Yeah, when you look at pictures of it, satellite imagery and things like that,
+49:41
+it’s sort of a heart lying on it’s side.
+49:44
+The satellite imagery came from a study Dick Waring did with NASA.
+49:49
+There is an interesting point to make about collaboration.
+49:53
+When we have good data, it’s easier for us to leverage the investments
+49:59
+that NSF and the LTER has made with other agencies, because they know
+50:05
+the ground on which they’re working, has been very carefully worked, very
+50:08
+carefully measured, and it’s correct.
+50:10
+So, then they’re much more likely to come and do overflights and run campaigns
+50:15
+that will help augment the data layer.
+50:19
+So, when somebody says, “Gosh, 20% of the site budget, is an awful lot
+50:24
+to invest in data management,” and not every site is doing 20%, but it
+50:30
+shouldn’t be viewed that way. It should be 20% of one investment that allows
+50:35
+you to leverage into a whole set of arenas that, if you weren’t doing this,
+50:41
+you could not get entry into the game.
+50:43
+Has it always been 20%, or when did that come up?
+50:47
+That was what NSF said when they started.
+50:51
+You know, somewhere; 10, 15, 20%.
+50:54
+And the sites that have been more successful have tended to be closer to the
+51:00
+upper end, and the sites that have been less successful, have been ones that say,
+51:06
+“Well, they say that, but I don’t really need to do that.” Because NSF is not
+51:10
+going to come and watch over your shoulder about where you spend their dollars. But
+51:15
+they are going to hold you accountable to the standards that they expect,
+51:19
+having given you 560,000 dollars a year. So, that’s where you have to come out.
+51:25
+We’ve used the commitment from our local LTER to pay for all of Gody
+51:34
+Spycher and half of Ken West, so it’s about a 1.5 FTE allocation.
+51:41
+Now, as salaries increase, even though they’re very snail-like
+51:46
+at Oregon State, and the budgets have been remaining flat from NSF,
+51:52
+those dollars haven’t gone so far.
+51:55
+What I’ve done is gone to information services, to get some institutional match
+52:00
+to make up the difference between where we need to be to cover the same quantity
+52:06
+of people versus where we were before.
+52:10
+That was part of our match and we were successful with that.
+52:16
+But this is the QAQC, or Quality Assurance Quality Control program.
+52:22
+Basically, what we’re trying to do is have the metadata, which is in the system file,
+52:30
+conform with data in the ASC II form.
+52:34
+We use rules.
+52:36
+If trees are not expected to shrink, trees are not expected to change species, trees
+52:42
+are not expected to come back to life after they’ve been dead for 10 years.
+52:46
+Those can be used as checks or as rules so you make sure that the data
+52:51
+you’ve got in your records are correct.
+52:54
+So, you’re actually using the metadata about the data to clean
+53:00
+the actual data, which is good.
+53:03
+This is a little bit out-of-date, but it gives you a summary of the
+53:06
+current contents, and an idea of the diversity of data we’ve got.
+53:13
+We’ve got data on aquatics, hydrology, geomorphology, vegetation,
+53:19
+meteorologicals, terrestrial vegetation, the litter decomposition
+53:22
+we talked about with Mark Harmon, as well as other litter, soil samples,
+53:29
+and biodiversity inventories.
+53:30
+On mammals and arthropods, we’re not real big on that area, and we probably
+53:35
+could do more wildlife ecology, and other data which is non-LTER, which is also
+53:42
+housed in the Forest Science Databank.
+53:44
+Also, data from the Forest Science Department, genetics, forest
+53:47
+engineering, vegetation management.
+53:50
+We’ve got several co-ops that are looking at vegetation management and
+53:54
+alternatives to managing vegetation, competing vegetation, so we are
+53:59
+the repository for those data.
+54:02
+The other thing that’s important, is to find out who is asking for
+54:07
+your data, and to keep track of how many requests you get for your data.
+54:12
+This is made easier now with the web, because if you have a site
+54:15
+you can count the number of hits.
+54:17
+The only trouble is you can’t always identify who that hit was.
+54:21
+But it’s helpful from the PR side, because this way, if you’re going
+54:28
+after more resources to make your data more accessible, you’re showing
+54:32
+there’s a market for these data.
+54:34
+If somebody doesn’t give a rip that you’ve got 80-years-worth of
+54:38
+successional mortality and growth data from six western states, it’s going
+54:44
+to be hard for you to make your pitch.
+54:46
+But, if you’re able to show how many different people are using your data and
+54:50
+for the great range of uses, then you’re more successful in asking for resources.
+54:59
+This was an example of recent data requests.
+55:01
+This is back in ‘92, but what’s interesting - see the met data,
+55:08
+that’s what this one says.
+55:13
+These are all for modeled runs.
+55:16
+They go from University of Washington, University of Montana, University
+55:20
+of Massachusetts, colleagues at OSU, colleagues here at the Andrews, the Arctic
+55:25
+LTER, the EPA lab, University of Oregon.
+55:32
+You can start to see the broad range that you’re able to touch with your
+55:39
+data.
+55:40
+The way it is now, if someone from outside is looking for information, would they
+55:43
+send a request for information and you would generate a report of some sort?
+55:47
+How would that work?
+55:50
+We would have our catalogue on the web, and that would show general
+55:56
+categories of data that we have.
+55:59
+We don’t necessarily have the actual data on the web in all
+56:03
+cases, but we’ll get to that point.
+56:07
+They would be able to look at the kinds of data that we would have
+56:13
+and then there would be instructions for how to obtain the data.
+56:19
+Okay.
+56:19
+Typically, they would send an e-mail, and that’s on that other flow chart.
+56:25
+That would generate a request, we would ask them some questions.
+56:29
+We would say, “Who are you?
+56:32
+What would you like to use these data for?” If it’s data that the PI has
+56:38
+released, then there’s usually no problem.
+56:42
+If it’s data that the PI says, “Yes, I’m very willing to share, but I’d like
+56:47
+to know more about where these data are going.” Then we couple them with the
+56:51
+PI and the PI would release it or not.
+56:55
+We also have an acknowledgment statement that we ask be included in any publication
+57:02
+that comes with having used these data.
+57:05
+So that we can get some credit where credit is due.
+57:08
+I was going to ask that because, it strikes me as probably an evolutionary
+57:11
+process to get scientists to release proprietary control over data.
+57:15
+Yeah.
+57:17
+Has it always been that open?
+57:18
+No.
+57:20
+And within the network this is probably the biggest non-technological
+57:25
+issue that we’re dealing with.
+57:27
+Because you have a whole spectrum of
+57:33
+people.
+57:33
+I mean, it’s like those Christmas trees, you know, the introvert,
+57:36
+the extrovert, the whatever.
+57:37
+You’ve got every kind of individual within the network.
+57:45
+This is where those annual LTER data managers’ meetings come in so handy,
+57:50
+because you’re able to talk about strategies that have worked at one
+57:53
+site, and issues that have come up.
+57:56
+At the Cedar Creek site, they have something that they have installed.
+58:05
+About wore this thing [tape recorder used by Max] out when I was up at the Andrews.
+58:06
+They had a group interview up there.
+58:09
+Oh, my God.
+58:10
+With Roy Silen and Bob Tarrant and about six other people.
+58:11
+Oh, my goodness.
+58:12
+And we went up
+58:14
+to Carpenter Mountain Lookout up there.
+58:15
+Yeah?
+58:16
+I went through six tapes.
+58:18
+Oh, my goodness.
+58:18
+Yeah, and about three sets of batteries.
+58:19
+[Chuckle]
+58:19
+Oh my God.
+58:20
+That’s a new definition for long winded?
+58:23
+Huh?
+58:25
+[Chuckle]
+58:25
+The Cedar Creek site have what they call the “data pledge.”
+58:32
+What someone needs to do is they download this data pledge, and it says “I promise
+58:38
+to follow the ethical guidelines” of whatever, and then they sign.
+58:45
+If it is data that are, I think, under three years old, then the PI is
+58:52
+automatically included as a co-author on whatever publication comes out.
+58:58
+If it’s between three- and-a-half and something else, they consult
+59:05
+with the PI on the use of the data.
+59:08
+And if it’s older than whatever, then it’s free access.
+59:13
+They were talking about, rather than having a bible, you know where you put
+59:19
+the pledge or whatever, having a little icon that was Darwin’s “Origin of the
+59:24
+Species” that you put your hand on.
+59:26
+[Laughter]
+59:27
+Clarence Laymen was the source of that story, he’s the data manager
+59:32
+at Cedar Creek, and it’s great.
+59:34
+We have a directive from NSF
+59:38
+that all data collected on NSF funds, especially within the LTER project,
+59:44
+be made available with a minimum of restrictions, in two years.
+59:50
+What we’re doing within the data management community, is trying to
+59:55
+identify which data could easily fall in that category right now, and which data
+1:00:02
+would it be appropriate to have some sort of exemption or exception clause.
+1:00:09
+When we talked with Scott Collins from NSF about this, he
+1:00:13
+said, “That seems reasonable.
+1:00:15
+If two years is a slightly funny number and it needs to be tinkered with a
+1:00:19
+little bit, help us tinker with it!
+1:00:21
+But, don’t make all data at a site an exception, because
+1:00:26
+that’s not going to fly.” I
+1:00:35
+think a sort of sociological evolution has gone along also.
+1:00:42
+You have a site on the East Coast, Hubbard Brook, that’s very
+1:00:47
+well established with “statesmen scientists” who say, “That’s absurd!
+1:00:54
+I can’t possibly glean everything I need to glean from my data in two years.
+1:01:00
+I won’t do that.” Well, NSF is going to be at a point soon, where they’re going
+1:01:05
+to make that ruling have some teeth, whether it’s withholding renewal funds,
+1:01:12
+or whether it’s increasing the sternness of reviews that go on their record.
+1:01:22
+I don’t know.
+1:01:24
+So, anyway, it’s kind of an interesting process.
+1:01:33
+So, that’s who we are, where we’ve been, where we’re going, and what
+1:01:37
+we’re doing, now where are we going.
+1:01:40
+One of the things that has been very clear from the onset of this, is that
+1:01:46
+the kind of data that we deal with, scientific data, are very different
+1:01:52
+than what public software houses have been designed to deal with.
+1:01:58
+When we talk about database issues, and you talk to someone who runs or
+1:02:03
+writes programs for American Express, or Visa, or Bank One, or United Airlines;
+1:02:11
+they’re dealing with transactional data.
+1:02:15
+How you’re connecting from Portland to Chicago to Detroit to wherever, that’s
+1:02:22
+very important, and after you’ve made that trip it’s no longer important.
+1:02:27
+That’s a very different kind of beast, different from the kinds
+1:02:31
+of data that we’re dealing with.
+1:02:33
+Commercial data tend not to have much in terms of longevity, whereas, the value
+1:02:40
+of our data increases the older it is, if the metadata is of good quality.
+1:02:45
+We are going to do things to those data that you would never do to the
+1:02:50
+balances in your checking account.
+1:02:51
+You’re not going to run Fourier analysis on what you’ve got
+1:02:54
+in your checking account.
+1:02:58
+Scales, whether it was over large scales or whether it’s very tight small
+1:03:05
+granularities, for these landscape-level kinds of things with images, and
+1:03:10
+reconciling one data set over another.
+1:03:13
+It’s just a whole different kind of bailiwick to get into.
+1:03:18
+And, as a result, the software that we’ve been able to use for this has never really
+1:03:26
+met our needs specifically, and so some of these things have to be retrofitted,
+1:03:30
+and force fitted into something that it really was not designed for.
+1:03:34
+As a result, that’s given rise to computation ecology programs at NSF
+1:03:42
+and other places so that algorithms and software and approaches and procedures
+1:03:48
+and test beds could be developed that are really targeted for scientific data versus
+1:03:54
+an off-the-shelf commercial application.
+1:03:58
+So, that’s been an interesting thing.
+1:04:00
+So, part of what you’ve been involved in is the development of software?
+1:04:04
+To a certain degree.
+1:04:05
+What we did here is, we don’t have a stable of software engineers.
+1:04:11
+So, it is a lot easier for us to contract out, hire consultants, from
+1:04:18
+a subsidiary of Microsoft or whomever, and have them come in and do an
+1:04:22
+overall assessment, and then help us design what kind of fixes we need.
+1:04:27
+And that’s what we did this last winter.
+1:04:32
+Gody and Don had gone up to Beaverton and had taken some
+1:04:37
+training, including server-training.
+1:04:42
+The people that were running it were very impressive.
+1:04:45
+They were from UDP, United Data Processing or something.
+1:04:51
+They started chatting with these folks, and they said, “We could come down and
+1:04:55
+spend a couple weeks with you, and do a problem analysis.” That was really
+1:05:01
+helpful, because we were able to lay out where our catalogues were, what kind
+1:05:05
+of metadata we had, and what kind of data we had, what kind of connectivity
+1:05:09
+and platform problems we had, because some of our data are UNIX. All of the
+1:05:14
+spatial data reside on UNIX machines, and most of the databank files are on PC’s.
+1:05:21
+So, you end up some platform independent solutions, rather than
+1:05:27
+something that’s only going to work in one environment or the other.
+1:05:31
+So, we’ve done a little bit of that.
+1:05:34
+The internet has just gone ballistic, you know.
+1:05:38
+What it’s done from our side of the equation is that it has increased
+1:05:45
+user expectations for accessibility, both recipients and generators
+1:05:49
+of data, and federal agencies.
+1:05:55
+It has shortened that timeline to make data accessible, just overnight.
+1:06:02
+You can’t think of non-web-based solutions.
+1:06:06
+You can have a broader way of solving the problem that includes some non-web
+1:06:12
+applications, but you will be dead in the water if you don’t include that
+1:06:17
+portion of the community that’s just moving in the direction of the web.
+1:06:22
+This was a schematic that we played with a few years ago.
+1:06:26
+It’s looking at the data management system, the DBMS, looking at the
+1:06:35
+FSDB, the metadata, the data.
+1:06:38
+We’ve used it more as a talking document than anything else, but we played a
+1:06:43
+little bit with some of these things.
+1:06:46
+Visualization software.
+1:06:47
+This came out of CORAL.
+1:06:50
+This was a group that started in University of New
+1:06:53
+Mexico, under John Razer.
+1:06:56
+He’s gone now and become a company or corporation unto himself.
+1:07:00
+But a lot of the visualization software that the San Diego super computer center
+1:07:04
+is doing with their Monterey Bay project.
+1:07:07
+Things like that are really interesting.
+1:07:10
+John Helley came to the meeting in Albuquerque and showed what Stuart Gage
+1:07:15
+from Kellogg Biological Station had done with taking images of the Kellogg
+1:07:22
+site, and then with different sun angles over time over seasons, showing
+1:07:28
+the greening of large areas of land.
+1:07:31
+So, you could start to think you could link that to some climate
+1:07:36
+models, and how you would tinker with photo periods and things would do
+1:07:41
+under different warming scenarios.
+1:07:42
+It
+1:07:45
+was really fascinating.
+1:07:46
+That visualization is
+1:07:50
+an area that we need to do more of because we underestimate our
+1:07:55
+abilities to visualize something in two dimensions sometimes.
+1:08:01
+This was what Warren Cohen was doing on the modeler’s project.
+1:08:06
+I don’t know if you’re talking with Warren.
+1:08:08
+That’s a NASA project that is looking at 14 different LTER sites, and they are
+1:08:14
+developing methodology and protocol for
+1:08:20
+three biosphere variables.
+1:08:22
+Net primary productivity, decomposition rates, and, I don’t
+1:08:28
+know, precipitation or something.
+1:08:31
+It’s a good example of looking at how LTER sites have been able to partner
+1:08:40
+with NASA and other large agencies, to make more out of the investment
+1:08:45
+that each individually is making.
+1:08:49
+I haven’t talked to Warren, although I noticed when I was down at the
+1:08:50
+Andrews today that almost everybody down there, all the students
+1:08:51
+are working on his projects.
+1:08:55
+Yes, exactly.
+1:08:57
+And this was something that he was using.
+1:08:59
+He used this visualization software to show how his model was taking
+1:09:04
+five different data layers, to compute these different variables.
+1:09:10
+We’re
+1:09:24
+allowing the data to be represented, so that whoever is looking at
+1:09:28
+it can get something out of it.
+1:09:30
+People are going to pull different things from it.
+1:09:32
+That’s why documentation is so important.
+1:09:35
+Because for somebody
+1:09:39
+animal damage codes are meaningless, but for somebody else that’s looking at impact
+1:09:44
+of migration patterns on the landscape, that would be terribly important.
+1:09:50
+This is
+1:09:55
+an example of a diagram for landscape-level synthesis through major
+1:10:02
+modeling efforts that use all the data layers, so all of the circles are modeled.
+1:10:09
+All of the flat things with broken-off edges are actual data layers.
+1:10:14
+This diagram was called the Scotch Diagram, because that was what helped the
+1:10:19
+thinking along one evening as they were
+1:10:24
+working on it.
+1:10:24
+Was the Scotch.
+1:10:24
+[Laughter].
+1:10:24
+What was interesting was looking at how data could be not only input,
+1:10:32
+but output, and it could be both.
+1:10:34
+The data coming from a model, could be input into another model.
+1:10:40
+And where you think about the implication for that is the
+1:10:42
+generation of computation of errors.
+1:10:45
+If the data in a model is found to be incorrect and then it’s propagated
+1:10:50
+through five or seven different models, what is that overall implication?
+1:10:54
+Another thing is, sometimes in this process, even though you try to make all
+1:11:02
+the right decisions, it may be that you realize that a model run that you made,
+1:11:08
+that you then based a number of other things on, was initialized incorrectly,
+1:11:14
+or that the calibration was off.
+1:11:17
+So, what you need to do is the metadata for this has to be able to track what
+1:11:23
+different things were set at, so that you could actually go back to February
+1:11:27
+17th, and retrace where you are to September 25th, and that requires a
+1:11:34
+different level of collecting data.
+1:11:37
+Some of the software packages are good because it will keep a log of everything
+1:11:43
+that was done, but you might like to have that synthesized in some way rather than
+1:11:47
+having to painfully go back so many days.
+1:11:50
+But you can start to see some of the implications, and, and clearly this
+1:11:55
+is something that scientific data has to deal with people that work
+1:12:00
+with scientific data rather than, you know, United Airlines reservations.
+1:12:06
+Then the challenges.
+1:12:08
+This integration of GIS and remote sensing user interfaces, visualization
+1:12:16
+software which we’ve already talked about.
+1:12:19
+Distributive analytical environments where I could be working and someone
+1:12:26
+could be working, and we could be looking at the same data and we could
+1:12:30
+be sort of looking at them together.
+1:12:33
+Better sampling resolution and standardization.
+1:12:36
+We’d like to have transparent computing environments,
+1:12:39
+we’re getting better at that.
+1:12:40
+The fact that we have people here working on Unix software that are
+1:12:45
+Sun Unix and then IBM Unix, and we have PC’s and we have PC’s that are
+1:12:49
+Windowed and PC’s that are NT systems.
+1:12:49
+We have Windows ‘95, we
+1:12:56
+don’t have Windows ‘95, and we have some Mac PC’s.
+1:13:01
+What does this term transparent mean then?
+1:13:03
+That you as a user are not constrained by the environment
+1:13:08
+in which you’re working in.
+1:13:14
+One of the things that has been bounced around is this notion of
+1:13:19
+“National Environmental Data Archives.” We’ve played with the
+1:13:25
+concept of trying to develop a network information system for the LTER.
+1:13:33
+We’ve recognized that at each of the 20 sites there is expertise on site,
+1:13:40
+which is probably in the best position to be in a daily contact with the data.
+1:13:46
+But, it would be nice to have a single point-of-entry that would then fan
+1:13:51
+out and find data at each of the sites or whatever sites are appropriate,
+1:13:55
+to deliver it back to whomever is
+1:14:00
+morphing it.
+1:14:00
+So, what we’re doing is developing DTON, which is Distributed Table of Contents.
+1:14:07
+Each of the 20 sites [LTER] creates a standardized table of
+1:14:12
+contents, and it’s distributed because it’s across the network.
+1:14:16
+Then, if a query comes in, they look at that aggregated table of contents, and
+1:14:25
+the data might be at the Andrews, it might be Coweeta in Georgia, or it might
+1:14:28
+be at North Temperate Lakes in Wisconsin.
+1:14:30
+It doesn’t matter, you can go and find it.
+1:14:36
+And we’d like that model better than everything all in one place, because
+1:14:43
+everything all in one place implies a certain amount of custodial maintenance
+1:14:50
+that probably isn’t going to be done as effectively as it will be at each of the
+1:14:55
+individual sites, because the people who collected the data are most interested,
+1:15:01
+and it is their prized possession.
+1:15:03
+That would be the integration of the data generation and data
+1:15:06
+management from that somehow.
+1:15:07
+Right, exactly.
+1:15:08
+The other thing that’s interesting is that within the LTERs we have
+1:15:11
+taken very different approaches.
+1:15:14
+We are much more bottom-up, research-oriented than top-down.
+1:15:20
+A few of us went to China and talked to the CERN Group, the Chinese
+1:15:24
+Ecological Research Network [not the
+1:15:31
+big European physics lab].
+1:15:32
+That was a very different concept for the Chinese to deal with, because they were
+1:15:40
+of mindset that there would be a computer center and there would be the high priest
+1:15:45
+in the computer center and there would be these directives, and everyone would do
+1:15:49
+everything according to these directives.
+1:15:51
+Whereas from the LTER, you have 20 different sites and each
+1:15:59
+is competed for independently.
+1:16:02
+If they are not doing excellent site science, they will not be renewed,
+1:16:07
+and then they have an obligation to work at this next higher level, which
+1:16:12
+is in a coordinated network fashion.
+1:16:16
+The data management sort of parallels that as opposed to having one site that’s in
+1:16:21
+charge of all the data, that’s not the way
+1:16:27
+it works.
+1:16:27
+This last thing here is the training of the new cadre of scientists.
+1:16:31
+This is something that
+1:16:35
+a number of us have been trying to do.
+1:16:37
+We’ve been trying to develop a curriculum in ecoinformatics, or
+1:16:43
+environmental data management.
+1:16:46
+If you take the 20 data managers from the 20 sites, and you sit them
+1:16:52
+down at a table and you ask them, “Now, what did you study?” Every path
+1:16:56
+to that table would be different.
+1:16:59
+But the content of what they covered has great similarities.
+1:17:05
+So, what would be nice is if, instead of being a computer person that
+1:17:09
+was interested in ecology or an ecology person that was interested
+1:17:12
+in computers, you could actually take a bona fide course and become
+1:17:18
+an environmental information manager.
+1:17:20
+That would be much more direct.
+1:17:23
+What we’d like to do is use the pockets of expertise that are represented across the
+1:17:28
+LTER network to allow some internships.
+1:17:32
+So, people would come here and they might take some in-depth statistics
+1:17:36
+classes in planning and design, they might go to one of the other sites
+1:17:40
+like Sevilleta that has a beautiful facility at the Sevilleta field station
+1:17:46
+with dozens of Sun workstations, and they could learn Unix and learn a
+1:17:50
+lot about their technical abilities.
+1:17:54
+Then, if you were interested in tropical research, you’d go down to the Puerto Rico
+1:17:59
+LTER site, and do an internship there, where your thesis topic or whatever,
+1:18:06
+would be based on managing tropical data.
+1:18:09
+Someone else might be interested in the Arctic, someone else might be
+1:18:12
+interested in the Antarctic, and you’ve used the diversity of the network to the
+1:18:19
+advantage of the learning experience.
+1:18:23
+Is there a typical path that brings people into this group
+1:18:25
+that you’re working with here?
+1:18:28
+No.
+1:18:29
+Most have some background in ecology or biological science or natural
+1:18:36
+resources, and there’s a strong computer component of some sort, or
+1:18:42
+an analytical component of some sort.
+1:18:44
+Formal degree in that?
+1:18:45
+Yes.
+1:18:46
+Oh, okay.
+1:18:50
+It is less likely to find pure computer scientists than it is to find a
+1:18:56
+hybrid, probably because if you’re going to get a Ph.D. in computer
+1:19:00
+science, or even a bachelors in computer science, you’re going to be
+1:19:04
+picked up by Microsoft or Tektronix at four times the salary than someone
+1:19:11
+is going to pay you at an LTER site.
+1:19:14
+But you’re not going to be working with biological systems, you’re not going
+1:19:19
+to have the opportunity to do field work, and you’re not going to travel
+1:19:23
+and do the kinds of things that are intriguing to biologists and ecologists.
+1:19:31
+Did you do field work that much?
+1:19:35
+My undergraduate was in biology and was a lot of math.
+1:19:42
+My masters was in quantitative ecology, and I did a computer model study
+1:19:51
+of commercial fishery stocks on the Great Lakes.
+1:19:54
+There was a model that had been put out by some folks in,
+1:20:03
+I want to say Green Bay, even though I was not up there.
+1:20:06
+I tested that model with Ontario’s data.
+1:20:11
+So, my field work was going to Sandusky, Ohio, and getting the records of walleye
+1:20:17
+and yellow pike and everything else.
+1:20:21
+For my Ph.D. I shifted and I went into applied statistics, and there I worked
+1:20:27
+on developing a model for determining land values of forest and vacant lands
+1:20:34
+in three counties in upstate New York.
+1:20:36
+The theme was the application of mathematical models to a question or
+1:20:43
+an issue important outside of the math.
+1:20:48
+I’m not a theorist, that’s not what I’m intrigued by.
+1:20:51
+I like to solve problems.
+1:20:53
+I like to figure out how to bring an organizational arrangement to
+1:20:58
+something to make it facilitate and expedite what we’re all about.
+1:21:04
+When I started with my one programmer back in ’79, and then we kind of
+1:21:09
+grew the concept of the Forest Science Data Bank, we obviously
+1:21:14
+had to be tied in with connectivity issues and the technology issues.
+1:21:21
+We increased our scope through the kinds of statistical course
+1:21:25
+work that we’re able to teach.
+1:21:27
+So, no, I don’t do a lot of field-based research.
+1:21:33
+What attracted you out here, because most of your work was
+1:21:34
+in the Northeast, wasn’t it?
+1:21:35
+That’s right.
+1:21:36
+There were two states I wanted to work in.
+1:21:39
+One was North Carolina, and one was Oregon.
+1:21:42
+My aunt lived in British Columbia, and I used to come out in the summer.
+1:21:47
+I used to be my cousin’s receptionist in her therapy office.
+1:21:53
+Then, in the afternoons I would volunteer as a craft teacher for the
+1:21:56
+Boys and Girls Club, and we’d go and take hikes and do all these fun things.
+1:22:02
+So, I ended up thinking that this would be a nice area of the world to live in.
+1:22:10
+My major professor came in one day, three days before this assistant
+1:22:16
+professor tenure track consulting statistician position closed,
+1:22:20
+in a town called Corvallis that I’d practically never heard of.
+1:22:24
+I quickly faxed a letter that said I was interested, and if they were
+1:22:29
+still open, I could send my materials.
+1:22:32
+John Gordon was department head at the time and he said, “Oh, by all means
+1:22:35
+send your stuff.” Then I got a call, this was like on a Tuesday, I got a
+1:22:41
+call at home on Friday, and he said, “Well, we’re very interested and we’d
+1:22:46
+like you to come out Monday.” I said, “Oh, a week from Monday.” He said,
+1:22:50
+“No, Monday.” Well, we compromised, and I came out on Thursday or whatever.
+1:22:54
+I lost my luggage, I nearly missed the plane, and I did not have a reservation.
+1:23:00
+So, it was a four-day interview, in a shirt that was on my back, quite
+1:23:05
+literally, and I was offered the job before United ever found my luggage in
+1:23:10
+San Francisco, and I’ve stayed ever since.
+1:23:13
+And it’s been kind of a growing opportunity.
+1:23:18
+A four-day interview?
+1:23:20
+It was four days because at that point it was a joint appointment between forest
+1:23:25
+science and statistics [OSU departments] . Through the interview it became clear that
+1:23:33
+it would be better if you had your grounding in one department, and then, you
+1:23:38
+have a courtesy appointment in the other.
+1:23:40
+But I was worried about visibility, because, if I was here, helping students
+1:23:45
+and faculty, I wouldn’t be over in the stat department, and, if I was there,
+1:23:49
+teaching and working, I wouldn’t be here.
+1:23:51
+So, I could be doing really fine work, but because as a consulting statistician
+1:23:57
+you need to be accessible, whatever I was doing elsewhere, even of high quality,
+1:24:02
+would become a little bit of a liability.
+1:24:04
+So, we worked it out that I
+1:24:09
+would have a full-time position in forestry, and I would have a nice
+1:24:13
+courtesy arrangement in statistics.
+1:24:15
+We kept that, and it worked fine.
+1:24:16
+Did you get a tour of the whole LTER site when you were doing this work?
+1:24:19
+Yes.
+1:24:20
+Most of the LTER meetings.
+1:24:25
+Jumped from one LTER site to the next, and I haven’t been to all of them,
+1:24:28
+but I’ve been to a number of them.
+1:24:28
+I have
+1:24:31
+not been to the Arctic site, and I haven’t been to the field sites for
+1:24:37
+McMurdo Dry Valley and Palmer Station.
+1:24:40
+They are out of University of Reno and Santa Barbara, so they’ve got
+1:24:46
+some continental U.S. location.
+1:24:50
+But,
+1:24:52
+a lot of the other sites I’ve been to.
+1:24:55
+Who was the major professor that kind of put you onto
+1:25:08
+this site here?
+1:25:08
+Bill Steitler.
+1:25:08
+Bill Steitler.
+1:25:08
+He is not LTER, but he was a statistician in the College of Environmental
+1:25:08
+Science and Forestry [State University of New York, Syracuse] , and he
+1:25:09
+just came in and threw this thing on my desk quite literally one day.
+1:25:12
+He said, “Here, take look at this.” All my compatriots, all my classmates
+1:25:18
+were unemployed for at least a year, so I had a hundred resumes copied.
+1:25:25
+I was going to finish up and then I was going to tour Europe.
+1:25:29
+I was going to do all these wild things, you know.
+1:25:33
+I ended up with 99 resumes left and this great opportunity
+1:25:39
+to come out to Oregon State.
+1:25:41
+Your doctorate is from SUNY, right?
+1:25:44
+Yes.
+1:25:44
+At SUNY, and my undergraduate was at Syracuse.
+1:25:49
+That’s a private school.
+1:25:55
+I was curious when you first started working here, I don’t know maybe
+1:25:59
+I’m interrupting your thought?
+1:26:00
+No, let me just wrap it up.
+1:26:04
+I think there’s a distinction between perfection and perspective, and
+1:26:07
+we’ve talked on that a little bit.
+1:26:11
+We’ve taken this, going from point A to point B, you can’t get
+1:26:16
+there from here kind of thing.
+1:26:18
+Sometimes you have to take a slightly different approach, this is the
+1:26:22
+bottom-up versus the top-down theory.
+1:26:28
+They’re chasing ketchup, thinking that it was blood.
+1:26:30
+[Chuckle]
+1:26:31
+And there’s going to be some of that.
+1:26:33
+If you’re on the front edge, as Gody likes to say, “On the bleeding
+1:26:37
+edge,” you end up making some false calls, but you have to do that.
+1:26:43
+You can’t go forward if you’re scared not to do something that might, given
+1:26:50
+the knowledge you’ll have in a year from now, you’d choose something differently,
+1:26:53
+but you have to go with what you’ve got.
+1:26:56
+Expectations.
+1:26:58
+Especially on the level of metadata, people
+1:27:03
+have very different views on what constitutes completeness and
+1:27:09
+documentation and things like that.
+1:27:13
+Students love to spend three months or three field seasons collecting
+1:27:17
+data, and come in on a Friday and expect that they’re going to have
+1:27:19
+it all analyzed by Monday morning.
+1:27:21
+Well, give the analysis its due.
+1:27:25
+That really is part of the fun, as well.
+1:27:27
+If you knew how it was all going to turn out, you wouldn’t have done
+1:27:30
+the experiment in the first place.
+1:27:33
+Some things are not quite the bargain that you think they’re going to be.
+1:27:36
+That’s a nest that’s
+1:27:39
+upside down here.
+1:27:41
+Okay.
+1:27:41
+It says, “No wonder it was such a deal, if all the eggs fall out.”
+1:27:46
+Everything is changing fast, and
+1:27:50
+you have to really recognize that. You can’t just hunker down.
+1:27:56
+You’ve got to be able to be flexible, you’ve got to plan for growth,
+1:28:00
+and you’ve got to plan for lots of opportunities and lots of challenges.
+1:28:05
+But opportunities really balance higher than the liabilities of the challenges.
+1:28:13
+I think you also have to recognize what you can be and what you can’t be.
+1:28:22
+Put your money on that part of the technology you really need.
+1:28:26
+You don’t really need a sledgehammer to kill a fly.
+1:28:29
+But, if you are moving into interactive models and a lot of visualization
+1:28:37
+types of things, you can’t be bounded by a 56KB transmission range.
+1:28:42
+So, recognize when you need to be the turbo, and when you can be the VW Bug.
+1:28:48
+Don’t confuse the
+1:28:53
+two.
+1:28:53
+I always end with this one; the genius of the future lies not in technology,
+1:28:59
+but in the ability to manage it.
+1:29:02
+We get that confused sometimes.
+1:29:04
+Yeah.
+1:29:05
+So, that’s it.
+1:29:09
+I like your use of Gary Larson.
+1:29:11
+[Laughter]
+1:29:12
+I did my Ph.D. at Washington State.
+1:29:14
+Oh.
+1:29:16
+He’s an alum of that school.
+1:29:17
+Is he really?
+1:29:18
+Yeah, and the year I graduated was the centennial year, and they commissioned
+1:29:21
+him to do a centennial cartoon.
+1:29:23
+So, my diploma had a Gary Larson cartoon in it [Laughter].
+1:29:25
+Oh my gosh!
+1:29:26
+Oh my gosh!
+1:29:28
+I’ve always had a soft spot for him.
+1:29:29
+Yeah, yeah.
+1:29:31
+I want to ask you a few questions about the beginning of your
+1:29:34
+involvement here with the Andrews, and your impressions of the group
+1:29:40
+at the time you started.
+1:29:41
+When you came out for that interview, did they take you down to the Andrews, or
+1:29:44
+if it was more of a campus-site interview.
+1:29:49
+I never saw the Andrews, no.
+1:29:54
+Is that right?
+1:29:54
+We weren’t an LTER site at that time.
+1:29:58
+Dick Waring, and Jerry Franklin were involved with the Andrews at that point,
+1:30:03
+and they had a parting of the ways.
+1:30:06
+But
+1:30:08
+Dick had recommended and Jerry had confirmed, that it would be good
+1:30:14
+to get me more involved with the kinds of data and statistics and
+1:30:19
+information management types of things.
+1:30:22
+I just started to have responsibilities for supervising and managing
+1:30:28
+people that worked on different components of the Andrews.
+1:30:33
+I was curious.
+1:30:34
+You came in here about the time that the Forest Science Department
+1:30:36
+[OSU College of Forestry] moved into this building over here?
+1:30:38
+Yes.
+1:30:39
+I wonder if you would talk a little bit about your
+1:30:46
+perception as a faculty member of the impact of that move over here.
+1:30:51
+We were in the Forest Research Lab [on Western Boulevard] for a
+1:30:55
+few years, three or four maybe.
+1:30:57
+Then we moved over here.
+1:31:00
+When we first entertained the opportunity to move, it was because
+1:31:05
+the Forest Service was shrinking, and they were quite worried.
+1:31:09
+Bob Tarrant was involved in this, and you’ve spoken with him, that they would
+1:31:14
+get neighbors in this building, but they weren’t sure who they would be.
+1:31:18
+It seemed it would make a lot more sense if the neighbors were kindred spirits
+1:31:25
+and sort of research-collaborators.
+1:31:28
+So, the whole move was based on really very good reasoning in terms of bringing
+1:31:35
+people who view the world similarly together and are interested in working on
+1:31:40
+things together, together in one place.
+1:31:42
+The problem was that John Gordon left and went to Yale, and part of his
+1:31:48
+negotiations were that it would be one contiguous space that would be open,
+1:31:55
+and we would just pick up and move.
+1:31:58
+Well, it didn’t work that way.
+1:32:00
+There were pockets of spaces.
+1:32:01
+So, there was a little bit of space here and there was a little bit of space here
+1:32:04
+and there was a little bit of space here.
+1:32:07
+In retrospect, I don’t think that was all that bad, because it allowed some
+1:32:11
+interaction with people that, had you just been an island all by yourself,
+1:32:17
+in one corner of the building, it would have been easy, not to associate with.
+1:32:23
+It’s sort of like, if you’re trying to learn a language, and if you don’t immerse
+1:32:26
+yourself in the French speaking part of town and you’re living with the Americans,
+1:32:32
+you’re not going to speak French, you’re all going to speak your own language.
+1:32:36
+So, that was good.
+1:32:38
+I think that was an opportunity.
+1:32:40
+What you’re saying, it was by accident, not by design, just kind of happenstance?
+1:32:43
+Yeah.
+1:32:45
+There was tremendous resistance to change
+1:32:51
+then.
+1:32:52
+This is what Bob Tarrant noticed, and he said, “Okay, we’re going to move and this
+1:32:57
+is going to be fun, this is going to be exciting, we’re going to make this work.”
+1:33:06
+Bob Tarrant was the interim department head between John Gordon and Logan Norris.
+1:33:12
+We
+1:33:17
+were adaptable, so we were just going to go with the flow.
+1:33:20
+The tone
+1:33:26
+could easily have been Forest Service versus OSU, if you’re not careful, and
+1:33:31
+in some camps there was this, “Who’s this tucking their nose under the tent? We’re
+1:33:36
+very content here and thank you very much.
+1:33:39
+Just leave us alone.” Those of us that had services or were providing
+1:33:46
+functions everyone found useful, like statistical consulting,
+1:33:51
+were assimilated quite readily.
+1:33:54
+So, I didn’t find it to be a problem.
+1:33:58
+I think it’s a little awkward to have our mailboxes so far away.
+1:34:03
+If someone sends me something hardcopy, it could be days before I get down there.
+1:34:07
+Whereas, if it’s e-mail or phone or something like that, it’s a lot quicker.
+1:34:12
+But it’s good
+1:34:14
+exercise as well.
+1:34:15
+I was curious about the integration of the Forest Science faculty with the rest of
+1:34:17
+the university after that move was made.
+1:34:20
+Was there a difference there?
+1:34:21
+No, I don’t think so.
+1:34:22
+I spent a year in the Provost’s Office [OSU] as a faculty associate.
+1:34:28
+What struck me about that was how isolated the College of Forestry
+1:34:32
+was from the rest of the campus.
+1:34:33
+It didn’t matter whether we were on the corner of 30th or whether we were over
+1:34:38
+here, we are a group unto ourselves.
+1:34:42
+We are funded independently, primarily, and we are funded
+1:34:47
+generously in the eyes of many of our other colleagues across campus.
+1:34:51
+I would maintain that we work very hard for the funding that
+1:34:54
+we get, that we’re not getting stuff handed on a silver platter.
+1:34:58
+But,
+1:35:05
+I didn’t realize
+1:35:09
+how isolated I felt at times being over here, versus someplace else.
+1:35:15
+When I was in the Provost’s office and I spent half a week a time, 50/50
+1:35:19
+split, I would be right in the hub.
+1:35:23
+And because other departments are sort of around that central core,
+1:35:29
+you’d be aware of things.
+1:35:30
+You’d get a Barometer [OSU campus newspaper] . Here,
+1:35:32
+we don’t get the Barometer.
+1:35:35
+It’s a different kind of mindset.
+1:35:38
+We’re maxed out though.
+1:35:40
+We’re all busy, we’re all running around like chickens with our heads cut off,
+1:35:43
+so we’re certainly not losing anything.
+1:35:46
+It’s just that our focus has been on what we are about.
+1:35:50
+I see my colleagues in meetings and at symposiums and workshops and at
+1:35:55
+talks you’re invited to give across the country, more than I see them here.
+1:36:02
+Someone told me that the building, when it was designed,
+1:36:04
+it was to keep people separated.
+1:36:05
+Do you find it functions that way?
+1:36:08
+Yes.
+1:36:08
+Our
+1:36:10
+QSG group is pretty much down this hallway and around that corner.
+1:36:19
+I work to develop a sense of community within our group.
+1:36:23
+We’ve
+1:36:25
+had two retreats now, two annual retreats.
+1:36:30
+We do a few social events, like a holiday party at our house in December.
+1:36:35
+We’ve had a whole rash of babies, so we’ve had baby showers.
+1:36:38
+We’ve
+1:36:41
+sort of blended the life within and the life outside of work.
+1:36:45
+I think you have to recognize that there are two parts to that.
+1:36:50
+But, it would be very easy to come in and not talk to somebody all day.
+1:36:55
+Those of us that like talking to people aren’t going to abide by that,
+1:36:59
+so we’re like that extrovert tree.
+1:37:03
+But it is easy to be isolated.
+1:37:06
+You were here for a long period of transition of the LTER
+1:37:10
+group or the Andrews group.
+1:37:11
+I was curious if you sense a change over time in the degree
+1:37:18
+of integration of the group.
+1:37:22
+What is your perception of when it seemed the most integrated,
+1:37:24
+or maybe it’s not so much now?
+1:37:27
+It was very different when Jerry Franklin left.
+1:37:30
+Jerry was a very strong figurehead for the group, but also for the national LTER.
+1:37:40
+I maintain that Fred Swanson has done an excellent job recognizing
+1:37:48
+the diversity of talents and personalities within the group.
+1:37:53
+I don’t know what is a truly realistic level of integration?
+1:37:59
+I think you have an extremely talented, extremely diverse, extremely busy group
+1:38:08
+of individuals that come together, not for the money, because there’s hardly any
+1:38:15
+money that gets passed to the salaries to most folks, so they’re committed to
+1:38:21
+the theme that the project is working on.
+1:38:24
+There are going to be differences, and there’ve been people that
+1:38:26
+have come into the fold, and there are people that have left.
+1:38:28
+But,
+1:38:32
+in terms of
+1:38:38
+what manifests the group working perfectly, I don’t know.
+1:38:42
+I think you have to
+1:38:44
+-- Are there things that aren’t happening?
+1:38:46
+From my perspective, if I need to bring a group together to talk about data
+1:38:52
+access policies, we can make that happen.
+1:38:56
+I find that I have to take the responsibility for that.
+1:38:59
+If I’m going to have to make sure that I’m at the meeting, so
+1:39:02
+that I have a voice at the table.
+1:39:04
+That’s not just going to be stretched out to me.
+1:39:08
+If I was of the kind where I easily felt like I was left out of
+1:39:12
+something that could be a problem.
+1:39:14
+But I’m involved in so many things that, if someone else wants to take
+1:39:19
+care of something, I look at that as relieving a burden, not excluding me.
+1:39:24
+If I feel strongly about something, then I’ll go right in, and march
+1:39:29
+in and say, “Look, these are the things that really have to be
+1:39:32
+addressed.” The web is a good example.
+1:39:34
+I feel very strongly that we have to have a web position, because we
+1:39:40
+are stretched so thinly trying to support the infrastructure that we
+1:39:44
+have and then this web comes in.
+1:39:46
+And, with the Forest Service and the need for certain fire walls for their
+1:39:51
+corporate data, that the Forest Service absolutely maintains, I mean it’s not
+1:39:56
+a choice, this is how it has to happen.
+1:40:00
+We can’t be glib about these things, and we need to do these things in a smart way.
+1:40:05
+It’s my place, I think, that when I feel strongly or I see the
+1:40:09
+writing on the wall, to make sure that that becomes an agenda item.
+1:40:15
+There are good friendships within the group.
+1:40:19
+There are individuals that socialize together, they ride bikes together, they
+1:40:24
+go for walks together, they do similar recreational kinds of things together.
+1:40:30
+I’m not in that group.
+1:40:32
+I don’t feel left out.
+1:40:35
+That’s a matter of choice in what we do.
+1:40:37
+I’m very active in a whole other set of things.
+1:40:42
+I think that the group is composed of very good people, and good people are
+1:40:52
+just by design spread very thinly, so you end up having to pick and choose.
+1:40:59
+And I think that these choices that people make can be misinterpreted
+1:41:05
+as lack of interest some times.
+1:41:07
+For me, it’s more a scheduling problem than anything else.
+1:41:11
+I think that I do more on the LTER network level with the other data managers.
+1:41:20
+I chair the data managers’ committee, I chair the task force
+1:41:24
+for the steering committee of the national group of data managers.
+1:41:31
+I feel very connected that way.
+1:41:35
+Whether or not I’m going to get in and arm wrestle over budget determination at the
+1:41:40
+site level, I don’t, no, I mean, I didn’t.
+1:41:43
+I could have chosen to get really upset when the data
+1:41:48
+management allocation was trimmed.
+1:41:51
+But, I saw that as an opportunity to go over and ask for institutional match,
+1:41:56
+because quite frankly, OSU needs to do something in the institutional match area.
+1:42:02
+I spent a year at NSF, and I wouldn’t have been asked to go to NSF by the division
+1:42:07
+director, if I didn’t have a connection and a visibility within the LTER program.
+1:42:14
+When did you go to NSF?
+1:42:15
+I spent the calendar year of ‘94 as a Division Director in Biological
+1:42:20
+Instrumentation Resources.
+1:42:22
+[BIR]
+1:42:22
+When you went there, did you have an agenda or purpose?
+1:42:26
+Yes.
+1:42:26
+In fact, I wrote a paper on it, I’ll give you a copy.
+1:42:30
+Oh, Okay.
+1:42:33
+I wanted to build the visibility of that division, because that’s where a lot
+1:42:40
+of their training programs are and a lot of the infrastructure development,
+1:42:45
+the database activities program, the computational biology program,
+1:42:50
+instrumentation development, shared instrument program, all the Novell
+1:42:56
+programs that NSF and the Biological Sciences Director was trying to get
+1:43:01
+up and running, had a home in BIR.
+1:43:05
+For me, BIR was the best kept secret in the BIO Directorate, and I loved
+1:43:10
+getting on that soapbox, and going on site visits and seeing what NCEAS
+1:43:13
+[National Center for Ecological Analysis and Synthesis] was doing with Mosaic
+1:43:15
+at the time, and what Carnegie Mellon was doing with visualization software.
+1:43:21
+You know it was a fascinating experience to me.
+1:43:24
+Wonderful.
+1:43:24
+Then from the administrative side, I realized that institutional
+1:43:29
+match is something one has to get out there and hustle for.
+1:43:33
+I e-mailed Fred when they were wrestling with some themes in the synthesis
+1:43:37
+areas of LTER 4, and he asked, “Who’s thinking about the match?” I said,
+1:43:42
+“Okay, let me see what I can do.” To me, that’s how a family group should work.
+1:43:50
+Those that are doing something and they are central to the core, and if it’s
+1:43:54
+working, they will reach out, they’ll get input, and then they’ll take what steps
+1:43:58
+they need, and then they’ll go with that.
+1:44:01
+I don’t expect to have everything I say converted into a policy.
+1:44:06
+But, I certainly want to have a place at the table when a policy is going to
+1:44:10
+be set up that I either am impacted by or I have to help implement, or I see
+1:44:16
+as being shortsighted for the long-term benefit of the site and the network.
+1:44:22
+If I understand what you’re saying, the level of integration of the group
+1:44:25
+depends a lot on the individual.
+1:44:27
+In other words, how integrated you are into the group depends on how interested
+1:44:30
+you are in becoming integrated?
+1:44:33
+I think so.
+1:44:33
+I have a question here about you being at NSF.
+1:44:36
+Do you see that as unusual for people who are involved in the LTER program to go to
+1:44:43
+NSF, or is that something fairly typical?
+1:44:45
+More and more are going to NSF.
+1:44:46
+When I was there, Jim Gosz was Division Director in Environmental Biology,
+1:44:51
+the division that LTER is run out of.
+1:44:54
+And he was a former P.I. on the Sevilleta LTER.
+1:44:59
+Right now Bruce Hayden from the Virginia Coastal Reserve site is Division
+1:45:03
+Director of DEB Environmental Biology.
+1:45:08
+Gus Shaver is a program manager there, and he’s from the Arctic site.
+1:45:14
+Scott Collins is permanent, Gus and Bruce are rotators, as with Jim and myself.
+1:45:21
+Jim?
+1:45:22
+Jim Gosz.
+1:45:23
+Yeah, okay.
+1:45:24
+Scott Collins is now permanent NSF program officer, and he
+1:45:29
+was from the Konza LTER site.
+1:45:33
+The other way of looking at it is that LTER individuals have a high degree of
+1:45:38
+commitment to service their community, and
+1:45:44
+NSF is just a fascinating place to work.
+1:45:47
+It gave me insights that were unbelievable.
+1:45:51
+I knew I was going to learn things, but had no comprehension
+1:45:55
+of how much I was going to learn.
+1:45:57
+And I think I was able to offer something, but it was a truly incredible experience.
+1:46:04
+I was going back-and-forth because my family stayed here.
+1:46:07
+So, I worked out an arrangement where I was there for three weeks and I was
+1:46:10
+home for a week, and I was there for three weeks and I was home for a week,
+1:46:13
+and I did this the entire 12 months.
+1:46:17
+We had that all worked out ahead of time.
+1:46:19
+That’s gotta be tough.
+1:46:20
+That schedule.
+1:46:21
+Well I was curious, because I know Jerry Franklin was there kind of early on.
+1:46:24
+Yes.
+1:46:25
+Has anybody else from this LTER site served at NSF?
+1:46:29
+That you know
+1:46:33
+of.
+1:46:33
+That’s a good question.
+1:46:33
+I don’t know.
+1:46:35
+No other names have come up.
+1:46:36
+I was curious.
+1:46:36
+No, no.
+1:46:41
+I don’t think so.
+1:46:43
+Okay, all right.
+1:46:43
+Well, a little bit of shifting of gears here.
+1:46:44
+Yes.
+1:46:44
+I want to get perceptions at the time you joined the LTER here, about
+1:46:54
+your understanding of what the purpose of the research group
+1:46:57
+was, and what the purpose of the Andrews Experimental Forest was.
+1:47:01
+More generally, how a university and an experimental forest were
+1:47:05
+integrated at this location.
+1:47:07
+I remember the early LTER meetings were rather unstructured, for
+1:47:20
+me.
+1:47:27
+Maybe because as a statistician or whatever, you start with your
+1:47:27
+hypothesis, then you go to the givens, and then you kind of make your plan.
+1:47:29
+It took me awhile to realize that things got done, it was a highly productive
+1:47:35
+group, but if you were going to chart how these things occurred, that mapping
+1:47:40
+would be a lot more erratic and a lot less linear than what you might imagine.
+1:47:46
+In terms of the relationship with the Andrews and the university, the
+1:47:52
+college and the department, I think I took that for granted when I started.
+1:47:57
+I have a much better sense of some of the stresses involved with this now,
+1:48:04
+after coming back from NSF, after seeing other similar political and
+1:48:09
+apolitical decisions made for supporting off-site locations; the transmission
+1:48:16
+rates of lines being run-down there, the capabilities a site can have versus
+1:48:22
+the liabilities a site has to endure.
+1:48:28
+I think I have a much better grip of just how difficult it is to maintain an
+1:48:34
+off-site, world-class, premiere research facility, in light of budget cuts and
+1:48:41
+personnel demands and everything else.
+1:48:45
+But at the time, since I’d never really been based for research down
+1:48:52
+there, nor been on-site support and the application of methodology
+1:48:58
+that solves questions and problems.
+1:49:01
+I don’t think I was impacted by that as much.
+1:49:03
+I think the new facilities, the bunkhouses and everything, are incredible.
+1:49:09
+It’s an incredible place.
+1:49:10
+The old tacky trailers that looked like they were going to collapse
+1:49:14
+and people were going to die because someone would drop a match
+1:49:18
+or something, those were scary.
+1:49:21
+I was glad that they bit the bullet and did that, but it changes
+1:49:26
+the complexion of that location.
+1:49:29
+It will never go back to what
+1:49:34
+it was before.
+1:49:35
+You were talking before about the integration of data management
+1:49:38
+with research early in the process when that’s taking place.
+1:49:44
+How necessary is it for a data manager to visit the site where
+1:49:49
+the data’s being collected?
+1:49:50
+Is that common?
+1:49:51
+Yes.
+1:49:52
+Don and Gody, who work most closely with data, do that a lot, Don,
+1:49:58
+primarily on the met station.
+1:50:00
+Did you meet Fred Bierlmaier when you were down there?
+1:50:03
+He has scraped up a local area network for the met stations.
+1:50:07
+He can get downloaded on the web in almost real time with some delay, the flows.
+1:50:15
+So, when we were having these flood events, we could get on the web and we
+1:50:19
+could see that it was about to happen.
+1:50:23
+Don has been out there a lot.
+1:50:27
+So yes, Don, who I see as being in charge of the wet data, and Gody,
+1:50:32
+who’s in charge of the dry data for the field plots, get field experience.
+1:50:37
+Gody actually has a Ph.D. in soils, and has worked on the Andrews.
+1:50:42
+Don has a Master’s in Statistics from Oregon State, so they have a grounding.
+1:50:48
+I like going out on field trips, because when you’re lecturing, it
+1:50:54
+gives you a better sense of how to develop a context for these examples
+1:51:00
+that you want to give.
+1:51:01
+I was also curious, you’ve been talking quite a bit about your
+1:51:03
+concern for remaining visible, and you mentioned students quite a bit
+1:51:08
+in your discussion here, which is actually unusual from some of the
+1:51:12
+people I’ve talked to in Forest Science.
+1:51:14
+I was curious first of all how often students are involved
+1:51:19
+in that early level of
+1:51:24
+coordinating data management with data collection.
+1:51:26
+Through all students who take my class, and this is a chapter in
+1:51:31
+the book, so they get a dose of it.
+1:51:35
+Now, if I’m not on their committee, or I’m not part of their advisory group, I can’t
+1:51:41
+make sure that they do the right thing.
+1:51:43
+But it’s not for lack of having been told that these are
+1:51:49
+things that should be attended to.
+1:51:51
+So, it’s interesting that this session was more student-oriented.
+1:51:57
+Well, some people have told me that one thing they don’t like about the groups
+1:52:04
+is the lack of opportunity to teach.
+1:52:08
+People like to talk to the students; it just depends on the person, I guess.
+1:52:10
+I don’t think that’s LTER.
+1:52:13
+I think that’s because we are a graduate-level department.
+1:52:18
+A lot of times people are talking about teaching at the undergraduate level.
+1:52:23
+The number of courses taught at the graduate level is smaller,
+1:52:29
+but that’s a fine comment for someone to make.
+1:52:34
+But they need to be asking themselves, have they sat down and put together a
+1:52:38
+course syllabus and then trotted it past Logan [Norris - department chair] and
+1:52:43
+said, “Can I run this as an experimental course?” That’s how this class
+1:52:49
+got started.
+1:52:50
+Oh, really?
+1:52:51
+When did you start teaching this class?
+1:52:51
+You might have mentioned it before.
+1:52:51
+No.
+1:52:52
+I started it probably in ‘80, the first year I was here.
+1:53:00
+When I first came out I was teaching the Forest Engineering Institute program.
+1:53:04
+It was six weeks in statistics and operations research.
+1:53:07
+And then, a year or two later, ‘81, somewhere in there,
+1:53:11
+early ‘80s, we got started.
+1:53:13
+The class size was six, seven, eight.
+1:53:16
+Now, we have 40-50 students, which is too many.
+1:53:19
+[Laughter]
+1:53:19
+I believe that.
+1:53:20
+So -- [pause]
+1:53:20
+. I want to ask about
+1:53:30
+your role as a university professor working with this interagency group.
+1:53:37
+Much of the work involves short-term funding.
+1:53:41
+What
+1:53:44
+are the advantages and disadvantages for a faculty member in that kind of situation?
+1:53:47
+The
+1:53:50
+advantage
+1:54:19
+of having it short-term is that, if
+1:54:32
+you’re
+1:55:02
+on the wrong track, you’re not on it for very long.
+1:55:06
+It gives you an opportunity to pull the plug on something, if it’s not working.
+1:55:12
+That’s not usually where we’re at, though.
+1:55:14
+Usually we’re trying to make something work and we’ve succeeded with just a
+1:55:20
+little bit of resources, and now we have to leverage it into something else.
+1:55:27
+I think you can complain about it or you can just recognize that that’s the way
+1:55:34
+this is, and that in the big scheme of things, we’re incredibly fortunate for the
+1:55:39
+amount of resources that do flow our way.
+1:55:42
+And with that comes the recognition and the responsibility to maintain
+1:55:46
+a quality of work, so that, as these resources get tighter and tighter,
+1:55:51
+we’re still at the top of the heap.
+1:55:53
+I think that it’s no surprise that the Forest Science Department is the top grant
+1:56:02
+getting department in the university, and we have this investment in technological
+1:56:08
+infrastructure that allows the research to be of high quality and statistically
+1:56:14
+sound, processed quickly and managed well.

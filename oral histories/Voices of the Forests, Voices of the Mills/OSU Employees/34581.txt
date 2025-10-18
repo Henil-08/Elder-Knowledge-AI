@@ -1,0 +1,2416 @@
+00:01
+This is an interview with Robert Griffiths, taking place on
+00:05
+Thursday, the 6th of November, 1997.
+00:09
+The place of the interview is Dr. Griffiths’ office at the Forest
+00:13
+Science Laboratory [U.S. Forest Service] in Corvallis Oregon.
+00:15
+The interviewer is Max Geier, and the time of the interview
+00:17
+is 1 o’clock in the afternoon.
+00:34
+What I’ve been trying to start out with each person I interview, is I ask
+00:39
+if you could just talk a little bit about your personal background, how you
+00:43
+came to be involved with the Andrews Forest, where you were before you
+00:49
+were at OSU, and how you would like to
+00:55
+define your work.
+00:55
+Let’s see.
+00:55
+I
+01:00
+came to Oregon State in ‘68, got a Ph.D. here in ‘72, and have
+01:06
+been here ever since, working in different capacities, primarily in
+01:11
+the Department of Microbiology, about 22 years, or something like that.
+01:19
+About 10 or 11 years ago, Kermit Cromack, in this department, came to me, saying
+01:25
+that he has this new system to look at these mycorrhizal mats of forest soil.
+01:32
+My training was in
+01:36
+microbiology, biochemistry and oceanography, and I was actually
+01:41
+an oceanographer at the time.
+01:44
+I spent about the first 12 years of my career as an oceanographer.
+01:49
+He said, “Hey, this is a neat system over here.” Funding was getting tough
+01:54
+in oceanography, so I said, “What the heck, we’ll take a look at forest
+01:58
+soils!” And I guess the rest is history.
+02:00
+I moved over here in ‘92, so I’ve been here for about five- and-a-half
+02:06
+years, or something like that.
+02:08
+Up until that time, you hadn’t really done much with the Andrews, before ‘92?
+02:12
+No, no, no.
+02:13
+I started out, actually, about ‘86 or ’87, doing some work at both the Andrews
+02:22
+and Mary’s Peak, working on these mats, continued on mats for a number of years,
+02:27
+and kind of branched out into ozone.
+02:32
+Actually, I think it was probably ‘87 when I first started doing work on the Andrews.
+02:40
+What drew you up there?
+02:42
+It was a neat place to work on these mycorrhizal mats.
+02:47
+Were there other people doing work in that area?
+02:51
+Well, actually there was another thing going on as well about the same time.
+02:57
+It was the same year, ‘86, that Steve Carpenter, who was in this
+03:02
+department as a mycologist, and who is now working for Hewlett Packard
+03:07
+making a real living for himself.
+03:11
+[Laughs]
+03:13
+Welcome to Oregon Higher Education!
+03:14
+Yeah,
+03:17
+he got tired of the soft-money game like all the rest of us out here.
+03:24
+Anyhow, he got me interested in the log decomposition project.
+03:26
+Of course, Mark Harmon was in charge of that.
+03:29
+It was
+03:34
+actually Mark that got me involved.
+03:35
+So, at the same time I first started working on mats, I was
+03:41
+working on this log decomp project.
+03:46
+It was within six months of when they cut the logs.
+03:51
+We did studies on respiration and nitrogen fixation in those logs,
+03:56
+and that work continues today.
+04:02
+Those were my first contacts.
+04:04
+It
+04:07
+was maybe only a year after that, probably ’88,
+04:15
+that they had an REU program going on at the Andrews.
+04:19
+The whole program was about 10 students each summer, and I got involved doing
+04:24
+that as a mentor, and helped out on that.
+04:28
+And I have repeated with that ever since.
+04:31
+Can you back up
+04:44
+a little bit here?
+04:45
+I’m interested in some of your academic roots and your mentors.
+04:50
+I mean, what brought you towards microbiology?
+04:54
+Okay.
+04:54
+Are you originally from California?
+04:56
+No, I was originally from Ohio, and
+05:00
+ended up going
+05:05
+to Oberlin [College] . Got into biology as a pre-med student.
+05:12
+I was in pre-med at Oberlin, and
+05:18
+I was about ready to get drafted, and went into the Navy [laughs] after that.
+05:24
+I was a naval officer for about three-and-a-half years.
+05:28
+You were doing what?
+05:29
+I was a naval officer for three-and-a-half years.
+05:34
+Didn’t do any science
+05:38
+while I was there.
+05:38
+[Laughs] In any event, I got out and started pushing drugs for
+05:42
+a pharmaceutical company for a short while, and just hated that.
+05:48
+I was also interested in biology, but I never could remember all the plant names
+05:53
+though, so most everything in biology when I went through Oberlin, was slanted
+05:58
+towards taxonomy and descriptives, and there was very little physiology
+06:04
+and that sort of thing going on.
+06:08
+When I started getting back into it, I discovered that there were lots
+06:12
+of these neat things happening in the field of biology, things were
+06:15
+just turning around literally, so you could make it as a biologist and
+06:20
+not remember all the plant names.
+06:25
+Late ‘60’s?
+06:27
+Mid ‘60’s.
+06:28
+I went to San Jose State in ‘66 and finished my degree there
+06:37
+in ‘68.
+06:38
+Actually,
+06:41
+I was either going to go into entomology or microbiology, and this one new
+06:46
+faculty member was a microbiologist.
+06:48
+He was anxious to start with a graduate student, so he took me under his wing,
+06:54
+and he was a marine microbiologist.
+06:58
+His mentor actually was Dick Morita, who is on the faculty here, an
+07:03
+emeritus professor in microbiology.
+07:06
+Who’s the guy you were working with?
+07:08
+Working with at that point?
+07:12
+Dr. H-A-I-G-H-T,
+07:17
+and I did a thesis
+07:24
+on marine organisms, factors involved in
+07:30
+what happens to them when they get heated up.
+07:35
+Anyhow, it was a sort of zoological type work on these marine microorganisms.
+07:40
+I applied to Oregon State, was accepted, came up here, and worked
+07:46
+with his mentor, Dick Morita, who was also in marine microbiology.
+07:52
+I continued on essentially straight
+07:57
+physiological studies,
+08:00
+photo-effects on the
+08:05
+shifts in catabolic pathways to glucose metabolism,
+08:14
+showing that there was a basic shift from one pathway to another, depending upon
+08:19
+shifts in salinity in marine organisms.
+08:21
+So
+08:23
+your move up to OSU, was because of the mentor relationship, or because
+08:27
+of OSU’s reputation in oceanography?
+08:30
+Basically, just kind of came here because it seemed like a
+08:33
+good idea and deal at the time.
+08:36
+[Laughs] And because my mentor down there said, “Hey, you’d really
+08:42
+like it up in Corvallis, and you shouldn’t have any problem getting
+08:46
+in.” That’s how I moved up here.
+08:49
+Had you been here before at all?
+08:51
+No, no, no.
+08:54
+My wife and I were living in California at that point, and we moved up here in ‘68.
+09:01
+I’m kind of curious of the connections between oceanography, [fungal]
+09:08
+mats, and log decomposition.
+09:10
+How did that transition take place?
+09:17
+When you’re looking at carbon and nitrogen cycling, like I’ve done in
+09:21
+a marine environment, most of the work I did there I did in the poles.
+09:24
+I worked in the Antarctic and the Arctic
+09:31
+for most of that time.
+09:32
+Anyhow, the processes are essentially the same.
+09:35
+It doesn’t make a difference, if it is forest soils or marine sediments
+09:37
+or logs or whatever, the same sorts of chemical cycles take place,
+09:44
+there are just different factors involved, and slightly different
+09:49
+actors involved [laughs] in terms of who does what, but
+09:53
+these things happen everywhere.
+09:55
+And they are real basic biochemical transformations, and you pretty
+10:00
+much move from one field to another, studying the same types of things.
+10:06
+But, just having to deal with a whole new literature, it was a pretty giant jump,
+10:12
+going from oceanography to forest science.
+10:18
+It’s interesting though, that I am supposed to be making my living as a
+10:24
+microbial ecologist studying in forest soils, because I never had any formal
+10:28
+training in either forestry or soils.
+10:31
+[Laughs]
+10:31
+Was
+10:35
+there much connection between people like Dick Morita and Forest Science?
+10:39
+No.
+10:39
+None at all.
+10:41
+The only initial contact was,
+10:46
+and for different reasons, was Steve Carpenter, who happened to run
+10:51
+into a colleague of mine, they got talking, and we all got together.
+10:57
+It seemed like a kind of neat thing to do.
+10:59
+I got involved in a lot of projects, and then, Kermit Cromack approached
+11:02
+us about how he knew we were working on nutrient-cycling, and that there
+11:09
+was potential for interesting things that could be studied in the soil mats
+11:18
+or bio maps.
+11:18
+Was it all in the literature?
+11:25
+No.
+11:27
+We just knew each other and kept talking, and mutual contacts.
+11:34
+Also, another interesting thing.
+11:40
+Dick Waring had asked me, and I don’t remember how this started, but
+11:43
+he wanted me to evaluate a thesis a student of his had done, looking at
+11:52
+starch
+11:55
+buildup in fine roots, and how physiology of trees influenced that, soil-tree
+12:04
+interactions, that sort of thing.
+12:07
+That was another connection.
+12:08
+All of these happened about the same time, all independent of one another.
+12:12
+Like it was meant to be.
+12:15
+I guess it was meant to be.
+12:19
+Were there any
+12:22
+particular models that you relied on as you were developing your career,
+12:31
+first in oceanography, and then as you moved into soil cycles?
+12:33
+Anybody that you worked for or whose thoughts were really enlightening?
+12:40
+Well,
+12:43
+I guess the model that I was following was that of my mentor, Dick Morita,
+12:47
+because he was one of the very early people in marine microbiology
+12:52
+that was looking at processes and
+12:56
+the biochemistry of what’s going on, rather than just descriptive
+13:01
+microbiology.
+13:02
+You know, what’s there, and what we can isolate.
+13:05
+He was one of the first ones looking at the effects of pressure on cells
+13:13
+and enzymes, and the effects of starvation and the effect of heating;
+13:19
+all these things on marine organisms.
+13:26
+I was interested in how these organisms functioned.
+13:31
+Most of the work he did was in the laboratory.
+13:33
+He did very physiological, classic work, using marine organisms.
+13:40
+I was a lot more interested in going out and actually doing things in the field.
+13:46
+Initially, I got into it because there was money available to work
+13:52
+in the Antarctic on this project.
+13:55
+They said, “What do you think,” and I said, “Sure, what the heck, I’ll try it.”
+13:59
+That was while you were up here
+14:03
+at OSU?
+14:05
+I had virtually no training in ecology.
+14:09
+It’s
+14:19
+all been kind of picked up, learned the hard way, along the way.
+14:23
+But you had a field orientation early on as a student?
+14:30
+Yeah, I worked all over Alaska, parts of Canada, all over the Chukchi
+14:38
+Sea, Beaufort Sea, Norton Sound and the Aleutians, and all the way
+14:45
+down to Seattle, along the coast.
+14:48
+It’s been pretty neat.
+14:49
+Most of the funding was from NOAA, the National Oceanographic
+14:52
+and Atmospheric Administration.
+14:53
+They had
+15:03
+a huge project to look at the effects of offshore drilling on marine systems.
+15:10
+We were particularly interested in what the effects of crude oil might be on
+15:16
+microbial processes in offshore and nearshore environments, so we spent
+15:22
+a lot of time on ships, and a lot of time out in marine labs up there.
+15:31
+That work continued through the early ‘80’s, starting
+15:43
+in ‘75.
+15:45
+When you made the transition from oceanography to forest soils,
+15:50
+what do you recollect about your first actual involvement on
+15:55
+the Andrews?
+15:57
+The first time actually out there, I went out to look for sites
+16:03
+where we could try these mats we were interested in working on.
+16:09
+I went with this silviculturist, Vince Puleo.
+16:18
+Apparently, he’s still employed with the Willamette National Forest in Eugene.
+16:24
+I don’t remember exactly what he is doing now, but he was the silviculturist for the
+16:30
+Blue River Ranger District at the time.
+16:36
+He took me out and showed me some spots, and
+16:42
+after that, we collaborated on putting together a two-day
+16:46
+workshop on soil biology for
+16:51
+employees of the Willamette National Forest.
+16:56
+That was one of my early involvements.
+16:58
+Then, I
+17:01
+was involved in the wood decomp study sites.
+17:06
+So, we went out and did some limited fieldwork there, but mostly working
+17:12
+on the materials they brought back to
+17:22
+the lab.
+17:22
+Then, I had involvement with the students working there as well.
+17:26
+So, it wasn’t until probably ’88
+17:33
+or ‘89 that I really got out there working
+17:41
+at a much more involved level.
+17:44
+It was about that time, I was starting to get a little bit of
+17:47
+funding, actually from the LTER group.
+17:51
+So, what I did was set up 20 sites, permanent sites on the Andrews,
+17:59
+kind of reference sites, for below-ground work.
+18:03
+Nothing like that had been done before.
+18:04
+We had reference bands that had been in place for forty or fifty years,
+18:10
+looking at growth rates and the rest of it, vegetation, but there was
+18:14
+nothing set up for below ground.
+18:18
+We wanted to be able to set up places where we could go in and disturb the
+18:22
+soils, and not disturb some other place.
+18:25
+That’s why we’ve been going the way of regional reference bands, and also,
+18:28
+I wanted to put together a different kind of design which would give us a
+18:36
+broad climatic range, so we could look at the effects of climate on soil
+18:44
+processes on a monthly time status.
+18:50
+We did that, and studied those sites for a number of years,
+18:56
+and we have since expanded those sites to about 24, I think it is.
+19:02
+Where we are in addition to looking at variability in climate, we are
+19:07
+also looking at effects of harvesting.
+19:11
+So, we’ve been comparing clear cuts, a young stand, 30-35 years old, and old
+19:23
+growth, in the same general area, and looking at seasonal differences, comparing
+19:29
+levels, what’s going on below ground.
+19:31
+And in each of those sites, we have ten stations or locations
+19:36
+that we keep using in the sample.
+19:40
+Those are all in the Andrews?
+19:41
+They are all in the Andrews.
+19:44
+Then, a couple years after that, ’93 I guess it was,
+19:51
+I established a set of almost 200 sites, 184 sites, at
+19:56
+half-kilometer intervals along
+20:01
+roads all over the Andrews, and those have been well-documented.
+20:03
+We use those for studies, and we will continue to use those
+20:08
+for kind of large-scale studies on the whole-basin level/scale.
+20:17
+Do you have students working with you?
+20:19
+Who’s setting up these sites?
+20:22
+Mostly undergraduate students
+20:26
+and money from REU projects, from the LTER program, volunteers,
+20:33
+work study, whatever I can get.
+20:37
+Typically, I’ll have four students a year in the summer, working on these
+20:45
+projects, but then, when we get REU students, we’ll get everybody involved.
+20:48
+We’ll get fifteen people
+20:53
+out there.
+20:53
+That’s kind of ongoing.
+20:55
+I’ve also set up a real intensive plot where we have got
+21:02
+GIS overlays of everything that’s out there.
+21:06
+And this is again, part of the network that I’ve tried to establish
+21:10
+for ongoing below-ground work.
+21:17
+I’ve had a lot of interest from people looking at insects, and fungal genetics.
+21:25
+A bunch of other folks are wanting to use the sites.
+21:33
+So, I’ve actually got sites for three different scales for different purposes.
+21:43
+So that’s kind of my ongoing legacy of work, along with posting data.
+21:53
+People working with entomologists and fungal groups are working on it?
+22:01
+At this point, the people that have only
+22:05
+shown an interest, haven’t done anything, but are very
+22:08
+much interested in pursuing it.
+22:09
+One is Joey Spatafora in the Botany Department here [OSU] . We plan on doing a
+22:17
+collaborative project starting next year.
+22:21
+There is also a scientist with the National Biological Service
+22:30
+in Seattle, who has expressed interest in doing genetic work there as well.
+22:38
+There have been a number of entomologists, Andy Moldenke being one.
+22:46
+There have been some entomologists from U of O that have approached
+22:50
+me about using those sites for their entomological studies.
+23:01
+I guess the next thing we are putting together, is sites that we will be using
+23:05
+for LTER 4 to study stands that have different successional trajectories.
+23:15
+They have been cut and they are either coming [tree establishment]
+23:17
+along really slow or really fast.
+23:17
+We are going to try and determine, what is cause and what is effect.
+23:24
+In other words, are there things in the soil that would cause the
+23:28
+site to have a predisposition to be a fast site or a slow site?
+23:36
+Once we do have a number of sites on the Andrews, particularly in
+23:42
+high, south-facing slopes where very little [tree] regeneration is
+23:49
+taking place, and very, very slowly.
+23:52
+And we would like to determine what that translates into in terms of
+23:59
+effects on biology and chemistry, nutrient-cycling, rates of carbon
+24:05
+and nitrogen-cycling, and such.
+24:08
+Like the one you were talking about at the Andrews days [“HJA Daze” – annual public
+24:08
+event to show work and programs] up there?
+24:11
+Yeah.
+24:12
+How
+24:21
+would you characterize your understanding of the purpose of an experimental
+24:24
+forest since you started working out there, and how much exposure
+24:27
+had you had to that as a concept?
+24:31
+I can’t say that it was much different than what has turned
+24:38
+out to be the reality of it.
+24:39
+It was obvious it was a place where there was a lot of
+24:44
+multi-disciplinary research going on.
+24:46
+I might preface this to say that I was actually going to meetings for LTER,
+24:52
+before I had done much work out there.
+24:54
+So, very early on, I had a pretty good sense of what was going on in
+24:58
+terms of who the players were and how people interacted and worked in
+25:02
+kind of a multi-disciplinary way.
+25:05
+I think fairly early on, it was obvious that one of the main advantages was
+25:09
+that you had, was long-term records of management and a bunch of other records;
+25:17
+climate data and data on other subjects.
+25:20
+This was before Steve Carpenter [contacted you]
+25:23
+? Well, I never heard of it before him!
+25:28
+Experimental forest, what was that?
+25:32
+[Laughs] They cut trees, I guess.
+25:34
+I didn’t have a clue!
+25:40
+Actually,
+25:46
+those were my same feelings before I started working in this department.
+25:47
+So, you started going to the LTER meetings after the Andrews folks contacted
+25:50
+you to find out more about your work before you got into the actual work?
+25:54
+No, it was clear that this was going to potentially be an
+25:59
+interesting way to go early on.
+26:04
+We got very neat results really fast, it was obvious,
+26:11
+and we got funding right away.
+26:14
+The first proposal we put into the USDA Competitive Grants, got
+26:21
+funded.
+26:22
+It was unbelievable.
+26:26
+So, we had the money to get started, and that was the thing that really
+26:35
+made us go in that direction.
+26:36
+If there was no money, we wouldn’t have begun.
+26:40
+So, it was obvious this was where all the action was, where all the
+26:48
+movers and shakers were, and I wanted to be in the middle of it,
+26:51
+so I started going to the meetings and participating the best I could.
+26:58
+From what you said, it sounds like you were attracted, at least in part, by the
+27:02
+promise of multi-disciplinary potential?
+27:06
+Yeah, and the working relationships.
+27:09
+It was obvious that the rapport
+27:13
+people had with one another, even outside the college and the university, was great.
+27:19
+They had people here from the Forest Service, and
+27:25
+there was no distinction about organizations, but it was, what you
+27:30
+can do, a “we will work together” type of approach, which was
+27:34
+unusual at the time, unfortunately.
+27:38
+I wanted to ask you about, actually, the kind of
+27:41
+inter-disciplinary potential at OSU.
+27:44
+Do you find that characteristic of the university in general,
+27:47
+or primarily with this group?
+27:50
+I think it’s pretty unusual
+27:54
+overall in science.
+27:58
+In oceanography, there was a different kind of rapport.
+28:02
+It was an “old boys club,” pretty much. You either went to Scripps or you went to
+28:06
+Woods Hole, and if you didn’t go to either one, you were pretty much out of it.
+28:14
+You go on a cruise, it would be intense interdisciplinary activity because that is
+28:20
+the only way you could function, really.
+28:23
+But speaking as a biologist,
+28:28
+it wasn’t like it was all one campus, or there was a center, or a place.
+28:32
+It was folks from all over the United States that flew in, maybe from all over
+28:36
+the world, to some port, you got on a ship and went out and did your science, came
+28:41
+back, and all went your different ways.
+28:42
+You got together for a meeting once a year and called it good.
+28:47
+That is the way things typically happened in that field.
+28:52
+That’s the only thing that I can really speak to.
+28:54
+I think in a lot of other fields that I have been associated with, people are so
+29:00
+concerned with covering their backsides, they are not very forthcoming about
+29:06
+what they are doing, and are not terribly cooperative, overall.
+29:12
+But the attitude is totally different here.
+29:15
+It’s not universal in this field, believe me.
+29:19
+All you have to do is look at UW and other places.
+29:24
+This is very, very unusual.
+29:27
+You’re talking about the university now?
+29:31
+I’m talking about the LTER group specifically, and in a lot of ways,
+29:36
+the Department of Forest Science [OSU] , because that is pretty much
+29:39
+the way people operate around here.
+29:42
+But
+29:45
+in the Cascade Center [for Ecosystem Management] , or the
+29:47
+LTER, however you want to define it,
+29:52
+it’s unique that not only are scientists talking with each other,
+29:58
+but people are actively managing the forest, from the Blue River District.
+30:04
+They’re constantly working with these folks and sharing information,
+30:10
+and that is really unique as well.
+30:14
+So, it’s not only unique in terms of size, it is also unique in terms of
+30:20
+the interaction between the people that are practicing forest science.
+30:25
+Who at the district have you worked most closely, that you have been involved with?
+30:29
+John Cissel, Lynn Burditt, and
+30:44
+a number of other people I’ve had interactions with over the years.
+30:47
+But typically, it’s just that I have a certain thing that I need to find out, or
+30:54
+I know this person will do it, and that’s it.
+30:57
+So, there hasn’t been much in terms of one-on-one, long-term
+31:06
+kind of concerted effort in any given area, from myself, personally.
+31:11
+I was just contacted by their soil scientist, who is new out there,
+31:15
+at the Blue River Ranger District.
+31:21
+It looks like he is interested in cooperating, and so we
+31:24
+are beginning to go, but,
+31:29
+I guess that would be it.
+31:32
+Mostly with John [Cissel] ; he’s kind of been the liaison.
+31:38
+I haven’t been very much involved in things that are directly related to
+31:42
+some of the management things they have been doing, or some of the tests
+31:46
+that they have specifically laid out.
+31:48
+So, I haven’t had really a need to do that.
+31:49
+When you work down there, do you typically go down there and stay for a period, or do
+31:56
+you go down there and come back in the same day?
+31:59
+I usually go down
+32:03
+and spend a night, at least.
+32:05
+Rarely will I be there more than 2 or 3 days, although if this LTER program
+32:12
+or the REU program gets funded, I am supposed to be running that show, so I
+32:20
+will be spending more time down there.
+32:23
+Quite a bit more time.
+32:24
+I have always had a lot of folks working down there full-time.
+32:29
+I have had students there, and had one student that was there for a
+32:34
+full year, but typically, I only go in for a couple of days at the most.
+32:38
+Do you stay
+32:41
+at the headquarters site then?
+32:42
+Yes.
+32:42
+If you could, talk a little about what your resource or facility needs are
+32:51
+on-site there for the kind of research you do, and how the availability of
+32:55
+those resources is changing over time.
+32:59
+They are just like night and day.
+33:01
+[Laughs] I had nothing to begin with.
+33:02
+We have had a couple of old broken-down trailers, and I had
+33:09
+what they were calling labs.
+33:14
+It was beat up old trailers, these two benches and almost no equipment.
+33:20
+I had a muffle furnace and a top-loading scale, which is
+33:24
+about all I remember being there.
+33:26
+And I never used any of that stuff.
+33:31
+We brought everything back to Corvallis to work on.
+33:36
+Packed up sample bags?
+33:37
+Yes, everything was brought back.
+33:39
+We didn’t do anything out there except maybe measuring temperature.
+33:47
+That was it.
+33:52
+When the lab was built,
+33:55
+I started really hustling and getting
+34:00
+a lot of equipment for the two labs, and I ended up occupying those first two labs.
+34:06
+But, also, I found somebody that was surplusing a still, and I got that
+34:13
+installed, and somebody else surplused a real nice, almost brand new autoclave.
+34:19
+Got that installed.
+34:21
+There was another big,
+34:24
+huge drying oven, the size of a small room.
+34:30
+We surplused that and got it shipped out there.
+34:36
+EPA was going to throw out some incredibly expensive ion-exchange
+34:42
+units for purifying water.
+34:43
+Got that shipped out there.
+34:47
+One scientist here was retiring and he wanted to know if
+34:51
+I wanted his refrigerated centrifuge, a $16,000 centrifuge.
+34:55
+I said, “I’ll take it.” It’s out there.
+34:58
+We scrounged up enough, and then got funds to buy a
+35:03
+chromatograph, which is out there.
+35:07
+I am almost as well-equipped out there as I am here.
+35:12
+We do a lot of stuff out there; enzyme
+35:17
+assays, gas exchange work, nitrogen fixation, respiration, all those things.
+35:23
+We got a couple of incubators there,
+35:28
+a spectrometer, and
+35:31
+pH meters.
+35:35
+All kinds of good equipment.
+35:36
+Almost all of it, I’ve scrounged from some place.
+35:39
+That takes up a lot of space.
+35:41
+Is there any kind of administrative structure to decide how space is allocated
+35:48
+out there?
+35:48
+I mean, are you involved in that decision-making process?
+35:48
+If there’s a void, we
+35:56
+fill it.
+35:57
+Except for the communal stuff, which is useful for everybody, like
+36:02
+the autoclave and the rest of it.
+36:08
+With those exceptions, everything else that I have hauled up
+36:12
+there is in those two labs.
+36:15
+I have primarily taken
+36:19
+those.
+36:19
+If other people that need to use those labs, is there a system for that?
+36:24
+Or is that pretty much set aside for you work?
+36:26
+No, but the equipment is expensive enough and finicky enough that I
+36:32
+like to have them contact me and find out who is going to use it.
+36:37
+I try to make the equipment as available as I can, but of course,
+36:41
+there is stuff that could get
+36:44
+damaged.
+36:45
+If someone doesn’t use the centrifuge right, you could tear up that
+36:48
+whole lab, kill people, big-time.
+36:52
+So, we do have to restrict it, and there are balances that are
+36:56
+very expensive, and you could just walk out the door with them.
+37:01
+I assume that falls under administrative responsibility.
+37:03
+Do you maintain control over that?
+37:05
+Well, that’s an area that we haven’t really sorted that out as neatly
+37:10
+as I’d liked to, at this point.
+37:11
+And that is something we have got to put together, some more
+37:16
+specific policies in my view.
+37:17
+And we will, it will just have to happen.
+37:21
+There are certain things that are very high maintenance things, as well.
+37:24
+So, we will have to get someone, either to pay for supplies or pay for maintenance.
+37:34
+But generally, I try to make things as available as I can to students.
+37:38
+I mean that’s what it’s out there for.
+37:41
+But of course, I don’t want to go out there and have a piece of equipment
+37:44
+all “boogered up,” then and have to pay, and not be able to use it.
+37:48
+I’m trying to get a little sense of the concepts of use of the facilities.
+37:53
+Do you agree on some of these
+37:57
+things out there?
+37:58
+Actually, I just sent them a memo on lab safety which we
+38:02
+wanted to have people sign.
+38:05
+Before, there was hardly any lab work going on, so it was not an issue, but
+38:10
+it is becoming more and more an issue.
+38:13
+I put together a whole series of
+38:18
+safety guidelines, and also
+38:28
+recommendations of how to deal with equipment issues and so forth.
+38:32
+It is going to be more of a problem now that we have teaching labs out there.
+38:36
+That’s going to be incredible.
+38:39
+You talk about future potential of that new facility, with a teaching lab.
+38:46
+That is going to be just dynamite.
+38:47
+Because right now, about 80% of the research that goes on out there, takes
+38:52
+place three months of the summer.
+38:55
+The rest of the time it is pretty seriously underutilized.
+38:58
+That is my impression, anyways.
+39:00
+That is
+39:03
+the time when classes from OSU and other colleges and universities in the
+39:09
+Willamette Valley could be using that as a teaching facility, and I would like to
+39:13
+be using it for workshops and so forth.
+39:16
+Right now, we have no money for equipment.
+39:19
+Once we do get equipment, we’ll have to be over there, and manage that as well.
+39:24
+We’ll have microscopes and sound systems that are
+39:27
+available.
+39:27
+There will be a more formalized policy on the management of those things?
+39:34
+Of how to deal with the equipment and so on.
+39:36
+Do you think that you all could work that out?
+39:40
+Well, that is something that I would work out with Art, and
+39:47
+with the manager that I’d be
+39:51
+hiring.
+39:53
+Also, Al [Levno] , of course, is involved in the use of the equipment.
+39:57
+Generally, just four or five of us will get around a table
+40:01
+and try to hash something out.
+40:02
+It usually works.
+40:03
+And if there are any problems that any people have, they
+40:07
+just bring it to whoever?
+40:08
+Yeah.
+40:16
+I wanted to ask you
+40:23
+what
+40:27
+parts of the Andrews you might identify as your most important
+40:32
+worksites.
+40:32
+Also, who apart from the Andrews group, you would consider at this
+40:35
+point to be your closest colleagues?
+40:43
+Outside of the Andrews.
+40:56
+Almost all of them are associated with the Andrews in one way or another.
+40:59
+Actually, I retired a year ago,
+41:05
+but you
+41:07
+wouldn’t know it.
+41:09
+I had no idea!
+41:09
+I wouldn’t know it either!
+41:09
+But what that has meant is that I’ve purposely kind of
+41:17
+disassociated myself from a lot of
+41:30
+my peripheral contacts.
+41:31
+My main interests at this point, are for the foreseeable future, to
+41:36
+continue work at the Andrews, and for that reason, most of my current
+41:41
+and future contacts are going to be people working out there, although I
+41:48
+have certainly worked with many other people on different projects and have
+41:52
+had students working different places.
+41:58
+What is it at this point about the Andrews that kind of keeps you involved,
+42:00
+even though you are officially retired?
+42:04
+Well, I think it is
+42:09
+a great tool for education.
+42:12
+I really enjoy working with undergrads.
+42:16
+I just think that it is an incredible
+42:20
+teaching tool.
+42:23
+Also, I enjoy working with practicing foresters, so when we have extension
+42:32
+stuff or workshop things, I think that’s incredibly important as well, and it’s
+42:39
+just a different kind of educational role.
+42:42
+And when we get that teaching lab up, that’s going to be outstanding.
+42:47
+I think it is important because of the integrated research going on out there.
+42:55
+I think that there are a lot of interesting people,
+43:00
+a lot of dynamics involved.
+43:07
+Where I would like to go professionally,
+43:11
+would best be pursued through the Andrews because of the people involved,
+43:19
+primarily, and because it is a great resource.
+43:21
+It is an area I know very well now, and we have a very strong data base that
+43:30
+we are building on, and it’s the fact that we are building on a database
+43:32
+that will be available a decade, fifty, or maybe one hundred years from now.
+43:36
+People will go back to these spots and they will be able to make measurements
+43:39
+after the climate has warmed up
+43:43
+[much laughter], and the trees have been replaced by palm
+43:45
+trees out here in the quad,
+43:52
+and then grow up and study the soils out there and see what
+43:54
+it was like 100 years ago.
+43:57
+And go to the exact spot where we have very accurate
+44:02
+sightings in terms of where we are using satellites and such.
+44:07
+So anyhow, it’s
+44:10
+building a scientific legacy.
+44:12
+I think it is very
+44:15
+important.
+44:15
+I think another issue that certainly keeps me involved, and I have been in it
+44:21
+long enough that I can make a difference.
+44:25
+I know how it works.
+44:26
+I know the people.
+44:28
+It’s a mix in which I know the territory and I know the people, and so,
+44:38
+a lot of time that you spend spinning your wheels, generally, trying to get
+44:43
+new places to study and good people to collaborate with, is already taken
+44:47
+care of, its already there in place.
+44:51
+It’s just a matter of maintaining that.
+44:51
+So, it is very, very attractive from that aspect.
+44:54
+What I
+44:57
+would like to do, is continue to develop the database that will be used to produce
+45:04
+models, predictive models of climate change and disturbance, and be able
+45:12
+to scale these things out, eventually up to a regional level, but certainly
+45:16
+over a large watershed level, to make predictions as to what will happen
+45:25
+with soil processes, what is going on below ground; how below ground functions,
+45:30
+how the soils in the below-ground processes are going to be altered if
+45:34
+you warm up the temperature, you cool it down, or have a fire, or do whatever we
+45:39
+do, have large patches or small patches.
+45:43
+I’m interested in edge effects.
+45:45
+We have studies on edge effects, so the scale of things becomes very important.
+45:54
+These are all things that can be very nicely done on the Andrews, most of them.
+45:59
+Things like fire might go off-hand.
+46:01
+But still, you are working with the same cast of characters, you’re still
+46:04
+pretty much in the same ranger district,
+46:08
+you know how to interact with these folks, and if you need
+46:10
+something, you know where to get the information and how to get help.
+46:17
+That is going to keep my plate full as long as I want to work.
+46:23
+Where you’re sitting
+46:26
+at the top scale, you’re not tied to the Andrews?
+46:28
+It is a large enough chunk of land of wide enough
+46:35
+climatic
+46:38
+gradient, that it is really nicely representative, certainly
+46:42
+of the Central Cascades.
+46:44
+So, it is a nice representation of a fairly important block of forest,
+46:51
+certainly across Oregon, and probably
+46:56
+in what is going on up into Washington as well.
+47:00
+Perhaps up into B.C.
+47:04
+That is representative of a big chunk of real estate.
+47:09
+If
+47:12
+you look at a continuum in terms of the drainage, we’ve got the headwaters of a
+47:18
+chunk of the McKenzie drainage, and one of the things I am interested in is fine
+47:26
+organic material in stream sediments.
+47:28
+That is another area that I want to become involved in.
+47:30
+We can do that nicely on the Andrews because we have a large
+47:34
+enough spot that we’ve got first-
+47:39
+to fifth-order streams there to study, and it is part of a much
+47:45
+larger watershed that a fair amount of information is known about.
+47:49
+So,
+47:52
+it is useful from that aspect.
+47:54
+It is also useful in another way.
+47:56
+I have used regional studies where I’ll have sites on the Andrews, and
+48:01
+know the history of those sites, and we can compare what is going on there,
+48:06
+using exactly the same approach in other areas with the same kind of
+48:10
+measurements, same everything else.
+48:14
+We can go look and compare what is going on elsewhere in the
+48:19
+study with a known quantity.
+48:21
+So,
+48:24
+it can act like a reference site for larger studies.
+48:34
+Sounds like the work that you are doing, the way it seems to be proceeding
+48:38
+is, there can be people coming in from elsewhere, but because of what’s
+48:41
+happening on the Andrews, they can apply it, perhaps, more broadly
+48:44
+in British Columbia or Washington?
+48:51
+I think that is where we are heading in the future.
+48:53
+There is some of that going on.
+48:56
+There are people from all over the United States that work at the Andrews,
+49:00
+and there are actually a few studies, like the LIDET studies [Long-term
+49:04
+Inter-site Litter Decomposition Experiment Team study] that Mark Harmon does.
+49:06
+I don’t know if you’ve talked with Mark?
+49:09
+But that is a good example, as he looked at decomposition rates
+49:13
+all over the United States.
+49:13
+In that case, the
+49:18
+Andrews is an important part of that.
+49:22
+There is another study that is starting up now that is actually being conducted
+49:26
+by folks here at OSU, that is designed after a similar study that we have done
+49:33
+on hardwood forests from other places.
+49:41
+Similarly, Stan Gregory has got things going on that are playing
+49:47
+off of and coordinating with people from Coweeta and other LTER sites.
+49:56
+So, there is definitely interest, a push on doing inter-site work within the LTER
+50:09
+network.
+50:10
+There is also some interest internationally with the Chinese,
+50:13
+the Russians, and some others.
+50:15
+But I have not been directly involved with any of those projects.
+50:19
+I have done some work here in Alaska and in Georgia, looking at
+50:25
+mycorrhizal mats, comparing those.
+50:27
+But, that is the only kind of comparative work other than my own work, with this
+50:32
+regional study stuff, that I have done.
+50:35
+But, that is clearly where the Andrews is headed, where the LTER group is headed.
+50:42
+And if Congress does come in with some more funding, they did come in with a
+50:51
+request, almost doubling the funding to some of the sites, and we weren’t
+50:58
+chosen, unfortunately, but that was where the thrust of that money was to go.
+51:03
+If, in the future, we get additional funding, that is where it is
+51:09
+going to go, to more regionalize what we are doing on the Andrews.
+51:15
+That was the whole purpose of that [new proposal] , I forgot what they called it.
+51:25
+It was an amendment.
+51:25
+Anyhow, it was essentially to
+51:33
+use these funds to broaden the spatial scope of what is going on at the Andrews.
+51:39
+Now, at the current funding level, I don’t see a lot of that happening,
+51:42
+because we are pretty much in a maintenance mode right now.
+51:46
+That half-a-million [dollars] a year sounds like a lot of money, but
+51:48
+it certainly doesn’t go very far.
+51:52
+So, we have pretty much had to hunker down and maintain what
+51:56
+we have got going on that scale.
+52:00
+Does that
+52:05
+answer
+52:15
+your question?
+52:15
+That was pretty good.
+52:16
+I was talking to other people.
+52:20
+Many of them come to the Andrews from
+52:25
+various backgrounds.
+52:27
+Your background is pretty much focused in your past professional career.
+52:31
+I mean, you got your Ph.D., and did your research in the Arctic and Antarctic.
+52:39
+Well, virtually all my work in oceanography was polar work.
+52:43
+I didn’t work here at all.
+52:45
+I did some work in the estuary.
+52:47
+Then, in terms of your forest work, it’s all based here.
+52:50
+Yeah,
+52:53
+well, with the exception of the work we did in Alaska, and then Coweeta,
+52:58
+and Northern California and Mexico.
+53:04
+Other than that it has all been here.
+53:06
+Mexico was the work with Mark Harmon;
+53:15
+termite farts,
+53:20
+methane from termites.
+53:25
+What is the impact of methane from termites?
+53:27
+A lot.
+53:29
+They produce a lot of methane.
+53:32
+Actually, on a global basis, it definitely is a significant portion of methane,
+53:38
+which is a very important greenhouse gas.
+53:40
+What
+53:43
+we discovered was, even though these things produced a lot of methane,
+53:47
+none of it gets out of the logs.
+53:49
+It gets oxidized before it gets out of the logs.
+53:52
+A lot of assumptions about, we’ve got these termites, they’re in logs, they’re
+53:59
+producing a lot of methane, therefore, you’ve got so much methane being produced,
+54:03
+you got so many logs, you got so many termites per log, and you multiply all
+54:07
+that and you get some kind of gas factory
+54:14
+for methane.
+54:14
+Well, it may not work that way
+54:18
+[laughs], they may be producing some methane, but it may not ever get
+54:22
+out in the air, and that’s one of the things that we were checking.
+54:27
+We checked at the Andrews, and we checked in the tropics in Mexico,
+54:32
+and it gave us the same answer.
+54:34
+Which is nothing is coming out of the log.
+54:38
+These termites are farting their brains out, but nothing is coming out of the log!
+54:42
+[Laughs]
+54:50
+So, you’re concerned about global warming, obviously.
+54:54
+It’s one thing that has been driving some of your research?
+54:56
+Oh, yeah, yeah, yeah.
+54:58
+A lot of the work I’ve been doing was initially respiration,
+55:03
+forest floor respiration, CO2 coming out of the forest floor.
+55:07
+But in order to really understand what is going on there, you
+55:10
+can’t just look at that.
+55:11
+You have to look at everything else that is going on.
+55:13
+So, we started looking at dissolved organic carbons in
+55:16
+soils, which not many people do.
+55:19
+Because that is the primary currency through which the carbon has to
+55:23
+flow to get to the microorganisms to be blown off in the first place.
+55:27
+It has to be in a liquid state.
+55:30
+So, we looked at that.
+55:31
+And we’ve looked at interactions between soil and moisture
+55:35
+and temperature, obviously.
+55:36
+But then, you need to start looking at other carbon pools, so we have looked
+55:42
+at photo-carbons and labile carbon, and
+55:48
+you can’t look at this just for carbon-cycling, because nitrogen
+55:50
+is involved in this and is necessary, for full decomposition.
+55:54
+So,
+55:57
+we looked at de-nitrification and nitrogen [fixation] , and a bunch of other factors.
+56:01
+What started out as a project primarily looking at respiration, kind of snowballed
+56:06
+into all these kinds of things as well.
+56:10
+That’s kind of
+56:13
+how we started from this little thing and that it kind of grew up.
+56:16
+You talked about your interest in involving undergraduates and your teaching
+56:16
+role, and the workshops you put on.
+56:16
+Are there some
+56:29
+particular people you worked with closely in kind of a mentor relationship
+56:32
+where you brought them along, and they became involved in the Andrews, or
+56:37
+even people who’ve gone on elsewhere?
+56:41
+Well, I think so.
+56:43
+Most of the undergrads
+56:48
+I have had mentored have done
+56:54
+great.
+56:55
+In fact, I have had three of them as my own graduate students, and they
+57:01
+have had varying degrees of success.
+57:08
+I can’t quite point to any one person, but I think
+57:16
+what I’ve been able to do is
+57:21
+really give students a pretty realistic taste of what doing science is about.
+57:29
+Actually, going out and making measurements and all the things that are
+57:34
+involved, and I’ve had a number of just crackerjack students I felt had real
+57:45
+potential as scientists that discovered early on they don’t like the science.
+57:51
+That part of it wasn’t appealing to them?
+57:54
+Well, it’s just the reality.
+57:56
+It’s so much different than most of their concepts of what being a scientist
+58:01
+is coming in out of high school, mostly the public, they just don’t have a clue.
+58:07
+They just don’t have a clue!
+58:10
+And it sounds like a neat thing and they are interested in a science-type
+58:14
+of deal, but to actually do it is much different than most people realize.
+58:22
+And I count amongst my successes, if you can believe this or not, incredibly
+58:29
+bright students that have learned that this is not what they want to do, and
+58:33
+they have gone on to do other things.
+58:35
+It’s saving them, I hope, from a lot of dead ends and heartache along
+58:44
+the way.
+58:44
+[Laughs] And there are those that are good, really flourish, they love it,
+58:47
+and they really dig it and go for it.
+58:53
+That’s an interesting angle.
+58:54
+How would you characterize the
+58:58
+public view of what scientists do?
+59:08
+I think they
+59:12
+figure that it is all pretty cut-and-dried.
+59:13
+That
+59:23
+the problems are fairly simple and easily defined, that
+59:29
+you are able to control all of these things, do some measurements and come up
+59:35
+with some very nice, unequivocal findings.
+59:37
+And that is not
+59:49
+the way it works.
+59:51
+It’s an art form, and there are lots of really squishy things involved, and
+59:57
+there is a lot of flying by the seat of your pants, and there is a lot of
+1:00:01
+just real grunt work, a lot of real repetitive, dull, dumb stuff to do,
+1:00:13
+the same stuff over and over again.
+1:00:18
+You make mistakes and other people make mistakes that cost you more and more time.
+1:00:22
+It’s a real difficult, hard, frustrating process.
+1:00:22
+There are
+1:00:30
+no two ways about it.
+1:00:31
+It’s a lot of hard work, and it’s not cut and dried.
+1:00:36
+It’s
+1:00:39
+experience, learning from your mistakes, and looking at maybe ten
+1:00:42
+different ways you could go, and picking out the best way to go.
+1:00:47
+If you are an inexperienced person, you will go anyone of those ten ways,
+1:00:50
+and only one or two of them is going to get you where you want to be.
+1:00:55
+So, it’s a lot of stress, an incredible amount of stress, the logistics and
+1:01:03
+getting money and the politicking.
+1:01:07
+All of the stuff that is involved, there is just no way that
+1:01:14
+you get any of that any other way than just doing it.
+1:01:19
+It is not something you read about in novels, it’s not something you
+1:01:22
+see in movies or miniseries, or anything else, there is no way!
+1:01:29
+Have you had experience with certain identifying people’s
+1:01:34
+personality qualities, or what your ideal student might be?
+1:01:48
+I think I’ve got a pretty good idea.
+1:01:52
+Maybe I’m over-reaching myself a little bit here.
+1:01:55
+Number one: real bright, the brightest students I can find.
+1:01:59
+If I am going to take on a student, I want a student that will challenge
+1:02:06
+me as much as I can challenge them.
+1:02:10
+I want someone with a real high, native level of
+1:02:18
+inquisitiveness, of wanting to know, of searching, wanting to
+1:02:27
+learn, who is motivated, focused.
+1:02:31
+But yet, able to get along with people, at least in this field.
+1:02:35
+Probably not quite as important as other fields where you can go off in your
+1:02:37
+own lab, and kind of work by yourself.
+1:02:37
+But in
+1:02:41
+this field, you’ve got to work with people.
+1:02:43
+You have to be very effective at working with people, and interacting
+1:02:49
+in a positive way, give-and-take.
+1:02:51
+What field are you talking about here?
+1:02:52
+Microbiology?
+1:02:56
+I’m talking about ecology in general.
+1:03:00
+So, you can’t have someone that is a total brain,
+1:03:07
+and cannot function, cannot work with other people, get other people to help
+1:03:15
+you, or help other people as well.
+1:03:21
+I’ve had a lot of brainy kids that just don’t have that drive, they don’t have the
+1:03:27
+intellectual drive, wanting to know, or wondering why things are this way or that.
+1:03:37
+I look for, quite frankly, the best scientists in my
+1:03:41
+view, have an artistic bent.
+1:03:47
+They are musicians.
+1:03:48
+A lot of scientists are musicians, people that are poets and painters and such.
+1:03:48
+Because there is a lot of
+1:04:00
+right and left lobe involvement.
+1:04:05
+It’s not likely characterized by more an engineering bent where you’ve got very
+1:04:12
+much a lineal thinker, you’ve got so many steps, and you are going to get there.
+1:04:17
+Particularly in ecology, it’s parallel processing.
+1:04:20
+You’ve got a lot of stuff going on, you’ve got to be able to integrate
+1:04:23
+across a whole range of disciplines that
+1:04:31
+are going on.
+1:04:31
+You can’t go from x to y, you have to go on a lot of different
+1:04:39
+parallel tracks and pull a bunch of stuff together to get there.
+1:04:43
+You can’t get there in one straight line.
+1:04:45
+Does that make any sense?
+1:04:47
+So, when you’re picking those one or two possible ways of going that are
+1:04:51
+actually going to work, it takes some artistic imagination, is what you’re
+1:04:55
+saying, to figure out where that leads?
+1:04:56
+To figure out where that is, and then once you’ve started, then to be able
+1:05:00
+to pull in other stuff from different disciplines, to make that make sense.
+1:05:09
+So, it’s getting the right path to begin with, but once you start
+1:05:13
+down that path, you can’t just go down that path with blinders.
+1:05:16
+You have to go down that path by the seat-of-your-pants and pull in all
+1:05:20
+the information you can that seems to apply, to make any sense out of it.
+1:05:26
+From what you are saying, it sounds like your perception is this is something
+1:05:30
+that maybe, people have to bring to the discipline, it’s not something that
+1:05:36
+necessarily can be taught, but someone has that artistic bent before you get started?
+1:05:42
+Right, you learn, but if you are a straight, linear thinker, you
+1:05:51
+are not going to do very well.
+1:05:52
+[Laughs]
+1:05:58
+Something else here for a second that came up while you were talking,
+1:06:02
+especially when you were talking about things that kind of attract
+1:06:05
+you to working with the Andrews.
+1:06:08
+A lot of what you mentioned has to do with applying
+1:06:15
+the ideas in some kind of pragmatic form, a management
+1:06:25
+program.
+1:06:25
+I was wondering if you could talk a little about how you would
+1:06:29
+characterize the distinction between basic and applied research.
+1:06:34
+[Laughs]
+1:06:34
+I’m mostly interested in how you respond to that.
+1:06:38
+Well, it’s all congenial,
+1:06:46
+and wherever you
+1:06:50
+can put your finger at some point on that continuum, and
+1:06:56
+your guess is as good as anyone else’s guess,
+1:07:00
+in my view.
+1:07:00
+And you know what the continuum is.
+1:07:08
+I don’t see much of a distinction.
+1:07:13
+On the extreme, obviously, is that the strictly-applied research, you already
+1:07:18
+know where you want to go, in my view, as you are looking for a practical answer to
+1:07:26
+a problem.
+1:07:28
+There is a management problem, or
+1:07:31
+engineering problem, or something.
+1:07:39
+In basic research, you are also trying to solve a problem, but
+1:07:43
+it may not be related to any
+1:07:47
+application.
+1:07:49
+You may just want to know why bees are attracted to a certain flower.
+1:08:02
+It could be applied, because you could use that in some way to
+1:08:05
+maybe increase honey production
+1:08:13
+or something like that.
+1:08:14
+[Laughs]
+1:08:15
+That is a good response.
+1:08:17
+I’ve had a lot of different responses to that question.
+1:08:20
+Some of the people can make a distinction, the importance of
+1:08:24
+applied-versus-basic research, and how that applies at the Andrews.
+1:08:28
+In your perception, what is going on at the Andrews, would you say
+1:08:30
+is applied research or basic?
+1:08:30
+It could be
+1:08:37
+the same
+1:08:40
+research problem, but it could have basic components.
+1:08:48
+That is, no real applicability
+1:08:53
+in terms of anything that we know of at the present time, or it could be very
+1:08:58
+practical from a management point-of-view.
+1:09:03
+Same activity, same set of questions.
+1:09:13
+I don’t know the breadth of everything going on in the Andrews.
+1:09:17
+I think there is certainly a lot of this applied research by design.
+1:09:23
+This is the whole idea we began with.
+1:09:23
+But there is a lot of your basic stuff going on as well.
+1:09:24
+Do
+1:09:41
+you have any examples?
+1:09:45
+Well, for example, the work we are doing with stream sediments.
+1:09:53
+We are interested in making a link between
+1:10:00
+management practices and stream productivity.
+1:10:07
+That is a very applied type of thing, and applied type of question.
+1:10:15
+And often, quite frankly, we have to couch things in those terms in
+1:10:26
+order to get the funding, pure and simple.
+1:10:26
+But having said that, then,
+1:10:29
+the bottom line is, we found some differences,
+1:10:35
+but we also found some very interesting relationships that were
+1:10:40
+totally unexpected and that are going
+1:10:46
+to be directives for future research.
+1:10:51
+One of those that we found, is that there is increased, very much
+1:10:55
+higher nitrogen fixation in the sediments in old-growth stretches
+1:11:00
+than in non-old-growth stretches.
+1:11:07
+This could have implications, but it goes back to more basic questions about what
+1:11:14
+is really going on in those streams, and how they function in a very basic way.
+1:11:22
+Another example we have found in that study, that evidently,
+1:11:27
+there are shifts in the sources of carbon coming into that stream.
+1:11:32
+Not too surprisingly.
+1:11:34
+But there have been other studies, and they had not seen this
+1:11:40
+kind of thing.
+1:11:40
+We were able to
+1:11:49
+document
+1:11:52
+flushes of, and shifts in the characteristics of the chemical,
+1:11:56
+microbiological characteristics of these sediments, the organic fraction of
+1:12:07
+these sediments, which was only kind of inferred before,
+1:12:09
+and we actually showed it.
+1:12:12
+We showed that these pulses were very, very short lived,
+1:12:17
+maybe within a matter of days.
+1:12:21
+These had some very important implications into how, basically,
+1:12:26
+streams work in terms of sources of carbon and their resins in the streams.
+1:12:33
+Likewise, we saw a pulse of increased activity in the spring, as the algae
+1:12:41
+in the stream started cranking up, and this was not epizootic fungi,
+1:12:47
+but was a longer-term import.
+1:12:52
+So, these things had been kind of suspected, but she showed this
+1:12:56
+very, very nicely in her study.
+1:12:58
+And we also saw that there were long-term differences in what was
+1:13:05
+going on in these various trees, and we found elevational differences, which
+1:13:09
+were also very interesting because this suggests that climate-driven
+1:13:17
+mechanisms that were affecting the quality of carbon in the stream.
+1:13:21
+These were all very much basic questions that were either addressed,
+1:13:27
+or things that were questions of a very basic nature that were generated.
+1:13:35
+We started out trying to answer practical questions, primarily because that is how
+1:13:39
+we get funding from the Forest Service.
+1:13:41
+They were only interested because we were talking about very applied things.
+1:13:48
+But, what all of these have when you generate some relation, when you are
+1:13:55
+just out there measuring something to answer one specific question, and then
+1:14:01
+you go and look at something else.
+1:14:03
+But, if you try to generalize it enough so that there are enough cases to generalize,
+1:14:09
+you always pick up very important basic
+1:14:16
+information.
+1:14:20
+At least, that’s been my experience.
+1:14:21
+Here is another example, a study that we did.
+1:14:24
+Just a regional study.
+1:14:26
+The basic question from the BLM was this: If we thin full-stands, are the
+1:14:32
+soil processes going to be more like old growth or more like fire stands?
+1:14:38
+Very much another management question.
+1:14:44
+What we found was, that a lot of the variables we looked at did
+1:14:47
+in fact move towards old growth that we were able to measure.
+1:14:51
+There was a range, there was a difference.
+1:14:56
+When you thinned them, and they were allowed to regenerate for enough time,
+1:15:01
+you could get more vegetation coming in.
+1:15:04
+More variables similar to the structure you get with old growth is the whole idea,
+1:15:12
+that these variables start moving towards old-growth characteristics.
+1:15:17
+So, on that level, you have answered a question.
+1:15:21
+On a much more basic level, we ask another question, that is, “Do these
+1:15:27
+behave differently, biogeochemically?
+1:15:33
+Are
+1:15:35
+the mechanisms driving the biogeochemistry the same in old-growth stands as they
+1:15:40
+are in full stands, and how does the thin, full-stand look in that?” So, we
+1:15:47
+did a principle components analysis of this grove, and we found that the full
+1:15:55
+stand and the thinned full stand behaved exactly the way we thought it would.
+1:16:00
+In other words, the variables that we clustered out together,
+1:16:02
+did cluster out together.
+1:16:05
+Old growth was behaving much more different, much
+1:16:13
+different.
+1:16:13
+This wasn’t just a few cases.
+1:16:15
+These were sites from southern Oregon to the Cascades to the Coast Range.
+1:16:24
+You lumped all of those numbers in there, you come up with the same answer
+1:16:27
+now about what the hell’s going on.
+1:16:29
+That is very interesting on a very basic level.
+1:16:35
+Again, we were able to answer the practical question, “No, they are not
+1:16:39
+the same! They are not functioning the same.” So, we also found out some very
+1:16:44
+interesting basic things and answered some very basic questions in terms of
+1:16:50
+how do the geochemical processes work.
+1:16:54
+What is influencing what under there?
+1:16:57
+And there are a different set of rules driving the old-growth forest!
+1:17:04
+So, you really raised some new questions?
+1:17:06
+Oh yes, absolutely.
+1:17:08
+But you also come up with very interesting, basic information about
+1:17:15
+forests that we didn’t know before.
+1:17:19
+And that is really not of much interest in application to the forest
+1:17:23
+manager, other than, well you didn’t quite get it that way you think here.
+1:17:30
+So, we have to ask some very important questions in terms
+1:17:33
+of how old-growth forests do
+1:17:37
+function.
+1:17:37
+Why are they functioning?
+1:17:38
+Apparently, they function differently than these managed stands.
+1:17:45
+So, you design studies that are answering applied questions partly
+1:17:55
+to secure funding, but you design your studies in ways that allow
+1:17:58
+you to pursue basic science while you are answering their questions?
+1:18:03
+Yeah, and it works the other way around as well.
+1:18:06
+Well, let’s see, what would be a good
+1:18:13
+example?
+1:18:21
+There have been a number of studies that I have conducted that are strictly
+1:18:25
+just to find out what influences soil respiration at different scales, with
+1:18:32
+no real bent on management, per se.
+1:18:38
+Just to understand that.
+1:18:40
+We have
+1:18:44
+come up with things that are potentially important from
+1:18:46
+those studies for management.
+1:18:48
+So, we can go either way.
+1:18:53
+I guess it just depends on what kind of question you start out with.
+1:18:59
+[Laughs]
+1:18:59
+Now this is
+1:19:03
+a question that I’ve been trying to get people to address in some way.
+1:19:08
+That is, as a scientist,
+1:19:14
+you know how the system works pretty well and you can formulate these
+1:19:17
+questions in a way that someone without your experience couldn’t do.
+1:19:21
+Who do you consider your most important audience or audiences,
+1:19:26
+and who are you working for?
+1:19:30
+What group of people are you trying to inform of the values of
+1:19:39
+science?
+1:19:49
+Value of the science?
+1:19:51
+Who should you be writing for?
+1:19:53
+You need to be writing to different audiences.
+1:19:54
+If you are just pitching it to one audience, you are
+1:19:59
+probably missing the boat.
+1:20:01
+I think it is important to pitch it to students so they
+1:20:05
+can use it as a learning tool.
+1:20:08
+You need to pitch it towards managers and people that are
+1:20:13
+actually doing work out there.
+1:20:15
+Pitch it in a way that they can understand the implications of your work.
+1:20:19
+And you need to pitch it to your colleagues on a level
+1:20:24
+that multi-disciplinary
+1:20:29
+folks can understand it.
+1:20:31
+I haven’t published on that scale, but I think that it is important to do so.
+1:20:36
+That would be BioScience, that would be some of the more general, Scientific
+1:20:41
+American, that kind of thing, where you are putting out concepts to a larger,
+1:20:53
+professionally-informed audience and to the specialist, because they’re
+1:21:00
+very much interested in, specifically, the type of work you are doing.
+1:21:06
+I must say that,
+1:21:13
+professionally, I run a much wider gamut than most people
+1:21:19
+even
+1:21:22
+dream of.
+1:21:22
+I’ve published in microbiology, working with
+1:21:30
+plasmas, an incredible range of things.
+1:21:33
+To me, that’s good, because I have been able to reach lots of different audiences.
+1:21:45
+But, I think that it is a mistake in general for science
+1:21:50
+to only target, their peers.
+1:21:57
+A few hundred people in the universe that give a shit what they are doing.
+1:22:03
+[Laughs] Don’t need to quote me on that.
+1:22:08
+Well, you’d be surprised how many people
+1:22:17
+say that.
+1:22:19
+As you pointed out, you have unique
+1:22:25
+experiences in various areas and also demonstrated willingness to jump
+1:22:26
+disciplinary boundaries, though you don’t have any formal training in
+1:22:26
+writing to publish in those areas.
+1:22:36
+Have you ever had any problem with that in terms of other professionals,
+1:22:41
+or have you found people being pretty congenial in receiving your interests?
+1:22:46
+Oh yeah, no problem.
+1:22:53
+As a matter-of-fact, this is kind of just a fluke of this context.
+1:23:01
+Within about two or three years of first getting into studying mycorrhizal
+1:23:07
+mats, I knew nothing about fungi
+1:23:13
+at all, but within about three or four years, I was giving a keynote
+1:23:16
+address to an international conference on mycorrhizal fungi in England.
+1:23:21
+That
+1:23:26
+must of been
+1:23:29
+kind of intimidating!
+1:23:29
+It was, absolutely.
+1:23:30
+[Laughs] It just so happened that I met one of the top people in the
+1:23:34
+field here, we hit it off great, and I learned a lot from him.
+1:23:41
+He was interested in what I was doing, and he had so much interest in what I was
+1:23:46
+doing that he put me at the top of the bill of this symposium he was leading!
+1:23:51
+How did it come off?
+1:23:53
+Fine!
+1:23:53
+I was scared shitless, but it was fine!
+1:23:54
+[Laughs]
+1:23:54
+I am curious, though, your perceptions of why more people don’t do that,
+1:23:54
+cross disciplinary boundaries like that, form more roots like that.
+1:23:54
+Oh, it’s scary.
+1:23:54
+[Laughs] And, I don’t know.
+1:23:54
+People are not hostile or anything?
+1:23:54
+Oh no!
+1:23:54
+My perception is that usually people are happy to have some interdisciplinary
+1:23:54
+work, but nobody wants to do it.
+1:23:54
+It’s kind of an interesting paradox.
+1:23:54
+Well, very frankly, it’s curricular.
+1:23:54
+And quite frankly, part of it is because of economic necessity.
+1:23:55
+I’ve been on soft funds for 24 years.
+1:23:55
+That’s
+1:23:58
+scary, so you have to be very flexible.
+1:25:05
+A lot of that was driven in that way.
+1:25:07
+But, the system is not set up to promote you,
+1:25:15
+if you do it.
+1:25:17
+Typically, as you get up into the professorial ranks, they are looking
+1:25:23
+for international leaders in the field.
+1:25:25
+But if you jump around from field-to-field, you will never quite get
+1:25:31
+there.
+1:25:31
+That’s not so true starting out, but you’ve got a combination of where you’ve
+1:25:39
+got to put your energies, if you’ve got funding from different sources.
+1:25:42
+At one point, I had funding looking at organisms from the deep sub-surface,
+1:25:48
+and a project with DOE where we were looking at microorganisms in groundwater
+1:25:52
+in basalts 2000 feet below the surface, looking at how they were functioning,
+1:26:00
+real basic, physiological studies.
+1:26:04
+And there were even studies of the Andrews setting up streams.
+1:26:20
+Did you keep working on soft money all that time because it gives you
+1:26:25
+more freedom to do your work, or just difficulty in the marketplace?
+1:26:33
+Well, I just wanted to stay here.
+1:26:34
+Just locally?
+1:26:36
+Oh yeah.
+1:26:39
+Ever since we
+1:26:48
+got here.
+1:26:48
+It was a matter of personal choice.
+1:26:53
+It’s been great, because you are kind of like a mercenary scientist.
+1:27:00
+As long as they give you a place to work, and what not.
+1:27:04
+Logan [Norris] has been fantastic, he is a great department head [Forest
+1:27:10
+Science, OSU College of Forestry] , and he has given me a home and
+1:27:14
+we’ve got cash flow, we’ve got students coming and going, we got all these labs
+1:27:19
+set up, and lots of things happening.
+1:27:22
+So, it
+1:27:24
+worked out alright without too much anxiety for you?
+1:27:27
+It takes a lot of hustle to bring in the kind of bucks to keep the lab
+1:27:27
+going, about a quarter million a year.
+1:27:27
+So, you spend a lot of time just funding everything?
+1:27:27
+Oh
+1:27:39
+yeah.
+1:27:43
+70 percent of my time, easy.
+1:27:49
+70 percent?
+1:27:50
+70, seven-zero.
+1:27:52
+That is one of the reasons
+1:28:08
+I got the hell out, retired.
+1:28:11
+Now I, you know, piece of cake!
+1:28:15
+[Laughter]
+1:28:16
+One last question.
+1:28:19
+I was wondering if you could thumb through your assessment of how you might
+1:28:25
+characterize the efforts of the Andrews group, as a group, to convey information.
+1:28:33
+What are the various, more successful ways they try to accomplish that, and
+1:28:39
+how would you gauge their success?
+1:28:40
+I don’t think that I want to answer this
+1:28:44
+one.
+1:28:44
+Well,
+1:28:47
+I think, overall, the group does very well.
+1:28:50
+If you look at all the workshops and all the things that we do at the Andrews,
+1:29:00
+the group has done an excellent job in terms of conveying to a whole broad
+1:29:07
+spectrum of people what is going on, what they are doing, what the implications are.
+1:29:16
+And that is, again, tours, workshops, symposiums, you
+1:29:26
+name it.
+1:29:26
+I think that,
+1:29:29
+and most people who have been active have been very, very good about publishing
+1:29:35
+in the professional literature.
+1:29:40
+In terms of synthesis, that is where you always have problems.
+1:29:46
+You’ve heard before about the famous book [the never completed Andrews synthesis
+1:29:50
+volume] that been worked on for 20 years?
+1:29:54
+It’s just so hard to pull that off, because everyone has got so
+1:30:00
+much on their plate, and these things are just so time-consuming.
+1:30:06
+So, I guess, but that’s nothing new.
+1:30:08
+I mean, it has been documented in almost every review we have
+1:30:13
+had, and it’s not unique here,
+1:30:17
+and it would be nice to do more of
+1:30:27
+a formal synthesis.
+1:30:28
+Who would a formal paper be targeted at as opposed to special
+1:30:32
+publications and journals and such?
+1:30:34
+Well, it would be a more general audience, it would be in the form of a book.
+1:30:43
+And what we talked about most recently, is to
+1:30:49
+use the main theme of the LTER for or as kind of the nucleus for this book,
+1:30:56
+a series of chapters or whatever.
+1:30:58
+But it would be fairly-targeted, mostly targeted to forestry professionals,
+1:31:05
+I would think, so the forest sciences [audience] . In terms of kind of a
+1:31:10
+general ecology type of thing or in terms of kind of a general science,
+1:31:17
+general interest type of thing.
+1:31:19
+No,
+1:31:33
+it would
+1:31:37
+be more specific than that.
+1:31:37
+Okay, I should let you get back to work.
