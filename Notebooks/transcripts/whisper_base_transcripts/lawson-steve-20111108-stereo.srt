@@ -1,0 +1,2240 @@
+1
+00:00:00,000 --> 00:00:01,000
+Okay.
+
+2
+00:00:01,000 --> 00:00:09,279
+So as in the past, you've introduced yourself and get a big date.
+
+3
+00:00:09,279 --> 00:00:10,279
+My name is Steve Lawson.
+
+4
+00:00:10,279 --> 00:00:17,519
+It's the 8th of November, 2011, we're in a room in the Valley Library.
+
+5
+00:00:17,519 --> 00:00:23,559
+So in our past interviews, we talked mainly about your relationship with one of my point
+
+6
+00:00:23,559 --> 00:00:28,000
+when I want to start to email a beginning with this interview and over the next seven
+
+7
+00:00:28,000 --> 00:00:32,000
+years together, we'll be talking about the next day of the Linus Point.
+
+8
+00:00:32,000 --> 00:00:33,000
+Okay.
+
+9
+00:00:33,000 --> 00:00:38,079
+And so I'm wondering if you could recall anything about your initial interview of the L.D.I.S.
+
+10
+00:00:38,079 --> 00:00:40,079
+and back in 1978.
+
+11
+00:00:40,079 --> 00:00:41,079
+Right.
+
+12
+00:00:41,079 --> 00:00:50,600
+After I graduated from college, I spent a fairly parapetatic number of years traveling around
+
+13
+00:00:50,600 --> 00:00:54,320
+the country, visiting relatives and friends around the country, and finally came back to
+
+14
+00:00:54,320 --> 00:00:57,960
+Palo Alto, California because I really truly loved the Bay Area.
+
+15
+00:00:57,960 --> 00:01:01,480
+At that time, it was very exciting, terrific environment.
+
+16
+00:01:01,480 --> 00:01:07,200
+I loved everything about California and in particular, the Bay Area, culturally or artistically,
+
+17
+00:01:07,200 --> 00:01:10,280
+intellectually, a very stimulating environment.
+
+18
+00:01:10,280 --> 00:01:15,560
+So I wanted to try to remain in the Bay Area possible, although I still at that point
+
+19
+00:01:15,560 --> 00:01:17,519
+was not very career oriented.
+
+20
+00:01:17,920 --> 00:01:22,319
+Didn't really have a very clear idea of what I wanted to do in the future.
+
+21
+00:01:22,319 --> 00:01:30,759
+At some point, and I'm not exactly sure how, I became aware of a listing for a position
+
+22
+00:01:30,759 --> 00:01:37,079
+at the Linus Pung Institute of Science and Medicine, which at that time was located at 2700
+
+23
+00:01:37,079 --> 00:01:45,079
+Sandhill Road in Menlo Park, just opposite Stanford Linear Accelerator, in an office building,
+
+24
+00:01:45,719 --> 00:01:49,840
+up the street from Addison Wellesley and a number of other publishing houses that were
+
+25
+00:01:49,840 --> 00:01:52,799
+located along that road at the time.
+
+26
+00:01:52,799 --> 00:01:59,280
+Property that was owned by Tom Ford, who I believe was perhaps on the Board of Trustees of Stanford
+
+27
+00:01:59,280 --> 00:02:04,200
+University, or a large donor in Stanford University at the time.
+
+28
+00:02:04,200 --> 00:02:11,159
+So it was in 1977 that I interviewed for a position at the institute, and the initial
+
+29
+00:02:11,159 --> 00:02:13,439
+position was part time.
+
+30
+00:02:13,439 --> 00:02:20,079
+And then in February of 1978, it turned into a full-time, salary position.
+
+31
+00:02:20,079 --> 00:02:25,000
+And initially I interviewed with Karin Gorham, I believe, who was the Secretary of the
+
+32
+00:02:25,000 --> 00:02:31,919
+Institute and head of HR department for whatever that was worth at the time, a fairly small
+
+33
+00:02:31,919 --> 00:02:34,919
+organization still.
+
+34
+00:02:34,919 --> 00:02:40,919
+And I guess she was sufficiently impressed to ask me to come back to meet with Art Robinson,
+
+35
+00:02:40,919 --> 00:02:44,039
+who was the President and Director of the Institute.
+
+36
+00:02:44,039 --> 00:02:53,039
+And Art had recently, in 1976, 1977, set up a program of direct male solicitation in
+
+37
+00:02:53,039 --> 00:02:57,919
+order to bolster the financial base of the institute, because grants were very hard to
+
+38
+00:02:57,919 --> 00:02:59,439
+come by.
+
+39
+00:02:59,439 --> 00:03:04,000
+And in particular, the work on vitamin C that Linus Pauling felt so strongly about was very
+
+40
+00:03:04,000 --> 00:03:06,000
+hard to fund.
+
+41
+00:03:06,000 --> 00:03:08,439
+So they turned to the public for funding source.
+
+42
+00:03:08,439 --> 00:03:19,159
+And that resulted in buying and trading mailing lists primarily to magazines that whose subscribers
+
+43
+00:03:19,159 --> 00:03:24,039
+might be interested in the mission and the work of the Linus Pauling Institute.
+
+44
+00:03:24,039 --> 00:03:28,520
+Magazines in particular like prevention, which in those days had a much less pharmaceutical
+
+45
+00:03:28,520 --> 00:03:31,280
+orientation than it has today.
+
+46
+00:03:31,280 --> 00:03:39,280
+It was kind of a companion publication to Rodale's organic farming and gardening magazine.
+
+47
+00:03:39,280 --> 00:03:45,199
+So I think Rodale Press had kind of an orthomolecular perspective on not just farming and gardening,
+
+48
+00:03:45,199 --> 00:03:46,800
+but also on health.
+
+49
+00:03:46,800 --> 00:03:51,159
+In those days, they emphasized nutrition and vitamin supplements and things like that.
+
+50
+00:03:51,159 --> 00:03:57,800
+So that seemed like a very likely candidate for raising money to support research efforts
+
+51
+00:03:57,800 --> 00:03:59,560
+at the Institute.
+
+52
+00:03:59,560 --> 00:04:02,719
+And that program was very successful.
+
+53
+00:04:02,719 --> 00:04:08,680
+So it resulted in a tremendous amount of male in the processing of donations.
+
+54
+00:04:08,680 --> 00:04:14,879
+So the job, the specific job that I interviewed for at that time, had to do with, there was
+
+55
+00:04:14,879 --> 00:04:21,500
+related to this direct male program, processing of donations, and also initially some fairly
+
+56
+00:04:21,500 --> 00:04:26,840
+rudimentary statistical analyses of the donations where they were coming from the magnitude of
+
+57
+00:04:26,839 --> 00:04:32,719
+donations, what mailing lists were succeeding, which were failing, and so forth.
+
+58
+00:04:32,719 --> 00:04:35,719
+So that was what I was doing initially.
+
+59
+00:04:35,719 --> 00:04:41,479
+What was your impression of the Institute when you first arrived at the Institute there?
+
+60
+00:04:41,479 --> 00:04:45,439
+Well I thought the Atmosphere at the Institute was quite collegial.
+
+61
+00:04:45,439 --> 00:04:51,000
+The Institute shared that building on Sandhill Road with Kemper Insurance.
+
+62
+00:04:51,000 --> 00:04:56,319
+So the Institute did not have access to all the rooms in the building, and it was clear
+
+63
+00:04:56,319 --> 00:05:01,639
+that what had been built and designed as an office building had been renovated to some
+
+64
+00:05:01,639 --> 00:05:04,600
+extent to accommodate the Institute's research.
+
+65
+00:05:04,600 --> 00:05:09,399
+So it wasn't really laid out optimally as a research facility, but nevertheless I think
+
+66
+00:05:09,399 --> 00:05:14,560
+they did a terrific job of shoe-horning the various research programs into the available
+
+67
+00:05:14,560 --> 00:05:15,560
+space.
+
+68
+00:05:15,560 --> 00:05:17,879
+How much space do you have in there?
+
+69
+00:05:17,879 --> 00:05:19,560
+Well I'd have to consult notes.
+
+70
+00:05:19,560 --> 00:05:21,680
+I can't remember how many square feet.
+
+71
+00:05:21,680 --> 00:05:28,439
+I know that the next facility on Page Mill Road, 440 Page Mill Road, was over 20,000 square
+
+72
+00:05:28,439 --> 00:05:34,920
+feet, so this facility was less than 20,000 square feet available to the Institute.
+
+73
+00:05:34,920 --> 00:05:40,339
+And there were programs in metabolite profiling or metabolic profiling underway as well as vitamin
+
+74
+00:05:40,339 --> 00:05:47,659
+scene cancer and some other sundry studies that did not require large laboratory facility.
+
+75
+00:05:47,659 --> 00:05:53,620
+There was quite a lot of chemical work on vitamin C done by Connie Chow at the time under
+
+76
+00:05:53,620 --> 00:05:59,979
+Pauling's direction, which didn't really require a lot of floor space in a laboratory.
+
+77
+00:05:59,979 --> 00:06:04,139
+And then there were also animal experiments underway which did require quite a lot of square
+
+78
+00:06:04,139 --> 00:06:06,859
+footage to carry out.
+
+79
+00:06:06,860 --> 00:06:11,540
+And then of course there was the volcano source field ionization mass spectrometer, which
+
+80
+00:06:11,540 --> 00:06:13,420
+was a lab unto itself.
+
+81
+00:06:13,420 --> 00:06:21,180
+And that was being developed by Bill Abert, who was a physicist, formerly an SRI, which
+
+82
+00:06:21,180 --> 00:06:27,780
+was near the US Geographical Survey, Geological Survey, Facility and Mental Park.
+
+83
+00:06:27,780 --> 00:06:32,740
+And also I think originally had some relationship with Stanford University, but then had become
+
+84
+00:06:32,740 --> 00:06:33,740
+independent.
+
+85
+00:06:33,740 --> 00:06:37,340
+And I actually learned to do cell culture work when I set up the first cell culture
+
+86
+00:06:37,340 --> 00:06:42,819
+facility at the Institute a while later.
+
+87
+00:06:42,819 --> 00:06:48,139
+I think that the, everybody seemed to be very friendly and very dedicated to the work they
+
+88
+00:06:48,139 --> 00:06:49,139
+were doing.
+
+89
+00:06:49,139 --> 00:06:53,620
+I was particularly struck by the dedication of Art Robinson and Rick Hicks, who was the
+
+90
+00:06:53,620 --> 00:06:57,860
+executive vice president and charge of fundraising.
+
+91
+00:06:57,860 --> 00:07:01,819
+And you and Cameron, who would come by from time to time, he was a non-resident fellow,
+
+92
+00:07:01,819 --> 00:07:03,860
+I believe at the time.
+
+93
+00:07:03,860 --> 00:07:07,339
+And later became medical director of the Institute and moved to California.
+
+94
+00:07:07,339 --> 00:07:12,379
+But in those days in San Hill Road, he was still, I believe, non-resident fellow, carrying
+
+95
+00:07:12,379 --> 00:07:17,339
+at the clinical collaboration with minus Pauline and Scotland.
+
+96
+00:07:17,339 --> 00:07:21,300
+And I would say that everyone was extremely enthusiastic and dedicated.
+
+97
+00:07:21,300 --> 00:07:25,019
+It seemed to be a pretty cohesive group.
+
+98
+00:07:25,019 --> 00:07:29,139
+And that part of the ambience there really appealed to me.
+
+99
+00:07:29,139 --> 00:07:34,500
+So as far as a working environment, it seemed to be quite good.
+
+100
+00:07:34,500 --> 00:07:39,060
+It wasn't until a little later that there was a schism that developed between Art Robinson
+
+101
+00:07:39,060 --> 00:07:47,539
+and Linus Pauline, where things tended to become awkward and sourd a little at that time.
+
+102
+00:07:47,539 --> 00:07:50,500
+What was Robinson's legacy delighted at that point?
+
+103
+00:07:50,500 --> 00:07:52,579
+I would say he was, yes, he actually hired me.
+
+104
+00:07:52,579 --> 00:07:53,579
+I interviewed with him.
+
+105
+00:07:53,579 --> 00:07:57,300
+I found him to be a very intense, motivated person.
+
+106
+00:07:57,300 --> 00:07:59,460
+And I liked him.
+
+107
+00:07:59,460 --> 00:08:02,259
+I thought his personality, as I said, was quite intense.
+
+108
+00:08:02,259 --> 00:08:08,420
+But he seemed to be very bright, very sharp, very insightful.
+
+109
+00:08:08,420 --> 00:08:13,580
+And I enjoyed working with him and for him in the direct mail program.
+
+110
+00:08:13,580 --> 00:08:15,580
+Excuse me.
+
+111
+00:08:15,580 --> 00:08:23,500
+As this schism developed between Robinson and Pauline, and Robinson was no longer physically
+
+112
+00:08:23,500 --> 00:08:25,860
+present in the Institute.
+
+113
+00:08:25,860 --> 00:08:32,860
+I had been working, actually I think almost from the inception of my employment at the
+
+114
+00:08:32,860 --> 00:08:38,980
+Institute, as time permitted in scientific operations, Alan Sheetz was a biochemist who
+
+115
+00:08:38,980 --> 00:08:44,379
+was doing work on vitamin C and also in the vitamin C in skin cancer experiments that
+
+116
+00:08:44,379 --> 00:08:49,139
+were being overseen by Robinson and Pauline at that time.
+
+117
+00:08:49,139 --> 00:08:54,259
+And Alan and I really headed off together and liked to talk about science.
+
+118
+00:08:54,259 --> 00:08:58,340
+And of course I had some background in science at Stanford.
+
+119
+00:08:58,340 --> 00:09:05,939
+So they were sometimes short staffed in the scientific sector and I would volunteer to
+
+120
+00:09:05,939 --> 00:09:10,899
+do work with the animals in the laboratory.
+
+121
+00:09:10,899 --> 00:09:15,740
+And I think I had an aptitude for that work and some competence as well.
+
+122
+00:09:15,740 --> 00:09:19,340
+And that was recognized by Alan and Dick Willoughby and other people who were involved in
+
+123
+00:09:19,340 --> 00:09:21,379
+that realm at the time.
+
+124
+00:09:21,379 --> 00:09:29,820
+So gradually my responsibilities and my activities shifted from the direct mail campaign to working
+
+125
+00:09:29,820 --> 00:09:34,740
+as a research assistant, a research associate in the laboratory environment.
+
+126
+00:09:34,740 --> 00:09:40,740
+A meal, Zudra Kable, that I have in February 1977 at the Institute.
+
+127
+00:09:40,740 --> 00:09:44,019
+What was the goal at that time?
+
+128
+00:09:44,019 --> 00:09:50,379
+A meal had been a non-resident fellow, I believe, of the Institute and then joined the Institute
+
+129
+00:09:50,460 --> 00:09:57,500
+to work with Pauline and to continue independent work on the Journal of Molecular Evolution,
+
+130
+00:09:57,500 --> 00:10:01,419
+which he was the founding editor of.
+
+131
+00:10:01,419 --> 00:10:06,419
+And he had some pretty interesting ideas that were mainly theoretical in nature.
+
+132
+00:10:06,419 --> 00:10:11,899
+And so a meal didn't really need a laboratory to carry out his work at the time.
+
+133
+00:10:11,899 --> 00:10:15,539
+Of course he and Pauline had known each other for a very long time.
+
+134
+00:10:15,539 --> 00:10:18,819
+Sookakondol, I believe, had been at Caltech.
+
+135
+00:10:18,819 --> 00:10:23,379
+And the two of them had developed this concept of chemical paleogenetics,
+
+136
+00:10:23,379 --> 00:10:28,259
+or molecular evolution in probably the late 50s or early 60s,
+
+137
+00:10:28,259 --> 00:10:34,339
+was published in the early 1960s, which Francis Crick thought was one of Pauline's major achievements.
+
+138
+00:10:34,339 --> 00:10:39,019
+And I think actually most of it was probably due to Zurkakondol's ideas.
+
+139
+00:10:39,019 --> 00:10:42,219
+But nevertheless, together they developed this very interesting idea,
+
+140
+00:10:42,220 --> 00:10:47,220
+stating the divergence of species based upon similarities in hemoglobin,
+
+141
+00:10:47,220 --> 00:10:53,220
+which are shared, molecule which shared among very many million species, vertebrate species.
+
+142
+00:10:53,220 --> 00:11:00,220
+A meal was a very interesting, very kindly person.
+
+143
+00:11:00,220 --> 00:11:08,220
+He was definitely European in nature, and seemed to be extremely intelligent.
+
+144
+00:11:08,220 --> 00:11:15,220
+A meal was one of the rare individuals who could hold many competitive ideas
+
+145
+00:11:15,220 --> 00:11:20,220
+in his mind simultaneously and expound upon each of them in turn.
+
+146
+00:11:20,220 --> 00:11:26,220
+So I found him very challenging intellect, and I really enjoyed talking with him.
+
+147
+00:11:26,220 --> 00:11:33,220
+And sometime later I started working, I was working for different groups within the institute,
+
+148
+00:11:33,220 --> 00:11:37,220
+which were quite small, and a meal, and I got along so well,
+
+149
+00:11:37,220 --> 00:11:40,220
+that a meal wanted me to do more and more work with him.
+
+150
+00:11:40,220 --> 00:11:43,220
+This was after he became President and Director of the Institute,
+
+151
+00:11:43,220 --> 00:11:46,220
+after the departure of Art Robinson.
+
+152
+00:11:46,220 --> 00:11:53,220
+And that led to kind of a long collaboration with a meal that culminated in my appointment
+
+153
+00:11:53,220 --> 00:11:58,220
+as co-director of the Laboratory for Research and Gene Regulation in the mid 1980s.
+
+154
+00:11:58,220 --> 00:12:04,220
+A meal at that time was very interested in cancer metastasis,
+
+155
+00:12:04,220 --> 00:12:10,220
+and what genes, what proteins were involved in the development of that phenotype,
+
+156
+00:12:10,220 --> 00:12:16,220
+because many people who suffer and die from cancer will die from metastatic involvement,
+
+157
+00:12:16,220 --> 00:12:23,220
+even if the primary tumor is surgically treated successfully with radiation in chemotherapy,
+
+158
+00:12:23,220 --> 00:12:29,220
+it's often not possible to kill all the metastatic cells that can move through the lymph system,
+
+159
+00:12:29,220 --> 00:12:32,220
+or through the blood system, and colonize other tissues.
+
+160
+00:12:32,220 --> 00:12:37,220
+So a meal was very interested in that, and we set up a program at the institute
+
+161
+00:12:37,220 --> 00:12:44,220
+to use a technique called two-dimensional polyacrylate my gel electrophoresis.
+
+162
+00:12:44,220 --> 00:12:51,220
+Excuse me, to profile proteins present in tumor cells and metastatic tumor cells
+
+163
+00:12:51,220 --> 00:12:55,220
+related to the primary tumor and also normal tissue,
+
+164
+00:12:55,220 --> 00:12:59,220
+to look for proteins that might be involved, and therefore genes that might be involved
+
+165
+00:12:59,220 --> 00:13:01,220
+in the development of this phenotype.
+
+166
+00:13:01,220 --> 00:13:05,220
+And I think a meal had the idea at that time that these might be regulatory proteins,
+
+167
+00:13:05,220 --> 00:13:09,220
+which would be present in very small amounts in cells.
+
+168
+00:13:09,220 --> 00:13:12,220
+So we had to set up a cell culture laboratory, which I did,
+
+169
+00:13:12,220 --> 00:13:16,220
+bought all the equipment, read a lot about tissue culture,
+
+170
+00:13:16,220 --> 00:13:19,220
+and what was important, and what kind of equipment would be appropriate.
+
+171
+00:13:19,220 --> 00:13:25,220
+Learn the techniques at SRI, and also learn some techniques at UCSD,
+
+172
+00:13:25,220 --> 00:13:31,220
+and University of Colorado in Boulder, about to find media,
+
+173
+00:13:31,220 --> 00:13:37,220
+because we were very interested in eliminating, or perhaps eliminating,
+
+174
+00:13:37,220 --> 00:13:42,220
+it's not the right word, reducing to the greatest extent possible,
+
+175
+00:13:42,220 --> 00:13:44,220
+the amount of noise in the system.
+
+176
+00:13:45,220 --> 00:13:49,220
+And we wanted to increase reproducibility of our protein profile as well,
+
+177
+00:13:49,220 --> 00:13:54,220
+because if regulatory proteins are involved in this process of metastatic cancer,
+
+178
+00:13:54,220 --> 00:13:57,220
+then we need to be able to detect them.
+
+179
+00:13:57,220 --> 00:14:02,220
+And to detect them, we need to increase reproducibility and decrease noise in the system.
+
+180
+00:14:02,220 --> 00:14:06,220
+So I spend quite a lot of time with my colleagues, Stuart McGuire,
+
+181
+00:14:06,220 --> 00:14:13,220
+and Eddie Metz, and Mark Pack and others in trying to perfect that system.
+
+182
+00:14:13,220 --> 00:14:17,220
+So does this panel maintain a pretty active research program,
+
+183
+00:14:17,220 --> 00:14:20,220
+even though he was assuming more and more administrative work as well?
+
+184
+00:14:20,220 --> 00:14:24,220
+He did. That's right. He did assume more and more administrative load.
+
+185
+00:14:24,220 --> 00:14:29,220
+Pauling, of course, I think, had plenty of aptitude for administration,
+
+186
+00:14:29,220 --> 00:14:32,220
+but was less interested in administration.
+
+187
+00:14:32,220 --> 00:14:37,220
+Pauling really wanted to concentrate on his theoretical work, his clinical work,
+
+188
+00:14:37,220 --> 00:14:42,220
+the vitamin C work, or the molecular medical work, and Sukukondle
+
+189
+00:14:42,220 --> 00:14:48,220
+from a research perspective was probably a little broader in what he wanted the institute to become.
+
+190
+00:14:48,220 --> 00:14:55,220
+And as his influence in administration increased, and the funding available to the institute increased,
+
+191
+00:14:55,220 --> 00:15:01,220
+the focus in the institute also brought to be much more kind of a molecular biological approach
+
+192
+00:15:01,220 --> 00:15:07,220
+to health and disease rather than specifically focused on orthomolecular medicine.
+
+193
+00:15:07,220 --> 00:15:13,220
+So, for instance, the program that I was involved in looking at gene regulation and cancer
+
+194
+00:15:13,220 --> 00:15:18,220
+really had nothing to do specifically with orthomolecular medicine or nutrition.
+
+195
+00:15:18,220 --> 00:15:24,220
+So I think Emil had a vision for the institute as something like the Saul Institute in La Jolla
+
+196
+00:15:24,220 --> 00:15:30,220
+or the institute that he had founded in France and left before he joined the Linus-Paul Institute of Science in Medicine,
+
+197
+00:15:30,220 --> 00:15:35,220
+which was much more of a molecular biological approach to science.
+
+198
+00:15:35,220 --> 00:15:42,220
+He mentioned his intelligence, how will he characterize his personality?
+
+199
+00:15:42,220 --> 00:15:50,220
+Well, I think that he was very kinetic.
+
+200
+00:15:50,220 --> 00:15:58,220
+He was very tall, lean person, had a lot of physical energy as well as mental stamina and vigor,
+
+201
+00:15:58,220 --> 00:16:03,220
+and also had a very European attitude about things.
+
+202
+00:16:03,220 --> 00:16:10,220
+I think in some ways this served him well and in some ways it may not have served him terribly well
+
+203
+00:16:10,220 --> 00:16:16,220
+because the administration in the institute became a little bit of a black box,
+
+204
+00:16:16,220 --> 00:16:23,220
+and perhaps was not quite as transparent as it could have been that would have promoted better relations
+
+205
+00:16:23,220 --> 00:16:28,220
+among employees much later in the history of the institute.
+
+206
+00:16:28,220 --> 00:16:32,220
+And this is an extension of the year-to-end of the past season?
+
+207
+00:16:32,220 --> 00:16:39,220
+I mean, it's hard to say I'm not a psychologist and I don't know that much about European political systems,
+
+208
+00:16:39,220 --> 00:16:47,220
+but I think Emil was kind of a benevolent king.
+
+209
+00:16:47,220 --> 00:16:55,220
+Well, at an or personal or a social level, do you have memorable interactions with Super-Manual?
+
+210
+00:16:55,220 --> 00:16:58,220
+Well, I had many, many interactions with Emil over the years.
+
+211
+00:16:58,220 --> 00:17:05,220
+He had a terrific sense of humor and not so much in a joke-telling way, but a good sense of irony,
+
+212
+00:17:05,220 --> 00:17:08,220
+and we got along very, very well.
+
+213
+00:17:08,220 --> 00:17:15,220
+And I think Emil depended upon me and Eddie Metz, who was another research associate at the institute,
+
+214
+00:17:15,220 --> 00:17:22,220
+and a number of other people within his group to help him make decisions about hiring, for instance.
+
+215
+00:17:22,220 --> 00:17:28,220
+So there were a number of people who came to the institute and went through a review process,
+
+216
+00:17:28,220 --> 00:17:34,220
+candidates for certain positions, and Eddie met some myself and some others.
+
+217
+00:17:34,220 --> 00:17:41,220
+I think played pretty critical roles in those processes at the time, because Emil rightly or wrongly,
+
+218
+00:17:41,220 --> 00:17:44,220
+I think, trusted my judgment about people.
+
+219
+00:17:44,220 --> 00:17:57,220
+And I would give him very candid observations to the best extent I could about potential candidates for positions within the institute.
+
+220
+00:17:57,220 --> 00:18:00,220
+We also shared an appreciation of art.
+
+221
+00:18:00,220 --> 00:18:07,220
+So Emil and his wife, Jane, lived in a penthouse apartment on Rastardero in Palo Alto.
+
+222
+00:18:07,220 --> 00:18:18,220
+And I was relatively frequent guest, and we would talk about art, talk about Emil's heritage, his ancestors, his grandparents, his parents.
+
+223
+00:18:18,220 --> 00:18:25,220
+We're all very famous in the respective fields, both in psychology, psychoanalysis, anatomy, art.
+
+224
+00:18:25,220 --> 00:18:36,220
+And I remember one time Emil showed me, he was a bit embarrassed about it, because it's not something that has a lot of objective value.
+
+225
+00:18:36,220 --> 00:18:46,220
+But he knew I would be interested in his autograph book, which he had maintained as a kid in his grandmother's salon,
+
+226
+00:18:46,220 --> 00:18:53,220
+and had signatures in this book from Sigmund Floyd and a number of other very famous people, musicians and scientists.
+
+227
+00:18:53,220 --> 00:19:00,220
+I can't recall exactly who now, but it was pretty impressive to see at the time.
+
+228
+00:19:00,220 --> 00:19:04,220
+Was he a clunker of art?
+
+229
+00:19:04,220 --> 00:19:13,220
+I don't think he had the financial wherewithal to collect art, but he had had art that he inherited from the family.
+
+230
+00:19:13,220 --> 00:19:21,220
+And Emil's family was Jewish and had lived in both Austria, Vienna and France.
+
+231
+00:19:21,220 --> 00:19:33,220
+And during the Nazi occupation and Nazi infiltration of countries in Europe, his family was forced to flee and often fled without their possession.
+
+232
+00:19:33,220 --> 00:19:44,220
+So I know many years later he showed me a catalog of German art and architecture in which his parents' chairs were featured.
+
+233
+00:19:44,220 --> 00:19:53,220
+And these were chairs that were part of the old Zupacondle home that they'd been forced to abandon when the Nazis arrived.
+
+234
+00:19:53,220 --> 00:20:01,220
+And he had remnants of some art that he'd been able to take with him, Gustav Klimt, a triptitch and things like that,
+
+235
+00:20:01,220 --> 00:20:11,220
+which I think he'd given away actually at that time. But he did have some art and some books that managed to survive that ugly process in Europe.
+
+236
+00:20:11,220 --> 00:20:21,220
+Okay, well I want to talk now about art Robinson. And then basically, first of all, annoyingly as a scientist wasn't you initially met in the interaction with him?
+
+237
+00:20:22,220 --> 00:20:31,220
+Yeah, that's a good question. I would say that I did not have enough science acumen at that time to offer any judgment on art Robinson.
+
+238
+00:20:31,220 --> 00:20:41,220
+I knew that he was working very closely with Linus Polling, so I assume that he must be brilliant because I doubted that Linus Polling would tolerate fools.
+
+239
+00:20:41,220 --> 00:21:01,220
+And research was clearly the most important thing in Pauling's life, research and science. And I just imagined that art Robinson must be a terrifically intelligent person to be working with Linus Polling because otherwise he wouldn't be at the institute.
+
+240
+00:21:01,220 --> 00:21:15,220
+He seemed to have Polling's trust and many people had pretty high regard for art Robinson, called him kind of the boy wonder. He was quite young at that time as well. Maybe in his 30s I believe when he was president and director of the institute.
+
+241
+00:21:15,220 --> 00:21:42,220
+He came up from UCSD to take a position in Polling's lab at Stanford and then together with Kendim at Co-Found at the institute, while the institute was still located at Stanford and then when they were able to secure a rental site in this building on Sandhill Road then they moved physically the institute and transferred the grants to the Sandhill Road location.
+
+242
+00:21:42,220 --> 00:22:02,220
+I had a very favorable impression of art. I liked him quite a lot and he seemed to be incredibly driven. I didn't know at that time anything about his politics, his religion or anything. I never asked him about those things, I never talked to him about those things. It was all strictly science.
+
+243
+00:22:02,220 --> 00:22:18,220
+I really enjoyed my interactions with him at that time. I was not high enough up in the food chain, the bureaucracy within the institute to really understand at the time the nature of the conflict that developed between art Robinson and Linus Polling.
+
+244
+00:22:18,220 --> 00:22:42,220
+I was completely in the dark as to why that developed and why art left the institute. There was a series of very bewildering memos at that time. I remember after art left and of course there was gossip about what was going on and who was in charge and what had happened and so forth.
+
+245
+00:22:42,220 --> 00:23:06,220
+I can't really remember the gossip very clearly but I do remember coming into my office one day and finding a memo from Linus Polling, a couple of short paragraphs explaining that art Robinson and absented himself from the institute and was no longer serving as the president director of Linus Polling was taking over that position and I should ignore directives from art Robinson.
+
+246
+00:23:06,220 --> 00:23:21,220
+That was followed the next day by a memo from art Robinson to the effect that Linus Polling had no authority to remove him from his position and I should disregard the earlier memo from Linus Polling and things like that went back and forth for a while.
+
+247
+00:23:21,220 --> 00:23:50,220
+So it was a period of tension to say the least at the institute people were a little bewildered as to what to do but I think ultimately because Linus Polling was chairman of the board and the institute was named for him and I think people just inferred that Linus Polling was in charge and therefore Linus Polling was the one who had the authority of say on what the status of art Robinson was at that time.
+
+248
+00:23:51,220 --> 00:23:57,220
+So what do you think about Robinson as a personality in Tenskies and Fee or the Dump of the Line?
+
+249
+00:23:57,220 --> 00:24:01,220
+Yes, he was very intense, very driven, no question about that.
+
+250
+00:24:01,220 --> 00:24:04,220
+Any other adjectives that would suit you?
+
+251
+00:24:04,220 --> 00:24:20,220
+Well, he had a very robust family life. I mean he was very, his wife Laura Lee Robinson at the time was working at the institute in the data acquisition and analysis from the metabolic profiling program.
+
+252
+00:24:20,220 --> 00:24:25,220
+So she was there quite often, she was a very lovely person I liked her very much as well.
+
+253
+00:24:25,220 --> 00:24:30,220
+And together they seemed like a very good pair, very happy married couple.
+
+254
+00:24:30,220 --> 00:24:42,220
+It was quite a shock when she died so suddenly and Art of course had small children that he had to turn his attention to and to raise and it just seemed like a very stressful time for everyone.
+
+255
+00:24:42,220 --> 00:24:57,220
+The combination of Laura Lee's very abrupt death, Art having his young kids to take care of now and also having this problem of Linus Polling and essentially losing his job at the institute.
+
+256
+00:24:57,220 --> 00:25:11,220
+I do remember that prior to the schism with Linus Polling there had been several meetings in the institute's library about the future of the institute.
+
+257
+00:25:11,220 --> 00:25:20,220
+And the prospect of moving to Oregon had been raised by Art Robinson specifically at that time.
+
+258
+00:25:20,220 --> 00:25:39,220
+The late 1970s, Art had talked about property in Oregon and if my memory serves me I think it was near Eugene or Junction City that might be available at low cost for the institute to buy and build a building and set up laboratories there.
+
+259
+00:25:40,220 --> 00:25:53,220
+And I think that there was an informal poll taken among staff as to who might be interested in relocating to Oregon at that time. Not many people were.
+
+260
+00:25:53,220 --> 00:25:57,220
+Do you know anything more about where this idea came from on Oregon?
+
+261
+00:25:57,220 --> 00:26:02,220
+I don't.
+
+262
+00:26:02,220 --> 00:26:26,220
+Well, I should say also that when the schism between Polling and Art developed, it occurred to me that that might have been one of the factors that led to this problem because Polling of course had a very close relationship with friends and faculty at Stanford still, hard McConnell, Henry Taub, a number of other people in the chemistry department there and elsewhere.
+
+263
+00:26:26,220 --> 00:26:38,220
+He had homes in Portola Valley and Big Sur and it didn't seem to me that he would want at his age and station and life to move to Oregon.
+
+264
+00:26:38,220 --> 00:26:46,220
+And I was never at that time I wondered whether that was part of the problem that had developed between them.
+
+265
+00:26:46,220 --> 00:26:52,220
+So in hindsight, do you have any other thoughts on what life was given?
+
+266
+00:26:52,220 --> 00:27:10,220
+Well, when I became Chief Executive Officer or Executive Officer in the Linus Plains Institute in the early 1990s, I was talking about the institute before lots of groups quite often.
+
+267
+00:27:10,220 --> 00:27:18,220
+And consequently, I had to familiarize myself pretty quickly with the history of the institute and some of the major figures in the institute.
+
+268
+00:27:18,220 --> 00:27:25,220
+So I really had to learn a lot more about Linus Polling, his career than I previously had known.
+
+269
+00:27:25,220 --> 00:27:33,220
+And I had to learn about Art Robinson and some of the activities that had transpired at the institute over the years.
+
+270
+00:27:33,220 --> 00:27:51,220
+So I looked at some of the depositions, I looked at the court papers that were now available to me as Executive Officer and I read that material quite carefully at the time because I wanted to be able to represent the story accurately and to the best of my ability.
+
+271
+00:27:51,220 --> 00:28:00,220
+So I thought it was incumbent upon me to learn as much as I could about that problem that developed between Robinson and Polling so that I would have a good understanding of it.
+
+272
+00:28:00,220 --> 00:28:12,220
+And I wouldn't be simply mousing some person's opinion of what had happened but I had actually formed an opinion myself based on original research into the raw data, if you will.
+
+273
+00:28:12,220 --> 00:28:19,220
+And that led me to the conclusion that there were administrative problems that had developed between Robinson and Polling.
+
+274
+00:28:19,220 --> 00:28:31,220
+It didn't have anything to do with the results from the vitamin C and skin cancer experiments as far as I could tell as Art Robinson portrayed the whole problem.
+
+275
+00:28:31,220 --> 00:28:46,220
+Art said that the anomalous results at low dose supplemental vitamin C that actually resulted in increased number of tumors in these hairless mice exposed to ultraviolet light.
+
+276
+00:28:46,220 --> 00:29:06,220
+If you extrapolated that to people, it would be at risk for developing cancer, let's say skin cancer in this case, at the doses of supplementary vitamin C that Polling was recommending for good health.
+
+277
+00:29:06,220 --> 00:29:28,220
+But there was a significant problem in that argument and the problem is that mice synthesize vitamin C. And I believe even Art himself at the time had suggested that the exogenous vitamin C given in the diet to these mice might have affected their endogenous synthesis of vitamin C, especially at low dose.
+
+278
+00:29:28,220 --> 00:29:50,220
+And Connie Chow and a number of other people, Ping Loan at the institute looked into that four-linus Polling very carefully and found that, sure enough, when you give small extra doses of vitamin C to mice, you actually decrease the amount of vitamin C in blood and various organs and tissues compared to the mice getting no extra vitamin C.
+
+279
+00:29:50,220 --> 00:30:07,220
+And you actually have to overcome that by giving much larger amounts of vitamin C. And then you start to see increases in vitamin C in these various tissues and organs and the blood and also protection against the development of skin cancer caused by exposure to ultraviolet light.
+
+280
+00:30:07,220 --> 00:30:18,220
+So it has nothing to do with people because we don't synthesize vitamin C. So supplemental vitamin C doesn't interfere with anything that we're doing in our livers unlike the mice.
+
+281
+00:30:18,220 --> 00:30:28,220
+So that argument that Art put forward to explain this problem with Linus Polling didn't seem to hold water to me.
+
+282
+00:30:28,220 --> 00:30:44,220
+And I looked more carefully at some of the administrative decisions that were being made at that time, specifically with respect to Richard Hicks and affiliation with a group in Santa Cruz, the Hunsburgers, that Polling was not very happy about.
+
+283
+00:30:44,220 --> 00:30:55,220
+And Hunsburgers were very interested in wheat grass and ebbsisic acid as having cancer prevention or therapeutic properties.
+
+284
+00:30:55,220 --> 00:31:05,220
+And some experiments along those lines were carried out at the institute where wheat grass was being fed to mice to find out if it could protect them against cancer.
+
+285
+00:31:05,220 --> 00:31:19,220
+But Polling, I think, and I never talked to him about this, but inferring from what I read, it seemed to me that he was concerned about somewhat flaky character of this operation in Santa Cruz.
+
+286
+00:31:19,220 --> 00:31:29,220
+And he was worried about a close affiliation because the work that he was already advocating and trying to get funded seemed to be very controversial anyway.
+
+287
+00:31:29,220 --> 00:31:42,220
+And I don't think he wanted to encourage even more skepticism about the institute's activities by getting associated with fringe or what he might consider fringe organizations.
+
+288
+00:31:42,220 --> 00:31:44,220
+Robinson had a different perspective.
+
+289
+00:31:44,220 --> 00:31:56,220
+And also, I think Polling had set up an executive committee composed of himself, Rick Hicks and Art.
+
+290
+00:31:56,220 --> 00:32:07,220
+And I believe that Art was asked not to make any important decisions without approval of the executive committee.
+
+291
+00:32:07,220 --> 00:32:17,220
+And Art essentially ignored that and wanted to fire Rick Hicks and Polling like Hicks and thought he was doing a good job.
+
+292
+00:32:17,220 --> 00:32:30,220
+So I think that the conflict that developed between them had to do with administrative issues, how to run and govern the Linus Plains to Science and Medicine, not scientific issues.
+
+293
+00:32:30,220 --> 00:32:35,220
+So what did you have a sense of what the conflict was between Robinson and Hicks?
+
+294
+00:32:35,220 --> 00:32:47,220
+I don't really. I think that Robinson was unhappy with Hicks' performance. And maybe Hicks had not done some things that Robinson expected him to do or had asked him to do.
+
+295
+00:32:47,220 --> 00:32:55,220
+They also had very different personalities. And there could have been a bit of a personality clash there as well.
+
+296
+00:32:55,220 --> 00:33:03,220
+So how did the legal brain like to play out Robinson suitings? And that was a multi-year affair?
+
+297
+00:33:03,220 --> 00:33:08,220
+It was a multi-year affair. It was very distracting to all involve, very expensive proposition.
+
+298
+00:33:08,220 --> 00:33:15,220
+There were lots of suits. Of course, at that time, I didn't really involve myself with any of that because I had no administrative function.
+
+299
+00:33:15,220 --> 00:33:26,220
+So I was just happy doing my research and not worrying about what was going on in the legal realm or the administrative hierarchy of the Institute.
+
+300
+00:33:26,220 --> 00:33:40,220
+But in looking back at these documents retrospectively, it's clear that people were completely subsumed with these legal issues because when these kinds of charges are made and these suits are filed, you really have to do the best you can to protect the organization.
+
+301
+00:33:40,220 --> 00:33:50,220
+And that means hiring good attorneys and getting into the details of all the issues and countless depositions and document analyses.
+
+302
+00:33:50,220 --> 00:34:02,220
+And it's all very tedious and very expensive. In a way, it's also quite fascinating because jurisprudence is a very interesting game, legal game that gets played.
+
+303
+00:34:02,220 --> 00:34:14,220
+And it's interesting to see how the strategies evolve and how the players behave. But it can be incredibly distracting if your main goal is to carry out research.
+
+304
+00:34:14,220 --> 00:34:25,220
+And I think it was very distracting for everybody involved and art ended up suing his attorneys because he was unhappy with the settlement that had eventually been reached.
+
+305
+00:34:26,219 --> 00:34:39,219
+And sometime much later, I think between the time I became chief executive officer at Linus Pong's death, art Robinson re-emerged from the past.
+
+306
+00:34:39,219 --> 00:34:51,219
+And really, I had had nothing to do with him and hadn't heard from him or about him for many, many years because after the settlement in the early 1980s, that was the end of the legal entanglement with art Robinson.
+
+307
+00:34:51,219 --> 00:34:59,219
+And I knew that he had moved to Oregon to cave junction and set up his own research organization. I wasn't quite sure exactly what he was doing.
+
+308
+00:34:59,219 --> 00:35:08,219
+This was long before the internet, of course, and it was difficult to fair it out details about people's activities unlike today.
+
+309
+00:35:08,219 --> 00:35:15,219
+So I really had no reason to think about art Robinson until I got a phone call or a letter.
+
+310
+00:35:15,219 --> 00:35:30,219
+Actually, it was a letter, I believe, addressed to Linus Pauling from art that Pauling turned over to me that was a request for access to research data that art had generated at the institute before his departure.
+
+311
+00:35:30,219 --> 00:35:56,219
+So art described this research data as being many filing the five, the steel case five drawer filing cabinets, maybe 10 or 15 of those worth of hard copy paper records that were generated as a result of the metabolic profiling program.
+
+312
+00:35:56,219 --> 00:36:03,219
+And also very large magnetic data tapes that were maybe a foot in diameter.
+
+313
+00:36:03,219 --> 00:36:13,219
+And at the time, without going back and actually looking at the terms of the settlement, which of course stipulated that none of that had to be given to art Robinson,
+
+314
+00:36:13,219 --> 00:36:23,219
+and he'd already been given an opportunity to copy his research data, albeit at high cost before he left the institute, he declined to do so at that time.
+
+315
+00:36:23,219 --> 00:36:30,219
+But I thought all these years had gone by, there was really nothing to be gained in withholding anything from art Robinson.
+
+316
+00:36:30,219 --> 00:36:45,219
+And if he was able to translate this raw data into scientific publications that would be scientifically or medically valuable, I was in favor of that.
+
+317
+00:36:45,219 --> 00:36:53,219
+So I decided to look around and see what I could find that was that resembled what he'd asked for.
+
+318
+00:36:53,219 --> 00:37:00,219
+And in looking around the institute, I could find nothing that resembled the volume of material that he had requested.
+
+319
+00:37:00,219 --> 00:37:05,219
+There weren't boxes and boxes or many filing cabinets full of data.
+
+320
+00:37:05,219 --> 00:37:11,219
+There weren't dozens or hundreds of magnetic data tapes. These things just didn't exist within the building.
+
+321
+00:37:11,219 --> 00:37:19,219
+So I queried a number of people, including Dick Willoughby, who was our facilities manager, Emil Zucacondle, who had left the institute at that time.
+
+322
+00:37:19,219 --> 00:37:25,219
+And a number of other people who I thought might have had some knowledge of the whereabouts of this material over time.
+
+323
+00:37:25,219 --> 00:37:29,219
+No one really seemed to have a clear idea of what had happened to it.
+
+324
+00:37:29,219 --> 00:37:35,219
+But I reconstructed what I believe to be its disposition.
+
+325
+00:37:35,219 --> 00:37:41,219
+And I sent this in a letter, Dart Robinson. What I considered a very collegial, cordial letter.
+
+326
+00:37:41,219 --> 00:37:45,219
+I mean, it was unhappy news for our Robinson, but nevertheless it was as far as I knew.
+
+327
+00:37:45,219 --> 00:37:50,219
+And as far as I still know, the truth about the disposition of this material.
+
+328
+00:37:50,219 --> 00:37:56,219
+The institute had a satellite facility on Porter Drive in Stanford, Indutual Park.
+
+329
+00:37:56,219 --> 00:38:04,219
+And that satellite facility was used for Susa Cala, aging research that was carried out by Jim Fleming and others.
+
+330
+00:38:04,219 --> 00:38:19,219
+Also, in the 1980s, we had carried out some work on fabricating superconductive material to support one of Pauling's patent application, Stella Kerman, and to some extent, you and Cameron and I worked on that project.
+
+331
+00:38:19,219 --> 00:38:24,219
+And we also used a number of rooms there for paper storage.
+
+332
+00:38:24,219 --> 00:38:33,219
+And we'd had problems with the roof leaking in that facility that actually led to a lawsuit with a landlord.
+
+333
+00:38:33,219 --> 00:38:40,219
+And a lot of the paper that had been stored in that facility was ruined because the leak, the roof leaked.
+
+334
+00:38:40,219 --> 00:38:43,219
+And the paper was damaged by water.
+
+335
+00:38:43,219 --> 00:38:51,219
+And I believe that it was just thrown out. And because it was damaged, there wasn't any attempt made to really examine it carefully.
+
+336
+00:38:51,219 --> 00:38:54,219
+I'm reconstructing that. I don't know that for sure.
+
+337
+00:38:54,219 --> 00:39:01,219
+But I do know, because I did see it with my own eyes. A lot of destroyed records by water.
+
+338
+00:39:01,219 --> 00:39:09,219
+And I gave that as what I considered a reasonable explanation of what had happened to our research material.
+
+339
+00:39:09,219 --> 00:39:17,219
+My understanding was that it had been stored up there because there wasn't any room to really keep it in the 440-page mill road facility.
+
+340
+00:39:17,219 --> 00:39:25,219
+If, indeed, it had been kept that long, it was at Porter Drive and probably destroyed by water from a leaking roof.
+
+341
+00:39:25,219 --> 00:39:33,219
+That, as I said, led to litigation with the landlord because the landlord wasn't quick in repairing the roof, unfortunately.
+
+342
+00:39:33,219 --> 00:39:45,219
+So Art did not take that news very well. And in a way, I can sympathize with it because that work represented a significant percent of his wife's work at that time.
+
+343
+00:39:45,219 --> 00:39:54,219
+But that's the way it is. The material was gone. It was probably destroyed, probably damaged. And there was nothing to give him.
+
+344
+00:39:54,219 --> 00:40:06,219
+But he was unwilling to accept that explanation and believed for whatever reason very obscure to me that I must be hiding this material or lying to him, mischaracterizing everything.
+
+345
+00:40:06,219 --> 00:40:15,219
+And I tried to think about what his motivation for believing that I would do that. And I just could not come up with a sensible motivation.
+
+346
+00:40:15,219 --> 00:40:27,219
+I think that he played so much emphasis on the importance of this material that it was beyond comprehension to him that it could have been thrown away, even having been damaged.
+
+347
+00:40:27,219 --> 00:40:43,219
+So he was unwilling to accept that explanation. And that led to kind of a proxy lawsuit against the Institute by a colleague of his, Jane Orient, who I think is associated with him in kind of libertarian politics.
+
+348
+00:40:43,219 --> 00:40:54,219
+And she's a physician in Arizona, at least at the time, who had made rather strategically, I believe, a small donation to the Institute.
+
+349
+00:40:54,219 --> 00:41:03,219
+And then later wanted access to research records. And she called me on the telephone and I had a nice conversation with her and she was asking about research.
+
+350
+00:41:03,219 --> 00:41:14,219
+And at first I was confused. I thought she was talking about the protein profiling work. And then I realized that she was talking about the metabolic profiling work.
+
+351
+00:41:14,219 --> 00:41:27,219
+And I talked about some of the work that had been ongoing until the mid 1980s and so forth. And the development of the apparatus and data collection and analysis and loss of funding and so forth.
+
+352
+00:41:27,219 --> 00:41:39,219
+And I came clear that what she was really interested in was this old art robins in the material. And I think at the time I told her the same thing I told art, which is I don't know what happened to it. We don't have it.
+
+353
+00:41:39,219 --> 00:41:49,219
+So I can't offer it to you. So that led to a suit that she filed against the Institute for access to this publicly financed research data.
+
+354
+00:41:49,219 --> 00:42:00,219
+That of course involved a lot of time and energy and resources, but eventually was dismissed by the court for lack of standing essentially.
+
+355
+00:42:00,219 --> 00:42:07,219
+Do you have a sense of was it a brain sort of reconciliation involved in the following diet?
+
+356
+00:42:07,219 --> 00:42:24,219
+Well, I think arts letter to Linus Pauling and Linus Pauling's response to him if there was a response was cordial. Arts letter was pretty cordial. So I don't know that they communicated much from the time the lawsuit finished until that letter in the early 1990s.
+
+357
+00:42:24,219 --> 00:42:37,219
+My guess is they probably did not because art really in many at many occasions have lots of bad things to say about the Institute and Linus Pauling. So I can't imagine that they really communicated much.
+
+358
+00:42:37,219 --> 00:42:53,219
+And I don't know that that was arts attempt reconciliation or whether he viewed that opportunity of me being in charge in the Institute now and Pauling gradually expiring as an opportunity to
+
+359
+00:42:53,219 --> 00:43:00,219
+get access to research data that he thought we've been sitting on all those years.
+
+360
+00:43:00,219 --> 00:43:14,219
+Okay, well we switched to you in Cameron. He arrived in 1978 perhaps in a full time capacity of mental risk. But did you recall your first impressions of Cameron?
+
+361
+00:43:14,219 --> 00:43:28,219
+Cameron was a wonderful person. He was very charming. He had a great sense of humor. He also had the Scottish brogue and was shy I think.
+
+362
+00:43:28,219 --> 00:43:39,219
+He didn't like to talk in public and sometimes it was hard to understand what he was saying because of his accent and a tendency a bit to mumble sometimes.
+
+363
+00:43:39,219 --> 00:43:53,219
+But he was very intelligent, very compassionate. Clearly a research-minded physician who was interested in finding new ways to help his patients live with cancer.
+
+364
+00:43:53,219 --> 00:44:05,219
+I think he and Pauling initially thought that vitamin C might be able to turn cancer into a manageable disease, a chronic disease rather than something that would kill you in short order.
+
+365
+00:44:05,219 --> 00:44:13,219
+And that led him to consider vitamin C as having potential value and treating cancer patients. I really enjoyed him.
+
+366
+00:44:13,219 --> 00:44:26,219
+I would go to parties with him quite often. He loved to drink single malt scotch which he would bring from every time he went to Scotland and came back he would always have him.
+
+367
+00:44:26,219 --> 00:44:33,219
+It seemed like an arm-load of single malt scotches for everyone to try. And he liked to smoke cigarettes too.
+
+368
+00:44:33,219 --> 00:44:45,219
+Which was a bit ironic. Sometimes it's the old do as I say, but not as I do motif that you see sometimes with physicians or other people.
+
+369
+00:44:45,219 --> 00:44:54,219
+Cameron was not pious. He didn't preach to people about what they should or shouldn't do. And he was well aware of his own bad habit of smoking.
+
+370
+00:44:54,219 --> 00:45:07,219
+He was hard to reconcile with his career as a cancer surgeon, removing disease lungs and other tissue from patients. But nevertheless he found it very difficult to quit.
+
+371
+00:45:07,219 --> 00:45:12,219
+I know he tried to quit smoking a number of times but didn't succeed.
+
+372
+00:45:12,219 --> 00:45:24,219
+So I kind of liked him because he had some weaknesses as well. But he was extremely bright and very compassionate person.
+
+373
+00:45:24,219 --> 00:45:28,219
+And in party settings he was more socialized.
+
+374
+00:45:28,219 --> 00:45:30,219
+And in his party settings he was more social.
+
+375
+00:45:30,219 --> 00:45:37,219
+Yeah he was very social. Very very social. My girlfriend and I loved to hear him tell tales about his work in Burma.
+
+376
+00:45:37,219 --> 00:45:48,219
+I remember one story he told about lancing a boil on an elephant which was quite extraordinary.
+
+377
+00:45:48,219 --> 00:46:01,219
+And he told me about some of the therapy available to the cohort of cancer patients that he was treating which was called Brompton's cocktail which was a mixture of I believe alcohol, cocaine and heroin.
+
+378
+00:46:01,219 --> 00:46:10,219
+That's got its surgeons and physicians very freely gave to their terminal cancer patients because they weren't concerned about these people becoming drug addicts.
+
+379
+00:46:10,219 --> 00:46:18,219
+They just wanted to make their end of their lives as comfortable and pain free as possible.
+
+380
+00:46:18,219 --> 00:46:28,219
+Did Pauline ever come into the hospital in Cameron to you as his personal feelings towards similar professional feelings?
+
+381
+00:46:28,219 --> 00:46:33,219
+Pauline really liked you in Cameron. I think he had a very deep feeling for you in Cameron.
+
+382
+00:46:33,219 --> 00:46:38,219
+And despite the fact that Cameron smoked Pauline was apparently willing to completely overlook that.
+
+383
+00:46:38,219 --> 00:46:50,219
+And Pauline felt very strongly about smoking. I remember seeing letters that were unopened in Dorothy Monroe's office because they smelled of cigarette smoke and Pauline refused to handle them.
+
+384
+00:46:51,219 --> 00:46:55,219
+So that didn't seem to bother him so much about you in Cameron though.
+
+385
+00:46:55,219 --> 00:47:00,219
+And they were great colleagues. I think they enjoyed each other's company quite a lot.
+
+386
+00:47:00,219 --> 00:47:08,219
+And Cameron regaled us with stories. My girlfriend and I about Pauline's first visit to Scotland.
+
+387
+00:47:08,219 --> 00:47:13,219
+I didn't mention this in the last talk today. The toilets. Did I mention that?
+
+388
+00:47:13,219 --> 00:47:21,219
+Yeah. So Cameron was very down to earth and very much aware of Pauline's reputation and stature in the scientific field too.
+
+389
+00:47:21,219 --> 00:47:28,219
+So Cameron himself was a little bit in awe of Pauline. But Cameron had medical knowledge of course that Pauline didn't.
+
+390
+00:47:28,219 --> 00:47:36,219
+So they provided kind of a nice complimentary relationship for each other I think.
+
+391
+00:47:36,219 --> 00:47:45,219
+And I think as a result of working with Cameron for so long, Pauline became even more medically minded.
+
+392
+00:47:45,219 --> 00:48:02,219
+And I know that Abram Hofer, another of Pauline's old friends who initially got him interested in Nyson and North Immolecular Psychiatry back in the early 1960s, told me that he had been working hard towards the end of Pauline's life to get him an honorary medical degree.
+
+393
+00:48:02,219 --> 00:48:07,219
+Which apparently is possible in Canada being part of the United Kingdom.
+
+394
+00:48:07,219 --> 00:48:16,219
+You can appeal to the Archbishop of Canterbury. I believe through the Duke of Windsor or something like that to get a medical degree conferred upon someone.
+
+395
+00:48:16,219 --> 00:48:21,219
+Of course it wouldn't allow them to practice medicine but it was a very prestigious honor.
+
+396
+00:48:21,219 --> 00:48:31,219
+And Hofer was working those channels because he knew the English royalty that would help him with this process.
+
+397
+00:48:31,219 --> 00:48:36,219
+But then he dropped it once Pauline died of course.
+
+398
+00:48:36,219 --> 00:48:39,219
+How did Cameron's family do you know that at all?
+
+399
+00:48:39,219 --> 00:48:42,219
+I did. It did not meet Cameron's first wife.
+
+400
+00:48:42,219 --> 00:48:48,219
+I knew Connie Cameron, his second wife quite well because she had been working for Rick Hicks at the Institute.
+
+401
+00:48:48,219 --> 00:48:53,219
+And that's how you and Cameron got to know her through his visits and tenure at the Linus Pauline Institute.
+
+402
+00:48:53,219 --> 00:49:00,219
+And she also a very charming, very funny, attractive person.
+
+403
+00:49:00,219 --> 00:49:07,219
+You and had a son and a daughter. And he was always a bit concerned about his son.
+
+404
+00:49:07,219 --> 00:49:17,219
+Because his son seemed to be having a bit of a hard time being independent, finding a career, being happy with his life and so forth.
+
+405
+00:49:17,219 --> 00:49:26,219
+You and was also was conflicted a bit in taking the position at the Institute in California because it would take him away from his children.
+
+406
+00:49:26,219 --> 00:49:31,219
+And he was concerned that his children still needed some guidance.
+
+407
+00:49:31,219 --> 00:49:40,219
+But I met his children. They were very nice people, very affable, very intelligent, gregarious people.
+
+408
+00:49:40,219 --> 00:49:46,219
+So how did Cameron's research program evolve over the course of this time at the Institute?
+
+409
+00:49:46,219 --> 00:50:01,219
+Well, I would say when he was physically at the Institute, he of course was not treating patients in Scotland, but he was continuing to collect and analyze data from those cancer cases in Scotland.
+
+410
+00:50:01,219 --> 00:50:14,219
+And continuing to work with people who were doing that for him in Scotland, developing ways of analyzing the data, automated data collection programs and things of that nature.
+
+411
+00:50:14,219 --> 00:50:27,219
+So he was very involved in that while he was at the Institute. He also became increasingly involved in what today is called outreach or public education.
+
+412
+00:50:27,219 --> 00:50:40,219
+And as the work with Cameron and Pauline on vitamin C in cancer became more well known, there were many queries from the public, particularly patients afflicted with cancer who wanted advice.
+
+413
+00:50:40,219 --> 00:50:45,219
+How much vitamin C should I take? Where can I go to get it and so on and so forth?
+
+414
+00:50:45,219 --> 00:50:57,219
+There had been a clinic operating at the Institute on San Hill Road for a very short period, but it became overburdened by poor patients very quickly.
+
+415
+00:50:57,219 --> 00:51:05,219
+So that was abandoned and that was set up by John Catchpool. And like I said, it didn't last very long.
+
+416
+00:51:05,219 --> 00:51:25,219
+So we were struggling at the time between giving sensible, practical and non-medical advice to people because Cameron wasn't licensed to practice medicine in the United States, so he couldn't give medical advice to people.
+
+417
+00:51:25,219 --> 00:51:38,219
+So we had to be a bit oblique about it and provide patients and their physicians with research papers and allude to responses of other similar patients to a certain course of therapy and so forth.
+
+418
+00:51:38,219 --> 00:51:52,219
+So Cameron was working very hard to kind of perfect our strategy of responding to the public for these health related questions so that we didn't incur legal liability,
+
+419
+00:51:52,219 --> 00:52:05,219
+but we were acting ethically and morally and trying to be good citizens and compassionate because many of the people who contacted the Institute in those days were in dire straits.
+
+420
+00:52:05,219 --> 00:52:14,219
+These were people for whom traditional conventional therapy was not successful and they were just waiting to die and they weren't willing to accept that fate.
+
+421
+00:52:14,219 --> 00:52:25,219
+So they were turning to other modalities which included things like vitamin C and once they started to consider that naturally the tendency was to get in touch with the Institute and talk to you and Cameron.
+
+422
+00:52:25,219 --> 00:52:35,219
+So he spent an enormous amount of time on the phone and writing letters to cancer patients and other people with questions about vitamin C.
+
+423
+00:52:35,219 --> 00:52:45,219
+Well, Cameron and Pauline's research on cancer attracted a great deal of criticism and do you have a sense of how they respond internally?
+
+424
+00:52:45,219 --> 00:53:02,219
+Yeah, I think they felt and this has been written about many times and I think you can infer their emotions from some of the letters that appeared in journals and elsewhere that they'd been treated badly by the male clinic.
+
+425
+00:53:03,219 --> 00:53:13,219
+Both Cameron and Pauline were astonished to find out and angry that the male clinic researchers Craig and Mortel had never even read Cameron's papers, relevant papers.
+
+426
+00:53:13,219 --> 00:53:30,219
+So they ostensibly were charged by the NCI with replicating Cameron's work yet they knew virtually nothing about it and had they read Cameron's papers they may have noticed that Cameron was giving high dose vitamin C both orally and intravenously.
+
+427
+00:53:30,219 --> 00:53:45,219
+And that as it turns out may have been a very crucial feature that was completely ignored by them because they perhaps had too much ubrous to read this Scottish surgeon's papers on vitamin C and cancer.
+
+428
+00:53:45,219 --> 00:54:14,219
+And I think the fact that the studies were published without the courtesy of showing the study before publication to Pauline and Cameron did not sit well with them because once the study was published immediately the media wants responses the same day and it put you in an awkward position because Cameron Pauline had that a time to really read the study and think about it carefully and come up with a cogent analysis and critique of it.
+
+429
+00:54:14,219 --> 00:54:23,219
+So they were angered by that as well because they felt that professional courtesy was not extended to them in that regard.
+
+430
+00:54:23,219 --> 00:54:40,219
+And they felt that the work that the male clinic had done was to use Pauline's word somewhat fraudulent and they were worried that this would end serious consideration of vitamin C as a junk to therapy for cancer.
+
+431
+00:54:40,219 --> 00:54:53,219
+And they felt that that would be unethical and immoral and unscientific and ill conceived so they were upset and it was clear that they were upset.
+
+432
+00:54:53,219 --> 00:55:16,219
+But Cameron, neither Cameron or Pauline were, they didn't reveal anger, they didn't shout or break things or storm around or anything like that but voices were raised definitely and Cameron was not very pleased by the work that had been done at the male clinic.
+
+433
+00:55:16,219 --> 00:55:19,219
+It showed.
+
+434
+00:55:19,219 --> 00:55:25,219
+How much of the staff, what was the reaction to the criticism of the agencies have?
+
+435
+00:55:25,219 --> 00:55:45,219
+I think everyone was unhappy and angry as well. I think everyone shared the anger that these studies had been published and they weren't carefully done and there seemed to be lots of problems with them that they didn't replicate Cameron's protocol or Cameron's work as they were purportedly did.
+
+436
+00:55:45,219 --> 00:56:00,219
+I think there was also concern among the fundraising staff that this might bode ill for continuing efforts to raise money to support research at the institute and sure enough, there were some fundraising problems after that that work was published.
+
+437
+00:56:01,219 --> 00:56:24,219
+So it had a big impact on our work at the institute as well as sort of shelving serious consideration of vitamin C and cancer for many, many years which I think was a real disservice to the research community and to the huge population of cancer patients out there who might have benefited from this had the research been done more carefully early on.
+
+438
+00:56:25,219 --> 00:56:30,219
+But the staff continued to believe in the scientific ways of the idea.
+
+439
+00:56:30,219 --> 00:56:40,219
+Yes. And I think partly because the arguments that both Cameron and Pauline loved the leveled against the male clinic researchers were very cogent and sensible.
+
+440
+00:56:40,219 --> 00:56:45,219
+They weren't just fringe arguments that had no validity.
+
+441
+00:56:45,219 --> 00:56:52,219
+They were valid arguments and I think everyone was well aware of them.
+
+442
+00:56:52,219 --> 00:57:08,219
+In Cameron I think Cameron made, I think he said one time that at first he thought they were just dealing with fools and then he realized they were dealing with naves as he put it.
+
+443
+00:57:08,219 --> 00:57:18,219
+You mentioned very briefly in 1970 if the clinic had a risk that the cancer would set up a clinic for diagnosing and treating disease as it must have long been possible.
+
+444
+00:57:18,219 --> 00:57:24,219
+Well it predated my arrival at the institute so I don't really have a lot of firsthand knowledge about the clinic.
+
+445
+00:57:24,219 --> 00:57:34,219
+I know that the concept there was clear that some people might benefit from orthomolecular medical treatment.
+
+446
+00:57:34,219 --> 00:57:47,219
+But I think the funding and liability issues were, the funding was too low and the liability issues were too great to really turn that into a practical functional concern.
+
+447
+00:57:47,219 --> 00:58:01,219
+And I do remember Kareen Gorham and others telling me that there were people who showed up knocking on the door, Deathly Ill, and spent their last money on a bus ticket to get there and had no money and expected to be cured.
+
+448
+00:58:01,219 --> 00:58:06,219
+And that was not uncommon and that of course just was not possible.
+
+449
+00:58:06,219 --> 00:58:16,219
+So I think rather than risk having the tail wag the dog they decided to dissolve the clinic rather quickly.
+
+450
+00:58:16,219 --> 00:58:17,219
+What was it?
+
+451
+00:58:17,219 --> 00:58:20,219
+It was located within the building as I understand.
+
+452
+00:58:20,219 --> 00:58:23,219
+And Frank Catchpool was part of that.
+
+453
+00:58:23,219 --> 00:58:33,219
+And Catchpool I got to know off and on because he even when the clinic finished he was still loosely involved with the institute from time to time.
+
+454
+00:58:33,219 --> 00:58:41,219
+And I think he was practicing right up until the end of his life in Marine County, maybe in Sausolito, California.
+
+455
+00:58:41,219 --> 00:58:46,219
+And he really liked Pauling and I think Pauling really liked him quite a lot as well.
+
+456
+00:58:46,219 --> 00:58:50,219
+He spoke at Pauling's memorial service at Stanford Church.
+
+457
+00:58:50,219 --> 00:58:53,219
+Did you ever talk to him about his life?
+
+458
+00:58:53,219 --> 00:58:55,219
+Quite an interesting way.
+
+459
+00:58:55,219 --> 00:59:03,219
+I probably talked to him about his work in Africa of course where I think Pauling first met him.
+
+460
+00:59:03,219 --> 00:59:06,219
+Albert Schweitzer's camp there.
+
+461
+00:59:06,219 --> 00:59:11,219
+I can't remember those discussions very carefully now though.
+
+462
+00:59:11,219 --> 00:59:22,219
+Well we talked about this kind of off the line throughout the interview but I'm wondering if you could give a little bit more on the kind of the chronic money problems that you've had since you've faced for a very long time.
+
+463
+00:59:22,219 --> 00:59:31,219
+Yeah well the institute was I think founded and moved off the campus of Stanford University initially because there wasn't enough money.
+
+464
+00:59:31,219 --> 00:59:40,219
+Nor was there enough space at Stanford to carry out the work that Pauling really felt would make a big impact in public health, namely research and orthomolecular medicine.
+
+465
+00:59:40,219 --> 00:59:43,219
+Specifically research on vitamin C.
+
+466
+00:59:43,219 --> 00:59:52,219
+And I think Pauling and Robinson felt that this had great potential as did the metabolite profiling metabolic profiling program.
+
+467
+00:59:52,219 --> 01:00:02,219
+So they moved, they founded the institute, moved to this location that we've talked about in Menlo Park and then set about trying to raise money to carry out this research.
+
+468
+01:00:02,219 --> 01:00:13,219
+And government grants were not forthcoming for the vitamin C work although the metabolite metabolic profiling work was supported to a large extent by government grants in those days.
+
+469
+01:00:13,219 --> 01:00:22,219
+The development of the apparatus, data analysis, data collection, sample collection, things like that.
+
+470
+01:00:23,219 --> 01:00:45,219
+And then as the institute started to grow the need for more resources, financial resources became pretty clear and that's when art Robinson and Rick Hicks got involved in this direct mail solicitation program because they correctly perceived that the public had responded to Pauling's message and thoughts about vitamin C and health.
+
+471
+01:00:45,219 --> 01:01:04,219
+Much more quickly than the medical community and the scientific community. So there were lots of people out there who believed that Pauling was right about vitamin C and wanted to sort of support the David versus the Goliath, Pauling versus the Convention, the Convention on Medical Establishment.
+
+472
+01:01:04,219 --> 01:01:26,219
+So they were willing to give small and large donations to support research at the institute. So in a way that was very good because it allowed the institute to hire staff scientists without tenure of course but hire them and provide them with money to carry out research that was not dependent on government grants or corporate sponsorship.
+
+473
+01:01:26,219 --> 01:01:33,219
+Although throughout the history of the institute, corporate sponsorship and contracts were quite variable.
+
+474
+01:01:33,219 --> 01:01:52,219
+The Hoffman-LaRose gave money, the Japan Shipbuilding Industry Foundation gave money. So there were corporate and organizational sources of funding for the institute but sometimes they were restricted and sometimes they were non-restricted.
+
+475
+01:01:52,219 --> 01:02:01,219
+Luckily the money from some of those large donors was unrestricted and could be applied across the board to support whatever line is Pauling.
+
+476
+01:02:01,219 --> 01:02:07,219
+Art Robins and Ray Neel Zucicondle felt was important.
+
+477
+01:02:07,219 --> 01:02:27,219
+But because of, excuse me, because of the stock market performance and the vagaries of the national economy over years that affected the ability of individuals to some extent corporations to give money.
+
+478
+01:02:27,219 --> 01:02:37,219
+It affected their philanthropic abilities. So when there were down times during recessions and other down times people gave less money.
+
+479
+01:02:37,219 --> 01:02:56,219
+Nevertheless, at the institute the costs were constant or increasing. So in those times there was always a pinch. And that would often be resolved transiently by decreasing contributions to pension plans or salary reductions that were temporary.
+
+480
+01:02:56,219 --> 01:03:07,219
+So they would be lifted once the economic picture brightens somewhat. So it was always kind of a roller coaster depending upon what was going on in the national economy.
+
+481
+01:03:07,219 --> 01:03:20,219
+Because when you're a charitable organization depending upon the philanthropy of others, the economic climate affects the ability to give. And we certainly were aware of that.
+
+482
+01:03:20,219 --> 01:03:36,219
+Later, as I said, when the Mayo Clinic studies on vitamin C and cancer were published, that also caused transient loss in funds available to the institute because people were giving less money because they felt now vitamin C had failed to show anything.
+
+483
+01:03:36,219 --> 01:04:03,219
+Why support that kind of research? And still later when people became aware of Pauling's interest in work in HIV infection, AIDS, and vitamin C, that also caused transient loss in support because some people were opposed to that work on moral grounds and didn't want to see that kind of research funded at the institute.
+
+484
+01:04:03,219 --> 01:04:13,219
+And it strikes me that there couldn't have been many organizations like LDSM, where scientific research that were within the event there weren't funds for it.
+
+485
+01:04:13,219 --> 01:04:28,219
+I don't think there were. And interestingly enough, in the early 1990s, John Levit, who had been the director of the Molecular Carson and Genesis Laboratory, calculated the impact factor for the institution.
+
+486
+01:04:28,219 --> 01:04:35,219
+So impact factors can be calculated for journals, they can be calculated for scientists, they can also be calculated for institutions.
+
+487
+01:04:35,219 --> 01:04:48,219
+And I believe the result of John's analysis at that time ranked the institute in the top 15 nonprofit biomedical research institutes in the country on the basis of impact factor.
+
+488
+01:04:48,219 --> 01:04:58,219
+And I should add that that was not all related to Linus Pauling's productivity. Lots of papers from institute staff figured in the calculation of the impact factor.
+
+489
+01:04:58,219 --> 01:05:09,219
+So despite the fact that there were financial problems throughout the institute's career, I think ultimately in terms of productivity and influence, I think it succeeded.
+
+490
+01:05:09,219 --> 01:05:15,219
+Surprisingly well given the its size and lack of resources.
+
+491
+01:05:15,219 --> 01:05:20,219
+Over at 65 minutes do you want to do a few more questions?
+
+492
+01:05:20,219 --> 01:05:22,219
+What time is it?
+
+493
+01:05:22,219 --> 01:05:23,219
+It's 11.35.
+
+494
+01:05:23,219 --> 01:05:25,219
+Yeah, a couple more questions.
+
+495
+01:05:25,219 --> 01:05:27,219
+Tom Good.
+
+496
+01:05:27,219 --> 01:05:35,219
+So in 1980, the institute moved from the Molecular Carson for 40 pages and all those and all of those. What precipitated this?
+
+497
+01:05:35,219 --> 01:05:47,219
+Well my understanding at the time was that the building owned by Tom Ford in which the institute had been located was Premier League office building.
+
+498
+01:05:47,219 --> 01:05:56,219
+And it was on loosely packed sedimentary soils.
+
+499
+01:05:56,219 --> 01:06:04,219
+And over time because of earthquake activity, you know related to the San Andreas fault seismic activity in that whole area,
+
+500
+01:06:04,219 --> 01:06:09,219
+there had been some structural problems with the building.
+
+501
+01:06:09,219 --> 01:06:20,219
+And I believe that the owner wanted to evict everyone to fix the building structurally.
+
+502
+01:06:20,219 --> 01:06:30,219
+And probably did not want to invite the Linus Pauling is to back because he could make much more money by renting that space to paper companies.
+
+503
+01:06:30,219 --> 01:06:38,219
+And so people were doing lab research and whose financial outlook was sometimes sketchy at best.
+
+504
+01:06:38,219 --> 01:06:51,219
+So that precipitated a search by institute administrators Rick Hicks and Emil Zuck Kondel in particular to find a facility in which the institute carry out research.
+
+505
+01:06:51,219 --> 01:07:05,219
+Which led them to this old battery factory, Cinderblock construction at 440 page mill road that didn't require a great deal of renovation in order to accommodate the institute's work.
+
+506
+01:07:05,219 --> 01:07:10,219
+There was some renovation in laboratories.
+
+507
+01:07:10,219 --> 01:07:27,219
+We had a class biologically clean room that we had to design for large scale rat mouse work of a variant where we were housing guinea pigs and other animals for some vitamin C research.
+
+508
+01:07:27,219 --> 01:07:40,219
+So the move was made to that facility and we were on very good terms with the new landlords who increased the rent only dependent on the CPI increase every year or every couple years.
+
+509
+01:07:40,219 --> 01:07:48,219
+So they weren't out to make a killing by escalating the rent to the point where we would have to move and they would get some other tenant in there.
+
+510
+01:07:48,219 --> 01:08:01,219
+They seem to have some feeling for the institute's mission and admiration for Linus Pauling and wanted to make it as easy as possible for the institute to remain in that building.
+
+511
+01:08:01,219 --> 01:08:09,219
+So it sounds like in financial terms of the positive move and the space itself, what were you in there?
+
+512
+01:08:09,219 --> 01:08:14,219
+Well, there was much more square footage available to us in this building.
+
+513
+01:08:14,219 --> 01:08:24,219
+The building itself was pretty shabby compared to the nice office building that we left in Menel Park.
+
+514
+01:08:24,219 --> 01:08:29,219
+As I said, it was a Cinderblock construction, kind of an ugly building, really nothing to look at.
+
+515
+01:08:29,219 --> 01:08:37,219
+Definitely not a showcase building, but it was functional and the offices were fine and we were able to carry out the scientific work.
+
+516
+01:08:37,220 --> 01:08:42,220
+So that was fine. It suited us at the time.
+
+517
+01:08:42,220 --> 01:08:59,220
+And we moved everything ourselves. Alan Sheetz, who was about chemist working at the institute, his father had been a professional mover in Idaho and Alan had spent a lot of his boyhood years in college years doing summer jobs moving for his father's company.
+
+518
+01:08:59,220 --> 01:09:04,220
+So he really knew about moving equipment and offices and laboratories and so forth.
+
+519
+01:09:04,220 --> 01:09:17,220
+So Alan really coordinated our move from one facility to the other and we rented a bunch of big trucks and hand trucks and blankets and all the other material that we needed to move and basically did it ourselves.
+
+520
+01:09:17,220 --> 01:09:20,220
+I saved a lot of money.
+
+521
+01:09:20,220 --> 01:09:26,220
+Were there any special considerations over the senior, with the science of the apparatus?
+
+522
+01:09:26,220 --> 01:09:30,220
+Oh yeah. Everything was moved very carefully, of course.
+
+523
+01:09:30,220 --> 01:09:36,220
+And we had to close the experimental work and then lock down all the instruments.
+
+524
+01:09:36,220 --> 01:09:45,220
+And it was a challenge to move some of these things, but nevertheless we did it and vendors would come in and recalibrate our centrifuges and other equipment.
+
+525
+01:09:45,220 --> 01:09:47,220
+So we managed to get it all done.
+
+526
+01:09:47,220 --> 01:09:54,220
+And at the time we had quite a few reasonably young men on staff.
+
+527
+01:09:54,220 --> 01:10:00,220
+So we had quite a lot of muscle power at the time and we could do this.
+
+528
+01:10:00,220 --> 01:10:09,220
+And then can maybe two of the institutes to give up the first line of point level for humanitarian use?
+
+529
+01:10:09,220 --> 01:10:17,220
+Well of course at that time I was not an administration. I was just in research so I didn't really have any insight into the nature of this award.
+
+530
+01:10:17,220 --> 01:10:21,220
+I mean I was aware of the awards and the ceremonies and so forth.
+
+531
+01:10:21,220 --> 01:10:29,220
+And the candidates all seem to be uniformly deserving of the award, but it always seemed to me to have a bit of a fundraising component to it.
+
+532
+01:10:29,220 --> 01:10:40,220
+And I think probably if you asked the people who had set up these awards and the occasions I think they would probably admit that there was a fundraising component.
+
+533
+01:10:40,220 --> 01:10:46,220
+What was the nature of the electrical conservatory in 1993?
+
+534
+01:10:46,220 --> 01:10:49,220
+Literal?
+
+535
+01:10:49,220 --> 01:10:54,220
+Again I didn't have a lot of familiarity with that at the time.
+
+536
+01:10:54,220 --> 01:11:08,220
+I know that Pauline believed that there may be some validity to Leotrull and he thought that there was enough biological plausibility that studies should be undertaken.
+
+537
+01:11:08,220 --> 01:11:24,220
+I don't think he had a firm opinion that yes Leotrull is definitely valuable in treating cancer, but I think he was calling for more research to really get to the bottom of whether or not this was going to be useful in cancer therapy.
+
+538
+01:11:24,220 --> 01:11:28,220
+Other than that I really was not too aware of the controversy at the time.
+
+539
+01:11:28,220 --> 01:11:33,220
+And that thing actually went on with the Institute of Human Services and Investigation.
+
+540
+01:11:33,220 --> 01:11:36,220
+Not that I can remember.
+
+541
+01:11:36,220 --> 01:11:45,220
+No. One program that I got involved with just backtracking slightly with you in Cameron was Cameron of course, and maybe I talked about this earlier, I can't remember.
+
+542
+01:11:45,220 --> 01:11:55,220
+Cameron was very interested in whether or not vitamin C would affect chemotherapy drug activity in the body.
+
+543
+01:11:55,220 --> 01:12:06,220
+And he was concerned that cancer patients who were taking chemotherapy drugs that were designed to be effective in halting the spread of cancer or attacking the primary tumor.
+
+544
+01:12:06,220 --> 01:12:19,220
+He didn't want those people to take simultaneously high dose vitamin C if the vitamin C was going to neutralize the effectiveness of the chemotherapy drugs because vitamin C has some general detoxifying capabilities.
+
+545
+01:12:19,220 --> 01:12:29,220
+And it can interfere with certain drug actions. So he was very concerned about that and he wasn't sure whether vitamin C would or would not affect chemotherapy drugs.
+
+546
+01:12:29,220 --> 01:12:42,220
+So we set up an experiment Alan Sheetz and I with you in Cameron and Len McPherson to look at the effect on fingerling trout of chemotherapy drugs and vitamin C.
+
+547
+01:12:42,220 --> 01:12:52,220
+Because you can monitor the movement of fish which relates to their physiology and biochemical activity and I guess how they're feeling as well.
+
+548
+01:12:52,220 --> 01:13:09,220
+So the idea was to measure fish movement in fish that had been exposed to drugs like method trexate with and with that vitamin C to see if the vitamin C was interfering with the drug action in the fish.
+
+549
+01:13:09,220 --> 01:13:15,220
+The last thing I want to ask you about today is calling in relationship with the biochemical assessor color.
+
+550
+01:13:15,220 --> 01:13:23,220
+So we talked a bit about this foundation and definitely should go into foundation and we might understand if the date done is running for instance.
+
+551
+01:13:23,220 --> 01:13:32,220
+So it's also got something in the controversial figure that something we know is ever discussed in the Institute or if they are identified in a source of funds.
+
+552
+01:13:32,220 --> 01:13:44,220
+I think some people were aware of Sussex Alice controversial history in Japan.
+
+553
+01:13:44,220 --> 01:13:51,220
+I was aware that he made at least some fortune for motorboat racing in Japan.
+
+554
+01:13:51,220 --> 01:13:58,220
+That didn't really bother me much. I wasn't that familiar with some of the other accusations levied against him at the time.
+
+555
+01:13:58,220 --> 01:14:24,220
+To be honest with you, I think that the magnitude of the gift from Sussex Gawa Foundation affected what we were able to do at the Institute so dramatically that I think most people either chose not to think too carefully about his history and just accept the money which I believe was about $500,000 a year for 10 years.
+
+556
+01:14:24,220 --> 01:14:32,220
+A lot of that focused on aging research and we had a Sussex Gawa aging research laboratory set up at Porter Drive.
+
+557
+01:14:32,220 --> 01:14:45,220
+And when Sussex Gawa and his entourage would visit the Institute it was always in a long line of black limousines and many many people in dark suits that would always accompany him.
+
+558
+01:14:45,220 --> 01:14:53,220
+My casual observation seemed to be that he seemed to be a pretty important figure and very wealthy but I didn't really know much about him.
+
+559
+01:14:53,220 --> 01:15:03,220
+I met him once and had some subsequent communication with his son and other functionaries at the foundation much later.
+
+560
+01:15:03,220 --> 01:15:12,220
+But I didn't really, I wasn't privy to any interactions that took place between Pauling and Sussex Gawa.
+

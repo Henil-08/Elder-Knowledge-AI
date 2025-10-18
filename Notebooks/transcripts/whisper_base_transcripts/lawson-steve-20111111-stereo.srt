@@ -1,0 +1,4212 @@
+1
+00:00:00,000 --> 00:00:07,120
+Okay Steve, so as in the past, I'd introduce yourself.
+
+2
+00:00:07,120 --> 00:00:12,080
+My name is Steve Lawson, or in a conference room in Valley Library on 11th of November
+
+3
+00:00:12,080 --> 00:00:13,080
+2011.
+
+4
+00:00:13,080 --> 00:00:19,359
+So in our last session we talked quite a bit about the Mayo Clinic and Controversy, and
+
+5
+00:00:19,359 --> 00:00:22,920
+I don't know that we need to go over the details of that again, but I'm interested in knowing
+
+6
+00:00:22,920 --> 00:00:28,640
+a little bit more about the response from within the institute, especially if there is
+
+7
+00:00:28,640 --> 00:00:37,640
+a, there was ever a plan or an idea about developing a research program specifically in
+
+8
+00:00:37,640 --> 00:00:41,960
+response to what the Mayo Clinic had said.
+
+9
+00:00:41,960 --> 00:00:47,040
+I don't think that there was a plan to develop a research project in response to the Mayo
+
+10
+00:00:47,040 --> 00:00:48,040
+Clinic studies.
+
+11
+00:00:48,040 --> 00:00:52,920
+I think that Pauling and Cameron and anyone else who was sympathetic to their position
+
+12
+00:00:52,920 --> 00:01:01,040
+realized that the studies purportedly done to replicate Cameron's work were very flawed.
+
+13
+00:01:01,040 --> 00:01:07,320
+And as I mentioned last time, Cameron and Pauling were angry that the New England Journal
+
+14
+00:01:07,320 --> 00:01:12,520
+of Medicine, for instance, did not publish critical letters in a timely fashion.
+
+15
+00:01:12,520 --> 00:01:18,560
+And typically medical journals will publish critical letters while the original clinical
+
+16
+00:01:19,280 --> 00:01:24,359
+trial or study reported in that journal is still freshening people's minds.
+
+17
+00:01:24,359 --> 00:01:29,439
+And I think Pauling actually invoked his lawyer to contact Arnold Rellman of the New England
+
+18
+00:01:29,439 --> 00:01:34,280
+Journal of Medicine to find out what had happened to the letters that had been submitted.
+
+19
+00:01:34,280 --> 00:01:39,480
+Because the etiquette is that when you submit a publication or a letter to a journal for
+
+20
+00:01:39,480 --> 00:01:45,680
+consideration, for publication in that journal, you can't submit it elsewhere.
+
+21
+00:01:45,680 --> 00:01:51,120
+So this kind of stymied the ability of Cameron and Pauling to err their grievances about
+
+22
+00:01:51,120 --> 00:01:57,160
+the Mayo Clinic studies in print in a journal because they had already submitted really
+
+23
+00:01:57,160 --> 00:02:02,200
+cogent responses and Rellman seemed to be sitting on these for quite a long time.
+
+24
+00:02:02,200 --> 00:02:06,160
+I think finally they published something, but it was nearly a year after the original
+
+25
+00:02:06,160 --> 00:02:08,400
+study had been published.
+
+26
+00:02:08,400 --> 00:02:13,240
+Letters are read, but they certainly don't attract the kind of media interest that the
+
+27
+00:02:13,240 --> 00:02:16,600
+original study attracted.
+
+28
+00:02:16,600 --> 00:02:23,240
+So I think Cameron and Pauling felt that they needed to continue on showing that vitamin
+
+29
+00:02:23,240 --> 00:02:27,439
+C had value because they were both convinced by this time that vitamin C had value for many
+
+30
+00:02:27,439 --> 00:02:29,760
+cancer patients.
+
+31
+00:02:29,760 --> 00:02:35,800
+And Pauling was also becoming a little after the second Mayo Clinic trial.
+
+32
+00:02:35,800 --> 00:02:43,200
+He had heard from Abram Hauffer, the Canadian psychiatrist who had stimulated his interest
+
+33
+00:02:43,199 --> 00:02:50,280
+in B vitamins and schizophrenia back in the early 1960s or mid 1960s that Hauffer had
+
+34
+00:02:50,280 --> 00:02:57,439
+been treating cancer patients with high dose vitamin C given orally as well as an expanded
+
+35
+00:02:57,439 --> 00:03:04,439
+treatment regimen that included B vitamins, fatty acids, zinc and some other micronutrients.
+
+36
+00:03:04,439 --> 00:03:07,879
+And these cancer patients seem to be doing quite well.
+
+37
+00:03:07,879 --> 00:03:12,759
+So Pauling encouraged Hauffer to collect that data with the intent of analyzing it and
+
+38
+00:03:12,759 --> 00:03:13,919
+publishing it.
+
+39
+00:03:13,919 --> 00:03:14,919
+And they did that.
+
+40
+00:03:14,919 --> 00:03:19,599
+They published two papers in the Journal of Worth and Molecular Medicine on Hauffer's
+
+41
+00:03:19,599 --> 00:03:20,599
+observation.
+
+42
+00:03:20,599 --> 00:03:26,359
+So I think that this was not a response to the Mayo Clinic trials per se, but a continuation
+
+43
+00:03:26,359 --> 00:03:31,599
+of Pauling's deep interest in vitamin C and cancer.
+
+44
+00:03:31,599 --> 00:03:38,000
+And Hauffer had been, Hauffer is an MD-PhD as a psychiatrist by training in profession.
+
+45
+00:03:38,000 --> 00:03:40,519
+And you might wonder why he was treating cancer patients.
+
+46
+00:03:40,520 --> 00:03:45,640
+Well, it turns out that many cancer patients, especially when given a diagnosis, prognosis
+
+47
+00:03:45,640 --> 00:03:52,040
+of terminal cancer, developed psychological problems, depression, anxiety, whatnot.
+
+48
+00:03:52,040 --> 00:03:57,760
+And they were being referred to Hauffer by oncologists in Vancouver and Victoria in British
+
+49
+00:03:57,760 --> 00:04:05,320
+Columbia to treat these mental manifestations that accompanied the bad news about the
+
+50
+00:04:05,320 --> 00:04:07,240
+cancer diagnosis.
+
+51
+00:04:07,240 --> 00:04:13,840
+So Hauffer began treating these people for mental health issues and kind of serendipitously
+
+52
+00:04:13,840 --> 00:04:18,360
+observed that they were living much longer in many cases than they were expected to live
+
+53
+00:04:18,360 --> 00:04:20,240
+by their oncologists.
+
+54
+00:04:20,240 --> 00:04:26,160
+And he brought that observation to Pauling who encouraged him then to collect the data.
+
+55
+00:04:26,160 --> 00:04:31,920
+So Cameron and Pauling continued to be very interested in vitamin C and cancer.
+
+56
+00:04:31,920 --> 00:04:39,800
+And I think was a bit discouraged by the political implications of this whole embryo at the
+
+57
+00:04:39,800 --> 00:04:40,800
+Mayo Clinic.
+
+58
+00:04:40,800 --> 00:04:44,560
+And I think he became very frustrated and discouraged.
+
+59
+00:04:44,560 --> 00:04:46,640
+And his attention was also turned elsewhere.
+
+60
+00:04:46,640 --> 00:04:50,920
+He was very interested in fatty acids and cancer and had set up a project at the Institute
+
+61
+00:04:50,920 --> 00:04:59,200
+to study the effect of oral fats in animals in a tumor model.
+
+62
+00:04:59,199 --> 00:05:05,959
+And he was also becoming more and more interested in AIDS and the potential value of high dose
+
+63
+00:05:05,959 --> 00:05:08,839
+vitamin C in treating AIDS patients.
+
+64
+00:05:08,839 --> 00:05:13,399
+And as you know, he and Pauling worked on a book together that absorbed quite a lot of
+
+65
+00:05:13,399 --> 00:05:18,519
+Cameron's time and attention in those last years, which was never published.
+
+66
+00:05:18,519 --> 00:05:26,039
+Can you talk a little more about the fatty acids, Lyonid research?
+
+67
+00:05:26,040 --> 00:05:32,840
+Cameron, I believe, had known or knew of David Horabin's work in England.
+
+68
+00:05:32,840 --> 00:05:37,120
+And Horabin had written a book on omega-3 fatty acids.
+
+69
+00:05:37,120 --> 00:05:42,520
+He was a researcher and I believe he was also a clinician who was very interested in the
+
+70
+00:05:42,520 --> 00:05:49,800
+health, sort of the orthomolecular approach to health using fatty acids and other micronutrients.
+
+71
+00:05:49,800 --> 00:05:54,000
+But he was particularly interested in fatty acids and brain function.
+
+72
+00:05:54,000 --> 00:06:02,800
+And Horabin, when I saw him at some point in the 1980s or early 1990s, had reported on
+
+73
+00:06:02,800 --> 00:06:09,439
+a clinical trial, preliminary clinical trial done in England with, I believe, schizophrenia
+
+74
+00:06:09,439 --> 00:06:15,959
+who were given fatty acids supplementation and MRIs or computer tomography had been done
+
+75
+00:06:15,959 --> 00:06:16,959
+of their brains.
+
+76
+00:06:16,959 --> 00:06:23,839
+And they found that the ventricular spaces shrunk as a result of ingestion of these fatty
+
+77
+00:06:23,919 --> 00:06:30,199
+acids over a period of time, which also correlated with some symptomatic improvement.
+
+78
+00:06:30,199 --> 00:06:35,560
+So Horabin and Cameron, I think, too, were becoming very interested in the psychiatric
+
+79
+00:06:35,560 --> 00:06:37,120
+application of fatty acids.
+
+80
+00:06:37,120 --> 00:06:43,079
+And then from epidemiological studies and rodent studies, it's been known for a long
+
+81
+00:06:43,079 --> 00:06:49,159
+time that omega-6 fatty acids, polyinsaturated fatty acids may augment tumor development
+
+82
+00:06:49,160 --> 00:06:52,760
+in some rodent models.
+
+83
+00:06:52,760 --> 00:06:55,360
+And there may be a protective effect by omega-3 fats.
+
+84
+00:06:55,360 --> 00:07:00,120
+So I think Cameron was interested in teasing apart those effects of different types of fatty
+
+85
+00:07:00,120 --> 00:07:02,120
+acids in a mouse model.
+
+86
+00:07:02,120 --> 00:07:05,600
+And that's an experiment that was set up at the Institute.
+
+87
+00:07:05,600 --> 00:07:06,600
+Yes.
+
+88
+00:07:06,600 --> 00:07:11,560
+In 1986, how to live longer in fuel better is published?
+
+89
+00:07:11,560 --> 00:07:16,400
+Is this something that the L.P.I. staff was part of it all over the whole of the
+
+90
+00:07:16,399 --> 00:07:20,359
+underlying projects until himself?
+
+91
+00:07:20,359 --> 00:07:21,359
+Excuse me.
+
+92
+00:07:21,359 --> 00:07:27,120
+Dorothy Monroe, of course, helped him with that because she was his secretary and she worked
+
+93
+00:07:27,120 --> 00:07:29,519
+a lot on that book.
+
+94
+00:07:29,519 --> 00:07:33,919
+And I think he had helped perhaps from Fred Stitt, maybe some other people at the Institute,
+
+95
+00:07:33,919 --> 00:07:37,159
+but it wasn't an institute-wide effort.
+
+96
+00:07:37,159 --> 00:07:38,599
+It was done by Linus Pauling.
+
+97
+00:07:38,599 --> 00:07:43,120
+I think Stella Kerman probably helped him in getting references and things of that nature
+
+98
+00:07:43,120 --> 00:07:44,120
+too.
+
+99
+00:07:44,280 --> 00:07:47,600
+As far as I know, Pauling himself produced the draft.
+
+100
+00:07:47,600 --> 00:07:54,120
+And I believe he shared that probably with some people, including Fred Stitt, for proof
+
+101
+00:07:54,120 --> 00:07:56,040
+reading and suggestions and so forth.
+
+102
+00:07:56,040 --> 00:07:59,120
+But I think it was largely his project.
+
+103
+00:07:59,120 --> 00:08:04,079
+And he directed that the royalties from that book come to the Linus Pauling Institute
+
+104
+00:08:04,079 --> 00:08:08,399
+of Science and Medicine because he undertook the book as an employee of the Linus Pauling
+
+105
+00:08:08,399 --> 00:08:09,399
+Institute.
+
+106
+00:08:09,399 --> 00:08:12,879
+It wasn't something he was doing on his own for financial gain.
+
+107
+00:08:12,879 --> 00:08:17,360
+He really wanted that money to come to the Institute to support research.
+
+108
+00:08:17,360 --> 00:08:22,560
+What sort of reaction did you know in response to the book, people that were getting a hold
+
+109
+00:08:22,560 --> 00:08:24,719
+of the Linus Pauling Institute?
+
+110
+00:08:24,719 --> 00:08:27,959
+Well, there seemed to be a lot of interest in the book.
+
+111
+00:08:27,959 --> 00:08:30,920
+The original hardcover was published by WH Freeman.
+
+112
+00:08:30,920 --> 00:08:33,159
+That wasn't around long.
+
+113
+00:08:33,159 --> 00:08:41,039
+Then there was a paperback also published by Freeman that was a, what would you call it,
+
+114
+00:08:41,039 --> 00:08:42,039
+a trade paperback?
+
+115
+00:08:42,039 --> 00:08:45,959
+It was larger than a regular pocketbook paperback.
+
+116
+00:08:45,959 --> 00:08:48,799
+And that seemed to sell very well in addition.
+
+117
+00:08:48,799 --> 00:08:56,120
+And then shortly after the Freeman editions, the mass market paperback rights were auctioned
+
+118
+00:08:56,120 --> 00:08:59,439
+and Avan was the successful bidder.
+
+119
+00:08:59,439 --> 00:09:05,240
+And it went, I think it was the best seller for Avan as well and went through many, many,
+
+120
+00:09:05,240 --> 00:09:06,559
+many printings.
+
+121
+00:09:06,559 --> 00:09:08,319
+So people really responded to the book.
+
+122
+00:09:08,320 --> 00:09:11,560
+I mean, I think it was in the New York Times bestseller list for a while.
+
+123
+00:09:11,560 --> 00:09:15,720
+I'm not sure what the rank was or for how long, but it sold very, very well.
+
+124
+00:09:15,720 --> 00:09:21,000
+And I don't think that the main impact was financial revenue for the Institute to carry
+
+125
+00:09:21,000 --> 00:09:25,120
+out research, but more of an awareness of Pauling's ideas in orthomolecular medicine and
+
+126
+00:09:25,120 --> 00:09:30,560
+the fact that a lot of this research was going on in California at the Linus Pauling Institute.
+
+127
+00:09:30,560 --> 00:09:33,080
+So it definitely directed attention to the Institute.
+
+128
+00:09:33,080 --> 00:09:35,600
+But of course, this was before the internet.
+
+129
+00:09:35,600 --> 00:09:41,759
+So people reading the book and wanting to learn more about the possible impact of vitamin
+
+130
+00:09:41,759 --> 00:09:47,000
+C and other vitamins and nutritionally essential minerals and so forth on cognitive function
+
+131
+00:09:47,000 --> 00:09:52,519
+or health, prevention and treatment of cardiovascular disease and cancer and so forth would typically
+
+132
+00:09:52,519 --> 00:09:55,800
+call or write to the Institute.
+
+133
+00:09:55,800 --> 00:10:02,480
+And that of course resulted in a huge enterprise.
+
+134
+00:10:02,480 --> 00:10:07,440
+Because we didn't have very many staff to deal with all these letters that would come in.
+
+135
+00:10:07,440 --> 00:10:13,680
+And you and Cameron, who had been non-resident fellow in the Institute, I think moved to California
+
+136
+00:10:13,680 --> 00:10:20,519
+to take up position as medical director maybe around 1984, 1985, somewhere in that mid-1980
+
+137
+00:10:20,519 --> 00:10:21,519
+period.
+
+138
+00:10:21,519 --> 00:10:27,440
+And as I said earlier, a lot of his effort was directed at responding to these letters
+
+139
+00:10:27,440 --> 00:10:35,760
+and phone calls from people with medical problems who wanted to know about the therapeutic
+
+140
+00:10:35,760 --> 00:10:39,520
+value of micronutrients, especially vitamin C.
+
+141
+00:10:39,520 --> 00:10:42,320
+And Fred Stitt also helped in that area quite a lot.
+
+142
+00:10:42,320 --> 00:10:47,440
+Fred had joined the Institute as a volunteer in the early 1980s.
+
+143
+00:10:47,440 --> 00:10:54,400
+He had known Pauling at Caltech and was actually thanked in Pauling's book on the chemical
+
+144
+00:10:54,400 --> 00:10:57,320
+bond, Nature of the Chemical Bond.
+
+145
+00:10:57,320 --> 00:10:59,600
+So he and Pauling had a long relationship.
+
+146
+00:10:59,600 --> 00:11:07,680
+Fred was retired and had an office at the Institute and Fred became the newsletter editor and
+
+147
+00:11:07,680 --> 00:11:13,720
+also helped develop some standardized information packets that the Institute could send out to
+
+148
+00:11:13,720 --> 00:11:20,200
+people who had, because at that point the volume of mail and requests was so large that oftentimes
+
+149
+00:11:20,200 --> 00:11:25,360
+these things couldn't be handled on a personal basis because it was just overwhelming.
+
+150
+00:11:25,360 --> 00:11:30,840
+Some of the questions were very peculiar or idiosyncratic and required a little bit of
+
+151
+00:11:30,840 --> 00:11:35,919
+work to answer a little research to find out what the appropriate response would be.
+
+152
+00:11:35,919 --> 00:11:41,720
+Some other questions were a little more generic and these information packets were designed
+
+153
+00:11:41,720 --> 00:11:45,320
+and made to answer those more generic questions.
+
+154
+00:11:45,320 --> 00:11:49,240
+And Fred was heavily involved in that, putting together these different generic packets that
+
+155
+00:11:49,240 --> 00:11:51,080
+could go out to people.
+
+156
+00:11:51,080 --> 00:11:53,800
+So he vetted that mail for the most part?
+
+157
+00:11:53,799 --> 00:12:02,359
+Fred and you and Karen Mren and Dorothy Monroe, I think Carol Bestelier had been doing this
+
+158
+00:12:02,359 --> 00:12:07,759
+at Sandhill Road Facility and I don't think that she was still part of the institute
+
+159
+00:12:07,759 --> 00:12:12,759
+in the 1980s when we moved to the Page Mail Road Facility.
+
+160
+00:12:12,759 --> 00:12:18,219
+But she had been doing a lot of that in Sandhill Road and actually she identified quite a
+
+161
+00:12:18,219 --> 00:12:19,219
+few issues.
+
+162
+00:12:19,219 --> 00:12:22,459
+I think that we're very important for people to think about, especially with respect to
+
+163
+00:12:22,460 --> 00:12:30,060
+liability, trying not to provide medical advice but being compassionate and being helpful
+
+164
+00:12:30,060 --> 00:12:35,860
+to people but also not trying to tell them what to do medically because of course we couldn't
+
+165
+00:12:35,860 --> 00:12:37,540
+do anything like that.
+
+166
+00:12:37,540 --> 00:12:43,660
+And Carol struggled with a lot of those issues and sort of laid the groundwork for a successful
+
+167
+00:12:43,660 --> 00:12:46,139
+strategy for answering these kinds of questions.
+
+168
+00:12:47,139 --> 00:12:51,039
+Interesting, the camera was so closely involved considering his pretty heavy research
+
+169
+00:12:51,039 --> 00:12:52,039
+to do.
+
+170
+00:12:52,039 --> 00:12:55,699
+Yeah, well I think he enjoyed it.
+
+171
+00:12:55,699 --> 00:13:04,500
+He definitely was interested in research but he really was a patient-oriented doctor.
+
+172
+00:13:04,500 --> 00:13:08,939
+He would have been a terrific doctor to have for personal care because he was very compassionate.
+
+173
+00:13:08,939 --> 00:13:10,899
+He was a good listener.
+
+174
+00:13:10,899 --> 00:13:17,679
+And he was not at all afflicted by the kind of arrogant or rushed attitude that you find
+
+175
+00:13:17,679 --> 00:13:23,980
+in many contemporary physicians just because the insurance reimbursement for physicians
+
+176
+00:13:23,980 --> 00:13:30,340
+can be, can dictate how medical practice is actually done in this country and doctors
+
+177
+00:13:30,340 --> 00:13:35,779
+aren't allowed to spend much time with patients.
+
+178
+00:13:35,779 --> 00:13:37,220
+Cameron was not like that at all.
+
+179
+00:13:37,220 --> 00:13:41,660
+He was much more old school and really like to listen to people and their problems and
+
+180
+00:13:41,660 --> 00:13:46,060
+then think about what the appropriate treatment or response would be.
+
+181
+00:13:46,060 --> 00:13:53,779
+So I think that responding to the public who brought these health questions or concerns
+
+182
+00:13:53,779 --> 00:13:58,100
+to the institute, I think he enjoyed that.
+
+183
+00:13:58,100 --> 00:14:02,540
+So in 1987 we mentioned this a little bit already but the vitamin C and AIDS research
+
+184
+00:14:02,539 --> 00:14:07,539
+starts to make a little bit more of a good describe what that research was.
+
+185
+00:14:07,539 --> 00:14:15,240
+Yeah, to the best of my recollection, Rex C. Jerawalla had come to the institute from Johns
+
+186
+00:14:15,240 --> 00:14:22,980
+Hopkins and I believe he knew John Levit at Johns Hopkins as well.
+
+187
+00:14:22,980 --> 00:14:27,740
+John Levit had joined the institute to direct our molecular carcinogenesis program which
+
+188
+00:14:27,740 --> 00:14:30,779
+again really didn't have anything to do with orthomolecular medicine.
+
+189
+00:14:30,779 --> 00:14:41,459
+It was more looking at, as I said molecular carcinogenesis, how genes and certain proteins
+
+190
+00:14:41,459 --> 00:14:45,179
+can be involved in the development of the cancer phenotype.
+
+191
+00:14:45,179 --> 00:14:49,620
+He was particularly interested in a mutant beta actin which seemed to be a reliable marker
+
+192
+00:14:49,620 --> 00:14:55,980
+for many types of human cancer and used protein profiling extensively to do quantitative and
+
+193
+00:14:55,980 --> 00:15:02,340
+qualitative studies of these gene products that seemed to correlate with cancer.
+
+194
+00:15:02,340 --> 00:15:10,100
+So Rex C. was a virologist and he set up the laboratory for viral carcinogenesis because
+
+195
+00:15:10,100 --> 00:15:17,940
+his initial interest was in Cetamigallo viral carcinogenesis and carcinogenesis due to
+
+196
+00:15:17,940 --> 00:15:24,220
+Herpes virus type 2 infection because it was known at the time that infection with HSV
+
+197
+00:15:24,300 --> 00:15:29,820
+increased the risk for certain types of gynecologic cancers in women.
+
+198
+00:15:29,820 --> 00:15:35,180
+I'm not sure that it's related to any increased cancer risk for men but there was an increased
+
+199
+00:15:35,180 --> 00:15:40,660
+cancer risk for women and I worked with him to some degree in that program.
+
+200
+00:15:40,660 --> 00:15:49,940
+We were looking at small fragments of Herpes virus type 2 DNA that were sufficient to cause
+
+201
+00:15:49,940 --> 00:15:52,260
+transformation of rat cells.
+
+202
+00:15:52,260 --> 00:15:58,220
+So we would grow rat 2 cells which are quasi-normal cells in culture and then transfect them with
+
+203
+00:15:58,220 --> 00:16:03,640
+these small viral fragments from Herpes virus type 2 and look to see if there were any
+
+204
+00:16:03,640 --> 00:16:05,780
+observable changes in these rat cells.
+
+205
+00:16:05,780 --> 00:16:15,100
+We found the PST 2 or 3 C segment was sufficient to cause the rat 2 cells to become over tumor
+
+206
+00:16:15,180 --> 00:16:20,940
+forming cells when injected into animals.
+
+207
+00:16:20,940 --> 00:16:22,460
+We also did a lot of protein profiling.
+
+208
+00:16:22,460 --> 00:16:26,620
+I had expertise in protein profiling at that time and rat C really didn't so that was
+
+209
+00:16:26,620 --> 00:16:29,580
+what I brought to his project.
+
+210
+00:16:29,580 --> 00:16:37,259
+And together we also worked on a program that was supported by a philanthropist from Long
+
+211
+00:16:37,259 --> 00:16:42,500
+Island, New York on Phytoc acid which is found in seeds.
+
+212
+00:16:43,019 --> 00:16:48,379
+An antioxidant that protects seeds from oxidation because seeds need to store their genetic
+
+213
+00:16:48,379 --> 00:16:53,220
+program very carefully and be free from oxidative damage while they're waiting to germinate until
+
+214
+00:16:53,220 --> 00:16:54,940
+the conditions are right for germination.
+
+215
+00:16:54,940 --> 00:17:00,419
+Phytoc acid plays a very important role in protecting the seed genome.
+
+216
+00:17:00,419 --> 00:17:05,500
+And this fellow in New York had decided that it may have some anti-cancer effects.
+
+217
+00:17:05,500 --> 00:17:12,779
+So we were testing the anti-cancer effect of Phytoc acid in Syrian hamster embryos cells
+
+218
+00:17:12,779 --> 00:17:14,859
+and a number of other tumor cell lines.
+
+219
+00:17:14,859 --> 00:17:18,779
+I was doing a lot of that work, the cell culture work.
+
+220
+00:17:18,779 --> 00:17:22,900
+And that generated a few papers including papers that showed that Phytoc acid seemed to
+
+221
+00:17:22,900 --> 00:17:31,900
+affect cholesterol levels in animals and triglyceride levels in particular and also could inhibit
+
+222
+00:17:32,900 --> 00:17:37,780
+metal-induced carcinogenesis in animals.
+
+223
+00:17:37,780 --> 00:17:40,900
+We had a patent awarded for that particular work.
+
+224
+00:17:40,900 --> 00:17:47,860
+So rexet was pretty well versed in cell culture and virology and carcinogenesis.
+
+225
+00:17:47,860 --> 00:17:54,500
+And of course in the 1980s being close to San Francisco, everyone was well aware of this
+
+226
+00:17:54,500 --> 00:18:01,100
+new syndrome that was primarily affecting male homosexuals.
+
+227
+00:18:01,099 --> 00:18:05,579
+Although there seemed to be, I think at that time, some incidents in hemophiliax2 who
+
+228
+00:18:05,579 --> 00:18:12,419
+were undergoing blood transfusions, but the etiologic agent responsible for this age-ades
+
+229
+00:18:12,419 --> 00:18:20,419
+related, Arachia can't remember exactly what the C stands for in that, but it was a syndrome
+
+230
+00:18:20,419 --> 00:18:23,019
+that preceded overt AIDS.
+
+231
+00:18:23,019 --> 00:18:30,139
+So people would, of course, it wasn't known that HIV was responsible for AIDS at that time.
+
+232
+00:18:30,140 --> 00:18:39,820
+So there's a lot of concern about AIDS, Arach and how infectious this disease might be.
+
+233
+00:18:39,820 --> 00:18:46,100
+And there was a lot of emphasis on things like drug use and sex habits by male homosexuals
+
+234
+00:18:46,100 --> 00:18:48,380
+that may contribute to immunodeficiency.
+
+235
+00:18:48,380 --> 00:18:53,900
+So people weren't sure if it was a behavior, etiology, or whether there was some kind of pathogen
+
+236
+00:18:53,900 --> 00:18:55,900
+involved.
+
+237
+00:18:55,900 --> 00:19:01,180
+For time, of course, in the 1980s, it became clear from Montennyay's work in France and
+
+238
+00:19:01,180 --> 00:19:07,220
+also Gallos work in the United States that, aha, there is actually an infectious agent here
+
+239
+00:19:07,220 --> 00:19:12,019
+of virus that's probably responsible for causing AIDS.
+
+240
+00:19:12,019 --> 00:19:19,100
+And then cells were available that were infected with this virus, HIV.
+
+241
+00:19:19,500 --> 00:19:24,939
+We did, we're actually did a lot of work with Steve Herike, who was from Lebanon, N-Line
+
+242
+00:19:24,939 --> 00:19:33,339
+is Pauling, looking at the effect of vitamin C added to the culture medium in which telemphasites
+
+243
+00:19:33,339 --> 00:19:35,219
+infected with HIV were grown.
+
+244
+00:19:35,219 --> 00:19:41,579
+So they wanted to find out whether vitamin C would have any effect on viability of the virus
+
+245
+00:19:41,579 --> 00:19:43,980
+or replication of the virus.
+
+246
+00:19:43,980 --> 00:19:49,900
+And they found that it really affected viral replication, very potentally, dramatically
+
+247
+00:19:49,900 --> 00:19:52,420
+inhibited viral replication.
+
+248
+00:19:52,420 --> 00:19:59,539
+And that was assayed by amounts of reverse transcriptase and also the formation of syncytia,
+
+249
+00:19:59,539 --> 00:20:08,900
+which are abnormal cells that are sort of pathologic correlates of telemphasite infection.
+
+250
+00:20:08,900 --> 00:20:12,819
+So that led to a paper that was published in PNAS with three of them as authors.
+
+251
+00:20:12,819 --> 00:20:17,379
+I think Pauling was a senior author and Gerowall was perhaps the first author.
+
+252
+00:20:17,379 --> 00:20:21,259
+And that paper presented the results of these cell culture experiments.
+
+253
+00:20:21,259 --> 00:20:27,179
+Wasn't any clinical data, but they suggested that this might provide a promising approach
+
+254
+00:20:27,179 --> 00:20:33,899
+for the treatment of AIDS, namely by that time AZT had been come available to for treatment
+
+255
+00:20:33,899 --> 00:20:35,539
+of AIDS patients.
+
+256
+00:20:35,539 --> 00:20:42,299
+AZT is pretty effective at inhibiting the denobo infection of uninfected cells.
+
+257
+00:20:42,299 --> 00:20:46,460
+So you give AZT to patients and you preserve those uninfected cells from becoming infected
+
+258
+00:20:46,460 --> 00:20:47,980
+with a virus.
+
+259
+00:20:47,980 --> 00:20:50,980
+So vitamin C prevents viral replication.
+
+260
+00:20:50,980 --> 00:20:56,059
+So the idea was that if you give AZT and vitamin C, then you're inhibiting viral replication
+
+261
+00:20:56,059 --> 00:20:59,859
+and you're protecting, if there is a little bit of viral replication, you're also inhibiting
+
+262
+00:20:59,859 --> 00:21:01,899
+those new cells from becoming infected.
+
+263
+00:21:01,899 --> 00:21:08,099
+So the idea was that this might really, if it didn't eradicate the virus and kill the
+
+264
+00:21:08,099 --> 00:21:15,259
+cells that were infected with a virus, at least it could cause AIDS to become a manageable
+
+265
+00:21:15,259 --> 00:21:19,299
+disease, perhaps.
+
+266
+00:21:19,299 --> 00:21:22,459
+So what part of carrying involved?
+
+267
+00:21:22,459 --> 00:21:26,459
+Well I think Cameron got involved because obviously there were medical issues involved
+
+268
+00:21:26,459 --> 00:21:30,939
+here and he was Gerowall had a PhD but didn't have a medical degree.
+
+269
+00:21:30,939 --> 00:21:36,500
+The only other person at the institute, we had a veterinarian, Roger Barth, and Wilcott
+
+270
+00:21:36,500 --> 00:21:41,339
+had done him, had an MD and Wilcott was doing some work with guinea pigs and neural
+
+271
+00:21:41,339 --> 00:21:43,299
+atherism at the time.
+
+272
+00:21:43,299 --> 00:21:50,299
+But he was pretty advanced in age at that time and was not physically very vigorous.
+
+273
+00:21:50,299 --> 00:21:54,299
+And Cameron was still very vigorous and of course very interesting a lot of these issues.
+
+274
+00:21:54,299 --> 00:21:58,900
+And I think through conversations with Gerowall and Paul and Cameron just naturally
+
+275
+00:21:58,900 --> 00:22:03,740
+gravitated to that, especially once it had been demonstrated that vitamin C might have
+
+276
+00:22:03,740 --> 00:22:07,420
+an important role to play there.
+
+277
+00:22:07,420 --> 00:22:15,259
+So what was the reaction to this research both in the scientific community and the public?
+
+278
+00:22:15,259 --> 00:22:22,460
+Well I can't really say that I know what the reaction was in the scientific community.
+
+279
+00:22:22,460 --> 00:22:28,019
+I think by then maybe many people thought that line is Pauling was going to just publish
+
+280
+00:22:28,019 --> 00:22:32,460
+great stuff about vitamin C no matter what and that we'd never find anything coming from
+
+281
+00:22:32,460 --> 00:22:37,140
+the Pauling Institute that had anything to do with a negative effect of vitamin C.
+
+282
+00:22:37,140 --> 00:22:40,900
+Just so happens that all these experiments were positive.
+
+283
+00:22:40,900 --> 00:22:44,420
+So vitamin C is not snake oil but it does have a lot of very important and interesting
+
+284
+00:22:44,420 --> 00:22:49,380
+biochemical and physiological functions in the body and protecting against and treating
+
+285
+00:22:49,380 --> 00:22:50,539
+different diseases.
+
+286
+00:22:50,539 --> 00:22:57,460
+So it's not a panacea but it's a really remarkable substance and it's easy to see why line
+
+287
+00:22:57,460 --> 00:23:00,900
+is Pauling got so interested in it early on.
+
+288
+00:23:00,900 --> 00:23:03,820
+So I can't say what the professional reaction was.
+
+289
+00:23:03,820 --> 00:23:12,940
+I know that there were AIDS, there were doctors who treated AIDS patients who were very interested
+
+290
+00:23:12,940 --> 00:23:14,259
+in our results.
+
+291
+00:23:14,259 --> 00:23:18,980
+In particular there were several physicians from San Francisco general at the AIDS ward
+
+292
+00:23:18,980 --> 00:23:23,100
+there who came down to the institute and gave seminars and were in contact with Pauling
+
+293
+00:23:23,100 --> 00:23:25,180
+and Jerrowall about this.
+
+294
+00:23:25,180 --> 00:23:30,019
+There was a lot of anecdotal evidence as well from San Francisco and New York and other
+
+295
+00:23:30,099 --> 00:23:35,900
+major urban centers that had a lot of AIDS cases where some of the patients who were self-medicating
+
+296
+00:23:35,900 --> 00:23:42,619
+with high dose oral vitamin C seem to be doing a little bit better than their friends who
+
+297
+00:23:42,619 --> 00:23:46,660
+were not taking high dose vitamin C but there weren't any controlled clinical studies at
+
+298
+00:23:46,660 --> 00:23:51,259
+that time and I don't think to date there have been any controlled clinical trials on
+
+299
+00:23:51,259 --> 00:23:55,660
+vitamin C and HIV infection or AIDS.
+
+300
+00:23:55,660 --> 00:24:02,259
+And of course the RCTs are most persuasive when it comes to adopting new strategies in
+
+301
+00:24:02,259 --> 00:24:03,259
+medicine.
+
+302
+00:24:03,259 --> 00:24:07,820
+So absent RCTs I think probably a lot of physicians just ignored it.
+
+303
+00:24:07,820 --> 00:24:09,300
+It's in the realm of anecdotal evidence.
+
+304
+00:24:09,300 --> 00:24:10,820
+It really doesn't mean anything.
+
+305
+00:24:10,820 --> 00:24:11,820
+It's just coincidence.
+
+306
+00:24:11,820 --> 00:24:17,060
+You have vitamin C might have some value but it's such a pedestrian substance and I'm sure
+
+307
+00:24:17,060 --> 00:24:23,420
+that there are more promising biotherapies that we get involved in.
+
+308
+00:24:23,420 --> 00:24:28,180
+We can't completely disregard the political or financial perspectives in that whole debate
+
+309
+00:24:28,180 --> 00:24:33,380
+either because a lot of physicians who are charged with running clinical trials to evaluate
+
+310
+00:24:33,380 --> 00:24:40,900
+drugs stand a benefit from financially from the revenue stream should that drug turn
+
+311
+00:24:40,900 --> 00:24:41,940
+out to be effective.
+
+312
+00:24:41,940 --> 00:24:47,539
+So a lot of people have tremendous incentive to study drug therapy and there's just not
+
+313
+00:24:47,539 --> 00:24:52,180
+the same type of incentive with vitamin C.
+
+314
+00:24:52,180 --> 00:24:54,860
+But public reaction I think varied.
+
+315
+00:24:54,860 --> 00:24:59,820
+Of course people who were afflicted with AIDS or had friends who were afflicted with
+
+316
+00:24:59,820 --> 00:25:04,860
+AIDS were quite interested and very appreciative of the institute's work.
+
+317
+00:25:04,860 --> 00:25:14,980
+Other people who were a little bit who felt for whatever moral reason that AIDS was a behavioral
+
+318
+00:25:14,980 --> 00:25:20,700
+disease and that we shouldn't really waste money studying these problems that are due
+
+319
+00:25:20,700 --> 00:25:24,299
+to behavior and if people would just change their behavior it wouldn't have to worry about
+
+320
+00:25:24,299 --> 00:25:25,299
+this.
+
+321
+00:25:25,299 --> 00:25:31,940
+So some of those people withdrew support and again as we saw after the negative male clinic
+
+322
+00:25:31,940 --> 00:25:39,100
+studies on vitamin C and cancer there was a lapse in some financial response to our
+
+323
+00:25:39,100 --> 00:25:45,299
+direct male solicitation campaign.
+
+324
+00:25:45,299 --> 00:25:50,460
+But of course that never influenced the work that we undertook.
+
+325
+00:25:50,460 --> 00:25:58,779
+I mean we undertook work that was fundable either from grants or contracts or from unrestricted
+
+326
+00:25:58,779 --> 00:26:03,379
+funds that were available to us and be quest for the direct male program but I can't ever
+
+327
+00:26:03,379 --> 00:26:09,099
+recall any discussion that suggested that any line of work at the institute should be stopped
+
+328
+00:26:09,179 --> 00:26:16,099
+because it was a negative effect on either the media where we're down, we're nullifying
+
+329
+00:26:18,419 --> 00:26:26,019
+it or castigating it or donors were shying away because of that work.
+
+330
+00:26:26,019 --> 00:26:33,019
+So I think that kind of emulates Pauling's courageous attribute and not backing down if
+
+331
+00:26:33,019 --> 00:26:37,500
+he felt he was right and I think the institute sort of adopted that same strategy.
+
+332
+00:26:37,500 --> 00:26:40,500
+So that's an important research to do and we're not going to back down just because there's
+
+333
+00:26:40,500 --> 00:26:44,500
+a lot of revenue.
+
+334
+00:26:44,500 --> 00:26:47,740
+You mentioned that Cameron Pauling wrote a book about the subject that was going to publish
+
+335
+00:26:47,740 --> 00:26:49,740
+to you know why that is.
+
+336
+00:26:49,740 --> 00:26:51,819
+It takes you off it around.
+
+337
+00:26:51,819 --> 00:26:56,940
+Well my feeling is that they wrote the book without having talked any publisher in advance
+
+338
+00:26:56,940 --> 00:27:01,339
+to find out first of all if there was any interest in the book.
+
+339
+00:27:01,339 --> 00:27:08,339
+So I had no publishing contract and secondly I think the book was finished or nearly finished
+
+340
+00:27:08,980 --> 00:27:15,819
+when Cameron became ill and I think his illness probably led him to pay less attention to
+
+341
+00:27:15,819 --> 00:27:19,019
+it or be less excited about it.
+
+342
+00:27:19,019 --> 00:27:20,019
+But I infer that.
+
+343
+00:27:20,019 --> 00:27:22,339
+I don't know that for sure.
+
+344
+00:27:22,339 --> 00:27:26,059
+So we talked earlier about the vitamin C and cancer research and the perspective from
+
+345
+00:27:26,059 --> 00:27:31,179
+the institute, the staff being generally on board behind the, I think it was at the
+
+346
+00:27:31,179 --> 00:27:34,500
+surface against the same level of vitamin C and age work as well.
+
+347
+00:27:34,500 --> 00:27:35,500
+I think so.
+
+348
+00:27:35,500 --> 00:27:39,859
+I mean I never talked to anybody at the institute who expressed any scorn or negative
+
+349
+00:27:39,859 --> 00:27:41,019
+feelings about that work.
+
+350
+00:27:41,019 --> 00:27:46,980
+I mean I think everybody, the institute was relatively small and fairly collegial.
+
+351
+00:27:46,980 --> 00:27:52,259
+I mean there were certain tensions and conflicts that developed over time of course from time
+
+352
+00:27:52,579 --> 00:27:58,059
+to time as in any organization but I think people were very respectful of one another
+
+353
+00:27:58,059 --> 00:28:02,779
+when it came to the science like that.
+
+354
+00:28:02,779 --> 00:28:08,019
+In 1989, Mattias Rat arrived at the institute and I'm wondering if you could share your
+
+355
+00:28:08,019 --> 00:28:11,059
+first impressions of Rat?
+
+356
+00:28:11,059 --> 00:28:17,259
+Yeah my first impressions were that he seemed like a very knowledgeable, earnest fellow.
+
+357
+00:28:17,259 --> 00:28:21,339
+He clearly had developed some exciting ideas with Linus Pauling and it was great to see
+
+358
+00:28:21,419 --> 00:28:27,939
+Linus Pauling enthused about the Slippoprotein Vitamin C story.
+
+359
+00:28:27,939 --> 00:28:31,779
+So my initial reactions were quite favorable.
+
+360
+00:28:31,779 --> 00:28:38,299
+It wasn't until I became aware of some other activities that seemed to be going on outside
+
+361
+00:28:38,299 --> 00:28:45,339
+the purview of the institute, the Linus Park Heart Foundation and some other things which
+
+362
+00:28:45,339 --> 00:28:50,619
+seemed to be a little obscure and not really conducted in a transparent way that people
+
+363
+00:28:50,619 --> 00:28:54,099
+began to question motivation in particular.
+
+364
+00:28:54,099 --> 00:28:57,899
+Why are these other organizations being set up?
+
+365
+00:28:57,899 --> 00:29:00,739
+What are they designed to do?
+
+366
+00:29:00,739 --> 00:29:04,139
+Are they designed to compete with the Linus Plain Institute of Science and Medicine?
+
+367
+00:29:04,139 --> 00:29:08,939
+This is a complimentary activity and because a lot of that kind of information wasn't
+
+368
+00:29:08,939 --> 00:29:16,579
+forthcoming when you have kind of that black box, it generates lots of rumors and that's
+
+369
+00:29:16,579 --> 00:29:21,859
+unfortunate and I think that there was certainly some of that going around at the time.
+
+370
+00:29:21,859 --> 00:29:27,460
+Although Linus Pauling also had been diagnosed with prostate cancer and Rat was providing
+
+371
+00:29:27,460 --> 00:29:35,460
+some medical services for Pauling himself and I think everybody appreciated that.
+
+372
+00:29:35,460 --> 00:29:39,779
+Here was somebody at the institute that Pauling was really interested in from a scientific
+
+373
+00:29:39,779 --> 00:29:44,220
+standpoint and was also looking out for Pauling's physical welfare.
+
+374
+00:29:44,220 --> 00:29:50,620
+Well, I think initially everybody was quite enthused about this collaboration.
+
+375
+00:29:50,620 --> 00:29:56,059
+How do you characterize this personality?
+
+376
+00:29:56,059 --> 00:30:02,620
+Well I think initially you seem to be very German.
+
+377
+00:30:02,620 --> 00:30:08,819
+He didn't really seem to have a terribly great sense of humor.
+
+378
+00:30:08,819 --> 00:30:18,859
+He seemed to be very, I won't say solemn, but very serious minded, polite.
+
+379
+00:30:18,859 --> 00:30:21,859
+Seemed to treat people fairly.
+
+380
+00:30:21,859 --> 00:30:24,899
+Did he socialize with the rest of the staff?
+
+381
+00:30:24,899 --> 00:30:26,899
+There was some socializing.
+
+382
+00:30:26,899 --> 00:30:32,740
+Throughout the history of the institute, different employees and groups of people would go out
+
+383
+00:30:32,740 --> 00:30:37,659
+for dinners or lunch or go to bars on weekends or whatever and there was some of that kind
+
+384
+00:30:37,660 --> 00:30:40,259
+of activity as well.
+
+385
+00:30:40,259 --> 00:30:44,180
+What was his research program that Pauling was excited about?
+
+386
+00:30:44,180 --> 00:30:49,820
+Well, Pauling of course had been long interested in vitamin C and cardiovascular disease and
+
+387
+00:30:49,820 --> 00:30:53,940
+he'd written about this in his book, How to Live Long and Feel Better.
+
+388
+00:30:53,940 --> 00:31:01,980
+He'd also written about it in articles for executive health which was a tabloid type newsletter.
+
+389
+00:31:01,980 --> 00:31:06,860
+He'd also written about it for the Linus Piling Institute Science and Medicine newsletter
+
+390
+00:31:06,859 --> 00:31:11,459
+in the 1970s and 1980s, primarily in the 1980s.
+
+391
+00:31:11,459 --> 00:31:17,059
+He had a long abiding interest in the possible value of vitamin C and preventing or treating
+
+392
+00:31:17,059 --> 00:31:18,859
+heart disease.
+
+393
+00:31:18,859 --> 00:31:26,939
+Rat had some specific interest and data on the potential interaction between vitamin C
+
+394
+00:31:26,939 --> 00:31:33,419
+and lipoprotein A which is a major constituent of atherosclerotic plaque and also risk factor
+
+395
+00:31:33,419 --> 00:31:35,539
+for heart disease.
+
+396
+00:31:35,539 --> 00:31:42,220
+The problem with lipoprotein A is that its levels in the blood don't seem to be amenable
+
+397
+00:31:42,220 --> 00:31:46,180
+to modification by dietary or even drug strategy.
+
+398
+00:31:46,180 --> 00:31:50,859
+They're fairly genetically determined and they're very difficult to modulate.
+
+399
+00:31:50,859 --> 00:31:54,700
+So there's a lot of skepticism as to where the vitamin C could actually affect lipoprotein
+
+400
+00:31:54,700 --> 00:31:57,619
+A levels in blood.
+
+401
+00:31:57,619 --> 00:32:04,059
+Rat had apparently some small set of clinical data that apparently showed that vitamin C
+
+402
+00:32:04,059 --> 00:32:08,099
+might have value in decreasing lipoprotein A levels and I think that was very interesting
+
+403
+00:32:08,099 --> 00:32:10,980
+to Pauline.
+
+404
+00:32:10,980 --> 00:32:16,779
+Then together they developed a hypothesis that lipoprotein A may serve as a surrogate for
+
+405
+00:32:16,779 --> 00:32:22,579
+vitamin C in animals including people that do not synthesize vitamin C.
+
+406
+00:32:22,579 --> 00:32:27,299
+There are some evidence that lipoprotein A levels in animals and people not synthesizing
+
+407
+00:32:27,299 --> 00:32:33,579
+vitamin C were high and lipoprotein A levels seem to be low in the blood of those animals
+
+408
+00:32:33,579 --> 00:32:37,500
+that were synthesizing vitamin C and that led them to think about what is lipoprotein
+
+409
+00:32:37,500 --> 00:32:42,220
+A doing that vitamin C might otherwise do in the body.
+
+410
+00:32:42,220 --> 00:32:47,859
+They believe that lipoprotein A might be synthesized by the body to contend with and repair
+
+411
+00:32:47,859 --> 00:32:53,299
+fishers that develop in the vascular churro due to oxidative damage or shear stress
+
+412
+00:32:53,299 --> 00:32:55,699
+and other things of that nature.
+
+413
+00:32:55,699 --> 00:33:01,500
+So it might have a valuable role in repairing lesions but that because it's a very sticky
+
+414
+00:33:01,500 --> 00:33:09,339
+molecule it could end up developing into atherosclerotic plaque.
+
+415
+00:33:09,339 --> 00:33:13,220
+From the original hypothesis there were a number of corollaries that developed including
+
+416
+00:33:13,220 --> 00:33:22,460
+the potential role of lysine in helping to either decrease plaque or keylate and remove
+
+417
+00:33:22,460 --> 00:33:25,140
+lipoprotein A from the blood.
+
+418
+00:33:25,140 --> 00:33:31,099
+Pauline published in the Journal of Worth Molecular Medicine in the early 1990s three case reports
+
+419
+00:33:31,099 --> 00:33:39,379
+of people who had suffered from severe angina, exercised induced angina, who had had very
+
+420
+00:33:39,379 --> 00:33:46,859
+serious cardiovascular disease bypass and other surgical interventions and still had angina.
+
+421
+00:33:46,859 --> 00:33:53,259
+And they read Pauline's papers with Raff and decided to try adding lysine to their
+
+422
+00:33:53,259 --> 00:33:54,259
+regimen.
+
+423
+00:33:54,259 --> 00:33:57,779
+In some cases these people had already been taking fairly high doses of vitamin C and then
+
+424
+00:33:57,779 --> 00:33:59,899
+added lysine.
+
+425
+00:33:59,900 --> 00:34:04,480
+They weren't controlled studies so these were reported as anecdotes and the amount of
+
+426
+00:34:04,480 --> 00:34:09,980
+lysine and vitamin C was quite variable but it was on the order of 3 to 6 grams per day
+
+427
+00:34:09,980 --> 00:34:14,460
+of each and they reported fairly rapid relief from angina.
+
+428
+00:34:14,460 --> 00:34:21,220
+So Pauline speculated that perhaps because the relief was so rapid that lysine might even
+
+429
+00:34:21,220 --> 00:34:26,940
+bind to lipoprotein A in plaque and help remove it from plaque and that was possibly explaining
+
+430
+00:34:26,940 --> 00:34:31,420
+why these people were not suffering from angina because the thickness of the plaque was
+
+431
+00:34:31,420 --> 00:34:32,420
+decreasing.
+
+432
+00:34:32,420 --> 00:34:37,900
+Well it turns out subsequent research has revealed that vitamin C has very important effects
+
+433
+00:34:37,900 --> 00:34:44,220
+in vasodilation and sort of improving blood flow in people with atherosclerotic plaque
+
+434
+00:34:44,220 --> 00:34:49,579
+through its effects on tetrahedribyopterine which is involved in synthesis of nitric oxide
+
+435
+00:34:49,579 --> 00:34:52,619
+which improves blood flow.
+
+436
+00:34:52,940 --> 00:35:00,099
+The role of lysine in this process is still obscure and I don't think other than Pauline's
+
+437
+00:35:00,099 --> 00:35:04,980
+hypothesis I don't think there's been much speculation as to why lysine in particular
+
+438
+00:35:04,980 --> 00:35:09,480
+might have had this benefit because as I mentioned some of the people that were reported
+
+439
+00:35:09,480 --> 00:35:15,579
+in these case studies had already been taking very high dose vitamin C without presumably
+
+440
+00:35:15,579 --> 00:35:20,500
+any benefit yet when they added lysine there seemed to be a fairly dramatic effect.
+
+441
+00:35:20,500 --> 00:35:24,940
+So that I thought was a very, it's an interesting area and probably a rich area for research
+
+442
+00:35:24,940 --> 00:35:28,659
+although as far as I know no one's really looked into it.
+
+443
+00:35:28,659 --> 00:35:35,099
+So those were some of the ideas that Pauline and Wrath were developing in that period that
+
+444
+00:35:35,099 --> 00:35:42,579
+I think were exciting to everybody and as I came to understand the Linus-Pong Heart Foundation
+
+445
+00:35:42,579 --> 00:35:50,819
+was specifically set up to raise money to support clinical trials on some of these potential
+
+446
+00:35:50,819 --> 00:35:54,579
+therapies including proline lysine, vitamin C, niacin and so forth.
+
+447
+00:35:56,579 --> 00:35:58,579
+We'll talk more about Wrath here in a second.
+
+448
+00:35:58,579 --> 00:36:03,579
+There's a couple things that happen chronologically that I want to touch on first.
+
+449
+00:36:03,579 --> 00:36:11,380
+In 1999 there was a rezoning effort in Palo Alto which time the city gave the Institute
+
+450
+00:36:11,380 --> 00:36:13,380
+three years to move basically.
+
+451
+00:36:13,380 --> 00:36:18,380
+What was the reaction to that and how did you start applying for that?
+
+452
+00:36:18,380 --> 00:36:19,380
+Well that was very interesting.
+
+453
+00:36:19,380 --> 00:36:24,980
+That was about the same time that Emil Zuckakondle and Rick Hicks retired from the Linus-Pong Institute
+
+454
+00:36:24,980 --> 00:36:30,579
+of Science and Medicine and set up the Institute for Molecular Medical Sciences and we leased
+
+455
+00:36:30,579 --> 00:36:35,380
+them space within the facility at 440 Page Mill Road to do that.
+
+456
+00:36:35,380 --> 00:36:37,380
+So that was a very contentious time.
+
+457
+00:36:37,380 --> 00:36:40,380
+Emil and Rick Hicks left the Institute.
+
+458
+00:36:40,380 --> 00:36:46,380
+Emil still had strong interest in preserving a research program and yet didn't have a lot
+
+459
+00:36:46,380 --> 00:36:48,380
+of funding available to him.
+
+460
+00:36:48,380 --> 00:36:58,380
+So Pauline wanted us to find out whether or not us meaning Stephen Maddox, myself and Z
+
+461
+00:36:58,380 --> 00:37:04,380
+Kerman to find out whether this was practical and feasible to subtly space in Linus-Pong
+
+462
+00:37:04,380 --> 00:37:06,380
+Juniors involved in that as well.
+
+463
+00:37:06,380 --> 00:37:11,619
+To subtly space to IMMS within the building and how the building might be partitioned and
+
+464
+00:37:11,619 --> 00:37:16,780
+how equipment might be made available to IMMS or how they could share equipment and so
+
+465
+00:37:16,780 --> 00:37:17,780
+on and so forth.
+
+466
+00:37:17,780 --> 00:37:23,940
+So that was kind of a contentious time at the Institute but resulted in a subtly
+
+467
+00:37:23,940 --> 00:37:31,220
+to IMMS because we found a way to make everything work to everyone's satisfaction.
+
+468
+00:37:31,219 --> 00:37:38,059
+And at about that time I had become executive officer of the Institute and was working
+
+469
+00:37:38,059 --> 00:37:46,779
+very closely with Linus-Pong Juniors because Linus-Pong senior was undergoing treatment
+
+470
+00:37:46,779 --> 00:37:53,359
+for cancer and still had problems in structural chemistry and theoretical chemistry and
+
+471
+00:37:53,359 --> 00:37:57,539
+orthomolecular medicine that he really wanted to devote his time to.
+
+472
+00:37:57,539 --> 00:38:02,300
+So Linus-Pong junior in the board decided to free his father from administrative responsibilities
+
+473
+00:38:02,300 --> 00:38:07,059
+and Linus-Pong junior would sort of step in as president or director of the Institute
+
+474
+00:38:07,059 --> 00:38:12,539
+and I would assist him and initially I was asked by Linus-Pong to assist him and then
+
+475
+00:38:12,539 --> 00:38:18,940
+later when it became clear that he wasn't really interested in exercising any administrative
+
+476
+00:38:18,940 --> 00:38:19,940
+responsibility.
+
+477
+00:38:19,940 --> 00:38:24,980
+Linus-Pong junior stepped in and then I worked very closely with Linus-Pong junior.
+
+478
+00:38:24,980 --> 00:38:31,219
+And that was my first understanding of the fact that the Institute had this zoning problem
+
+479
+00:38:31,219 --> 00:38:34,659
+and apparently it had been known for a long time that nobody had really done much about
+
+480
+00:38:34,659 --> 00:38:35,980
+it.
+
+481
+00:38:35,980 --> 00:38:44,940
+So Linus-Pong junior and I and the board realized that absent an endowment and a lot of money,
+
+482
+00:38:44,940 --> 00:38:49,820
+it was really going to be difficult for us to sustain the Institute as a viable biomedical
+
+483
+00:38:49,820 --> 00:38:57,860
+research organization if we had to move because we had a very favorable leasing arrangement
+
+484
+00:38:57,860 --> 00:38:59,260
+with our landlords.
+
+485
+00:38:59,260 --> 00:39:06,980
+The cost of the lease went up only adjusted by CPI, the consumer price index.
+
+486
+00:39:06,980 --> 00:39:13,220
+So we were paying I think 50 or 55 cents a square foot for 20,000 plus square foot building
+
+487
+00:39:13,220 --> 00:39:15,460
+in Palo Alto.
+
+488
+00:39:15,460 --> 00:39:24,659
+And to move we would have been looking at probably 5, 6, 7, 8, 10, $12 a square foot.
+
+489
+00:39:24,659 --> 00:39:30,079
+So the prospect of moving was not very satisfying because it meant that we would be spending
+
+490
+00:39:30,079 --> 00:39:36,760
+much more money on just simply renting a facility and not have much money available to
+
+491
+00:39:36,760 --> 00:39:39,220
+pay staff, recruit or do research.
+
+492
+00:39:39,220 --> 00:39:42,860
+So that was not an appealing option at all.
+
+493
+00:39:42,860 --> 00:39:47,460
+But we were suddenly aware that we had three years and we really had to leave because the
+
+494
+00:39:47,460 --> 00:39:54,460
+master plan in Palo Alto called for changing the mix of commercial and residential properties
+
+495
+00:39:54,460 --> 00:39:58,740
+because they were becoming very concerned that there weren't enough residential units
+
+496
+00:39:58,740 --> 00:40:01,660
+for people that worked in Palo Alto.
+
+497
+00:40:01,660 --> 00:40:06,620
+And it's kind of a, I don't want to go off on a tangent, but I had long discussions with
+
+498
+00:40:06,619 --> 00:40:14,219
+city planners, city staff, the planning committee for Palo Alto and some of the council members.
+
+499
+00:40:14,219 --> 00:40:17,539
+And my opinion at the time was, well, that's fine.
+
+500
+00:40:17,539 --> 00:40:21,460
+You can build condominiums or apartment buildings here, but there's no way you can ensure that
+
+501
+00:40:21,460 --> 00:40:25,139
+the people who rent or buy these condos or apartment buildings are going to work in Palo
+
+502
+00:40:25,139 --> 00:40:29,859
+Alto because Palo Alto is a very desirable address.
+
+503
+00:40:29,859 --> 00:40:34,819
+People might move here and work in Sunnyvale or San Francisco or Hayward or East Bay or
+
+504
+00:40:34,820 --> 00:40:39,940
+the South Bay and you're just going to increase traffic and it's going to become not necessarily
+
+505
+00:40:39,940 --> 00:40:43,620
+the outcome that you're striving for with this zoning change.
+
+506
+00:40:43,620 --> 00:40:48,539
+But be that as it may, we really had to face the inevitable, which was the zoning was going
+
+507
+00:40:48,539 --> 00:40:52,019
+to change.
+
+508
+00:40:52,019 --> 00:40:58,660
+So I decided that it was imperative to delay that until we could really come up with
+
+509
+00:40:58,660 --> 00:41:03,100
+a proper solution for the institute's future.
+
+510
+00:41:03,099 --> 00:41:09,099
+And taking a page out of Linus Pauling and Eva Helen's book, we set up folding tables
+
+511
+00:41:09,099 --> 00:41:14,619
+around town outside grocery stores and cafes and had petitions.
+
+512
+00:41:14,619 --> 00:41:17,420
+And I can't remember the exact wording of the petition, but it was something to the
+
+513
+00:41:17,420 --> 00:41:18,420
+effect.
+
+514
+00:41:18,420 --> 00:41:22,219
+Please sign the petition if you'd like to see the institute stay at its location in Palo
+
+515
+00:41:22,219 --> 00:41:26,539
+Alto if you feel that we're doing good work and so on and so forth.
+
+516
+00:41:26,539 --> 00:41:32,139
+We had quite a few names signed in those petitions and they were eventually delivered to the
+
+517
+00:41:32,139 --> 00:41:37,659
+City Council and I made a presentation in the City Council.
+
+518
+00:41:37,659 --> 00:41:42,579
+Linus Pauling made a presentation in the City Council and eventually we squeak through
+
+519
+00:41:42,579 --> 00:41:49,900
+with City Council approval to delay that zoning change for a period of time because they
+
+520
+00:41:49,900 --> 00:41:56,299
+recognized that we were doing valuable work and that we really needed more time to chart
+
+521
+00:41:56,299 --> 00:41:58,779
+a proper course for the future.
+
+522
+00:41:58,780 --> 00:42:02,980
+And as one of the Palo Alto City Council members mentioned, she didn't want to read the New
+
+523
+00:42:02,980 --> 00:42:09,980
+York Times that the City of Palo Alto had kicked the Linus Pauling Institute out of town.
+
+524
+00:42:09,980 --> 00:42:10,980
+That's interesting.
+
+525
+00:42:10,980 --> 00:42:12,620
+I had never heard that before.
+
+526
+00:42:12,620 --> 00:42:17,740
+Yeah, so that was a very successful campaign and I should mention that during these City
+
+527
+00:42:17,740 --> 00:42:21,980
+Council meeting appearances, you know, I felt well, it's good and fine for me to go
+
+528
+00:42:21,980 --> 00:42:25,740
+and talk to the City Council and I'd met all of the City Council members individually
+
+529
+00:42:25,739 --> 00:42:31,579
+and pleaded our case to them and they seemed to be favorably disposed to the institute
+
+530
+00:42:31,579 --> 00:42:35,459
+although some of them were wavering somewhat.
+
+531
+00:42:35,459 --> 00:42:40,019
+And I figured that I could make a pretty compelling argument in front of the City Council during
+
+532
+00:42:40,019 --> 00:42:44,619
+public testimony, but I thought it would really sent you to line as Pauling himself could
+
+533
+00:42:44,619 --> 00:42:48,659
+appear and I asked him if he would be willing to do that and he said yes, so he went with
+
+534
+00:42:48,659 --> 00:42:54,259
+me to the City Council meeting and it just so happened that that meeting of the City Council
+
+535
+00:42:54,260 --> 00:43:01,900
+where they were scheduled to vote on this issue was the first appearance by Geerhart Casper
+
+536
+00:43:01,900 --> 00:43:07,500
+who was president of Stanford University and there was a tradition where the president
+
+537
+00:43:07,500 --> 00:43:11,820
+of the university would go and make, I think, on an annual basis of state of the university
+
+538
+00:43:11,820 --> 00:43:16,860
+addressed to the City Council because Stanford is adjacent to the City of Palo Alto and they
+
+539
+00:43:16,860 --> 00:43:20,780
+have a lot of mutual interests and mutual conflicts.
+
+540
+00:43:20,780 --> 00:43:27,700
+So the City is always interested in finding out what Stanford is doing and Stanford is
+
+541
+00:43:27,700 --> 00:43:32,180
+always interested in finding out what the City is planning so Geerhart Casper was there
+
+542
+00:43:32,180 --> 00:43:38,140
+to spend 20 minutes or so giving his address to the City Council and as Pauling walked
+
+543
+00:43:38,140 --> 00:43:45,700
+in and the chambers were full of people who were waiting to give testimony.
+
+544
+00:43:45,700 --> 00:43:50,100
+Geerhart Casper recognized Pauling and ran over to him and the two of them exchanged pleasantries.
+
+545
+00:43:50,099 --> 00:43:57,659
+They had never met before and Geerhart Casper who I believe was scheduled before me or
+
+546
+00:43:57,659 --> 00:44:03,219
+before Pauling on the agenda spent quite a lot of his a lot of time talking about what
+
+547
+00:44:03,219 --> 00:44:06,420
+a wonderful person Linus Pauling was.
+
+548
+00:44:06,420 --> 00:44:09,940
+Talked about it Stanford, there are many Nobel Prize winners, there are so many that they
+
+549
+00:44:09,940 --> 00:44:16,019
+really don't turn heads anymore except for Linus Pauling because Linus Pauling was such
+
+550
+00:44:16,019 --> 00:44:21,380
+an outstanding scholar and such an outstanding piece activist and scientist that when Pauling
+
+551
+00:44:21,380 --> 00:44:28,259
+was there heads did turn and I thought it was quite nice of Casper to talk about Pauling
+
+552
+00:44:28,259 --> 00:44:34,259
+and those glowing terms and Casper is a lawyer so he didn't really have professionally
+
+553
+00:44:34,259 --> 00:44:39,259
+much exposure to Linus Pauling's work in science but nevertheless he recognized that Pauling
+
+554
+00:44:40,260 --> 00:44:46,140
+was a really eminent scientist and really wanted to pay tribute to him.
+
+555
+00:44:46,140 --> 00:44:53,700
+So that kind of cinched the case for us I think and also there was a fellow in the audience
+
+556
+00:44:53,700 --> 00:44:58,620
+who stood up and introduced himself by name and said that he felt Pauling's work was
+
+557
+00:44:58,620 --> 00:45:03,620
+very important and the institute's work was very important and really wanted to encourage
+
+558
+00:45:03,620 --> 00:45:08,740
+the City Council to delay the zoning change and at the end of the meeting when we were
+
+559
+00:45:08,739 --> 00:45:12,699
+waiting I was with Pauling and the underground garage waiting for the card to come around
+
+560
+00:45:12,699 --> 00:45:17,259
+and Pauling mentioned to me that he remembered that fellow who gave public testimony he was
+
+561
+00:45:17,259 --> 00:45:23,500
+a student of his at Caltech and he remembered an incident with him and said that when he
+
+562
+00:45:23,500 --> 00:45:30,699
+was teaching he had the socratic method of teaching where he would pick out people to
+
+563
+00:45:30,699 --> 00:45:35,419
+answer questions because the classes were apparently small enough he knew all the students
+
+564
+00:45:35,420 --> 00:45:41,860
+were new their names so during one of his chemistry lectures he had a question and he
+
+565
+00:45:41,860 --> 00:45:48,539
+picked this fellow out to answer the question and the fellow proceeded to give an answer
+
+566
+00:45:48,539 --> 00:45:53,740
+that was really not the right answer but I guess he felt compelled to say something.
+
+567
+00:45:53,740 --> 00:45:57,860
+So Pauling just nodded and thanked him for the response and at the end of the class Pauling
+
+568
+00:45:57,860 --> 00:46:02,900
+went up to him and said I'd like to talk with you for a moment and Pauling said you know
+
+569
+00:46:02,900 --> 00:46:07,780
+it's perfectly okay when you don't know the answer to a question to admit that and
+
+570
+00:46:07,780 --> 00:46:13,340
+so you don't know the answer actually it's far better than confabulating but I thought
+
+571
+00:46:13,340 --> 00:46:18,099
+it was it was rather amazing that Pauling remembered that particular incident and this
+
+572
+00:46:18,099 --> 00:46:23,820
+particular fellow who I'm sure he hadn't thought about or seen for decades.
+
+573
+00:46:23,820 --> 00:46:31,860
+Backtracking real quick I was interested to do that here that when Zubi Kamalash that
+
+574
+00:46:31,860 --> 00:46:34,300
+had a lot of things to do with him.
+
+575
+00:46:34,300 --> 00:46:40,820
+Yeah Zucar Condolin Hicks were good friends and allies and they'd worked very very closely
+
+576
+00:46:40,820 --> 00:46:44,460
+together and had actually sacrificed a lot for the institute.
+
+577
+00:46:44,460 --> 00:46:49,820
+A meal had loaned the institute money gone without salary or decreased salary and Rick Hicks
+
+578
+00:46:49,820 --> 00:46:56,860
+had been also very self-sacrificing trying to help the institute progress over the years.
+
+579
+00:46:56,860 --> 00:47:04,900
+So I think Rick felt when he meals contract was not renewed that he would leave as well
+
+580
+00:47:04,900 --> 00:47:12,840
+and so both of them left but Hicks was then voted to join the Board of Trustees of the
+
+581
+00:47:12,840 --> 00:47:18,660
+Linus Planets to Science and Medicine which I thought was a terrific collegial and important
+
+582
+00:47:18,660 --> 00:47:24,539
+move for the Board of Trustees to make because Hicks had a lot of insight into fundraising
+
+583
+00:47:24,539 --> 00:47:29,219
+for the institute and just a lot of knowledge and insight about the institute in general
+
+584
+00:47:29,219 --> 00:47:34,420
+and I thought it would be very important for him to be associated in a continued way
+
+585
+00:47:34,420 --> 00:47:35,420
+with the institute.
+
+586
+00:47:35,420 --> 00:47:39,259
+So I thought that was a very good strategic move to ask Rick to become part of the Board.
+
+587
+00:47:39,259 --> 00:47:43,820
+An meal of course had his hands full with trying to administer and get his new institute
+
+588
+00:47:43,820 --> 00:47:48,820
+institute and molecular medical sciences off the ground and an meal had actually wanted
+
+589
+00:47:48,900 --> 00:47:55,300
+me as well as a number of other people, Jim Fleming and Greg Spicer, Tenebulakos and other
+
+590
+00:47:55,300 --> 00:48:04,300
+people who were doing more molecular biological work that was not really directly allied with
+
+591
+00:48:04,300 --> 00:48:05,780
+orthomolecular medicine.
+
+592
+00:48:05,780 --> 00:48:09,059
+For instance Greg Spicer was doing work in molecular evolution.
+
+593
+00:48:09,059 --> 00:48:12,580
+Jim Fleming was doing work in molecular bases of aging.
+
+594
+00:48:12,580 --> 00:48:18,300
+Tenebulakos was working on histones and DNA repair and a lot of those programs didn't
+
+595
+00:48:18,300 --> 00:48:23,300
+really fit into the orthomolecular scope of the institute and when the institute was reorganized
+
+596
+00:48:23,300 --> 00:48:31,300
+when Hicks and Zucacondole left the Board decided to refocus the limited resources on orthomolecular
+
+597
+00:48:31,300 --> 00:48:35,780
+medicine so they wanted to have a much more narrow focus and kind of pair away some of
+
+598
+00:48:35,780 --> 00:48:41,300
+those programs that were not closely allied with that mission because we just could not
+
+599
+00:48:41,300 --> 00:48:43,900
+afford to do everything.
+
+600
+00:48:43,900 --> 00:48:48,900
+And those programs that were being paired away, a meal hoped to collect in this new organization
+
+601
+00:48:48,900 --> 00:48:54,900
+institute and molecular medical sciences and he did to some extent, did that pretty successfully.
+
+602
+00:48:54,900 --> 00:48:59,139
+So the versions and the research that was the primary reason for the first of your
+
+603
+00:48:59,139 --> 00:49:00,900
+nails departure from the institute?
+
+604
+00:49:00,900 --> 00:49:01,900
+What?
+
+605
+00:49:01,900 --> 00:49:06,900
+The versions and the research that was was his primary reason for leaving?
+
+606
+00:49:06,900 --> 00:49:13,619
+Yeah, my understanding was that the Board was very concerned about income and outgo.
+
+607
+00:49:13,659 --> 00:49:18,500
+So the Board had become increasingly concerned over the late 1980s about the cost of all
+
+608
+00:49:18,500 --> 00:49:24,219
+the programs at the institute and the variable fundraising success.
+
+609
+00:49:24,219 --> 00:49:29,460
+The Sessikawa donation, $500,000 a year for 10 years was coming to an end and couldn't
+
+610
+00:49:29,460 --> 00:49:34,859
+be renewed due to their charter stipulations.
+
+611
+00:49:34,859 --> 00:49:40,139
+So it was difficult to find money to support some of this work that was not grant funded
+
+612
+00:49:40,139 --> 00:49:42,299
+and a lot of it was not grant funded.
+
+613
+00:49:42,300 --> 00:49:46,940
+Where's Eurka had a nice grant from the Department of Energy that was funding his work on
+
+614
+00:49:46,940 --> 00:49:51,940
+allu sequences and non-conserved and conserved DNA and so forth.
+
+615
+00:49:51,940 --> 00:50:00,580
+But a meals program that I was involved in looking at metastatic cancer, Greg Spicer's work,
+
+616
+00:50:00,580 --> 00:50:04,700
+some of the other work was really not funded except through unrestricted funds to the
+
+617
+00:50:04,700 --> 00:50:05,700
+institute.
+
+618
+00:50:06,460 --> 00:50:14,539
+The Board decided to ask a meal to shrink the institute so that the expenses would be
+
+619
+00:50:14,539 --> 00:50:20,379
+more aligned with the actual revenue instead of continuing to grow the institute or allowing
+
+620
+00:50:20,379 --> 00:50:25,539
+it to continue at what they considered an infeasible size.
+
+621
+00:50:25,539 --> 00:50:29,739
+And I think a meal didn't want to do that.
+
+622
+00:50:29,739 --> 00:50:36,139
+So rather than do something that he didn't want to do, I think he resigned.
+
+623
+00:50:36,139 --> 00:50:37,459
+And with him went where he kicks.
+
+624
+00:50:37,459 --> 00:50:44,299
+We talked about Cameron's illness in 1991 he died.
+
+625
+00:50:44,299 --> 00:50:50,419
+I'm wondering if he treated himself at all with some of the techniques that he had to
+
+626
+00:50:50,419 --> 00:50:53,219
+advocate for and some of the people in court.
+
+627
+00:50:53,219 --> 00:50:54,219
+You know.
+
+628
+00:50:54,219 --> 00:50:55,219
+Yeah, that's very interesting.
+
+629
+00:50:55,219 --> 00:50:59,419
+I had asked Cameron about his own habits with vitamin C supplementation much earlier
+
+630
+00:50:59,420 --> 00:51:00,420
+before he became sick.
+
+631
+00:51:00,420 --> 00:51:05,019
+And he said that he was taking a little vitamin C but not taking megas because he thought
+
+632
+00:51:05,019 --> 00:51:10,500
+that, you know, should he ever get ill, that he wanted to reserve those megas for therapeutic
+
+633
+00:51:10,500 --> 00:51:12,500
+value.
+
+634
+00:51:12,500 --> 00:51:20,500
+I think he probably took some vitamin C but as far as I know, he never himself took intravenous
+
+635
+00:51:20,500 --> 00:51:21,500
+vitamin C.
+
+636
+00:51:21,500 --> 00:51:29,159
+And again, the differential response to people getting intravenous vitamin C and oral vitamin
+
+637
+00:51:29,159 --> 00:51:32,739
+C was not well characterized at that time.
+
+638
+00:51:32,739 --> 00:51:37,380
+It was clear that some of the patients getting IV vitamin C did very well.
+
+639
+00:51:37,380 --> 00:51:43,539
+But also if you go back and look at the historical record, Cameron's patient pool, some of those
+
+640
+00:51:43,539 --> 00:51:49,340
+early patients that had complete necrosis of tumors got only oral vitamin C and the
+
+641
+00:51:49,340 --> 00:51:55,300
+tumor necrosis was a consequence temporally of that high dose oral vitamin C.
+
+642
+00:51:55,300 --> 00:52:00,140
+So I think Cameron and others believe that oral vitamin C had some anti-cancer effects
+
+643
+00:52:00,140 --> 00:52:01,140
+as well.
+
+644
+00:52:01,140 --> 00:52:05,460
+Although much later, of course, these transport molecules for vitamin C were discovered
+
+645
+00:52:05,460 --> 00:52:08,579
+and this was after Cameron and Pauline had both died.
+
+646
+00:52:08,579 --> 00:52:10,340
+These discoveries were made.
+
+647
+00:52:10,340 --> 00:52:16,980
+So now we have a better understanding of the limitations of achieving high concentration
+
+648
+00:52:16,980 --> 00:52:19,820
+of vitamin C in the blood when you take it only orally.
+
+649
+00:52:19,820 --> 00:52:21,699
+But in those days, that wasn't well known.
+
+650
+00:52:21,699 --> 00:52:25,860
+So Cameron may have felt, and I never talked to him about this, but he may have felt that
+
+651
+00:52:25,860 --> 00:52:30,179
+since some of his patients did quite well apparently on oral vitamin C that maybe intravenous
+
+652
+00:52:30,179 --> 00:52:34,179
+vitamin C was not important for him.
+
+653
+00:52:34,179 --> 00:52:43,219
+But he also, at the end of his illness, became less willing to see friends and colleagues.
+
+654
+00:52:43,219 --> 00:52:47,939
+So there were many occasions when Zellik Herman and Zellik's girlfriend and I would go to
+
+655
+00:52:47,939 --> 00:52:53,059
+Connie Cameron's house in Redwood City and Ewan was not well enough to see visitors.
+
+656
+00:52:53,059 --> 00:52:58,219
+So we would sit and chat with Connie Cameron and offer her solace and ask her to pass on
+
+657
+00:52:58,219 --> 00:53:02,819
+our good wishes to Ewan, but he clearly was not feeling well enough to see visitors.
+
+658
+00:53:02,819 --> 00:53:08,339
+What was the impact of his death on the Institute?
+
+659
+00:53:08,340 --> 00:53:16,820
+Well Ewan was such a charismatic and wonderful man that it really had a big impact on people
+
+660
+00:53:16,820 --> 00:53:19,940
+personally.
+
+661
+00:53:19,940 --> 00:53:29,820
+I recall his memorial service in Redwood City, Zellik Herman's girlfriend played bagpipes
+
+662
+00:53:29,820 --> 00:53:33,940
+and it was just an incredibly emotional event.
+
+663
+00:53:33,940 --> 00:53:37,059
+People were really grieving about Cameron's death.
+
+664
+00:53:37,059 --> 00:53:41,460
+And of course Pauling was there and Rat was there as well.
+
+665
+00:53:41,460 --> 00:53:44,659
+Everybody felt terrible about Cameron's death.
+
+666
+00:53:44,659 --> 00:53:51,860
+In 1992, Mattias Rat was appointed vice president for financial affairs at the Institute.
+
+667
+00:53:51,860 --> 00:53:53,820
+How did this come about?
+
+668
+00:53:53,820 --> 00:53:56,820
+That's a good question.
+
+669
+00:53:56,820 --> 00:53:58,820
+That was 1992, you say?
+
+670
+00:53:58,820 --> 00:53:59,980
+Yeah.
+
+671
+00:53:59,980 --> 00:54:03,539
+This was after Cameron's death.
+
+672
+00:54:03,539 --> 00:54:11,139
+So Cameron was probably Pauling's closest collaborator in Zellik Herman of course as well.
+
+673
+00:54:11,139 --> 00:54:18,119
+When Rat arrived with these ideas about cardiovascular disease and the proprteen and vitamin C and
+
+674
+00:54:18,119 --> 00:54:25,619
+he and Pauling started working very closely on this collaboration, I think that sort of
+
+675
+00:54:25,619 --> 00:54:27,619
+took center stage in Pauling's life.
+
+676
+00:54:27,619 --> 00:54:32,539
+And although he remained committed to some of the problems that he was working with,
+
+677
+00:54:32,539 --> 00:54:42,579
+was Zellik Herman, I think his bond with Rat was getting stronger and stronger.
+
+678
+00:54:42,579 --> 00:54:48,380
+I think Pauling may have unilaterally made that decision to give that appointment to Rat
+
+679
+00:54:48,380 --> 00:54:51,420
+because he had no reason not to trust him.
+
+680
+00:54:51,420 --> 00:54:59,940
+Clearly, I think Pauling and Rat perceived perhaps a new focus for research at the Institute
+
+681
+00:54:59,940 --> 00:55:05,380
+which would be vitamin C and heart disease, especially now that there was this reinvigoration
+
+682
+00:55:05,380 --> 00:55:07,700
+of this focus on orthomolecular medicine.
+
+683
+00:55:07,700 --> 00:55:13,460
+So I think that perhaps it seemed logical that Rat would be involved there because they
+
+684
+00:55:13,460 --> 00:55:17,940
+also had set up the heart foundation and other organizations to try to raise money specifically
+
+685
+00:55:17,940 --> 00:55:21,820
+for these clinical trials.
+
+686
+00:55:21,820 --> 00:55:26,099
+So how did things start to unravel with him?
+
+687
+00:55:26,099 --> 00:55:36,500
+Well I think Rat did a number of things that upset Pauling and caused some consternation
+
+688
+00:55:36,500 --> 00:55:43,139
+that were kind of, it was kind of a political strategy in the scientific realm which sometimes
+
+689
+00:55:43,139 --> 00:55:45,539
+can work and sometimes can backfire.
+
+690
+00:55:45,539 --> 00:55:48,500
+And I remember there was one meeting I believe in Texas.
+
+691
+00:55:48,500 --> 00:55:55,259
+I can't remember the specific society but it was cardiovascular disease, researchers
+
+692
+00:55:55,259 --> 00:56:01,179
+and physicians and Rat had Xerox something and put it on every seat in the auditorium
+
+693
+00:56:01,179 --> 00:56:04,219
+for everybody to read.
+
+694
+00:56:04,219 --> 00:56:10,539
+Rat was also developing these ideas about big pharma trying to suppress or inhibit work
+
+695
+00:56:10,539 --> 00:56:13,340
+on orthomolecular medicine.
+
+696
+00:56:13,340 --> 00:56:20,539
+And I think a lot of people share those opinions to some degree.
+
+697
+00:56:20,539 --> 00:56:30,180
+And Rat just seemed to be using more of a political strategy to advance the research agenda.
+
+698
+00:56:30,180 --> 00:56:35,740
+And some of those things were done I think Pauling felt and others felt maybe not in an entirely
+
+699
+00:56:35,740 --> 00:56:38,620
+appropriate manner.
+
+700
+00:56:38,619 --> 00:56:44,460
+I remember seeing one press release that Rat had written and Pauling had written all over
+
+701
+00:56:44,460 --> 00:56:51,739
+it that it was really unwise and uncalled for, had nothing new to announce.
+
+702
+00:56:51,739 --> 00:56:59,539
+And I think Linus Pauling was starting to worry a little bit about the trust that he placed
+
+703
+00:56:59,539 --> 00:57:02,500
+in Rat.
+
+704
+00:57:02,500 --> 00:57:12,380
+So at some point when that fund raising or executive vice president position was, I think
+
+705
+00:57:12,380 --> 00:57:16,539
+Rath resigned or that position was eliminated.
+
+706
+00:57:16,539 --> 00:57:22,739
+Stephen Maddox became vice president for finance or fund raising or whatever the particular
+
+707
+00:57:22,739 --> 00:57:23,739
+title was.
+
+708
+00:57:23,739 --> 00:57:29,340
+So he sort of succeeded Rick Hicks after an interlude there with Matthias Rath being in that position
+
+709
+00:57:29,340 --> 00:57:31,900
+for a while.
+
+710
+00:57:31,900 --> 00:57:41,900
+And Linus Pauling Jr. and I became increasingly concerned about Rath and his activities.
+
+711
+00:57:41,900 --> 00:57:46,900
+We also became aware of the fact that Rath had not signed the patent agreement and it was
+
+712
+00:57:46,900 --> 00:57:57,579
+incumbent upon every employee as an obligation of employment to sign a patent agreement.
+
+713
+00:57:57,579 --> 00:58:01,219
+And the patent agreement was actually quite generous when people joined corporations as
+
+714
+00:58:01,219 --> 00:58:06,900
+employees they typically surrender all their rights to the company.
+
+715
+00:58:06,900 --> 00:58:12,259
+Many people can invent and discover wonderful things for companies and not see a dime.
+
+716
+00:58:12,259 --> 00:58:17,259
+Academic institutions attended a little bit differently and in our organization which
+
+717
+00:58:17,259 --> 00:58:21,420
+was modeled after an academic institution it was fairly generous to inventors.
+
+718
+00:58:21,420 --> 00:58:26,380
+So the idea was that if you discover something that may be patentable in the course of your
+
+719
+00:58:26,380 --> 00:58:31,539
+employment at the institute you can bring that to the institute's administration and
+
+720
+00:58:31,539 --> 00:58:36,300
+decision we had a patent committee at the time and a decision can be made as to whether
+
+721
+00:58:36,300 --> 00:58:38,980
+the institute would like to pursue this.
+
+722
+00:58:38,980 --> 00:58:44,019
+File the you know get the initiate the patent application process or if the institute did
+
+723
+00:58:44,019 --> 00:58:48,019
+not want to pursue it then they would surrender it to you and you could pursue it at your own
+
+724
+00:58:48,019 --> 00:58:50,940
+expense and you would have the patent and you could go ahead and license it and if there
+
+725
+00:58:50,940 --> 00:58:53,820
+was a revenue stream that would be solely yours.
+
+726
+00:58:53,820 --> 00:59:00,900
+So the patent agreement stipulated should the institute proceed to try to gain a patent
+
+727
+00:59:00,900 --> 00:59:06,820
+for this invention or discovery that should it be licensed the revenue would be split
+
+728
+00:59:06,820 --> 00:59:10,440
+between the inventor and the institute and the following percentages and everybody had
+
+729
+00:59:10,440 --> 00:59:11,440
+signed that.
+
+730
+00:59:11,440 --> 00:59:16,780
+Linus Pauling had signed that himself and Rath refused to sign it.
+
+731
+00:59:16,780 --> 00:59:21,980
+I think initially he said he would like to think about it and I think the choice was
+
+732
+00:59:21,980 --> 00:59:27,500
+given to him well you know you really obligated as an employee to sign this and if you don't
+
+733
+00:59:27,500 --> 00:59:32,019
+want to sign it then you know perhaps you should think about resigning.
+
+734
+00:59:32,019 --> 00:59:36,460
+So he asked for some time to think about that and said fine and a day or two later he
+
+735
+00:59:36,460 --> 00:59:42,699
+said that he wanted to quit and wanted to resign and he did.
+
+736
+00:59:42,699 --> 00:59:47,460
+What was the source of the litigation that he filed against the institute kind of that
+
+737
+00:59:48,460 --> 00:59:55,460
+well he resigned and I really had no interest or I mean I had my hands full with trying
+
+738
+00:59:55,460 --> 01:00:00,019
+to solve a lot of the financial and personnel and research problems at the institute and
+
+739
+01:00:00,019 --> 01:00:04,420
+think about where the institute should go in the future and Linus planks health and all
+
+740
+01:00:04,420 --> 01:00:06,900
+these other myriad problems that we were facing.
+
+741
+01:00:06,900 --> 01:00:10,820
+So I really didn't keep up with what Rath was doing because he resigned from the institute
+
+742
+01:00:10,820 --> 01:00:12,579
+he was gone.
+
+743
+01:00:12,579 --> 01:00:16,539
+I didn't really honestly care about what he was doing.
+
+744
+01:00:16,539 --> 01:00:23,539
+It wasn't until maybe a year or so later that we were served with a lawsuit and he had
+
+745
+01:00:24,179 --> 01:00:30,279
+set up a company called HealthNow Incorporated and this company was suing Linus Pauling
+
+746
+01:00:30,279 --> 01:00:35,539
+and the Linus Pauling Institute of Science and Medicine for interference with its business
+
+747
+01:00:35,539 --> 01:00:43,539
+activities and the gist of the suit was that Rath apparently had been trying to get to
+
+748
+01:00:43,699 --> 01:00:49,500
+forge business relationships with supplement companies and he was bringing to them these
+
+749
+01:00:49,500 --> 01:00:53,860
+ideas about vitamin C and heart disease and lysine and so forth presumably to formulate
+
+750
+01:00:53,860 --> 01:00:59,860
+new products or whatever and according to the suit he had met with discouragement from
+
+751
+01:00:59,860 --> 01:01:05,340
+some of these company representatives because they didn't know who he was and they would
+
+752
+01:01:05,340 --> 01:01:10,619
+point to news stories about Linus Pauling, vitamin C and cardiovascular disease or heart
+
+753
+01:01:10,699 --> 01:01:16,579
+health and in many of those stories Rath's name was omitted.
+
+754
+01:01:16,579 --> 01:01:21,699
+Not because Pauling failed to give him credit because Pauling I think was very fair and
+
+755
+01:01:21,699 --> 01:01:27,219
+a gallotarian about that and would always mention Rath when he talked to journalists or media
+
+756
+01:01:27,219 --> 01:01:32,739
+about these ideas in lipoprotein A and vitamin C and heart disease, atherosclerosis but
+
+757
+01:01:32,739 --> 01:01:38,699
+because Rath was kind of an unknown quantity and really had no reputation to speak of and
+
+758
+01:01:38,779 --> 01:01:45,779
+just inferring this media often would drop his name and the focus would be on Linus Pauling
+
+759
+01:01:45,779 --> 01:01:51,779
+and I think Rath found that very frustrating and discouraging because he perceived that
+
+760
+01:01:51,779 --> 01:01:57,659
+lack of credit interfering with his ability to make these business relationships with
+
+761
+01:01:57,659 --> 01:02:02,500
+different supplement companies and so he found an attorney and decided to file suit against
+
+762
+01:02:02,579 --> 01:02:09,500
+the institute and that led to actually his complaint was dismissed essentially but we
+
+763
+01:02:13,780 --> 01:02:18,380
+filed a cross complaint because in the course of this litigation he had made a lot of statements
+
+764
+01:02:18,380 --> 01:02:21,820
+that we felt were injurious to our activities.
+
+765
+01:02:21,820 --> 01:02:28,820
+At the time we were trying to forge a relationship with Elizabeth Arden and Unilever Corporation
+
+766
+01:02:29,059 --> 01:02:35,559
+who were interested in developing a line of cosmetic products that would include things
+
+767
+01:02:35,559 --> 01:02:40,760
+like vitamin C and antioxidants and phytochemicals and they wanted to support some research at
+
+768
+01:02:40,760 --> 01:02:45,860
+the institute and get involved with the institute in interesting ways and Rath had started
+
+769
+01:02:45,860 --> 01:02:50,059
+to communicate with these people telling them that we were unreliable business partners
+
+770
+01:02:50,059 --> 01:02:55,300
+and so on and so forth and that he owned all these rights and so we felt compelled to
+
+771
+01:02:55,380 --> 01:03:01,460
+sue him to stop interfering with our business relationships and during the course of this
+
+772
+01:03:01,460 --> 01:03:08,620
+litigation Rath alluded to some agreements that he had executed with Linus Pauling that
+
+773
+01:03:08,620 --> 01:03:13,019
+he claimed gave him all kinds of rights that we weren't aware of.
+
+774
+01:03:13,019 --> 01:03:17,980
+So Linus Pauling Jr. and I were bewildered by this and we went to the documents that
+
+775
+01:03:17,980 --> 01:03:24,980
+Dorothy Monroe pulled out of the file for us and she showed us these agreements that looked
+
+776
+01:03:25,139 --> 01:03:29,860
+had been written by Rath and signed by Pauling and then in some cases witnessed by a third
+
+777
+01:03:29,860 --> 01:03:36,860
+party and they had to do with Rath's rights essentially and we were very surprised by
+
+778
+01:03:40,579 --> 01:03:47,579
+these documents. They didn't seem to be proper and we took them to Linus Pauling and showed
+
+779
+01:03:48,740 --> 01:03:52,820
+them to him and asked him if he had any memory of these documents or the circumstances
+
+780
+01:03:52,820 --> 01:03:58,059
+under which he signed them and he looked at them very carefully and was confused about
+
+781
+01:03:58,059 --> 01:04:04,539
+them and read them and said well that certainly looks like my name I believe that that's my
+
+782
+01:04:04,539 --> 01:04:10,539
+signature but I don't recall the content of this document at all and now that I read
+
+783
+01:04:10,539 --> 01:04:17,019
+it I would not have signed it. So we tried to reconstruct why Linus Pauling signed these
+
+784
+01:04:17,099 --> 01:04:24,099
+documents and we came to the impression and again it's hard to verify this independently
+
+785
+01:04:24,099 --> 01:04:28,780
+it can't be verified independently but based on statements that Dorothy Monroe and others
+
+786
+01:04:28,780 --> 01:04:35,780
+made we came to the opinion that Rath had gotten Pauling to sign these documents when he
+
+787
+01:04:35,780 --> 01:04:40,940
+was executive vice president and may have gone into Pauling's office with a whole sheath
+
+788
+01:04:40,940 --> 01:04:46,380
+of documents for Pauling to execute and these documents were probably among those papers
+
+789
+01:04:46,380 --> 01:04:52,780
+and Pauling just signed them without reading them carefully and it turned out in the
+
+790
+01:04:52,780 --> 01:04:58,260
+consequence of litigation the documents that Pauling had signed giving Rath lots of
+
+791
+01:04:58,260 --> 01:05:07,260
+rights and ownership were nullified for lack of compensation. So how was all the litigation
+
+792
+01:05:08,260 --> 01:05:14,619
+involved? Well the litigation was resolved you know typically the court really encourages
+
+793
+01:05:14,619 --> 01:05:19,339
+you to come to a settlement and there are settlement conferences set up by the court to
+
+794
+01:05:19,339 --> 01:05:25,339
+get the parties together to hash out a settlement because the court really doesn't want to get
+
+795
+01:05:25,339 --> 01:05:29,619
+involved in litigation unless it's absolutely necessary so they have retired judges who
+
+796
+01:05:29,619 --> 01:05:34,659
+mediate these settlement conferences and the retired judge seems to have the strategy
+
+797
+01:05:34,659 --> 01:05:42,259
+of keeping people in a room until they give up weird out and settle and it's a strategy
+
+798
+01:05:42,260 --> 01:05:47,020
+I think that works pretty often so we had a number of settlement conferences and eventually
+
+799
+01:05:47,020 --> 01:05:53,740
+rather than going through a trial Rath sued against us had been dismissed so the only remaining
+
+800
+01:05:53,740 --> 01:06:03,020
+issue was Rath sued against him across complaint excuse me for libel and judicious info what was
+
+801
+01:06:03,020 --> 01:06:09,980
+it called interference with our business relationships I can't remember the exact terminology so that
+
+802
+01:06:09,980 --> 01:06:16,099
+was what was on the table to settle the suit against health now and Rath so we came to a settlement
+
+803
+01:06:16,099 --> 01:06:23,340
+that we were satisfied with we Rath was supposed to pay us I believe $75,000 we were not to
+
+804
+01:06:23,340 --> 01:06:32,139
+disparage his activities he would not disparage our activities mutual non disparagement and we
+
+805
+01:06:32,139 --> 01:06:38,820
+assigned him some patents that he basically had done the work on so we felt you know would be
+
+806
+01:06:38,820 --> 01:06:44,140
+fine to give them those patents we didn't really expect them to generate any income anyway and that
+
+807
+01:06:44,140 --> 01:06:51,500
+was the the the gist of the settlement by and large and Rath never paid the $75,000
+
+808
+01:06:51,500 --> 01:07:02,140
+we mentioned a little bit of course of this interview the role that Linus pointed you played and
+
+809
+01:07:02,140 --> 01:07:08,300
+essentially inserting himself and dealing with some of the administrative issues that his father
+
+810
+01:07:08,300 --> 01:07:13,620
+was either disinterested or unable to do because of his advancing age in the clinic health I'm
+
+811
+01:07:13,620 --> 01:07:18,140
+wondering if you could comment a little bit on sort of last year's arrival at the Institute in the
+
+812
+01:07:18,140 --> 01:07:24,740
+role that he played in those last few years of his father's life yeah well when the the staff
+
+813
+01:07:24,740 --> 01:07:29,820
+became aware of the fact that there were problems or financial problems so this was you know
+
+814
+01:07:29,820 --> 01:07:34,539
+sometime in the very early 1990s and then when Paul had been diagnosed and disclosed his disease
+
+815
+01:07:34,539 --> 01:07:39,980
+publicly there was quite a lot of anxiety I would say because people really weren't sure what
+
+816
+01:07:39,980 --> 01:07:47,619
+was going to happen to them to the research programs to the institute and there was just a lot
+
+817
+01:07:47,619 --> 01:07:55,500
+of unease among the staff and the board I think recognized this and realized that they had to do
+
+818
+01:07:55,500 --> 01:08:02,059
+something specific and concrete and make some very definite steps and kind of clarify all the
+
+819
+01:08:02,059 --> 01:08:06,980
+ambiguity and gossip that was going around and kind of put it into the gossip and really lay
+
+820
+01:08:06,980 --> 01:08:11,139
+things out here's here's where the status is now and here's where we're going to go in the future
+
+821
+01:08:11,139 --> 01:08:18,460
+and Linus Plain Jr. had been a board member right from the early days at the Institute but I think
+
+822
+01:08:18,460 --> 01:08:24,659
+he recognized that his father was unwilling or unable to resolve some of these issues in a really
+
+823
+01:08:24,659 --> 01:08:32,019
+meaningful way so he decided to assert himself more in the role of the board so he decided
+
+824
+01:08:32,020 --> 01:08:38,980
+or I guess with the board and his father's acknowledgement he became chairman of the board of trustees
+
+825
+01:08:38,980 --> 01:08:48,860
+and Linus Pauling became director of research I think at that time too so because Pauling was
+
+826
+01:08:48,860 --> 01:08:53,100
+essentially directing a lot of the research at the Institute anyway so he was director of
+
+827
+01:08:53,100 --> 01:08:57,700
+research Linus Plain Jr. I believe became chairman of the board and then at some point in there I
+
+828
+01:08:57,699 --> 01:09:03,500
+moved from becoming executive officer to chief executive officer and because Linus Plain Jr. was
+
+829
+01:09:03,500 --> 01:09:09,659
+chairman of the board and we have lots of problems and I had very little experience in large scale
+
+830
+01:09:09,659 --> 01:09:15,099
+administration I'd been administering a relatively small research group with a little bit of fundraising
+
+831
+01:09:15,099 --> 01:09:22,859
+activity and a little bit of public relations I frequently gave tours to the two people who
+
+832
+01:09:22,859 --> 01:09:27,659
+visited the Institute and wanted to learn about our science so I had some skills there I guess
+
+833
+01:09:27,659 --> 01:09:35,099
+or some experience at least and Linus Plain Jr. and I started to work very closely together so I
+
+834
+01:09:35,099 --> 01:09:39,979
+really I had seen him before but I never had never really worked intensively with him until he
+
+835
+01:09:39,979 --> 01:09:46,619
+sort of took over management for his father in those early days nearly part of the decade there
+
+836
+01:09:46,619 --> 01:09:57,420
+and I found him to be very a very reasonable forceful, thoughtful person and I really appreciated
+
+837
+01:09:57,980 --> 01:10:05,020
+his skill and essentially wisdom in addressing some of these issues that face the Institute he seemed to
+
+838
+01:10:05,020 --> 01:10:11,260
+have a pretty pretty good way of analyzing some of the problems and together we worked up strategies to
+
+839
+01:10:11,260 --> 01:10:16,300
+solve some of the issues that we were facing. Was it all in touch with him the Institute of the
+
+840
+01:10:16,300 --> 01:10:22,699
+Ravon is assumption of this role? I don't think so because I think most people realized that Linus
+
+841
+01:10:23,420 --> 01:10:29,340
+was not going to be an effective administrator of the Institute at that stage so somebody needed to
+
+842
+01:10:29,340 --> 01:10:36,380
+take put their hand on the rudder of the ship and start to exercise some direction and I think
+
+843
+01:10:36,380 --> 01:10:41,819
+people were I mean I can't say what everybody's reaction was about me becoming chief executive
+
+844
+01:10:41,819 --> 01:10:47,739
+officer because that was an unusual move I didn't have an advanced degree although I had been
+
+845
+01:10:47,739 --> 01:10:52,859
+co-directing a relative with small research group and there were other people with seniority
+
+846
+01:10:53,659 --> 01:11:00,939
+that one could have predicted would have been asked to become chief executive officer. I'm not
+
+847
+01:11:00,939 --> 01:11:09,340
+quite sure why I was asked but I was honestly I was a little flattered and I thought I felt very
+
+848
+01:11:10,219 --> 01:11:15,099
+stimulated by the challenge of becoming chief executive officer learning more about
+
+849
+01:11:15,900 --> 01:11:19,740
+what problems the Institute faced and how to solve them because I always considered myself a
+
+850
+01:11:19,740 --> 01:11:24,700
+bit of a problem solver and here was a whole set of what seemed to be very very serious problem so
+
+851
+01:11:26,220 --> 01:11:31,660
+I'm not sure I would have taken the job and you know if I'd known when they asked me to become
+
+852
+01:11:31,660 --> 01:11:36,460
+CEO the magnitude of the problems at the Institute face but I'm glad I did.
+
+853
+01:11:37,180 --> 01:11:41,100
+What was the biggest challenge in hindsight for you in assuming that role?
+
+854
+01:11:41,100 --> 01:11:46,700
+Well the biggest problem the biggest immediate problem was funding and it was heartbreaking
+
+855
+01:11:46,700 --> 01:11:53,500
+for me to lay off people that I had worked with and for for a very very long time.
+
+856
+01:11:53,500 --> 01:11:58,060
+Absolutely heartbreaking I mean I literally had tears in my eyes when I was telling people that
+
+857
+01:11:58,060 --> 01:12:04,380
+there was no longer a job for them at the Institute but it was a fact of life and it was sort of my first
+
+858
+01:12:04,380 --> 01:12:12,380
+first exposure to what it's like to be in charge and make unpopular decisions or decisions that
+
+859
+01:12:13,020 --> 01:12:18,460
+you don't want to make as a person but you're obligated to make because of the role that you're
+
+860
+01:12:18,460 --> 01:12:21,340
+playing in an organization so it was it was difficult too.
+
+861
+01:12:24,859 --> 01:12:33,180
+A couple more questions for today. One event in the Institute that seemed to come at exactly
+
+862
+01:12:33,180 --> 01:12:36,380
+the right time was the donation to the estate of Carl Spodner.
+
+863
+01:12:36,380 --> 01:12:42,300
+Yes yes. Can you give any background on this? This is something that seems to provide a bit of a
+
+864
+01:12:42,300 --> 01:12:47,420
+lifeline for the Institute and most needed it. That's right and as a matter of fact I remarked to a meal
+
+865
+01:12:48,380 --> 01:12:53,100
+because a meal had already decided at that time that he was leaving. There was kind of a bittersweet
+
+866
+01:12:53,900 --> 01:12:58,700
+news for a meal because on the one hand you know this was the salvation financial salvation for the
+
+867
+01:12:58,699 --> 01:13:05,340
+Institute but other decisions that already been made so it came a little too late in some regard.
+
+868
+01:13:07,019 --> 01:13:13,739
+Spodner to the best of my understanding had been a donor to the Institute for quite a long time,
+
+869
+01:13:13,739 --> 01:13:20,939
+very small amounts of money and at the time the Institute did not have access to a lot of
+
+870
+01:13:20,939 --> 01:13:28,300
+research capability to investigate donors based on tax filings or real estate holdings or
+
+871
+01:13:29,019 --> 01:13:34,300
+zip code or anything like that. These days it's very sophisticated kind of donor research that
+
+872
+01:13:35,019 --> 01:13:42,059
+philanthropic organizations or foundations can do to find out really who among their constituents
+
+873
+01:13:42,059 --> 01:13:48,220
+have the ability to make large gifts of one sort or another. Back then we didn't really have that
+
+874
+01:13:48,220 --> 01:13:53,739
+ability so there was no way of targeting people who were giving small donations to the Institute
+
+875
+01:13:54,219 --> 01:13:58,939
+cultivation for instance and the other kinds of fundraising strategies that might be developed to
+
+876
+01:13:58,939 --> 01:14:04,859
+encourage people to give money. So it was a big surprise when we were notified about this estate
+
+877
+01:14:04,859 --> 01:14:10,380
+that had lots of different aspects to it. I believe there was an office building and a home and
+
+878
+01:14:10,380 --> 01:14:17,899
+gold coins and money and just a lot of different financial instruments within this estate
+
+879
+01:14:18,699 --> 01:14:24,619
+and it really did allow us to pay off some of the debts to trustees who had loaned the Institute
+
+880
+01:14:24,619 --> 01:14:32,059
+money and to kind of get on an even keel a bit and we also within a couple years
+
+881
+01:14:33,339 --> 01:14:40,619
+became aware of another big request the Phineas State which also helped us establish enough money
+
+882
+01:14:41,420 --> 01:14:46,619
+so that we could have an endowment that would make the Institute more attractive to a college
+
+883
+01:14:46,619 --> 01:14:56,140
+university to which we might move and it allowed us to bring 1.5 million dollars at least to
+
+884
+01:14:56,140 --> 01:15:02,220
+Oregon State University when we moved up here in 1996 to endow the director's position and at
+
+885
+01:15:02,220 --> 01:15:07,500
+that time there was a match in the state so there was a functional 3 million dollar endowment which
+
+886
+01:15:07,500 --> 01:15:12,619
+was really a good endowment to attract top caliber scientists for this directorship of the Linus
+
+887
+01:15:12,779 --> 01:15:18,859
+Long Institute but getting back to the Phineas State when was this the Phineas? The Phineadonation was
+
+888
+01:15:18,859 --> 01:15:28,300
+sometime in the early 1990s maybe 93 through 94 or 5 I don't really remember the exact date
+
+889
+01:15:28,300 --> 01:15:34,300
+at that time I was also negotiating contracts with Elizabeth Arden that I expected would produce
+
+890
+01:15:34,460 --> 01:15:43,020
+a very considerable revenue stream for the Institute for a very conceivably quite a long time
+
+891
+01:15:43,500 --> 01:15:49,340
+and that to me looked like it might be the financial salvation for the Institute and allow the
+
+892
+01:15:49,340 --> 01:15:56,779
+Institute to remain as an independent biomedical organization and recruit and attract top caliber
+
+893
+01:15:57,579 --> 01:16:03,500
+scientists but that was still under negotiation and under development we weren't quite sure
+
+894
+01:16:03,500 --> 01:16:10,460
+where that was going to go I got a phone call from a woman in New Jersey I believe who said that
+
+895
+01:16:10,460 --> 01:16:17,340
+she wanted to know if I was aware of... is there going to be Ms. Katherine Phineas? Kathleen Phineas?
+
+896
+01:16:17,340 --> 01:16:23,180
+I'm not quite sure what her first name was but this woman had been her best friend and was aware
+
+897
+01:16:23,180 --> 01:16:30,300
+of the last will and testament and told me that she herself had been named as the beneficiary
+
+898
+01:16:30,380 --> 01:16:38,220
+in the will and was to receive a condominium and the Institute was to receive most of the financial
+
+899
+01:16:40,060 --> 01:16:46,140
+instruments that were available in the in the estate and then I think there was small donations
+
+900
+01:16:46,140 --> 01:16:52,699
+elsewhere but it was a fairly large amount of money several million dollars and the woman told me
+
+901
+01:16:52,779 --> 01:17:02,220
+that Phineas had been deteriorating in recent months and a caregiver had come to live with her
+
+902
+01:17:03,260 --> 01:17:10,859
+and this caregiver apparently had persuaded Phineas to alter her will and leave everything to him
+
+903
+01:17:12,059 --> 01:17:17,179
+and the woman who called me thought that this was really unethical and unjust and that this person
+
+904
+01:17:17,579 --> 01:17:24,539
+exploited a deteriorating woman to his own financial gain and it's her scene that way to me I mean
+
+905
+01:17:24,539 --> 01:17:29,579
+I didn't know what the facts of the case were but I hired a firm in New Jersey to look into it
+
+906
+01:17:30,300 --> 01:17:35,900
+and it resulted in a nice settlement for the Institute where we got
+
+907
+01:17:37,340 --> 01:17:43,100
+a belief several million dollars the caretaker ended up with several hundred thousand dollars
+
+908
+01:17:43,100 --> 01:17:46,620
+and the woman who brought this to our attention ended up with her condominium
+
+909
+01:17:49,579 --> 01:17:51,740
+what happened to the Elizabeth Arden relationship?
+
+910
+01:17:52,700 --> 01:17:57,180
+The Elizabeth Arden relationship was quite promising I was really excited by that because
+
+911
+01:17:57,180 --> 01:18:02,140
+there was a research element to it they were quite interested in in funding research that would
+
+912
+01:18:03,020 --> 01:18:09,660
+find out if vitamin C and other micronutrients or phytochemicals could protect skin cells,
+
+913
+01:18:09,659 --> 01:18:16,779
+caretinocytes from damage by sun exposure because they were starting to develop cosmetic
+
+914
+01:18:16,779 --> 01:18:22,139
+topical cosmetic products that included these micronutrients and they also had some
+
+915
+01:18:22,699 --> 01:18:27,579
+preliminary data from their own labs that suggested that topical application of vitamin C and
+
+916
+01:18:27,579 --> 01:18:34,300
+other substances improve the appearance of the skin and I think from a marketing standpoint they
+
+917
+01:18:34,460 --> 01:18:40,140
+were excited about getting involved with the Institute because as the director of research told me
+
+918
+01:18:41,420 --> 01:18:44,460
+their facility was in Trumbull, Connecticut he's the one who really
+
+919
+01:18:45,900 --> 01:18:50,220
+got in contact with us and asked us if we were interested in working with them in this regard
+
+920
+01:18:50,699 --> 01:18:55,020
+he said you know he started thinking about vitamin C well who who really knows the most about
+
+921
+01:18:55,020 --> 01:18:59,579
+vitamin C and as well it's Linus Pong I should contact the Linus Pong Institute and he did
+
+922
+01:19:00,539 --> 01:19:06,539
+and we decided because the prospect of revenue was so great or the prospect of a lot of
+
+923
+01:19:06,539 --> 01:19:10,699
+revenue was so great that it wasn't something that we should just take lightly or dismiss
+
+924
+01:19:11,899 --> 01:19:17,100
+so we spent a lot of time thinking about this and analyzing it and we were some of the trustees
+
+925
+01:19:17,100 --> 01:19:25,819
+were concerned about the commercial exploitation of the name Linus Pong and they thought you know
+
+926
+01:19:25,819 --> 01:19:31,659
+perhaps if the product bombs and were associated with it that maybe it will tarnish our reputation
+
+927
+01:19:32,619 --> 01:19:37,179
+but we worked out an agreement where we had review of all the marketing literature that
+
+928
+01:19:37,179 --> 01:19:41,899
+Arden and Unilever would produce and they could make certain factual statements about what they
+
+929
+01:19:41,899 --> 01:19:47,659
+were doing at the institute supporting a research project and so forth and that we were not engaged
+
+930
+01:19:47,659 --> 01:19:53,340
+in researching development with Arden looking to formulate new products with Arden that wasn't
+
+931
+01:19:53,340 --> 01:19:58,940
+something that was part of this arrangement or relationship and then we agreed to produce a
+
+932
+01:19:58,940 --> 01:20:05,500
+joint newsletter that would be translated into many different languages and available at
+
+933
+01:20:06,860 --> 01:20:12,619
+point of sale in high end departments towards around the world and we did that one newsletter
+
+934
+01:20:12,619 --> 01:20:20,060
+which featured an interview with Linus Pong Lester Pacta also had an article in that and some
+
+935
+01:20:20,060 --> 01:20:27,900
+information about the institute because I saw this as a way of expanding our base of constituents
+
+936
+01:20:28,620 --> 01:20:36,620
+because if we could introduce the institute and its activities to younger people or middle-aged
+
+937
+01:20:36,620 --> 01:20:41,740
+people that shop at these high end department stores presumably they have high income that they
+
+938
+01:20:41,740 --> 01:20:47,260
+might get interested in supporting the institute's research and may at some point you know in the
+
+939
+01:20:47,260 --> 01:20:54,780
+distant future decide to give us bequest as well if they thought the work we were doing was good
+
+940
+01:20:55,659 --> 01:21:01,900
+so I thought this was a good way to expand the institute's influence get more
+
+941
+01:21:02,780 --> 01:21:08,539
+public education about what we were doing and generate revenue for the institute and in addition
+
+942
+01:21:08,539 --> 01:21:14,940
+to that exposure there was also a financial element where we would gain financially from
+
+943
+01:21:15,579 --> 01:21:22,859
+the sale of some of their products and this looked to be remarkably large magnitude of money
+
+944
+01:21:22,859 --> 01:21:29,339
+for us really staggering amount of money possibly and everything was great I went to a Humberg
+
+945
+01:21:29,339 --> 01:21:33,819
+Germany and to New York City and Toronto and participated in press conferences the marketing
+
+946
+01:21:33,819 --> 01:21:40,379
+materials were all developed the product line was about to be launched and the president of
+
+947
+01:21:40,380 --> 01:21:47,659
+Elizabeth Arden Bob Phillips at the time left Arden to take a job with Unilever in London which
+
+948
+01:21:47,659 --> 01:21:53,819
+is the parent company of Elizabeth Arden and they hired a new president from Chicago and this new
+
+949
+01:21:53,819 --> 01:21:59,100
+president came in and proceeded to turn the company upside down suspended a lot of the research
+
+950
+01:21:59,100 --> 01:22:05,100
+contracts except for ours suspended a lot of the marketing efforts for new products and things
+
+951
+01:22:05,579 --> 01:22:12,780
+so unfortunately although everything everybody had expectations for great success because of this
+
+952
+01:22:12,780 --> 01:22:18,060
+management change at Arden it really interfered with the the rollout of all these products and
+
+953
+01:22:18,060 --> 01:22:24,620
+marketing strategies and everything else and she was she left the company after a year and it
+
+954
+01:22:24,620 --> 01:22:31,980
+took them a couple of years after that to fully recover so needless to say our high hopes were
+
+955
+01:22:32,059 --> 01:22:38,859
+somewhat dashed there because of management issues at Elizabeth Arden and they never followed up on it
+
+956
+01:22:39,899 --> 01:22:45,259
+in the years afterwards they may have you know I don't really follow the cosmetics industry so I
+
+957
+01:22:45,259 --> 01:22:49,899
+don't know what they did subsequently but the relationship with the institute eventually came to an
+
+958
+01:22:49,899 --> 01:22:55,500
+end they continued to provide money you know because we had a contract we had a contract with
+
+959
+01:22:55,500 --> 01:23:04,060
+Elizabeth Arden and we had a sub license from LC Progyny to use the name Linus Pauling and
+
+960
+01:23:04,060 --> 01:23:08,380
+so we could use that name in our association our contractual association with Elizabeth Arden
+
+961
+01:23:08,939 --> 01:23:13,340
+and they were funding a research project as I mentioned that was transferred to
+
+962
+01:23:14,220 --> 01:23:20,939
+LPI at Oregon State so the funding continued for some time and then eventually that project
+
+963
+01:23:20,939 --> 01:23:26,139
+funding ran out and then that was the end of the relationship but they also underwrote
+
+964
+01:23:26,939 --> 01:23:34,779
+our newsletter and they provided I was talking to John McCook who was the vice president for
+
+965
+01:23:34,779 --> 01:23:43,099
+research at Arden and after Pauling's death I brought up with him the prospect of doing a very
+
+966
+01:23:43,099 --> 01:23:47,739
+nice commemorative issue of the newsletter that would pay tribute specifically to Linus Pauling
+
+967
+01:23:48,539 --> 01:23:52,859
+and he thought that was a terrific idea and we didn't have the money to produce anything really
+
+968
+01:23:52,859 --> 01:24:00,460
+nice ourselves high volume so Arden very graciously underwrote the commemorative booklet that we
+
+969
+01:24:00,460 --> 01:24:09,500
+produced in lieu of a fall newsletter in 1994 after Linus Pauling died. That's the blue one that we have now.
+
+970
+01:24:09,579 --> 01:24:18,539
+So the last question for today is August of 94 Linus Pauling dies. How would you characterize
+
+971
+01:24:18,539 --> 01:24:24,380
+this date at the Institute of Point? Well it was a terrible day I mean it was a day that we knew
+
+972
+01:24:24,380 --> 01:24:31,020
+was inevitable but you never want to get that news even when you know you should be expecting it.
+
+973
+01:24:31,819 --> 01:24:37,899
+It was a summer day a beautiful day in Palo Alto. Pauling had been at his ranch in Big Sur
+
+974
+01:24:38,699 --> 01:24:43,739
+and Celacermin and I and some other people had been down to see him. There was a deposition actually
+
+975
+01:24:43,739 --> 01:24:47,739
+of Pauling I believe earlier that summer by our attorneys that we went down for
+
+976
+01:24:49,979 --> 01:24:55,739
+but I didn't have any direct knowledge of his deterioration or health status. I knew that he wasn't
+
+977
+01:24:56,059 --> 01:25:00,299
+doing really well but I didn't really have any firsthand knowledge of what he was doing there.
+
+978
+01:25:00,380 --> 01:25:09,100
+So we had worked up in obituary based on information available to us from his biography and from
+
+979
+01:25:09,100 --> 01:25:14,380
+Paradowski's work and probably from materials that were available to us from special collections.
+
+980
+01:25:14,380 --> 01:25:20,380
+So we had an obituary ready to go and of course this was as I said before the internet so the
+
+981
+01:25:20,380 --> 01:25:27,260
+obituary was to be faxed upon notification of Pauling's death. So it had been a typically difficult
+
+982
+01:25:27,260 --> 01:25:32,380
+day at the institute for me. It was always challenging in those days with litigation and financial
+
+983
+01:25:32,380 --> 01:25:38,699
+problems and thinking about the future disposition of the institute and so forth. And I remember going
+
+984
+01:25:38,699 --> 01:25:46,140
+home that day in August and I had a couple of beers before dinner and I got a call from Linus
+
+985
+01:25:46,140 --> 01:25:52,539
+Pond Jr. Before I had a chance to eat and Linus Pauling Jr. told me that his father had just died
+
+986
+01:25:53,500 --> 01:25:59,340
+and it really hit me hard because I was kind of surprised at my own emotional reaction because
+
+987
+01:25:59,340 --> 01:26:05,659
+I really loved Linus Pauling. He was just an amazing person. So immediately I got back in my car.
+
+988
+01:26:05,659 --> 01:26:11,979
+I went back to the institute and I started faxing these obituraries which I had a stack of obituraries
+
+989
+01:26:11,979 --> 01:26:21,180
+with media contact numbers. So they went to CBS, New York Times, NBC, excuse me, CNN, whatever
+
+990
+01:26:21,340 --> 01:26:27,180
+the media contacts we had. I'd sent them out. San Francisco Chronicles, San Jose Mercury,
+
+991
+01:26:27,180 --> 01:26:34,619
+there were probably 15 or 20 of these to be faxed out. So no sooner had I faxed the third out
+
+992
+01:26:35,340 --> 01:26:39,740
+and the phones started ringing. And in those days we had an old-fashioned phone system where you
+
+993
+01:26:39,740 --> 01:26:46,380
+could see a number of little pegs that would light up for an incoming line and I think that
+
+994
+01:26:46,380 --> 01:26:51,579
+there were as many as six incoming lines. So you could look at a single phone and see six of
+
+995
+01:26:51,579 --> 01:26:58,220
+these clear pegs and a peg would be lit depending upon what the incoming number was.
+
+996
+01:26:59,180 --> 01:27:05,739
+And at first, you know, through the third fax there was one of these little pegs that lit up.
+
+997
+01:27:05,739 --> 01:27:11,500
+So I answered it while I was continuing to fax and it was newsweek or something and they wanted
+
+998
+01:27:11,579 --> 01:27:18,460
+some pithy quotes about the life of Linus Pauling and it wasn't difficult for me but it really
+
+999
+01:27:18,460 --> 01:27:25,899
+took some effort to hold myself together to give them cogent statements about Linus Pauling
+
+1000
+01:27:25,899 --> 01:27:33,020
+because I was feeling really sad and I was manically trying to fax all these obituraries out.
+
+1001
+01:27:33,739 --> 01:27:39,260
+And before long, every light was lit and blinking. It was the New York Times, it was CBS,
+
+1002
+01:27:39,260 --> 01:27:45,180
+it was everybody under the sun, one in statements. So I spent the better part of that early evening
+
+1003
+01:27:45,180 --> 01:27:53,100
+there responding to all these phone calls for more information and then the next day of course
+
+1004
+01:27:53,100 --> 01:27:57,980
+everybody at the institute knew that Linus Pauling had died and there was a lot of grief
+
+1005
+01:27:57,980 --> 01:28:01,820
+people were crying and it was a really difficult time for everybody.
+
+1006
+01:28:02,619 --> 01:28:06,779
+In terms of the footing of the institute itself though at that point,
+
+1007
+01:28:07,819 --> 01:28:12,859
+where how do you characterize it? I mean the name sake of the institute is just died and
+
+1008
+01:28:14,219 --> 01:28:17,019
+what is what the outlook for the organization at that point?
+
+1009
+01:28:18,859 --> 01:28:25,179
+Yeah, we had of course in the Board of Trustees meetings which we had very regularly by the way
+
+1010
+01:28:26,139 --> 01:28:30,619
+and then we had reports that went out to the board every month because there were so many
+
+1011
+01:28:30,619 --> 01:28:36,380
+problems and we wanted everything to be done as perfectly as possible. So I would write a report
+
+1012
+01:28:36,380 --> 01:28:42,619
+to the Board of Trustees every month and send it off to all of them by fax and that would cover all
+
+1013
+01:28:42,619 --> 01:28:47,500
+the personnel issues, financial issues. I would have the accountant give us a status of our bank
+
+1014
+01:28:47,500 --> 01:28:52,939
+accounts, investments and so forth so that everybody knew all the time exactly where we were.
+
+1015
+01:28:53,259 --> 01:29:04,460
+And of course we took very seriously the problem of leaving the building in Palo Alto and Linus Pauling
+
+1016
+01:29:04,460 --> 01:29:11,179
+had expressed the desire. I think his first priority was for the institute to remain independent
+
+1017
+01:29:11,179 --> 01:29:19,259
+because I thought I think he felt that we could probably be unsuathed by mainstream medicine
+
+1018
+01:29:19,260 --> 01:29:22,539
+or mainstream science if we retained independence. We could be more
+
+1019
+01:29:23,340 --> 01:29:29,820
+iconic plastic and more of a maverick organization but absent that he completely supported the idea
+
+1020
+01:29:30,780 --> 01:29:36,619
+of integrating into an appropriate university with academic activities that would resonate with
+
+1021
+01:29:36,619 --> 01:29:42,860
+the institute's mission. So who was supportive of that but he died before the discussions with
+
+1022
+01:29:42,859 --> 01:29:48,859
+Oregon State University had really matured. We had lots of people coming to the institute
+
+1023
+01:29:48,859 --> 01:29:55,179
+presenting different options to us ideas about what they would do in the institute, should we
+
+1024
+01:29:55,179 --> 01:30:01,739
+transfer funds to them and the name and so on and so forth. There was a one fellow who was a
+
+1025
+01:30:01,739 --> 01:30:07,339
+relocation specialist who had contacted me who had a lot of contacts with the universities around
+
+1026
+01:30:07,340 --> 01:30:15,980
+the country and thanks to his good graces we initiated discussions with university administrators
+
+1027
+01:30:15,980 --> 01:30:21,819
+in Wisconsin and Boston University in Oklahoma and a lot of different places to find out if there
+
+1028
+01:30:21,819 --> 01:30:29,819
+was any interest in the Linus Pauling Institute. So all those conversations and to be honest with you
+
+1029
+01:30:29,819 --> 01:30:34,060
+so many things were happening in that short period of time I can't really place everything chronologically
+
+1030
+01:30:34,780 --> 01:30:41,100
+Pauling was certainly aware of the desire that the board had to keep the institute going as a
+
+1031
+01:30:41,100 --> 01:30:45,580
+working tribute to his ideas in orthomolecular medicine. And there were different
+
+1032
+01:30:47,020 --> 01:30:51,820
+options being discussed. One for instance was I think this was brought up by one of our trustees
+
+1033
+01:30:52,620 --> 01:30:57,500
+maybe what we should do is just close the institute down, liquidate everything and take that money
+
+1034
+01:30:57,500 --> 01:31:03,740
+and establish a chair in Linus Pauling's name at Caltech or Stanford or someplace like that.
+
+1035
+01:31:03,819 --> 01:31:09,420
+That would be most meaningful to Linus Pauling. So those there were lots of different possibilities
+
+1036
+01:31:09,420 --> 01:31:12,859
+that were that were pretty seriously discussed at those days.
+
+1037
+01:31:14,539 --> 01:31:18,219
+But financially you had a couple pretty big gifts that came and then basically gave you a
+
+1038
+01:31:18,219 --> 01:31:22,939
+bit of water for a little while. That's right and that really improved the probability of
+
+1039
+01:31:24,380 --> 01:31:31,099
+securing the interest of an academic institution too because one problem that we confronted with
+
+1040
+01:31:31,100 --> 01:31:36,380
+lots of universities was that they just didn't have a lot of vacant space. Vacant space doesn't
+
+1041
+01:31:36,380 --> 01:31:41,900
+exist in the university environment. I mean it's subsumed by departments or units right away.
+
+1042
+01:31:43,420 --> 01:31:49,100
+So there wasn't a lot of existing space in any of the universities that we talked with where we
+
+1043
+01:31:49,100 --> 01:31:55,900
+could just walk right in and make ourselves at home. And people have different impressions of the
+
+1044
+01:31:56,299 --> 01:32:06,299
+of the reputation of the institute. So there are always people that believe that Pauling was
+
+1045
+01:32:06,299 --> 01:32:11,019
+flaky with the vitamin C and orthomolecular medicine and there were probably institutions that
+
+1046
+01:32:11,019 --> 01:32:19,339
+shared that attitude as well. So we recognized that any institution who was looking to
+
+1047
+01:32:21,339 --> 01:32:25,420
+gain the Linus Pauling Institute would also be gaining perhaps a little bit of a risk as well.
+
+1048
+01:32:25,739 --> 01:32:31,899
+And the litigation had been covered in the papers so it was a difficult time. There was no question
+
+1049
+01:32:31,899 --> 01:32:39,899
+that it wasn't a perfect organization with a stellar medical scientific record that was coming in
+
+1050
+01:32:39,899 --> 01:32:47,819
+with no stains. There were some problems, image problems perhaps. So we were concerned that
+
+1051
+01:32:47,819 --> 01:32:54,220
+that would be make it very difficult for people to be to warmly receive the institute.
+
+1052
+01:32:54,220 --> 01:32:59,100
+So the money really improved the probability because when you can bring money while suddenly
+
+1053
+01:33:00,300 --> 01:33:03,820
+university administrators can see much more potential if you're bringing some money with you.
+

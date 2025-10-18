@@ -1,0 +1,4084 @@
+1
+00:00:00,000 --> 00:00:29,000
+Okay, I'm Bill Robbins, formerly William G. Robbins. Today is March 27th, 2012, and we're in the third floor of the Oregon State University Library, and this is an interview.
+
+2
+00:00:29,000 --> 00:00:35,000
+I'm having to do with my longtime esteemed colleague William Appleman Williams.
+
+3
+00:00:35,000 --> 00:00:40,000
+So that is what we're doing. Our transplant just didn't quite much day.
+
+4
+00:00:40,000 --> 00:00:47,000
+You could give us a little context, though, just kind of read from the aspects of your own life.
+
+5
+00:00:47,000 --> 00:00:56,000
+Okay, I'm Connecticut Yankee by birth, and have some resonance with Bill Williams career.
+
+6
+00:00:56,000 --> 00:01:06,000
+Career, I spent four years in the Navy. I did not, however, attend the Naval Academy. I was in the listed man right out of high school.
+
+7
+00:01:06,000 --> 00:01:16,000
+I went to undergraduate school after the Navy experience. I was out actually five years out of high school before I went to school.
+
+8
+00:01:16,000 --> 00:01:20,000
+Got a degree in a small teachers college in Connecticut.
+
+9
+00:01:20,000 --> 00:01:36,000
+I spent one semester at Syracuse University, and then moved to Oregon in 1963, taught school for one year, and began taking graduate seminars at the University of Oregon.
+
+10
+00:01:36,000 --> 00:01:50,000
+And finished a master's degree in British history at the University of Oregon in 1965, moved east to the University of Maine, where I had ambitions to do a PhD.
+
+11
+00:01:50,000 --> 00:02:01,000
+It didn't work out there for reasons that are not pertinent to this discussion, and I returned to Oregon in the fall of 1966 in American history.
+
+12
+00:02:01,000 --> 00:02:19,000
+And we see the PhD in 1969, and began teaching here and there on visiting appointments in wound up at Oregon State in 1971, and I was here for three or four years on visiting appointments.
+
+13
+00:02:19,000 --> 00:02:37,000
+And one of them, I know, was when Bill Williams took a research leave, and with the proposal that I'd be some of the money used to be hired to hire me as another interim appointment for that year.
+
+14
+00:02:37,000 --> 00:02:53,000
+And then I got on a tenure track, and so I was at Oregon State from 1971, full-time until 1999, and I went half-time and retired full-time in 2002.
+
+15
+00:02:53,000 --> 00:02:55,000
+So Wayne's came there as the 1968?
+
+16
+00:02:55,000 --> 00:03:07,000
+Well, briefly, and it's a fun story, and I'm glad you asked that question.
+
+17
+00:03:07,000 --> 00:03:22,000
+I was a graduate student. I first discovered Bill Williams when I was at the University of Maine, and it had directly to do with the anti-war movement having to do with Vietnam.
+
+18
+00:03:22,000 --> 00:03:32,000
+And sometime in the fall of 1965, or spring of 1966, I started reading Williams.
+
+19
+00:03:32,000 --> 00:03:48,000
+I read tragedy of American diplomacy first, and then I read articles that he wrote various publications, minority of one, and the progressive, having to do with American foreign relations and so forth.
+
+20
+00:03:48,000 --> 00:04:05,000
+And so when I came back to return to the University of Oregon to work on the PhD, I was fully vested in my research project, but I was also fully vested in anti-war activities on campus and Eugene community.
+
+21
+00:04:05,000 --> 00:04:27,000
+And by the fall of 1968 when Bill moved from Madison to Corvallis, I was writing my doctoral dissertation at that point, and stunned to hear that he had moved to Oregon State.
+
+22
+00:04:27,000 --> 00:04:48,000
+I mean, speechless. And I had to do with a perception, mostly erroneous, that we had as graduate students at the University of Oregon, that the Oregon State University was a bastion of reactionary politics and so forth, that I learned, of course, was a far stretch of what I came here and joined the faculty.
+
+23
+00:04:48,000 --> 00:05:03,000
+But to make this story to bring it current, in late January of 1969, the University of Oregon history faculty invited Bill to campus.
+
+24
+00:05:03,000 --> 00:05:11,000
+And it was his first appearance back on campus since he left. He had been there before, but giving a formal address on campus.
+
+25
+00:05:11,000 --> 00:05:37,000
+And I think it was January 29, 1969 or January 28, 69, and it was the onset of a huge snowstorm that you can go in the newspapers, you can find it, but it was on a Friday night, and he spoke to a packed hall in herb memorial room 105.
+
+26
+00:05:37,000 --> 00:05:53,000
+And I was there as we're all of my graduate student colleagues who were a pretty eclectic and very bright bunch, maybe the best group of graduate students at the UFO ever had in history, I guess.
+
+27
+00:05:53,000 --> 00:06:07,000
+Anyway, I can't remember Bill's, just what the substance of his address was, but the next day, it's mounting snowfall.
+
+28
+00:06:07,000 --> 00:06:23,000
+He spoke to graduate students in Chapman Hall, which was a place where graduate students would gather, and I can't remember what tickler, college or department of Chapman Hall was associated with.
+
+29
+00:06:23,000 --> 00:06:48,000
+And it was kind of a Q&A, and of course I was enamored with Bill, and I was all fired up with a major question, I wanted to know what drove him to become the person he did, something like that, and I'm sure I articulated my question like an idiot.
+
+30
+00:06:48,000 --> 00:07:00,000
+And I will never forget his response, this is a direct quote, what the hell kind of a question is that.
+
+31
+00:07:00,000 --> 00:07:11,000
+Totally humiliated, and after I got to know Bill, I would retell him that story, and he said, I wouldn't have said something.
+
+32
+00:07:11,000 --> 00:07:30,000
+Yeah, I said you sure did. So, well, in other words, Bill was a historian's historian, if you read the essays that Paul's working on on the unpublished essays, they're, they reak with history, with a sense of history.
+
+33
+00:07:30,000 --> 00:07:48,000
+And my question had nothing to do with that, had to do with political activism, presentist politics, and so forth, just the opposite of the kind of person that Bill was.
+
+34
+00:07:48,000 --> 00:08:03,000
+I can't remember it went on from there, and I think I started looking furtively out the window at the mounting snow, and I don't know how Bill ever, ever got home, he was living in Newport at the time.
+
+35
+00:08:03,000 --> 00:08:15,000
+And because Eugene came to a standstill, I remember 43 inches of snowfall in little over 24 hours.
+
+36
+00:08:15,000 --> 00:08:23,000
+Well, it sounds like tragedy was an important act in Congress, what is well.
+
+37
+00:08:23,000 --> 00:08:44,000
+Contour is much greater than tragedy. I used to say, on my desk, I had Webster's dictionary in contours of American history, and it influenced in a large way, because I consulted it regularly,
+
+38
+00:08:44,000 --> 00:09:06,000
+and teaching United States history, and I can't remember the details, but I can say that when I was teaching Pacific Northwest history about the Lewis and Clark expedition, I consult the index and find Lewis and Clark and Jefferson and so forth,
+
+39
+00:09:06,000 --> 00:09:28,000
+and I remember a line that I would quote to students from tragedy, from contours of American history, that Jefferson was the great American Democrat, Jefferson was the great American empire builder, right in the same bogs.
+
+40
+00:09:28,000 --> 00:09:39,000
+Yeah, contours and Paul Bill bears us out was a major, major book that historians have still have to contend with.
+
+41
+00:09:39,000 --> 00:09:46,000
+So your experience was not isolated like this in terms of the impact that would happen in Newport?
+
+42
+00:09:46,000 --> 00:10:15,000
+No, no, I don't think so, but beyond that, when I came here and joined the faculty in 1971, in my constant association with Bill, I began to think much more seriously, and it really did direct my research for publication for many years as his notion of political economy.
+
+43
+00:10:15,000 --> 00:10:38,000
+The intersection between politics and economics, and here I became interested in natural resource industries and the intersection of politics and economics and something that has stayed with me ever since.
+
+44
+00:10:38,000 --> 00:10:48,000
+What sounds like you came to us about three years after the wings that you know, much about the course that we're hiring employees.
+
+45
+00:10:48,000 --> 00:11:07,000
+I do and mainly from Bill, and I should have brought my doctoral dissertation with me because I have to say that in the fall of 1969, I taught a US history course here on Tuesdays and Thursdays, and it was Tuesdays and Thursdays when Bill was here because that was his schedule.
+
+46
+00:11:07,000 --> 00:11:27,000
+And he read my dissertation and he wrote in his beautiful script, just some comments, and I'll try to remember to scan them and send you copies because they're interesting. He took young scholars seriously.
+
+47
+00:11:27,000 --> 00:11:56,000
+And what was your question? Oh, yes. Well, the whole background to that is failing marriage to Corinne, and I'm not sure if Paul Bill was all together right about Bill's, Paul, would argue that Bill's theme was that a woman's place was in the home.
+
+48
+00:11:56,000 --> 00:12:04,000
+And I'm not so sure about that, and I'm not sure my wife would agree with that either, but that's Paul's view.
+
+49
+00:12:04,000 --> 00:12:22,000
+And there's enough evidence to say that's true, and Corinne's restlessness of wanting to go on and get a degree as it turns out at Portland State because they had a social work program.
+
+50
+00:12:22,000 --> 00:12:26,000
+I'm losing my train of thought, do you response to your question?
+
+51
+00:12:26,000 --> 00:12:38,000
+Right. He made friends with George Carson here, and I think that's clear from recorded literature, and they liked each other. That was important.
+
+52
+00:12:38,000 --> 00:12:52,000
+And George was very bright, and he was no one's fool, and he liked Bill, and then there were negotiations about the possibility of hiring Williams.
+
+53
+00:12:52,000 --> 00:13:11,000
+And the president, I, at the time I think, was Jensen, and Paul Buell has it that a dean was involved, because there were questions raised about Bill's trustworthiness because he was a radical and so forth.
+
+54
+00:13:11,000 --> 00:13:37,000
+And I remember Bill saying it was Jensen, and that president Jensen put in a call to Fred Harvey Harrington, and I don't know whether Harrington yet had become president of University of Wisconsin or not, but asked him, and I remember Bill saying it was Jensen, who called Harrington, and asked him the Williams was trustworthy,
+
+55
+00:13:37,000 --> 00:14:03,000
+and Bill said, Harrington said, he is, and Bill, I remember him saying, I get the job, and that's about all I can add, and I know that there's correspondence George Carson, and I think Tom McClinnick, Tom was sitting in, I know for George, part of time when George was on leave, so I don't know, but that should, all that correspondence is here.
+
+56
+00:14:03,000 --> 00:14:10,000
+And do you have any sense of what is assessment of the University, or do you have a partner with I do you write?
+
+57
+00:14:10,000 --> 00:14:32,000
+Well, I hadn't changed much when I came here in 1971, and there was a dearth of people publishing, and that's being very kindly, but that wasn't unusual in most land-bent universities and other places either.
+
+58
+00:14:32,000 --> 00:14:47,000
+One of the more active people publishing at the time in colonial history was Daryl Wax, and he would, when Tom McClinnick stepped down from being chair of the department, Daryl became chair of the department.
+
+59
+00:14:47,000 --> 00:15:13,000
+Late 70s, something like this, and so Daryl was chair through the rest of Bill's tenure on the faculty, but other than that, you know, I, one well-known member of the faculty, was promoted to full professor on the basis of three articles published,
+
+60
+00:15:13,000 --> 00:15:35,000
+and I was going up for full professor the same year, and the dean at the time, who's died a long time ago, tried to get me with draw my bid for promotion to full professor, because I hadn't been associate professor for very long either.
+
+61
+00:15:35,000 --> 00:16:04,000
+But I was publishing articles, and I had a book in press, and I remember it was just before the Christmas break, he asked me suggested that I would draw my candidacy, and I was a little bit offended, but I was talking to the dean, and I said that, you know, I thought that I had the credentials, my resume was strong enough for promotion,
+
+62
+00:16:04,000 --> 00:16:27,000
+and I had mine this other person, it's going up for promotion, and I assured him that I wasn't going to jump off to all buildings or anything if I was denied, and anyway, it was turned down, and I learned subsequently that the vote among the senior review team here was close.
+
+63
+00:16:27,000 --> 00:16:55,000
+No, but I remember talking to the person who actually become good friends with, since who told me, and he got promoted, was that you just have to wait your turn, which didn't share my Irish sensibilities very much, but those were interesting times, and I was feisty,
+
+64
+00:16:55,000 --> 00:17:18,000
+and cocky in some ways, but I was publishing a lot, and my first book was published in 1982, Bill Reddy, introductory chapter, I'll never forget it, before I sent it off for publication, do you want to hear that story?
+
+65
+00:17:18,000 --> 00:17:47,000
+I wrote it and re-wrote it, revised it, until I was sure that it was near perfect, and my family and I were living out on the Alcy Highway at the time, and we drove down our long driveway, and for some reason, she was driving, and I reached in our mailbox and pulled out, there it was, with Williams' handwriting,
+
+66
+00:17:48,000 --> 00:18:17,000
+opened it up as we were driving in the town and pulled out the manuscript, and I told this to graduate students, red-panned, it looked like he had cut himself, and bled, I might perfect writing, but, oh did I learn about writing, not just redundancies, but repetitive word use,
+
+67
+00:18:18,000 --> 00:18:40,000
+the use of that, in which the proper use of that, in which the proper use of these in those, and those are only, I should have saved it, I don't think I have that anymore, but I was a priceless piece of editorial work.
+
+68
+00:18:40,000 --> 00:19:09,000
+It took me a while to, as I used to say, when I first came here speaking to Bill, I always felt like I had a hot potato in my mouth, but I got over that, and I would say by 1973, 74, you know, I was sort of beyond that, and became friends,
+
+69
+00:19:09,000 --> 00:19:26,000
+and eventually very good friends, and I was divorced in 1972, so Bill never met my first wife, and I was single for three years,
+
+70
+00:19:26,000 --> 00:19:55,000
+Bill and Wendy were married in, fall of 72, December of 72, they went to British Columbia, I think, to Vancouver, got married, and I didn't remarry until the summer of 1975, and this is what Paul Biel misses in his biography, Bill Williams, is his sense of play,
+
+71
+00:19:55,000 --> 00:20:10,000
+even the memos he would write to the history department, which are fun reading, part of it is his sense of play, sometimes very cryptic, but a beautiful sense of play,
+
+72
+00:20:10,000 --> 00:20:36,000
+Bill and Wendy came to our wedding, and when we walked out of the church at the end of the ceremony, tied to ornamentation on the outside of the church were balloons, brought by Bill.
+
+73
+00:20:36,000 --> 00:20:46,000
+Well, my next question sort of fits along, and this may have an interesting note that more about his personality.
+
+74
+00:20:46,000 --> 00:21:12,000
+Well, Paul mentions this in his biography, but I don't, I don't think he struck how important it was to Bill, is on Tuesdays and Thursdays, we would go down to the Corvales Hotel, and the Corvales Hotel in the bottom floor that's since long been gone were two great pool tables,
+
+75
+00:21:12,000 --> 00:21:40,000
+and you could buy beer or beverages there, and we would shoot pool, and Bill was the best pool player, and there would be Ben Merzek from our department, who was kind of a crotchity cranky guy, really based on wonderful healing being, but sometimes difficult to get along with.
+
+76
+00:21:40,000 --> 00:22:03,000
+I mean, even for his best friends, one was Bill, and I was a good friend of Ben's too. Ben was a good pool player, Peter Copeck, who was the founding director of the Center for Humanities, was a regular there, and there would be various others who would join for different times.
+
+77
+00:22:03,000 --> 00:22:12,000
+But those were always wonderful get together, and then Bill would catch the Greyhound back to Newport.
+
+78
+00:22:12,000 --> 00:22:32,000
+That was part of it. Bill, it varied from politics to history to sports, and I know there was a television set.
+
+79
+00:22:32,000 --> 00:22:44,000
+And it could have been after the Corvales Hotel closed, and we moved on to somewhere else, and I think it was, and I can't remember where we played pool after that.
+
+80
+00:22:44,000 --> 00:22:59,000
+But it was during the baseball playoffs, and when Nolan Ryan pitched for that Houston Astros, and Bill was, he was a preeminent sports fan, and especially baseball.
+
+81
+00:22:59,000 --> 00:23:11,000
+And he was enamored with watching Nolan Ryan pitch. Well, he was a pain in the neck when, you know, his turn to shoot, and he's up watching television, watching Nolan Ryan pitch.
+
+82
+00:23:11,000 --> 00:23:19,000
+But Paul Bill misses that part of Bill's life, and those are very rich part of his life too.
+
+83
+00:23:19,000 --> 00:23:28,000
+And you probably, I'm sure this is in my brief biograph of a sketch of Bill in the Fesheriff, a wonderful line.
+
+84
+00:23:28,000 --> 00:23:45,000
+And I think it was from Lloyd Gardner and not Walter LaFabre, that in his seminars, Bill would charge them during fall semester when the aches were always playing in the playoffs, or there was no playoffs.
+
+85
+00:23:45,000 --> 00:23:49,000
+And he simply won the American League Championship in the World Series.
+
+86
+00:23:49,000 --> 00:23:58,000
+And all of his graduate students would be anti, they'd be yanky haters, and Bill would charge them that they just, they didn't understand power.
+
+87
+00:23:58,000 --> 00:24:03,000
+They understand power, you have to understand the aches.
+
+88
+00:24:03,000 --> 00:24:13,000
+It was neat to see how he could take sports metaphor and switch it into a discussion of, you know, his kind of history, his approach to history.
+
+89
+00:24:13,000 --> 00:24:16,000
+Did he take an interest in the local teams?
+
+90
+00:24:16,000 --> 00:24:28,000
+Oh yes, he was a very close fan of Ralph Miller's great basketball teams in the late 70s and early 80s, really.
+
+91
+00:24:28,000 --> 00:24:39,000
+And he actually probably met Ralph on different occasions, I can't remember the details, but he knew and liked him.
+
+92
+00:24:39,000 --> 00:24:44,000
+He had Ralph's daughter Shannon in his class at some point.
+
+93
+00:24:44,000 --> 00:24:48,000
+And Shannon also was a student in one of my classes as well.
+
+94
+00:24:48,000 --> 00:24:54,000
+And she was on the women's basketball team here, and very good.
+
+95
+00:24:54,000 --> 00:24:57,000
+Yes, right.
+
+96
+00:24:57,000 --> 00:24:59,000
+How would it sense in women?
+
+97
+00:24:59,000 --> 00:25:04,000
+Well, I've given you a flare for that already, I think.
+
+98
+00:25:04,000 --> 00:25:13,000
+His play with words, especially in memos to the history department, which I think I saved most of them.
+
+99
+00:25:13,000 --> 00:25:21,000
+And they, you, I'm over between my collection and whatever you gather elsewhere, you, they're great reading.
+
+100
+00:25:21,000 --> 00:25:25,000
+And they're also steeped in historical metaphors.
+
+101
+00:25:25,000 --> 00:25:33,000
+And in what I always enjoyed about those is the sense of play that, you know, this was part fun, part humor.
+
+102
+00:25:33,000 --> 00:25:40,000
+And so forth, and that you never could take yourself all that seriously.
+
+103
+00:25:40,000 --> 00:25:51,000
+And I should have better responses to, but that was part of Bill's persona, I think, that you never take yourself all that seriously.
+
+104
+00:25:51,000 --> 00:25:58,000
+And I think that that's part of his differences with Arthur, Arthur Meyer, Slesinger Jr.
+
+105
+00:25:58,000 --> 00:26:04,000
+was that Slesinger certainly took himself very seriously.
+
+106
+00:26:04,000 --> 00:26:10,000
+And I assume this personality there is before it's not about conversation, or a little bit.
+
+107
+00:26:10,000 --> 00:26:13,000
+Oh, yes.
+
+108
+00:26:13,000 --> 00:26:20,000
+I have to say one other thing, I told this to Paul Buil when he interviewed me when he was working on the biography.
+
+109
+00:26:20,000 --> 00:26:25,000
+That Bill, I told him Bill is the best idea person I've ever met.
+
+110
+00:26:25,000 --> 00:26:33,000
+And Paul came close to agreeing, but he had one other person in mind, the best idea person he ever met.
+
+111
+00:26:33,000 --> 00:26:46,000
+And that's CLR James, the Caribbean Marxist Revolutionary, and one of the greatest cricketeers of all time.
+
+112
+00:26:46,000 --> 00:26:52,000
+You might check Paul's biography of CLR James.
+
+113
+00:26:52,000 --> 00:26:57,000
+Where do you think this came from before it is?
+
+114
+00:26:57,000 --> 00:27:02,000
+The best idea is exactly the brightest.
+
+115
+00:27:02,000 --> 00:27:10,000
+Well, you know, it's to use the old metaphor of thinking outside the box, no one thought outside the box like Williams.
+
+116
+00:27:10,000 --> 00:27:12,000
+And Paul does a good job of that.
+
+117
+00:27:12,000 --> 00:27:25,000
+That he looked at historical questions from the side or kind of an opaque view.
+
+118
+00:27:25,000 --> 00:27:33,000
+And he saw raised questions that no one ever raised before, or thought about things in a unique and different way.
+
+119
+00:27:33,000 --> 00:27:40,000
+And that's what I think his work is so transformative in American foreign relations.
+
+120
+00:27:40,000 --> 00:27:50,000
+Because, you know, old-style diplomatic history never looked at it from the approach that Bill did.
+
+121
+00:27:50,000 --> 00:27:55,000
+You know, his book, the roots of the modern American Empire is a kind of a classic study.
+
+122
+00:27:55,000 --> 00:28:03,000
+Looking at agriculture and agriculture and its search for markets.
+
+123
+00:28:04,000 --> 00:28:19,000
+And the force that that had in the late 19th century, and shaping American foreign relations certainly is a, you know, powerful way of looking at that.
+
+124
+00:28:20,000 --> 00:28:26,000
+Yeah. Oh, beard. In fact, beard would be a common point of discussion over the pool table.
+
+125
+00:28:26,000 --> 00:28:35,000
+And every once in a while, Lloyd Gardner or Walt with a favor, somebody like that would come up with something out of the beard papers.
+
+126
+00:28:35,000 --> 00:28:37,000
+All the beard burned always papers, I think.
+
+127
+00:28:37,000 --> 00:28:43,000
+But it was a reference to beard that they found in somebody else's correspondence and so forth.
+
+128
+00:28:43,000 --> 00:28:54,000
+He would share that with me, and probably some of it may be in what I've turned over to the archives here, the collection.
+
+129
+00:28:54,000 --> 00:28:59,000
+So, yeah, beard was a constant point of reference.
+
+130
+00:29:00,000 --> 00:29:20,000
+And I, you know, of course, well aware of beard, and especially his point about the influence on the shaping of America's early period of history.
+
+131
+00:29:20,000 --> 00:29:35,000
+I mean, they making the constitutional convention that the constitutional makers were not some of our current politicians today descended from on high, but rather they had their hand in the cookie jars.
+
+132
+00:29:35,000 --> 00:29:41,000
+So, that was part of my understanding to of political economy.
+
+133
+00:29:41,000 --> 00:29:46,000
+Did you ever, is it the first time that you deployed?
+
+134
+00:29:46,000 --> 00:29:49,000
+No, no, I don't even know where it was.
+
+135
+00:29:50,000 --> 00:29:58,000
+No, I, in fact, by the time Carl and I visited their wall port, and I think the two of us were there together.
+
+136
+00:29:58,000 --> 00:30:01,000
+I never visited Bill there alone.
+
+137
+00:30:01,000 --> 00:30:07,000
+Then he and Wendy were married by the time I was making trips to the coast to visit them.
+
+138
+00:30:07,000 --> 00:30:24,000
+What Bill did was he bought two cabins, and then when he and Wendy were married, they built a petition, which housed a kitchen, a small dining room, and so forth.
+
+139
+00:30:24,000 --> 00:30:34,000
+And then one end became a study in their bedroom and the other end was a living room.
+
+140
+00:30:34,000 --> 00:30:49,000
+And then eventually after we knew them several years, they built a bigger bedroom and a garage over the other end, but it was very livable and, you know, very appropriate for them.
+
+141
+00:30:49,000 --> 00:30:54,000
+And it backed up right on the bluff over the ocean.
+
+142
+00:30:54,000 --> 00:30:57,000
+As you probably know.
+
+143
+00:30:57,000 --> 00:31:00,000
+When we talked earlier before, you're quite in my study, I don't want to be doing it.
+
+144
+00:31:00,000 --> 00:31:05,000
+Later I didn't do direct lessons with what that state was like.
+
+145
+00:31:05,000 --> 00:31:09,000
+This was not recorded though, that was over coffee.
+
+146
+00:31:09,000 --> 00:31:25,000
+In foster, Spartan, beautiful desk, bookcase, hardbound books, not many of them.
+
+147
+00:31:25,000 --> 00:31:32,000
+The study was not, you know, filled with wall to wall books.
+
+148
+00:31:32,000 --> 00:31:36,000
+It's the needest study I've ever seen.
+
+149
+00:31:36,000 --> 00:31:45,000
+It's probably an expression of bills, bills work.
+
+150
+00:31:45,000 --> 00:31:50,000
+We talked about this a little bit already, but how did the logistics work out of building on it?
+
+151
+00:31:50,000 --> 00:32:01,000
+Well, he had an agreement when he signed his contract that he wouldn't have to be here every day, because he wanted to live on the coast.
+
+152
+00:32:01,000 --> 00:32:06,000
+And, you know, wanted to teach a Tuesday, Thursday schedule.
+
+153
+00:32:06,000 --> 00:32:10,000
+And I know there was some resentment over that.
+
+154
+00:32:10,000 --> 00:32:13,000
+I was privy to it.
+
+155
+00:32:13,000 --> 00:32:28,000
+And I thought it was nonsense because it came from people who were doing nothing and had no had zero prestige in terms of the history, the historical profession.
+
+156
+00:32:28,000 --> 00:32:31,000
+And he, Bill gave his all to the department.
+
+157
+00:32:31,000 --> 00:32:36,000
+He did his share, his fair share of classes.
+
+158
+00:32:36,000 --> 00:32:43,000
+He had by students and we had individual student advising, although probably not too many.
+
+159
+00:32:43,000 --> 00:32:48,000
+Students who matriculated in his class under graduates.
+
+160
+00:32:48,000 --> 00:32:54,000
+I would say probably 98% of them, never knew who they were taking the class went.
+
+161
+00:32:54,000 --> 00:33:00,000
+And a striking example of this, I was attending a Western history meeting in Sacramento.
+
+162
+00:33:00,000 --> 00:33:02,000
+And I was in an elevator.
+
+163
+00:33:02,000 --> 00:33:10,000
+And I fellow saw my identification card for the conference.
+
+164
+00:33:10,000 --> 00:33:17,000
+And asked me, he said, is William, William still teaching?
+
+165
+00:33:17,000 --> 00:33:22,000
+And I said, yes, he said, do you know I had a class with him as an undergraduate?
+
+166
+00:33:22,000 --> 00:33:25,000
+And I never knew who he was.
+
+167
+00:33:25,000 --> 00:33:28,000
+So that was kind of an eye opener for me.
+
+168
+00:33:28,000 --> 00:33:33,000
+Well, something I never forgot because, you know, wow.
+
+169
+00:33:33,000 --> 00:33:36,000
+So he would take the bus over and more and teach you to take it back?
+
+170
+00:33:36,000 --> 00:33:37,000
+It takes about, yeah.
+
+171
+00:33:37,000 --> 00:33:41,000
+And I think it was a seven o'clock return bus.
+
+172
+00:33:41,000 --> 00:33:43,000
+And he would be home.
+
+173
+00:33:43,000 --> 00:33:48,000
+Well, by the time I was here, he was living in Wallport.
+
+174
+00:33:48,000 --> 00:33:55,000
+And so he would leave his car in Newport or Wendy would drive pick him up and something like that.
+
+175
+00:33:55,000 --> 00:33:58,000
+I don't know how that worked out.
+
+176
+00:33:58,000 --> 00:34:00,000
+So he didn't even remember that?
+
+177
+00:34:00,000 --> 00:34:01,000
+No.
+
+178
+00:34:01,000 --> 00:34:02,000
+He didn't.
+
+179
+00:34:02,000 --> 00:34:07,000
+And when he did stay over, if he stayed over Tuesday and Wednesday night,
+
+180
+00:34:07,000 --> 00:34:09,000
+because he had other commitments.
+
+181
+00:34:09,000 --> 00:34:11,000
+And he did that pretty regularly.
+
+182
+00:34:11,000 --> 00:34:14,000
+He stayed at the townhouse.
+
+183
+00:34:14,000 --> 00:34:17,000
+And it's still at townhouses, isn't it?
+
+184
+00:34:17,000 --> 00:34:19,000
+And south-fourth.
+
+185
+00:34:19,000 --> 00:34:22,000
+And it's Tommy's bar and grill.
+
+186
+00:34:22,000 --> 00:34:26,000
+And then it was just the townhouse bar.
+
+187
+00:34:26,000 --> 00:34:31,000
+And so we talked about it for a while.
+
+188
+00:34:31,000 --> 00:34:33,000
+So we talked about it for a while.
+
+189
+00:34:33,000 --> 00:34:35,000
+No.
+
+190
+00:34:35,000 --> 00:34:39,000
+Corvall is so tellin' I can't remember where we migrated for a while.
+
+191
+00:34:39,000 --> 00:34:42,000
+And then the townhouse.
+
+192
+00:34:42,000 --> 00:34:49,000
+We would get together there for drinks after we're at sometimes.
+
+193
+00:34:49,000 --> 00:34:51,000
+Can't remember.
+
+194
+00:34:51,000 --> 00:34:52,000
+There is now.
+
+195
+00:34:58,000 --> 00:34:59,000
+Yeah.
+
+196
+00:34:59,000 --> 00:35:00,000
+Yeah.
+
+197
+00:35:00,000 --> 00:35:05,000
+I'm watching I've got about 18, 15 minutes or so.
+
+198
+00:35:05,000 --> 00:35:09,000
+How do you characterize his work style and work with his?
+
+199
+00:35:09,000 --> 00:35:15,000
+Well, I have to back up because by the time we were talking about writing
+
+200
+00:35:15,000 --> 00:35:18,000
+drafts of papers and so forth.
+
+201
+00:35:18,000 --> 00:35:23,000
+And he would use long yellow pads.
+
+202
+00:35:23,000 --> 00:35:25,000
+He'd called it full scat.
+
+203
+00:35:25,000 --> 00:35:29,000
+And I don't know if that's probably, you know,
+
+204
+00:35:29,000 --> 00:35:32,000
+a early 20th century term.
+
+205
+00:35:32,000 --> 00:35:39,000
+And I used the eight to half by 11 pads.
+
+206
+00:35:39,000 --> 00:35:41,000
+Now they're lined and so forth.
+
+207
+00:35:41,000 --> 00:35:45,000
+And he used the longer ones, 14 inch, I suspect.
+
+208
+00:35:45,000 --> 00:35:51,000
+And he would write drafts of material on that in long hand.
+
+209
+00:35:51,000 --> 00:35:55,000
+And then he would transfer that.
+
+210
+00:35:55,000 --> 00:36:01,000
+He would type it on a first rough draft after doing some editing.
+
+211
+00:36:01,000 --> 00:36:07,000
+So by the time he was doing that, it was more or less a third draft that he was typing
+
+212
+00:36:07,000 --> 00:36:08,000
+by the time he did that.
+
+213
+00:36:08,000 --> 00:36:11,000
+I know that was part of his routine.
+
+214
+00:36:11,000 --> 00:36:15,000
+And beyond that, you know, after he had, if he was writing,
+
+215
+00:36:15,000 --> 00:36:18,000
+let's say empire is a way of life or something.
+
+216
+00:36:18,000 --> 00:36:23,000
+The process of revision, you know, once he had a manuscript,
+
+217
+00:36:23,000 --> 00:36:28,000
+completed, you know, I tend to go back through,
+
+218
+00:36:28,000 --> 00:36:33,000
+well, chapters individually and then the whole manuscript.
+
+219
+00:36:33,000 --> 00:36:37,000
+But that's, of course, I'm using computers.
+
+220
+00:36:37,000 --> 00:36:42,000
+And Bill never graduated to use the use of computers.
+
+221
+00:36:42,000 --> 00:36:45,000
+But he was a fast typist too.
+
+222
+00:36:45,000 --> 00:36:50,000
+And Pro, pretty error free, I think.
+
+223
+00:36:50,000 --> 00:36:54,000
+I mean, if you look at his typescripts, they're pretty good.
+
+224
+00:36:54,000 --> 00:36:59,000
+So let's begin with a quick, pretty generally devoted to reading writing that.
+
+225
+00:36:59,000 --> 00:37:01,000
+I would say yes.
+
+226
+00:37:01,000 --> 00:37:04,000
+And some of it late night.
+
+227
+00:37:04,000 --> 00:37:07,000
+You know, he tended to work at night.
+
+228
+00:37:07,000 --> 00:37:08,000
+And that was a habit.
+
+229
+00:37:08,000 --> 00:37:12,000
+He developed, you know, probably when he taught it to you role.
+
+230
+00:37:12,000 --> 00:37:15,000
+And certainly when he was in Madison.
+
+231
+00:37:16,000 --> 00:37:20,000
+Yeah, yeah.
+
+232
+00:37:20,000 --> 00:37:21,000
+Yeah, yeah.
+
+233
+00:37:21,000 --> 00:37:22,000
+Yeah, yeah.
+
+234
+00:37:22,000 --> 00:37:25,000
+A house full of children, you know, two of Karin's.
+
+235
+00:37:25,000 --> 00:37:29,000
+And then he and Karin had three children of their own.
+
+236
+00:37:29,000 --> 00:37:33,000
+And he, at some point, seems to have initially sort of resented having to do that.
+
+237
+00:37:33,000 --> 00:37:36,000
+But he didn't want to go ahead.
+
+238
+00:37:36,000 --> 00:37:38,000
+Yeah, I don't, I don't know.
+
+239
+00:37:38,000 --> 00:37:40,000
+I think he worked.
+
+240
+00:37:40,000 --> 00:37:43,000
+You know, I mean, you so incredibly productive then.
+
+241
+00:37:43,000 --> 00:37:51,000
+In addition to turning out 42 PhDs in 11 years, you imagine that.
+
+242
+00:37:51,000 --> 00:37:52,000
+Yeah.
+
+243
+00:37:52,000 --> 00:37:57,000
+Now some of them were still finishing up obviously when he was here.
+
+244
+00:37:57,000 --> 00:38:07,000
+And I don't know when he told me at one point, you know, he had placed his last candidate in a job.
+
+245
+00:38:07,000 --> 00:38:09,000
+And that could have been the mid 70s.
+
+246
+00:38:09,000 --> 00:38:13,000
+And it might have been Peggy Morley or Henry Berger.
+
+247
+00:38:13,000 --> 00:38:17,000
+I can't remember whom.
+
+248
+00:38:17,000 --> 00:38:19,000
+He talked a bit about charging in concert.
+
+249
+00:38:19,000 --> 00:38:21,000
+He's been doing functional books.
+
+250
+00:38:21,000 --> 00:38:25,000
+There's sort of a sense that this scholarship kind of declined a little bit.
+
+251
+00:38:25,000 --> 00:38:27,000
+And just call you during the OSU.
+
+252
+00:38:27,000 --> 00:38:30,000
+They do call it on that.
+
+253
+00:38:30,000 --> 00:38:34,000
+Well, he said he would never write another book.
+
+254
+00:38:34,000 --> 00:38:40,000
+And actually my wife and I called him on it when he published.
+
+255
+00:38:40,000 --> 00:38:42,000
+Empires a way of life.
+
+256
+00:38:42,000 --> 00:38:45,000
+And actually America, a conference a revolutionary world.
+
+257
+00:38:45,000 --> 00:38:48,000
+I think he even made that comment before that book.
+
+258
+00:38:48,000 --> 00:38:50,000
+But he didn't call those books.
+
+259
+00:38:50,000 --> 00:38:52,000
+He called them extended essays.
+
+260
+00:38:52,000 --> 00:38:54,000
+So there was a difference.
+
+261
+00:38:54,000 --> 00:38:58,000
+And well, then you could call tragedy of American diplomacy.
+
+262
+00:38:58,000 --> 00:39:01,000
+You know, an extended essay.
+
+263
+00:39:01,000 --> 00:39:06,000
+Whether, you know, like his first book, American Russian relations
+
+264
+00:39:06,000 --> 00:39:14,000
+or roots of the modern American Empire, which were detailed, annotated, documented books.
+
+265
+00:39:14,000 --> 00:39:16,000
+Maybe he called those books.
+
+266
+00:39:16,000 --> 00:39:17,000
+I don't know.
+
+267
+00:39:17,000 --> 00:39:22,000
+But I would say I was never enamored by American
+
+268
+00:39:22,000 --> 00:39:24,000
+Conference a Revolutionary World.
+
+269
+00:39:24,000 --> 00:39:29,000
+But Empires a way of life is an incredible piece of writing.
+
+270
+00:39:29,000 --> 00:39:36,000
+And I was telling my friend, Sunday, historian, who's visiting our home,
+
+271
+00:39:36,000 --> 00:39:39,000
+that empires a way of life.
+
+272
+00:39:39,000 --> 00:39:43,000
+I don't know how many different languages has been translated into you, probably.
+
+273
+00:39:43,000 --> 00:39:45,000
+No.
+
+274
+00:39:45,000 --> 00:39:51,000
+Japanese, Chinese, Italian, German, French,
+
+275
+00:39:51,000 --> 00:39:53,000
+added fun item.
+
+276
+00:39:53,000 --> 00:39:58,000
+And it's a testimony to the influence of his career.
+
+277
+00:39:58,000 --> 00:40:00,000
+The body of his work.
+
+278
+00:40:00,000 --> 00:40:04,000
+And I think, as a capsule, and my reading of Paul Biel
+
+279
+00:40:04,000 --> 00:40:10,000
+kind of reminded me of this, is how important that book is.
+
+280
+00:40:10,000 --> 00:40:15,000
+After reading Paul's biography, I want to go back and read Empire.
+
+281
+00:40:15,000 --> 00:40:17,000
+That's part of this sort of drawing.
+
+282
+00:40:17,000 --> 00:40:20,000
+And the documentation of the idea.
+
+283
+00:40:20,000 --> 00:40:23,000
+It seemed like that was one of the real defining things.
+
+284
+00:40:23,000 --> 00:40:24,000
+Right.
+
+285
+00:40:24,000 --> 00:40:27,000
+A lot of people have asked me about that and think, you know,
+
+286
+00:40:27,000 --> 00:40:30,000
+because I was Bill's good friend for so many years,
+
+287
+00:40:30,000 --> 00:40:36,000
+that I knew more than, you know, the snippets that he published here and there about community.
+
+288
+00:40:36,000 --> 00:40:41,000
+But community and democracy with a small D.
+
+289
+00:40:41,000 --> 00:40:45,000
+And pretty much it's, everything it's in is writing.
+
+290
+00:40:45,000 --> 00:40:50,000
+You know, there's nothing hidden anywhere else.
+
+291
+00:40:50,000 --> 00:40:54,000
+Kind of an exploration of ideas.
+
+292
+00:40:54,000 --> 00:40:58,000
+I think that he was interested in.
+
+293
+00:40:58,000 --> 00:41:06,000
+I think it all has its roots in Atlantic, Iowa.
+
+294
+00:41:06,000 --> 00:41:14,000
+Which I stopped in there on a Sunday morning when I was traveling from east to west.
+
+295
+00:41:14,000 --> 00:41:19,000
+I think I was back east and I was coming west and had breakfast.
+
+296
+00:41:19,000 --> 00:41:25,000
+And, you know, it's like a lot of other small Iowa towns.
+
+297
+00:41:25,000 --> 00:41:30,000
+You drive in and you find a diner and, you know, you're going in the Sunday morning everyone.
+
+298
+00:41:30,000 --> 00:41:32,000
+It's there for breakfast.
+
+299
+00:41:32,000 --> 00:41:34,000
+And I don't remember how much I bought it.
+
+300
+00:41:34,000 --> 00:41:37,000
+Did he ever reflect on that life of gravity?
+
+301
+00:41:37,000 --> 00:41:38,000
+Oh, yes.
+
+302
+00:41:38,000 --> 00:41:39,000
+Yeah.
+
+303
+00:41:39,000 --> 00:41:40,000
+Yeah.
+
+304
+00:41:40,000 --> 00:41:43,000
+And his grandparents.
+
+305
+00:41:43,000 --> 00:41:45,000
+And it's funny.
+
+306
+00:41:45,000 --> 00:41:48,000
+It makes Paul makes more of mildered.
+
+307
+00:41:48,000 --> 00:41:53,000
+I think than mod his grandmother.
+
+308
+00:41:53,000 --> 00:41:58,000
+But mod and what's his name?
+
+309
+00:41:58,000 --> 00:42:01,000
+His grandfather, Tossie.
+
+310
+00:42:01,000 --> 00:42:02,000
+Applement.
+
+311
+00:42:02,000 --> 00:42:04,000
+Porter.
+
+312
+00:42:04,000 --> 00:42:06,000
+Porter, inkler.
+
+313
+00:42:06,000 --> 00:42:07,000
+Applement.
+
+314
+00:42:07,000 --> 00:42:11,000
+They were a real presence in his life.
+
+315
+00:42:12,000 --> 00:42:16,000
+And, you know, Paul makes, I think,
+
+316
+00:42:16,000 --> 00:42:23,000
+more of a psychological play on, you know, the boy who grew up without a father or something.
+
+317
+00:42:23,000 --> 00:42:27,000
+And Porter was a pretty pronounced presence in his life.
+
+318
+00:42:27,000 --> 00:42:32,000
+And, you know, my association with Bill.
+
+319
+00:42:32,000 --> 00:42:35,000
+I mean, his grandparents were very important.
+
+320
+00:42:35,000 --> 00:42:38,000
+And he was very proud of his mother, of course.
+
+321
+00:42:42,000 --> 00:42:47,000
+I have one other thing I want to say about his upbringing in Atlantic.
+
+322
+00:42:47,000 --> 00:42:53,000
+And he makes mention of 1927.
+
+323
+00:42:53,000 --> 00:43:03,000
+So Bill would have been six years old, maybe seven years old when Charles Linnberg flew over Atlantic.
+
+324
+00:43:03,000 --> 00:43:06,000
+And supposedly, his father's,
+
+325
+00:43:07,000 --> 00:43:10,000
+this may be an apocryl story.
+
+326
+00:43:10,000 --> 00:43:17,000
+And Bill remembers seeing the plane in the dipping of the wing and so forth.
+
+327
+00:43:17,000 --> 00:43:20,000
+I've always wondered about that.
+
+328
+00:43:20,000 --> 00:43:24,000
+My Bill was a good storyteller, very good storyteller.
+
+329
+00:43:24,000 --> 00:43:31,000
+So I wonder if this is something fashionable that, you know, he remembers from his childhood and so forth.
+
+330
+00:43:31,000 --> 00:43:40,000
+I tend to have those same, it's probably romantic notions myself in my own childhood.
+
+331
+00:43:40,000 --> 00:43:44,000
+I think we have this graphic actually worth some of that.
+
+332
+00:43:44,000 --> 00:43:45,000
+Is that right?
+
+333
+00:43:45,000 --> 00:43:48,000
+Well, then it's not an apocryl story.
+
+334
+00:43:48,000 --> 00:43:50,000
+Yeah?
+
+335
+00:43:50,000 --> 00:43:54,000
+I think it's no more about his teachings now.
+
+336
+00:43:54,000 --> 00:43:57,000
+It was eclectic,
+
+337
+00:43:58,000 --> 00:44:01,000
+secretic.
+
+338
+00:44:01,000 --> 00:44:05,000
+He wanted to engage students in dialogue.
+
+339
+00:44:05,000 --> 00:44:13,000
+And I would say it probably worked greatly for sophisticated, for older students,
+
+340
+00:44:13,000 --> 00:44:18,000
+and not sophisticated, but within acquiring minds.
+
+341
+00:44:18,000 --> 00:44:22,000
+And I know because I tried it myself.
+
+342
+00:44:22,000 --> 00:44:28,000
+And it worked one term then I tried it with a larger class.
+
+343
+00:44:28,000 --> 00:44:36,000
+And I had to give it up and went back to lecturing.
+
+344
+00:44:36,000 --> 00:44:41,000
+And I would have a lecture format, a framework of discussion in mind.
+
+345
+00:44:41,000 --> 00:44:49,000
+But I don't know, Bill, you know, he was a master at that.
+
+346
+00:44:49,000 --> 00:44:56,000
+And I think that he would lecture from a general outline.
+
+347
+00:44:56,000 --> 00:45:01,000
+He would just have three pieces of paper with notes in his beautiful penmanship.
+
+348
+00:45:01,000 --> 00:45:05,000
+But they were profound.
+
+349
+00:45:05,000 --> 00:45:11,000
+When I was away at a conference one time, he met with a night class that I taught.
+
+350
+00:45:12,000 --> 00:45:19,000
+And he left me with, it was a colonial history class.
+
+351
+00:45:19,000 --> 00:45:22,000
+And it was very early fall of term.
+
+352
+00:45:22,000 --> 00:45:25,000
+And he left me with a copy of the notes.
+
+353
+00:45:25,000 --> 00:45:29,000
+And they're in my papers in your collection.
+
+354
+00:45:29,000 --> 00:45:35,000
+And they were, I mean it was unbelievable.
+
+355
+00:45:35,000 --> 00:45:43,000
+The world view of what the coming of Europeans to the American continent did.
+
+356
+00:45:43,000 --> 00:45:51,000
+And I used to do it in more immediate ways.
+
+357
+00:45:51,000 --> 00:45:58,000
+Bill's horror was framed into how you impose on the people new languages,
+
+358
+00:45:58,000 --> 00:46:04,000
+new frames of reference, new world views, and so forth.
+
+359
+00:46:04,000 --> 00:46:08,000
+And I'd have to go back and look at it.
+
+360
+00:46:08,000 --> 00:46:15,000
+But I even put that in one of my books inside of his.
+
+361
+00:46:15,000 --> 00:46:22,000
+It's very profound.
+
+362
+00:46:22,000 --> 00:46:31,000
+So you came to us to see how the graduate program is because you have a sense of frustration
+
+363
+00:46:31,000 --> 00:46:33,000
+to go without any doubt.
+
+364
+00:46:33,000 --> 00:46:34,000
+No.
+
+365
+00:46:34,000 --> 00:46:38,000
+Despite what Paul Bill said, I think.
+
+366
+00:46:38,000 --> 00:46:43,000
+One of the reasons for coming here was to get away from training graduate students
+
+367
+00:46:43,000 --> 00:46:48,000
+because he had enough training graduate students.
+
+368
+00:46:48,000 --> 00:46:55,000
+And he wanted to settle in a place where he didn't have to shovel snow in the winter.
+
+369
+00:46:55,000 --> 00:46:57,000
+And he wanted to be close to the ocean.
+
+370
+00:46:57,000 --> 00:46:59,000
+People asked me about this.
+
+371
+00:46:59,000 --> 00:47:04,000
+You know, at conferences, when they first learned that I taught at Oregon State in Bill Williams,
+
+372
+00:47:04,000 --> 00:47:06,000
+I was like, why does he want to come there?
+
+373
+00:47:06,000 --> 00:47:09,000
+And I would repeat these three reasons.
+
+374
+00:47:09,000 --> 00:47:15,000
+And I had never heard anything other than that.
+
+375
+00:47:15,000 --> 00:47:18,000
+He told that to interviewers.
+
+376
+00:47:18,000 --> 00:47:26,000
+He would tell it to Carla and me when he'd had a couple of bourbons.
+
+377
+00:47:26,000 --> 00:47:30,000
+And he never said anything else.
+
+378
+00:47:30,000 --> 00:47:36,000
+How about the college students?
+
+379
+00:47:36,000 --> 00:47:40,000
+Well, I think there was some sense of frustration with that.
+
+380
+00:47:40,000 --> 00:47:42,000
+Obviously.
+
+381
+00:47:42,000 --> 00:47:46,000
+But he would be very proud of some of the papers.
+
+382
+00:47:46,000 --> 00:47:48,000
+His students did here.
+
+383
+00:47:48,000 --> 00:47:52,000
+I know that from time to time.
+
+384
+00:47:52,000 --> 00:47:54,000
+My first music is early in the morning.
+
+385
+00:47:54,000 --> 00:47:58,000
+He's going to respect a lot of his music.
+
+386
+00:47:58,000 --> 00:48:04,000
+Yeah, I'm not sure that he was all that rigorous, a grader.
+
+387
+00:48:04,000 --> 00:48:10,000
+I can't, you know, I was less interested in those kinds of things.
+
+388
+00:48:10,000 --> 00:48:14,000
+And you mentioned that you do a lot of fighting?
+
+389
+00:48:14,000 --> 00:48:20,000
+Well, it's hard to say.
+
+390
+00:48:20,000 --> 00:48:24,000
+He did have, you know, we all shared advising.
+
+391
+00:48:24,000 --> 00:48:28,000
+And usually they were students from our own classes.
+
+392
+00:48:28,000 --> 00:48:36,000
+And so we would have advisees assigned that way.
+
+393
+00:48:36,000 --> 00:48:38,000
+I had huge classes.
+
+394
+00:48:38,000 --> 00:48:43,000
+I know in the 70s I was teaching in the industry.
+
+395
+00:48:43,000 --> 00:48:49,000
+And I was, in fact, in retrospect, overburden with students.
+
+396
+00:48:49,000 --> 00:48:55,000
+I had to use different kinds of russes to go through grading exams.
+
+397
+00:48:55,000 --> 00:48:57,000
+So, what?
+
+398
+00:48:57,000 --> 00:48:59,000
+This one more question.
+
+399
+00:48:59,000 --> 00:49:03,000
+I'm interested in my ask time to move on.
+
+400
+00:49:03,000 --> 00:49:06,000
+What sort of role would you assume within the department?
+
+401
+00:49:06,000 --> 00:49:08,000
+You've never experienced a share of the department.
+
+402
+00:49:08,000 --> 00:49:10,000
+You've experienced some of these issues.
+
+403
+00:49:10,000 --> 00:49:11,000
+Right?
+
+404
+00:49:11,000 --> 00:49:12,000
+Do that exist in specific areas?
+
+405
+00:49:12,000 --> 00:49:17,000
+Do you have kind of an important role to send this to your faculty?
+
+406
+00:49:17,000 --> 00:49:27,000
+Well, I know some of the resentment early on when I was hired.
+
+407
+00:49:27,000 --> 00:49:37,000
+Jellous accusations that Williams was turning to develop a department full of radical young people
+
+408
+00:49:38,000 --> 00:49:39,000
+and so forth.
+
+409
+00:49:39,000 --> 00:49:47,000
+And part of it was focused on me and part of it was focused on a young French historian
+
+410
+00:49:47,000 --> 00:49:54,000
+that the department hired to teach African history and French history.
+
+411
+00:49:54,000 --> 00:49:57,000
+And this fellow was very bright.
+
+412
+00:49:57,000 --> 00:50:01,000
+He was very flawed and he never got tenure.
+
+413
+00:50:01,000 --> 00:50:12,000
+I think by the time this fellow was denied tenure and that was, let's say, by 76 or so.
+
+414
+00:50:12,000 --> 00:50:14,000
+He was gone.
+
+415
+00:50:14,000 --> 00:50:16,000
+That had fallen by the wayside.
+
+416
+00:50:16,000 --> 00:50:19,000
+But that was very prevalent at first.
+
+417
+00:50:19,000 --> 00:50:20,000
+I need to go out.
+
+418
+00:50:20,000 --> 00:50:30,000
+One of the best pieces I thought of that appeared in Northwest newspapers.
+
+419
+00:50:30,000 --> 00:50:36,000
+And I don't know the exact date was a piece that foster church published in the Sunday
+
+420
+00:50:36,000 --> 00:50:43,000
+Oregonian in, had to be about 1983-84 something like that.
+
+421
+00:50:43,000 --> 00:50:48,000
+I don't know when exactly it was, but I know I clipped a copy of that.
+
+422
+00:50:48,000 --> 00:50:55,000
+And I don't know whether I'm sure you have it, but it's, and the best part of that, I think,
+
+423
+00:50:55,000 --> 00:51:05,000
+is the photograph of Bill on the back deck of his home looking south along the coast.
+
+424
+00:51:05,000 --> 00:51:06,000
+Yeah.
+
+425
+00:51:06,000 --> 00:51:07,000
+It's a great photograph.
+
+426
+00:51:07,000 --> 00:51:10,000
+It's on the back of Paul's book too.
+
+427
+00:51:10,000 --> 00:51:12,000
+So I'm just continuing on.
+
+428
+00:51:12,000 --> 00:51:17,000
+Is there anything more to talk about in the book?
+
+429
+00:51:18,000 --> 00:51:27,000
+Except the over-weaning jealousy thing that I mentioned just before we break took the break
+
+430
+00:51:27,000 --> 00:51:31,000
+was something that bothered me.
+
+431
+00:51:31,000 --> 00:51:40,000
+And part of it, I think, had to do with those of us who are really interested in building a department
+
+432
+00:51:40,000 --> 00:51:47,000
+in which people published, taught and engaged in the profession, with the professional meetings,
+
+433
+00:51:47,000 --> 00:51:53,000
+gave papers and so forth, and those who didn't.
+
+434
+00:51:53,000 --> 00:52:03,000
+And I think that some of that went away by the time of Bill's retirement 1985.
+
+435
+00:52:03,000 --> 00:52:07,000
+But there were still sharp divisions in the department.
+
+436
+00:52:07,000 --> 00:52:18,000
+And between what kind of was the quasi-progressive Williams faction and those opposed.
+
+437
+00:52:18,000 --> 00:52:28,000
+And it was pretty pronounced and it lasted until I served one year as department chair.
+
+438
+00:52:28,000 --> 00:52:34,000
+And I did nothing brilliant, but there were four people in the department who came to me
+
+439
+00:52:34,000 --> 00:52:37,000
+and I was an interim appointment.
+
+440
+00:52:37,000 --> 00:52:47,000
+At different times during the first ever and after I was named acting chair in expressed real concern
+
+441
+00:52:47,000 --> 00:52:50,000
+about the direction of the department.
+
+442
+00:52:50,000 --> 00:52:59,000
+And what I told them was that, you know, I was at Democrat with a lower case D
+
+443
+00:52:59,000 --> 00:53:12,000
+and that I had no intention of making end runs around people or pushing any special direction
+
+444
+00:53:12,000 --> 00:53:17,000
+in the department, any ideological agendas.
+
+445
+00:53:17,000 --> 00:53:20,000
+And by that time, however, the department was changing a lot.
+
+446
+00:53:20,000 --> 00:53:23,000
+There was a cadre of people who had published books.
+
+447
+00:53:23,000 --> 00:53:26,000
+You had to have a book to get tenure and so forth.
+
+448
+00:53:26,000 --> 00:53:36,000
+And by the time I was through with my year, three of those four people came to me and told me what a good job I was doing.
+
+449
+00:53:36,000 --> 00:53:41,000
+And I wasn't doing anything brilliant except, you know, we were a different department than.
+
+450
+00:53:41,000 --> 00:53:46,000
+And those kinds of factions went away.
+
+451
+00:53:46,000 --> 00:53:53,000
+But that was part of, you know, the hangover from Bill's presence here.
+
+452
+00:53:53,000 --> 00:54:00,000
+You know, he was president of the organization of American historians for help, you know, in 1981.
+
+453
+00:54:00,000 --> 00:54:07,000
+I would say his presence within the University was the regard to do something for a star or celebrity.
+
+454
+00:54:07,000 --> 00:54:09,000
+Oh, yes.
+
+455
+00:54:09,000 --> 00:54:13,000
+I mean, people knew who he was and presidents knew who he was.
+
+456
+00:54:13,000 --> 00:54:21,000
+He actually got on well with John Bern and you should interview John.
+
+457
+00:54:21,000 --> 00:54:24,000
+Yeah.
+
+458
+00:54:24,000 --> 00:54:32,000
+You know, because Bill assumed with good reason that he could speak to John Bern as an equal.
+
+459
+00:54:32,000 --> 00:54:35,000
+And there were a work many faculty.
+
+460
+00:54:35,000 --> 00:54:40,000
+I don't think who presumed that they would speak to the president of the University as an equal.
+
+461
+00:54:40,000 --> 00:54:46,000
+And Bill did.
+
+462
+00:54:46,000 --> 00:54:53,000
+Bill played a great role and you'd have to look into the records of the Center for Humanities
+
+463
+00:54:53,000 --> 00:54:59,000
+and getting the center a major endowment.
+
+464
+00:54:59,000 --> 00:55:07,000
+And it became part of the University, not the foundation.
+
+465
+00:55:07,000 --> 00:55:11,000
+What's the development of OSU Foundation?
+
+466
+00:55:11,000 --> 00:55:16,000
+He had four major objectives in a push and one was the Center for the Humanities.
+
+467
+00:55:16,000 --> 00:55:19,000
+And Bill was a major player in that.
+
+468
+00:55:19,000 --> 00:55:24,000
+And obviously, because of his prestige, his stature and the profession.
+
+469
+00:55:24,000 --> 00:55:27,000
+And he lent his voice to that.
+
+470
+00:55:27,000 --> 00:55:36,000
+And I'm sure that the Center and I know Peter Copeck was always very thankful to Bill for that.
+
+471
+00:55:36,000 --> 00:55:43,000
+It was the Center, something that he, he, he had a sort of movement in the player.
+
+472
+00:55:43,000 --> 00:55:45,000
+No, it was Peter's idea.
+
+473
+00:55:45,000 --> 00:55:47,000
+So, Williams was enlisted.
+
+474
+00:55:47,000 --> 00:55:48,000
+Williams was enlisted.
+
+475
+00:55:48,000 --> 00:55:49,000
+Yeah.
+
+476
+00:55:49,000 --> 00:55:51,000
+Bill was not a player.
+
+477
+00:55:51,000 --> 00:55:56,000
+It began as the Humanities Development Office over in Morland Hall.
+
+478
+00:55:56,000 --> 00:55:59,000
+And it kind of morphed beyond there.
+
+479
+00:55:59,000 --> 00:56:04,000
+And then when it became a full-blown Center for the Humanities,
+
+480
+00:56:05,000 --> 00:56:12,000
+that's when Bill was brought in as a good friend of Peter's along with a few other people.
+
+481
+00:56:12,000 --> 00:56:17,000
+And he was a major force in how that worked out.
+
+482
+00:56:17,000 --> 00:56:22,000
+We talked about the social setting of the full table.
+
+483
+00:56:22,000 --> 00:56:24,000
+It's larger than the gathering.
+
+484
+00:56:24,000 --> 00:56:25,000
+It's a professional gathering.
+
+485
+00:56:25,000 --> 00:56:30,000
+It's perhaps this kind of person who enjoyed making the room more to be.
+
+486
+00:56:30,000 --> 00:56:31,000
+No.
+
+487
+00:56:32,000 --> 00:56:37,000
+So, do you talk a little bit more about how you sort of operate in that situation?
+
+488
+00:56:37,000 --> 00:56:39,000
+Well, department of meetings?
+
+489
+00:56:39,000 --> 00:56:43,000
+No, it might get a professional gathering of sorts.
+
+490
+00:56:43,000 --> 00:56:49,000
+No, I, he was, I'm people like to talk to him.
+
+491
+00:56:49,000 --> 00:56:55,000
+And I've only been around him at professional meetings when he was with his former graduate students.
+
+492
+00:56:55,000 --> 00:56:57,000
+Who were, they were friends.
+
+493
+00:56:57,000 --> 00:56:59,000
+I mean, they were former graduate students.
+
+494
+00:56:59,000 --> 00:57:01,000
+It was Lloyd Gardner and Walter of the Faber.
+
+495
+00:57:01,000 --> 00:57:05,000
+Ed Craypole and others.
+
+496
+00:57:05,000 --> 00:57:07,000
+They were just dear friends.
+
+497
+00:57:07,000 --> 00:57:08,000
+He liked them.
+
+498
+00:57:08,000 --> 00:57:09,000
+They liked him.
+
+499
+00:57:09,000 --> 00:57:21,000
+And when they came here to give talks, Bill would introduce Lloyd or Walt of the Faber as someone he knew.
+
+500
+00:57:21,000 --> 00:57:24,000
+When he first started teaching at the University of Wisconsin.
+
+501
+00:57:24,000 --> 00:57:30,000
+And he said, you know, it's like your students are smarter than you are or something.
+
+502
+00:57:30,000 --> 00:57:33,000
+You know, he paid them great compliments.
+
+503
+00:57:33,000 --> 00:57:39,000
+And I, I just remember my first social occasion.
+
+504
+00:57:39,000 --> 00:57:40,000
+Carl was with me.
+
+505
+00:57:40,000 --> 00:57:46,000
+It was when Bill, the organization of American historians, was meeting in San Francisco.
+
+506
+00:57:46,000 --> 00:57:52,000
+And we were at the high at Regency down on the waterfront.
+
+507
+00:57:52,000 --> 00:58:00,000
+And it was late in the afternoon cocktail hour and kind of a rotating bar at the top.
+
+508
+00:58:00,000 --> 00:58:04,000
+You'd see the San Francisco or the Bay Area skyline all around.
+
+509
+00:58:04,000 --> 00:58:10,000
+And Carl and I were there with Walter of the Faber, Lloyd Gardner.
+
+510
+00:58:10,000 --> 00:58:15,000
+I don't think Ed Craypole was there.
+
+511
+00:58:15,000 --> 00:58:18,000
+I don't remember Jerry McColley being there.
+
+512
+00:58:18,000 --> 00:58:22,000
+I was a couple of other people from the organization of American historians.
+
+513
+00:58:22,000 --> 00:58:31,000
+And it was a fun gathering in Lloyd Gardner was probably the most garalace of the group.
+
+514
+00:58:31,000 --> 00:58:38,000
+And because Lloyd had, you always had it, glinted as I about some devilish story.
+
+515
+00:58:38,000 --> 00:58:44,000
+And he was a better storyteller in some ways, the Bill.
+
+516
+00:58:44,000 --> 00:58:48,000
+You know, and Bill was just part of the crowd.
+
+517
+00:58:48,000 --> 00:58:52,000
+We've mentioned his presence in the orientation of American points.
+
+518
+00:58:52,000 --> 00:58:53,000
+He's very proud of that.
+
+519
+00:58:53,000 --> 00:58:54,000
+Yes, he was.
+
+520
+00:58:54,000 --> 00:58:57,000
+It was recognition long deferred.
+
+521
+00:58:57,000 --> 00:59:03,000
+As Paul Biel says, Eugene Jenovacy had been president three years prior to Bill.
+
+522
+00:59:03,000 --> 00:59:13,000
+And, you know, it's, it's, it's funny people who have controversial or quasi radical positions.
+
+523
+00:59:13,000 --> 00:59:22,000
+You know, become presidents of major organizations long after the fact.
+
+524
+00:59:22,000 --> 00:59:27,000
+And one of, I just learned in my own field of Western American history.
+
+525
+00:59:27,000 --> 00:59:33,000
+Donald Worcester is the forthcoming president of the Western history association.
+
+526
+00:59:33,000 --> 00:59:35,000
+And he's retiring.
+
+527
+00:59:35,000 --> 00:59:42,000
+And Don, in a lot of our views, should have been president, you know, in the early 1980s.
+
+528
+00:59:42,000 --> 00:59:46,000
+When he was publishing, you know, good books.
+
+529
+00:59:46,000 --> 00:59:48,000
+He's published good books ever since then.
+
+530
+00:59:48,000 --> 00:59:53,000
+But he's been a person who's been a bit edgy.
+
+531
+00:59:53,000 --> 00:59:56,000
+Like, maybe not as much as Williams.
+
+532
+00:59:56,000 --> 00:59:59,000
+But he's finally going to be president.
+
+533
+00:59:59,000 --> 01:00:03,000
+And he knew Bill spent time in this house.
+
+534
+01:00:03,000 --> 01:00:05,000
+And this was not an electric bill.
+
+535
+01:00:05,000 --> 01:00:07,000
+He had an engine that he was trying to add.
+
+536
+01:00:07,000 --> 01:00:08,000
+Yes, he did.
+
+537
+01:00:08,000 --> 01:00:13,000
+He worked very hard in his year as president.
+
+538
+01:00:13,000 --> 01:00:23,000
+And started, I think, something that Gertal Learner, who finished, who followed Bill as president, gave him a lot of credit for his initiatives.
+
+539
+01:00:23,000 --> 01:00:30,000
+Although, I didn't bear fruit, you know, especially with the National Endowment for Humanities.
+
+540
+01:00:30,000 --> 01:00:32,000
+He got nowhere.
+
+541
+01:00:32,000 --> 01:00:40,000
+He appealed to several historians who made thousands of dollars, writing textbooks.
+
+542
+01:00:40,000 --> 01:00:44,000
+And he had 15 or 10 or 15 of them in mind.
+
+543
+01:00:44,000 --> 01:00:50,000
+And he wanted each one of them to donate a thousand dollars to create this.
+
+544
+01:00:50,000 --> 01:00:53,000
+And he put five grand in himself.
+
+545
+01:00:53,000 --> 01:00:56,000
+Do this and to no avail.
+
+546
+01:00:57,000 --> 01:01:00,000
+A lot of lines is sort of a bit further down.
+
+547
+01:01:00,000 --> 01:01:03,000
+Is that we can actually do it for age.
+
+548
+01:01:03,000 --> 01:01:07,000
+You also like the one you see when you're not a doctor.
+
+549
+01:01:07,000 --> 01:01:09,000
+Yeah.
+
+550
+01:01:09,000 --> 01:01:10,000
+Yeah.
+
+551
+01:01:10,000 --> 01:01:11,000
+Yeah.
+
+552
+01:01:11,000 --> 01:01:16,000
+Paul makes mention of that.
+
+553
+01:01:16,000 --> 01:01:20,000
+My answer is so what?
+
+554
+01:01:20,000 --> 01:01:22,000
+No.
+
+555
+01:01:23,000 --> 01:01:34,000
+When he did get the honorary doctor at Columbia College or something in Chicago, his address had to do with Duke Wellington.
+
+556
+01:01:34,000 --> 01:01:35,000
+I remember that.
+
+557
+01:01:35,000 --> 01:01:38,000
+I remember reading the talk.
+
+558
+01:01:38,000 --> 01:01:45,000
+He would give Carl and I copies of his talks.
+
+559
+01:01:46,000 --> 01:01:47,000
+Oh, yes.
+
+560
+01:01:47,000 --> 01:01:49,000
+Love jazz.
+
+561
+01:01:49,000 --> 01:01:50,000
+Yeah.
+
+562
+01:01:50,000 --> 01:01:54,000
+Miles Davis.
+
+563
+01:01:54,000 --> 01:01:56,000
+Pretty close.
+
+564
+01:01:56,000 --> 01:01:58,000
+Dizzy Gillespie.
+
+565
+01:01:58,000 --> 01:02:01,000
+Who's the one I just mentioned?
+
+566
+01:02:01,000 --> 01:02:03,000
+No.
+
+567
+01:02:03,000 --> 01:02:05,000
+Duke Wellington.
+
+568
+01:02:05,000 --> 01:02:06,000
+Yeah.
+
+569
+01:02:06,000 --> 01:02:09,000
+They were kind of classic jazz.
+
+570
+01:02:09,000 --> 01:02:14,000
+And I know when we would go to the coast he invariably have Miles Davis.
+
+571
+01:02:14,000 --> 01:02:22,000
+Miles Davis on his stereo.
+
+572
+01:02:22,000 --> 01:02:24,000
+He fished.
+
+573
+01:02:24,000 --> 01:02:25,000
+The ocean.
+
+574
+01:02:25,000 --> 01:02:27,000
+I went fishing with him once.
+
+575
+01:02:27,000 --> 01:02:29,000
+We didn't catch anything.
+
+576
+01:02:29,000 --> 01:02:32,000
+We went down on the rocks and yahats.
+
+577
+01:02:32,000 --> 01:02:34,000
+And we stopped.
+
+578
+01:02:34,000 --> 01:02:39,000
+I said to stop in a store when I was coming through a wall port to get some bait.
+
+579
+01:02:39,000 --> 01:02:41,000
+And then I drove up to Bill's place.
+
+580
+01:02:41,000 --> 01:02:44,000
+And then we drove south of yahats.
+
+581
+01:02:44,000 --> 01:02:45,000
+Yeah.
+
+582
+01:02:45,000 --> 01:02:47,000
+He liked to fish.
+
+583
+01:02:47,000 --> 01:02:48,000
+He loved.
+
+584
+01:02:48,000 --> 01:02:50,000
+We have some of his photography in our house.
+
+585
+01:02:50,000 --> 01:02:54,000
+And his photography goes back to evidently his childhood.
+
+586
+01:02:54,000 --> 01:02:57,000
+And we have a.
+
+587
+01:02:57,000 --> 01:02:59,000
+I don't think you have a copy.
+
+588
+01:02:59,000 --> 01:03:01,000
+But here I doubt.
+
+589
+01:03:01,000 --> 01:03:05,000
+Of a photograph that he took when he was a student in a necklace.
+
+590
+01:03:05,000 --> 01:03:08,000
+And it is striking.
+
+591
+01:03:09,000 --> 01:03:11,000
+I mean it's so damn creative.
+
+592
+01:03:11,000 --> 01:03:20,000
+He climbed up on a trance over one of the major public buildings at the Naval Academy.
+
+593
+01:03:20,000 --> 01:03:24,000
+And on a Sunday.
+
+594
+01:03:24,000 --> 01:03:28,000
+And the sunlight is shining through the door.
+
+595
+01:03:28,000 --> 01:03:31,000
+And people who walk through.
+
+596
+01:03:31,000 --> 01:03:35,000
+When they're approaching they cast shadows.
+
+597
+01:03:36,000 --> 01:03:39,000
+And there was a woman evidently approaching the door.
+
+598
+01:03:39,000 --> 01:03:45,000
+And he captured her shadow from up high over the trance.
+
+599
+01:03:45,000 --> 01:03:49,000
+And we have it framed in our house.
+
+600
+01:03:49,000 --> 01:03:51,000
+And it's.
+
+601
+01:03:51,000 --> 01:03:52,000
+We call it not.
+
+602
+01:03:52,000 --> 01:03:56,000
+Maybe marble and laid floor or something black and white.
+
+603
+01:03:56,000 --> 01:03:58,000
+And it's a black and white photograph.
+
+604
+01:03:58,000 --> 01:04:03,000
+And I imagine it may be black and white in real life.
+
+605
+01:04:03,000 --> 01:04:09,000
+And then he would take close ups of items along the coast.
+
+606
+01:04:09,000 --> 01:04:13,000
+Like a rusty hinge somewhere.
+
+607
+01:04:13,000 --> 01:04:15,000
+Reclose to the water.
+
+608
+01:04:15,000 --> 01:04:17,000
+And or.
+
+609
+01:04:17,000 --> 01:04:20,000
+Nirally wood that had been weathered.
+
+610
+01:04:20,000 --> 01:04:21,000
+And so forth.
+
+611
+01:04:21,000 --> 01:04:22,000
+And we have several of those.
+
+612
+01:04:22,000 --> 01:04:24,000
+Those were wedding guests.
+
+613
+01:04:24,000 --> 01:04:25,000
+So.
+
+614
+01:04:25,000 --> 01:04:28,000
+And he had photographic exhibits too.
+
+615
+01:04:28,000 --> 01:04:31,000
+I know Paul mentioned when the new bridge was being built in.
+
+616
+01:04:32,000 --> 01:04:33,000
+Well, for it.
+
+617
+01:04:33,000 --> 01:04:34,000
+Across the.
+
+618
+01:04:34,000 --> 01:04:36,000
+Elsie.
+
+619
+01:04:36,000 --> 01:04:40,000
+That's the only photographic exhibit that I know he did.
+
+620
+01:04:40,000 --> 01:04:42,000
+He may have done others.
+
+621
+01:04:42,000 --> 01:04:45,000
+But that was one of his.
+
+622
+01:04:45,000 --> 01:04:47,000
+Advocations.
+
+623
+01:04:47,000 --> 01:04:54,000
+And Paul mentions that he went back to building model airplanes again.
+
+624
+01:04:54,000 --> 01:04:55,000
+Is.
+
+625
+01:04:55,000 --> 01:04:56,000
+Later.
+
+626
+01:04:56,000 --> 01:05:00,000
+After he retired.
+
+627
+01:05:01,000 --> 01:05:03,000
+Do you have any of those here?
+
+628
+01:05:03,000 --> 01:05:04,000
+Don't the.
+
+629
+01:05:04,000 --> 01:05:08,000
+The photographs or the model airplane.
+
+630
+01:05:08,000 --> 01:05:10,000
+What happened to them?
+
+631
+01:05:10,000 --> 01:05:13,000
+Ward is some ward may have them.
+
+632
+01:05:13,000 --> 01:05:16,000
+He'd be a good person interview.
+
+633
+01:05:16,000 --> 01:05:24,000
+There's several references about it.
+
+634
+01:05:24,000 --> 01:05:26,000
+And.
+
+635
+01:05:26,000 --> 01:05:28,000
+No, that's.
+
+636
+01:05:29,000 --> 01:05:31,000
+And.
+
+637
+01:05:31,000 --> 01:05:32,000
+And.
+
+638
+01:05:32,000 --> 01:05:34,000
+I don't think Wendy liked that.
+
+639
+01:05:34,000 --> 01:05:35,000
+The biography.
+
+640
+01:05:35,000 --> 01:05:38,000
+She didn't like the references to womanizing.
+
+641
+01:05:38,000 --> 01:05:40,000
+And.
+
+642
+01:05:40,000 --> 01:05:41,000
+And.
+
+643
+01:05:41,000 --> 01:05:43,000
+Yeah, you know, this.
+
+644
+01:05:43,000 --> 01:05:45,000
+She was visiting us.
+
+645
+01:05:45,000 --> 01:05:46,000
+Staying with us, actually.
+
+646
+01:05:46,000 --> 01:05:47,000
+And.
+
+647
+01:05:47,000 --> 01:05:49,000
+When we lived in full moon.
+
+648
+01:05:49,000 --> 01:05:50,000
+And.
+
+649
+01:05:50,000 --> 01:05:54,000
+The only my only response to Wendy was that I had been with.
+
+650
+01:05:55,000 --> 01:05:57,000
+In thick and thin.
+
+651
+01:05:57,000 --> 01:06:00,000
+When he was drunk sober.
+
+652
+01:06:00,000 --> 01:06:03,000
+Or he never was really drunk.
+
+653
+01:06:03,000 --> 01:06:06,000
+Or points in between.
+
+654
+01:06:06,000 --> 01:06:09,000
+And he never ever said anything.
+
+655
+01:06:09,000 --> 01:06:11,000
+Negative about Wendy.
+
+656
+01:06:11,000 --> 01:06:13,000
+I had to tell her that.
+
+657
+01:06:13,000 --> 01:06:15,000
+And I remember I had tears in my eyes.
+
+658
+01:06:15,000 --> 01:06:19,000
+I said, Wendy, you have to know this.
+
+659
+01:06:19,000 --> 01:06:23,000
+And he also could recover.
+
+660
+01:06:24,000 --> 01:06:26,000
+And I know that.
+
+661
+01:06:26,000 --> 01:06:29,000
+On the eve of his introduction of.
+
+662
+01:06:29,000 --> 01:06:32,000
+I can't remember the guy who.
+
+663
+01:06:32,000 --> 01:06:36,000
+The president elect introduces the president.
+
+664
+01:06:36,000 --> 01:06:38,000
+It's a very prominent historian.
+
+665
+01:06:38,000 --> 01:06:40,000
+And I can't think of his name right at the moment.
+
+666
+01:06:40,000 --> 01:06:42,000
+In 1981 when we were at.
+
+667
+01:06:42,000 --> 01:06:45,000
+The hat Regency Carl and I.
+
+668
+01:06:45,000 --> 01:06:47,000
+Satinal lounge with Bill.
+
+669
+01:06:47,000 --> 01:06:50,000
+That afternoon.
+
+670
+01:06:50,000 --> 01:06:51,000
+Bill had.
+
+671
+01:06:51,000 --> 01:06:53,000
+He might have had a drink or two before.
+
+672
+01:06:53,000 --> 01:06:55,000
+And then he had another one with us.
+
+673
+01:06:55,000 --> 01:06:56,000
+And.
+
+674
+01:06:56,000 --> 01:06:58,000
+And boy, he was.
+
+675
+01:06:58,000 --> 01:07:00,000
+And like I said, he built.
+
+676
+01:07:00,000 --> 01:07:01,000
+You know, you.
+
+677
+01:07:01,000 --> 01:07:02,000
+You have to introduce.
+
+678
+01:07:02,000 --> 01:07:04,000
+So and so it.
+
+679
+01:07:04,000 --> 01:07:06,000
+Eight o'clock for his presidential address.
+
+680
+01:07:06,000 --> 01:07:07,000
+And.
+
+681
+01:07:07,000 --> 01:07:08,000
+He said, OK.
+
+682
+01:07:08,000 --> 01:07:10,000
+So he goes to his room.
+
+683
+01:07:10,000 --> 01:07:11,000
+And he.
+
+684
+01:07:11,000 --> 01:07:12,000
+And he.
+
+685
+01:07:12,000 --> 01:07:14,000
+And we saw him.
+
+686
+01:07:14,000 --> 01:07:15,000
+At the dinner.
+
+687
+01:07:15,000 --> 01:07:16,000
+I think.
+
+688
+01:07:16,000 --> 01:07:19,000
+And it was like, you know, he.
+
+689
+01:07:19,000 --> 01:07:21,000
+He never had a drink.
+
+690
+01:07:21,000 --> 01:07:23,000
+I'm really interested.
+
+691
+01:07:23,000 --> 01:07:25,000
+And they were called.
+
+692
+01:07:25,000 --> 01:07:26,000
+It's.
+
+693
+01:07:26,000 --> 01:07:27,000
+Oh, they were great.
+
+694
+01:07:27,000 --> 01:07:28,000
+Yeah, I loved him.
+
+695
+01:07:28,000 --> 01:07:29,000
+I saved a lot of them.
+
+696
+01:07:29,000 --> 01:07:30,000
+But.
+
+697
+01:07:30,000 --> 01:07:31,000
+I'm sure I missed several.
+
+698
+01:07:31,000 --> 01:07:34,000
+I used to clip them and put him in a file.
+
+699
+01:07:34,000 --> 01:07:36,000
+It seems like a.
+
+700
+01:07:36,000 --> 01:07:37,000
+A visual.
+
+701
+01:07:37,000 --> 01:07:38,000
+Thank for.
+
+702
+01:07:38,000 --> 01:07:39,000
+A story.
+
+703
+01:07:39,000 --> 01:07:40,000
+A.
+
+704
+01:07:40,000 --> 01:07:41,000
+Such a regular basis.
+
+705
+01:07:41,000 --> 01:07:42,000
+Yeah.
+
+706
+01:07:42,000 --> 01:07:43,000
+The.
+
+707
+01:07:43,000 --> 01:07:44,000
+The.
+
+708
+01:07:44,000 --> 01:07:45,000
+The.
+
+709
+01:07:45,000 --> 01:07:46,000
+Yes.
+
+710
+01:07:46,000 --> 01:07:47,000
+Yes.
+
+711
+01:07:48,000 --> 01:07:53,000
+It started with the statesman journal because he knew.
+
+712
+01:07:53,000 --> 01:07:55,000
+One of the.
+
+713
+01:07:55,000 --> 01:07:57,000
+Executives in the statesman journal.
+
+714
+01:07:57,000 --> 01:07:59,000
+I can't remember whom.
+
+715
+01:07:59,000 --> 01:08:01,000
+And they liked Ed Bassett.
+
+716
+01:08:01,000 --> 01:08:03,000
+And they liked each other.
+
+717
+01:08:03,000 --> 01:08:04,000
+And.
+
+718
+01:08:04,000 --> 01:08:06,000
+And so that's how it started.
+
+719
+01:08:06,000 --> 01:08:10,000
+And he got so and he used to tell me about this.
+
+720
+01:08:10,000 --> 01:08:12,000
+The number the word limits.
+
+721
+01:08:12,000 --> 01:08:16,000
+You know, on how you take an idea and develop.
+
+722
+01:08:16,000 --> 01:08:18,000
+You know, an essay and you get it down to.
+
+723
+01:08:18,000 --> 01:08:21,000
+I don't know what is 700 words or something like this.
+
+724
+01:08:21,000 --> 01:08:23,000
+Whatever the column is.
+
+725
+01:08:23,000 --> 01:08:26,000
+And, you know, he became very good at it.
+
+726
+01:08:26,000 --> 01:08:28,000
+And then.
+
+727
+01:08:28,000 --> 01:08:29,000
+I don't know.
+
+728
+01:08:29,000 --> 01:08:31,000
+It's a change in command at the.
+
+729
+01:08:31,000 --> 01:08:33,000
+Statesman.
+
+730
+01:08:33,000 --> 01:08:36,000
+I think he started with the statesman then the statesman journal.
+
+731
+01:08:36,000 --> 01:08:38,000
+They merged the two papers dead.
+
+732
+01:08:38,000 --> 01:08:41,000
+And then he migrated to the Oregonian.
+
+733
+01:08:41,000 --> 01:08:42,000
+And he did that.
+
+734
+01:08:42,000 --> 01:08:44,000
+They are going in for a while.
+
+735
+01:08:44,000 --> 01:08:46,000
+And I think that.
+
+736
+01:08:46,000 --> 01:08:49,000
+Probably happened in part through David Sarason who was.
+
+737
+01:08:49,000 --> 01:08:51,000
+In his early.
+
+738
+01:08:51,000 --> 01:08:54,000
+Period with the Oregonian.
+
+739
+01:08:54,000 --> 01:08:56,000
+And then.
+
+740
+01:08:56,000 --> 01:08:59,000
+They killed a piece.
+
+741
+01:08:59,000 --> 01:09:02,000
+That he wrote.
+
+742
+01:09:02,000 --> 01:09:05,000
+And they paid him.
+
+743
+01:09:05,000 --> 01:09:07,000
+You know, the kill fee.
+
+744
+01:09:07,000 --> 01:09:09,000
+Never again.
+
+745
+01:09:09,000 --> 01:09:11,000
+That was it.
+
+746
+01:09:11,000 --> 01:09:13,000
+You know.
+
+747
+01:09:14,000 --> 01:09:17,000
+I mean, he took that as in a front.
+
+748
+01:09:17,000 --> 01:09:18,000
+Right.
+
+749
+01:09:18,000 --> 01:09:19,000
+Yeah.
+
+750
+01:09:19,000 --> 01:09:21,000
+That's the.
+
+751
+01:09:21,000 --> 01:09:22,000
+It's the column.
+
+752
+01:09:22,000 --> 01:09:23,000
+I think it was.
+
+753
+01:09:23,000 --> 01:09:24,000
+That's.
+
+754
+01:09:24,000 --> 01:09:25,000
+And that idea.
+
+755
+01:09:25,000 --> 01:09:26,000
+Mm-hmm.
+
+756
+01:09:26,000 --> 01:09:27,000
+Yeah.
+
+757
+01:09:27,000 --> 01:09:29,000
+And they're very eclectic.
+
+758
+01:09:29,000 --> 01:09:30,000
+Yeah.
+
+759
+01:09:30,000 --> 01:09:31,000
+Yeah.
+
+760
+01:09:31,000 --> 01:09:32,000
+Yeah.
+
+761
+01:09:36,000 --> 01:09:37,000
+I've talked about a lot of the same.
+
+762
+01:09:37,000 --> 01:09:40,000
+I guess I'm interested in going more about.
+
+763
+01:09:40,000 --> 01:09:41,000
+I'm a client.
+
+764
+01:09:41,000 --> 01:09:42,000
+I'm a client.
+
+765
+01:09:42,000 --> 01:09:43,000
+When.
+
+766
+01:09:43,000 --> 01:09:46,000
+And sort of regulations of.
+
+767
+01:09:46,000 --> 01:09:52,000
+Are our collective visits to walk or we always had a lot of fun.
+
+768
+01:09:52,000 --> 01:09:57,000
+And invariably we would go out to dinner.
+
+769
+01:09:57,000 --> 01:09:59,000
+Occasionally with friends.
+
+770
+01:09:59,000 --> 01:10:00,000
+Or we'd go down there.
+
+771
+01:10:00,000 --> 01:10:03,000
+They'd have friends over.
+
+772
+01:10:03,000 --> 01:10:06,000
+And the people I remember best were.
+
+773
+01:10:06,000 --> 01:10:09,000
+A couple named Barbara and Rob Davidson.
+
+774
+01:10:09,000 --> 01:10:11,000
+And they were a lot of fun.
+
+775
+01:10:11,000 --> 01:10:13,000
+Rob was quite a bit older than Barbara.
+
+776
+01:10:13,000 --> 01:10:16,000
+And he passed on eventually.
+
+777
+01:10:16,000 --> 01:10:20,000
+And I've seen Barbara just a couple of years ago.
+
+778
+01:10:20,000 --> 01:10:23,000
+And she's since remarried.
+
+779
+01:10:23,000 --> 01:10:27,000
+And she was a very good friend of Wendy's.
+
+780
+01:10:27,000 --> 01:10:31,000
+But Bill liked both of them.
+
+781
+01:10:31,000 --> 01:10:34,000
+And he liked Barbara enormously.
+
+782
+01:10:34,000 --> 01:10:37,000
+And they were fun people.
+
+783
+01:10:37,000 --> 01:10:38,000
+Occasionally they would have.
+
+784
+01:10:38,000 --> 01:10:45,000
+People from the OSU community over just a handful.
+
+785
+01:10:45,000 --> 01:10:51,000
+One of them was a fellow who retired in engineering.
+
+786
+01:10:51,000 --> 01:10:55,000
+David Bella.
+
+787
+01:10:55,000 --> 01:10:56,000
+Yeah.
+
+788
+01:10:56,000 --> 01:10:58,000
+You might want to interview him.
+
+789
+01:10:58,000 --> 01:11:03,000
+David's kind of a kind of class in his own right.
+
+790
+01:11:03,000 --> 01:11:07,000
+You'll talk your ear off.
+
+791
+01:11:08,000 --> 01:11:09,000
+That's where we met Dave.
+
+792
+01:11:09,000 --> 01:11:11,000
+Dave was a really young professor.
+
+793
+01:11:11,000 --> 01:11:13,000
+Bill thought, I don't a lot of him.
+
+794
+01:11:13,000 --> 01:11:17,000
+He liked people who, you know, good ideas.
+
+795
+01:11:17,000 --> 01:11:18,000
+And so forth.
+
+796
+01:11:18,000 --> 01:11:21,000
+And he prided himself on that.
+
+797
+01:11:21,000 --> 01:11:23,000
+Dave was over there one time.
+
+798
+01:11:23,000 --> 01:11:27,000
+I can't remember anyone from the department.
+
+799
+01:11:27,000 --> 01:11:31,000
+Or a fellow named Jim Cole, who was here as a visiting professor.
+
+800
+01:11:31,000 --> 01:11:34,000
+Jim was a good friend of Bill's.
+
+801
+01:11:34,000 --> 01:11:36,000
+But Jim was kind of crazy.
+
+802
+01:11:37,000 --> 01:11:39,000
+By me, Bill would say that.
+
+803
+01:11:39,000 --> 01:11:42,000
+And Jim would admit that himself.
+
+804
+01:11:42,000 --> 01:11:47,000
+And he was undisciplined.
+
+805
+01:11:47,000 --> 01:11:50,000
+Bill, he's the fellow who didn't get tenure.
+
+806
+01:11:50,000 --> 01:11:52,000
+Who came from Wisconsin.
+
+807
+01:11:52,000 --> 01:11:57,000
+And was actually Harvey Goldberg's student.
+
+808
+01:11:57,000 --> 01:12:02,000
+And a radical guy.
+
+809
+01:12:02,000 --> 01:12:06,000
+And Bill had all kinds of problems with booze.
+
+810
+01:12:06,000 --> 01:12:10,000
+And couldn't primarily booze.
+
+811
+01:12:10,000 --> 01:12:15,000
+I think he couldn't finish his dissertation.
+
+812
+01:12:15,000 --> 01:12:17,000
+But he couldn't get anything published.
+
+813
+01:12:17,000 --> 01:12:20,000
+And that was his own failing.
+
+814
+01:12:20,000 --> 01:12:21,000
+I mean, it wasn't.
+
+815
+01:12:21,000 --> 01:12:23,000
+And I was good friends with Bill.
+
+816
+01:12:23,000 --> 01:12:26,000
+I think he couldn't finish his.
+
+817
+01:12:26,000 --> 01:12:28,000
+Finish his dissertation.
+
+818
+01:12:28,000 --> 01:12:30,000
+But he couldn't get anything published.
+
+819
+01:12:30,000 --> 01:12:36,000
+Just snack food and drinks and talking about music.
+
+820
+01:12:36,000 --> 01:12:40,000
+And just, you know, for a couple of hours.
+
+821
+01:12:40,000 --> 01:12:42,000
+Bill and Wendy did.
+
+822
+01:12:42,000 --> 01:12:45,000
+Yeah.
+
+823
+01:12:45,000 --> 01:12:48,000
+Bridge.
+
+824
+01:12:48,000 --> 01:12:51,000
+Carl and I never played bridge.
+
+825
+01:12:51,000 --> 01:12:55,000
+So we were probably from people from the valley.
+
+826
+01:12:55,000 --> 01:13:00,000
+We're probably over there more often than anyone else.
+
+827
+01:13:00,000 --> 01:13:03,000
+And on special occasions, Wendy's birthday.
+
+828
+01:13:03,000 --> 01:13:08,000
+We'd go and you got hot for dinner.
+
+829
+01:13:08,000 --> 01:13:10,000
+One time we went over.
+
+830
+01:13:10,000 --> 01:13:13,000
+I think during the Christmas New Year's holiday.
+
+831
+01:13:13,000 --> 01:13:16,000
+Carl and I stayed our kids were getting a little bit older than.
+
+832
+01:13:16,000 --> 01:13:22,000
+So we left them in a motel.
+
+833
+01:13:23,000 --> 01:13:27,000
+And went into your house for dinner with Bill and Wendy.
+
+834
+01:13:27,000 --> 01:13:33,000
+And then we would call them every hour to make sure they were.
+
+835
+01:13:33,000 --> 01:13:35,000
+The kids were okay.
+
+836
+01:13:35,000 --> 01:13:40,000
+But then they were seven, eight years old or so.
+
+837
+01:13:40,000 --> 01:13:42,000
+Talk a little bit more about Wendy.
+
+838
+01:13:42,000 --> 01:13:48,000
+Well, she was her own person.
+
+839
+01:13:49,000 --> 01:13:56,000
+And very, very bright.
+
+840
+01:13:56,000 --> 01:13:59,000
+And very hardworking.
+
+841
+01:13:59,000 --> 01:14:01,000
+She loved a garden.
+
+842
+01:14:01,000 --> 01:14:04,000
+Bill built her a little green house.
+
+843
+01:14:04,000 --> 01:14:05,000
+Plastic.
+
+844
+01:14:05,000 --> 01:14:09,000
+Where she could do pots and so forth.
+
+845
+01:14:09,000 --> 01:14:15,000
+And she also played the piano.
+
+846
+01:14:15,000 --> 01:14:22,000
+And she worked in a gift shop of a new port that's still operating.
+
+847
+01:14:22,000 --> 01:14:24,000
+And I can't remember the name.
+
+848
+01:14:24,000 --> 01:14:27,000
+If my wife were here, she would remember.
+
+849
+01:14:27,000 --> 01:14:33,000
+And yeah, she was a very hardworking woman.
+
+850
+01:14:33,000 --> 01:14:38,000
+Very bright, very political.
+
+851
+01:14:38,000 --> 01:14:43,000
+And I think that's where their friendship.
+
+852
+01:14:43,000 --> 01:14:48,000
+Certainly, materialized because of Bill's politics.
+
+853
+01:14:48,000 --> 01:14:56,000
+And Wendy, a Brit who came to Corvallus via British Columbia.
+
+854
+01:14:56,000 --> 01:15:02,000
+You know, was kind of keen on somebody who had politics that she appreciated.
+
+855
+01:15:02,000 --> 01:15:06,000
+So his relationship was something that they included.
+
+856
+01:15:06,000 --> 01:15:08,000
+I'm sure.
+
+857
+01:15:08,000 --> 01:15:09,000
+Yeah.
+
+858
+01:15:09,000 --> 01:15:12,000
+And she read voraciously.
+
+859
+01:15:12,000 --> 01:15:16,000
+I don't think she, you know, ever edited anything.
+
+860
+01:15:16,000 --> 01:15:17,000
+Bill wrote her.
+
+861
+01:15:17,000 --> 01:15:20,000
+She, he might have, you know, when he made,
+
+862
+01:15:20,000 --> 01:15:26,000
+wrote public talks, he might just have a read it just to try it out on her.
+
+863
+01:15:26,000 --> 01:15:31,000
+There was something that he'd gone Australian or something.
+
+864
+01:15:31,000 --> 01:15:32,000
+Yeah.
+
+865
+01:15:32,000 --> 01:15:35,000
+Carlin Wendy were very good friends.
+
+866
+01:15:35,000 --> 01:15:41,000
+And, you know, we remain good friends to this day.
+
+867
+01:15:41,000 --> 01:15:44,000
+But we talked about it as one of the see you a little bit.
+
+868
+01:15:44,000 --> 01:15:46,000
+I don't know if there's any more share there.
+
+869
+01:15:46,000 --> 01:15:50,000
+And it just did to America's big class that he'd gone.
+
+870
+01:15:50,000 --> 01:15:51,000
+Yeah.
+
+871
+01:15:51,000 --> 01:15:53,000
+The two were one.
+
+872
+01:15:53,000 --> 01:15:57,000
+Just to give you a quick answer.
+
+873
+01:15:57,000 --> 01:16:00,000
+The maritime history class actually originated,
+
+874
+01:16:00,000 --> 01:16:04,000
+I think, in part through the Center for Humanities.
+
+875
+01:16:04,000 --> 01:16:06,000
+I know there were various of us.
+
+876
+01:16:06,000 --> 01:16:10,000
+I wrote a course that I taught on community through the Center for Humanities.
+
+877
+01:16:10,000 --> 01:16:13,000
+Bill did the maritime course.
+
+878
+01:16:13,000 --> 01:16:15,000
+And there were some others.
+
+879
+01:16:15,000 --> 01:16:18,000
+And I think, I can't remember the details.
+
+880
+01:16:18,000 --> 01:16:23,000
+But we got some stipend or something for doing that.
+
+881
+01:16:23,000 --> 01:16:24,000
+It wasn't much.
+
+882
+01:16:24,000 --> 01:16:30,000
+But, and that was kind of an, an avocation for Bill, you know,
+
+883
+01:16:30,000 --> 01:16:36,000
+touring off in the part of his affection for the sea and,
+
+884
+01:16:36,000 --> 01:16:39,000
+and maritime history and so forth.
+
+885
+01:16:39,000 --> 01:16:40,000
+To do something like that.
+
+886
+01:16:40,000 --> 01:16:45,000
+And you got interested, of course, in the Chinese early Navy,
+
+887
+01:16:45,000 --> 01:16:50,000
+and the famous Southern was 11th or 12th century.
+
+888
+01:16:50,000 --> 01:16:54,000
+The famous Chinese who, I saw his name in Paul's book the other day,
+
+889
+01:16:54,000 --> 01:16:58,000
+and can't remember his last name, decided, you know,
+
+890
+01:16:58,000 --> 01:17:02,000
+gone out on the high seas and came back and scuttled the Navy.
+
+891
+01:17:02,000 --> 01:17:07,000
+And Bill used that, you know, as a metaphor for no empire,
+
+892
+01:17:07,000 --> 01:17:09,000
+which I love.
+
+893
+01:17:09,000 --> 01:17:15,000
+And he wrote a paper having to do with something to that effect.
+
+894
+01:17:15,000 --> 01:17:24,000
+And he was going to read it at the Pacific Coast Branch meeting,
+
+895
+01:17:24,000 --> 01:17:31,000
+of the American Historical Association in Honolulu in 1996.
+
+896
+01:17:31,000 --> 01:17:35,000
+And I was there presenting a paper on another panel,
+
+897
+01:17:35,000 --> 01:17:38,000
+and Bill something happened to him when he couldn't make the trip.
+
+898
+01:17:38,000 --> 01:17:42,000
+I'm 19, not in 1996, 86.
+
+899
+01:17:42,000 --> 01:17:46,000
+And it could have been another meeting in the PCV.
+
+900
+01:17:46,000 --> 01:17:49,000
+It was about that time, late.
+
+901
+01:17:49,000 --> 01:17:53,000
+It was 86 or 87, 88, maybe somewhere else.
+
+902
+01:17:53,000 --> 01:17:56,000
+But anyway, he couldn't make the trip,
+
+903
+01:17:56,000 --> 01:17:58,000
+and I read his paper.
+
+904
+01:17:58,000 --> 01:18:04,000
+And I had a lot of fun doing it because there were a couple of people
+
+905
+01:18:04,000 --> 01:18:05,000
+on the panel.
+
+906
+01:18:05,000 --> 01:18:10,000
+The commenter was a person whose area of expertise was Chinese history.
+
+907
+01:18:10,000 --> 01:18:13,000
+There are bills, you know, venturing in this paper,
+
+908
+01:18:13,000 --> 01:18:17,000
+talking about Chinese commander and so forth.
+
+909
+01:18:17,000 --> 01:18:21,000
+And I had to add a bit of humor to it,
+
+910
+01:18:21,000 --> 01:18:23,000
+and I told him why Bill couldn't be there.
+
+911
+01:18:23,000 --> 01:18:29,000
+And I said, I refuse to defend this paper
+
+912
+01:18:29,000 --> 01:18:31,000
+because I know nothing about the subjectors,
+
+913
+01:18:31,000 --> 01:18:32,000
+like that.
+
+914
+01:18:32,000 --> 01:18:35,000
+Anyway, but it was received very well,
+
+915
+01:18:35,000 --> 01:18:37,000
+including the commenter.
+
+916
+01:18:37,000 --> 01:18:43,000
+And somebody else made very nice compliments to the paper,
+
+917
+01:18:43,000 --> 01:18:48,000
+because no one else in American history
+
+918
+01:18:48,000 --> 01:18:51,000
+was thinking in these venues,
+
+919
+01:18:51,000 --> 01:18:55,000
+unless they were specialists in Chinese history or anything.
+
+920
+01:18:55,000 --> 01:18:59,000
+And Bill, you know, had the guts to venture out.
+
+921
+01:18:59,000 --> 01:19:02,000
+It's interesting to me to do that.
+
+922
+01:19:02,000 --> 01:19:05,000
+He's not this class of the community village.
+
+923
+01:19:05,000 --> 01:19:06,000
+Yeah.
+
+924
+01:19:06,000 --> 01:19:08,000
+He taught it here too.
+
+925
+01:19:08,000 --> 01:19:09,000
+Yeah.
+
+926
+01:19:09,000 --> 01:19:12,000
+And then he taught it at the cost community college for a while.
+
+927
+01:19:12,000 --> 01:19:16,000
+I don't know how successful that was.
+
+928
+01:19:16,000 --> 01:19:21,000
+Well, of course, it's self-defying to divide.
+
+929
+01:19:21,000 --> 01:19:22,000
+I don't know.
+
+930
+01:19:22,000 --> 01:19:24,000
+To what extent do you need to reflect on that
+
+931
+01:19:24,000 --> 01:19:28,000
+of any philosophy or memories you might have to share?
+
+932
+01:19:28,000 --> 01:19:31,000
+No, I know.
+
+933
+01:19:31,000 --> 01:19:35,000
+He, the week before he died,
+
+934
+01:19:35,000 --> 01:19:38,000
+the cancer had massaged.
+
+935
+01:19:38,000 --> 01:19:40,000
+And he kind of had a stroke
+
+936
+01:19:40,000 --> 01:19:43,000
+because he came walking down the hallway.
+
+937
+01:19:44,000 --> 01:19:46,000
+You know, he was gesturing to Wendy.
+
+938
+01:19:46,000 --> 01:19:48,000
+He couldn't speak or anything.
+
+939
+01:19:48,000 --> 01:19:52,000
+And within five days, I think he was dead.
+
+940
+01:19:52,000 --> 01:19:54,000
+And Carl and I went over,
+
+941
+01:19:54,000 --> 01:19:57,000
+and some in the hospital,
+
+942
+01:19:57,000 --> 01:20:01,000
+but he was, I, David Cleaver,
+
+943
+01:20:01,000 --> 01:20:03,000
+it was a famous position in Corvallas,
+
+944
+01:20:03,000 --> 01:20:05,000
+was a good friend of Bill's.
+
+945
+01:20:05,000 --> 01:20:08,000
+And David was there when we were there,
+
+946
+01:20:08,000 --> 01:20:10,000
+and he explained, you know,
+
+947
+01:20:10,000 --> 01:20:14,000
+he said he's semi-comitose or something.
+
+948
+01:20:14,000 --> 01:20:17,000
+His eyes could open a little bit,
+
+949
+01:20:17,000 --> 01:20:20,000
+but he wasn't corresponding or anything.
+
+950
+01:20:20,000 --> 01:20:24,000
+And Bill, and he was under more fear than
+
+951
+01:20:24,000 --> 01:20:25,000
+he was on the way out.
+
+952
+01:20:25,000 --> 01:20:29,000
+Wendy, of course, said within hospitals,
+
+953
+01:20:29,000 --> 01:20:31,000
+a lot of our life and, you know,
+
+954
+01:20:31,000 --> 01:20:35,000
+she knew that the end was near.
+
+955
+01:20:35,000 --> 01:20:37,000
+I could felt bad.
+
+956
+01:20:37,000 --> 01:20:39,000
+I know, I told Wendy,
+
+957
+01:20:39,000 --> 01:20:43,000
+you know, because I was busy with my own work,
+
+958
+01:20:43,000 --> 01:20:45,000
+and, you know,
+
+959
+01:20:45,000 --> 01:20:47,000
+I enjoyed going over to talk to Bill,
+
+960
+01:20:47,000 --> 01:20:50,000
+and I would just drive over and have coffee with him,
+
+961
+01:20:50,000 --> 01:20:53,000
+or, you know, something like that.
+
+962
+01:20:53,000 --> 01:20:57,000
+And I felt badly because I hadn't been over for a month.
+
+963
+01:20:57,000 --> 01:21:00,000
+And she put my soul to rest.
+
+964
+01:21:00,000 --> 01:21:04,000
+You know, she said that's night of hearing it there.
+
+965
+01:21:05,000 --> 01:21:08,000
+What was the local reaction that you noticed?
+
+966
+01:21:08,000 --> 01:21:10,000
+I was in the memorialized.
+
+967
+01:21:10,000 --> 01:21:13,000
+Well, this is something I learned.
+
+968
+01:21:13,000 --> 01:21:17,000
+I, and I learned this from Ed Craple.
+
+969
+01:21:17,000 --> 01:21:20,000
+I always thought that Bill and Wendy
+
+970
+01:21:20,000 --> 01:21:22,000
+went to the Episcopal Church,
+
+971
+01:21:22,000 --> 01:21:25,000
+because of Wendy's influence.
+
+972
+01:21:25,000 --> 01:21:29,000
+And I was totally wrong.
+
+973
+01:21:29,000 --> 01:21:33,000
+That was Bill's choice to go to the Episcopal Church.
+
+974
+01:21:33,000 --> 01:21:38,000
+And he was, I don't know whether he helped with,
+
+975
+01:21:38,000 --> 01:21:42,000
+you know, the sacraments or something.
+
+976
+01:21:42,000 --> 01:21:44,000
+I don't know.
+
+977
+01:21:44,000 --> 01:21:47,000
+But Wendy went just to accompany him.
+
+978
+01:21:47,000 --> 01:21:48,000
+Wendy was there.
+
+979
+01:21:48,000 --> 01:21:52,000
+And is a radical Quaker, her sister,
+
+980
+01:21:52,000 --> 01:21:56,000
+her husband Alan, her Wendy's brother, while Alan.
+
+981
+01:21:56,000 --> 01:21:58,000
+They're, in the,
+
+982
+01:21:59,000 --> 01:22:02,000
+trueest, radical Quaker tradition in England.
+
+983
+01:22:02,000 --> 01:22:06,000
+And it was Bill, Ed Craple told me this.
+
+984
+01:22:06,000 --> 01:22:11,000
+So I said to me, Bill is high church, not Wendy.
+
+985
+01:22:11,000 --> 01:22:13,000
+And he said, yes, are you?
+
+986
+01:22:13,000 --> 01:22:16,000
+Ed Craple's the guy you should talk to about that.
+
+987
+01:22:16,000 --> 01:22:18,000
+That was striking to me.
+
+988
+01:22:18,000 --> 01:22:19,000
+Yeah.
+
+989
+01:22:19,000 --> 01:22:21,000
+And I think, and I was reading between lines
+
+990
+01:22:21,000 --> 01:22:24,000
+and what Paul said that his,
+
+991
+01:22:25,000 --> 01:22:30,000
+kind of sense for order and maybe hierarchy
+
+992
+01:22:30,000 --> 01:22:33,000
+or something later in his life attracted him
+
+993
+01:22:33,000 --> 01:22:35,000
+to the Episcopal Church.
+
+994
+01:22:35,000 --> 01:22:38,000
+And I don't know what his church bringing
+
+995
+01:22:38,000 --> 01:22:39,000
+wasn't Episcopal in.
+
+996
+01:22:39,000 --> 01:22:42,000
+I don't think in Atlantic.
+
+997
+01:22:42,000 --> 01:22:45,000
+But I do remember that.
+
+998
+01:22:49,000 --> 01:22:52,000
+Well, is there anything else that we should touch on?
+
+999
+01:22:52,000 --> 01:22:56,000
+No, I have do one have one final thing.
+
+1000
+01:22:56,000 --> 01:23:03,000
+And Bill's passing is something akin to my mother's passing.
+
+1001
+01:23:03,000 --> 01:23:08,000
+And she was killed in an automobile accident at the age of 60.
+
+1002
+01:23:08,000 --> 01:23:13,000
+And right after she retired from as a factory worker.
+
+1003
+01:23:13,000 --> 01:23:17,000
+And, you know, I had, obviously,
+
+1004
+01:23:17,000 --> 01:23:22,000
+an immediate period of grieving.
+
+1005
+01:23:22,000 --> 01:23:28,000
+But when I went back east for going through a wake,
+
+1006
+01:23:28,000 --> 01:23:31,000
+and my father was Catholic, my mother wasn't,
+
+1007
+01:23:31,000 --> 01:23:33,000
+but my father wasn't a practicing Catholic,
+
+1008
+01:23:33,000 --> 01:23:36,000
+but he just thought, you know,
+
+1009
+01:23:36,000 --> 01:23:38,000
+the first people who died need wakes.
+
+1010
+01:23:38,000 --> 01:23:41,000
+So we had this damn wake.
+
+1011
+01:23:41,000 --> 01:23:45,000
+And I met my mother's friends from the factory.
+
+1012
+01:23:46,000 --> 01:23:48,000
+We were came in by the droves.
+
+1013
+01:23:48,000 --> 01:23:52,000
+And I never shed a tear.
+
+1014
+01:23:52,000 --> 01:23:55,000
+And it was nice to meet all these people.
+
+1015
+01:23:55,000 --> 01:23:59,000
+And Bill's passing is somewhat like my mother's,
+
+1016
+01:23:59,000 --> 01:24:04,000
+because my mother has a living presence in my life.
+
+1017
+01:24:04,000 --> 01:24:06,000
+Bill has a living presence in my life.
+
+1018
+01:24:06,000 --> 01:24:11,000
+I mean, I remember him as the conversations happened yesterday.
+
+1019
+01:24:11,000 --> 01:24:16,000
+And that's healthy.
+
+1020
+01:24:16,000 --> 01:24:17,000
+Thank you, Bill.
+
+1021
+01:24:17,000 --> 01:24:19,000
+You're welcome.
+

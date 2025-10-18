@@ -1,0 +1,3440 @@
+1
+00:00:00,000 --> 00:00:10,679
+All right, Steve Lawson, we're here in a room at the Valley Library.
+
+2
+00:00:10,679 --> 00:00:13,839
+It's the 14th day of November 2011.
+
+3
+00:00:13,839 --> 00:00:20,120
+Okay, so today we will principally be talking about the Institute at OSE, but there's a couple
+
+4
+00:00:20,120 --> 00:00:26,519
+of things I wanted to touch on sort of the past chronology of our talks that we didn't
+
+5
+00:00:26,519 --> 00:00:27,519
+actually get to.
+
+6
+00:00:27,919 --> 00:00:29,620
+And the first is an important question.
+
+7
+00:00:29,620 --> 00:00:35,619
+I think that's that you can just sort of trace how you advance into the ranks of executive
+
+8
+00:00:35,619 --> 00:00:39,060
+officer to make sure that you've got the officer in the role of that.
+
+9
+00:00:39,060 --> 00:00:42,019
+Sure, that was quite a surprise.
+
+10
+00:00:42,019 --> 00:00:46,519
+I think in our last conversation, I'd outlined some of the financial problems that the
+
+11
+00:00:46,519 --> 00:00:52,519
+Institute had been chronically experiencing and these go way back to the 1970s, where staff
+
+12
+00:00:52,520 --> 00:00:59,240
+was asked to take pay cuts and the contribution to the retirement plan was decreased periodically
+
+13
+00:00:59,240 --> 00:01:02,200
+for a set period of time.
+
+14
+00:01:02,200 --> 00:01:06,500
+So employees in the Institute were no strangers to financial hardship.
+
+15
+00:01:06,500 --> 00:01:13,159
+Salaries were not very competitive, fairly low, probably when compared salaries to roughly
+
+16
+00:01:13,159 --> 00:01:18,000
+equivalent positions in academia or in the private sector in that time.
+
+17
+00:01:18,000 --> 00:01:21,920
+But I think people had a great passion for the Linus Point Institute, which is why I worked
+
+18
+00:01:21,960 --> 00:01:26,299
+there, certainly, because I really felt strongly about the mission and I really liked Linus
+
+19
+00:01:26,299 --> 00:01:27,299
+Pauling.
+
+20
+00:01:27,299 --> 00:01:31,519
+The more I found out about him, the more I liked him, and I was very pleased and kind
+
+21
+00:01:31,519 --> 00:01:35,799
+of honored to be part of the Linus Point Institute of Science and Medicine.
+
+22
+00:01:35,799 --> 00:01:42,320
+And as my skills developed in science, and I started to get involved in more and more
+
+23
+00:01:42,320 --> 00:01:48,079
+projects, I found it very challenging and lots of fun.
+
+24
+00:01:48,079 --> 00:01:51,840
+And I think I demonstrated some aptitude, or I don't think I would have been asked
+
+25
+00:01:51,840 --> 00:01:58,359
+by Pauling and others to participate at the level I was asked.
+
+26
+00:01:58,359 --> 00:02:04,359
+Then in the mid-1980s, Emil Zucco-Condo, who succeeded Art Robinson as President Director
+
+27
+00:02:04,359 --> 00:02:11,120
+of the Institute, was getting very interested in using a relatively new technique called
+
+28
+00:02:11,120 --> 00:02:19,039
+two-dimensional polyacrylamide gel electrophoresis to profile proteins that might distinguish tumor
+
+29
+00:02:19,039 --> 00:02:25,280
+cells from primary tissue, from metastatic tumor tissue.
+
+30
+00:02:25,280 --> 00:02:32,400
+And we set up a laboratory together and started on a fairly productive collaboration.
+
+31
+00:02:32,400 --> 00:02:37,040
+And as a result of that, I became co-director of the lab for research and gene regulation,
+
+32
+00:02:37,039 --> 00:02:39,560
+and reported directly to Emil Zucco-Condo.
+
+33
+00:02:39,560 --> 00:02:41,359
+And Emil and I got along very, very well.
+
+34
+00:02:41,359 --> 00:02:47,199
+I really respected him, an extraordinarily intelligent person.
+
+35
+00:02:47,199 --> 00:02:54,799
+I can see why his collaboration with Pauling was so successful in the early 1960s.
+
+36
+00:02:54,799 --> 00:03:03,439
+And as the institute moved to the point of inflection of the decades, Emil's tenure was
+
+37
+00:03:03,439 --> 00:03:04,439
+coming to an end.
+
+38
+00:03:04,439 --> 00:03:08,560
+And as I mentioned last time, Emil and Rick Hicks departed from the institute because I think
+
+39
+00:03:08,560 --> 00:03:14,960
+Emil was unwilling to make some of the changes that the board felt were necessary to align
+
+40
+00:03:14,960 --> 00:03:16,560
+income with outgoing.
+
+41
+00:03:16,560 --> 00:03:21,800
+So the institute had expanded pretty dramatically under Emil's direction and had become kind
+
+42
+00:03:21,800 --> 00:03:27,960
+of a broad molecular biological biomedical research organization.
+
+43
+00:03:27,960 --> 00:03:34,120
+So it had some areas of orthomolecular medicine, but it also had areas that were really not
+
+44
+00:03:34,120 --> 00:03:40,879
+germane to orthomolecular medicine that were of interest to Emil, specifically, and to
+
+45
+00:03:40,879 --> 00:03:46,200
+others, of course, who were carrying out the specific research project at the institute.
+
+46
+00:03:46,200 --> 00:03:52,520
+So when Emil left, and Linus Pauling, of course, had become sick and was not interested in
+
+47
+00:03:52,520 --> 00:04:00,080
+carrying out many administrative responsibilities, Linus Pauling, Jr. stepped in to fill an
+
+48
+00:04:00,080 --> 00:04:02,480
+obvious void there.
+
+49
+00:04:02,480 --> 00:04:07,640
+And that began kind of my long association with Linus Pauling, Jr.
+
+50
+00:04:07,640 --> 00:04:11,680
+I got to know him very well, and I think we worked together very well as well.
+
+51
+00:04:11,680 --> 00:04:16,600
+I took care of the day-to-day management of the institute and Linus Pauling, Jr. as a
+
+52
+00:04:16,680 --> 00:04:23,480
+result of his experience and wisdom, provided some direction to me as well.
+
+53
+00:04:23,480 --> 00:04:28,320
+I think I mentioned last time that when the institute was going through this reorganization
+
+54
+00:04:28,320 --> 00:04:32,600
+a fate of different research projects and researchers within the organization was really
+
+55
+00:04:32,600 --> 00:04:38,600
+up in the air and people weren't sure whether they would be asked to remain with the
+
+56
+00:04:38,600 --> 00:04:41,480
+institute or whether they would be laid off.
+
+57
+00:04:41,480 --> 00:04:52,980
+So researchers whose work was pretty carefully aligned, excuse me, with the newly refocused
+
+58
+00:04:52,980 --> 00:04:58,840
+orthomolecular medical mission felt fairly confident about remaining with the institute
+
+59
+00:04:58,840 --> 00:05:06,360
+and others were really anxious, of course.
+
+60
+00:05:06,360 --> 00:05:09,560
+At some point there was a board meeting, and there were board meetings more often during
+
+61
+00:05:09,560 --> 00:05:10,560
+this period.
+
+62
+00:05:10,560 --> 00:05:15,120
+Board meetings had been relatively rare during my tenure at the institute.
+
+63
+00:05:15,120 --> 00:05:19,360
+I was never sure exactly when a board meeting was being held.
+
+64
+00:05:19,360 --> 00:05:25,560
+I think that they were held probably as often as required by law, but not very often.
+
+65
+00:05:25,560 --> 00:05:32,800
+But during this period of change in turmoil board meetings were quite regular, and of course
+
+66
+00:05:32,800 --> 00:05:39,319
+I was unsure about my fate within the institute as well, because the work I was doing was really
+
+67
+00:05:39,319 --> 00:05:44,839
+not related specifically to orthomolecular medicine, so I was concerned that I might
+
+68
+00:05:44,839 --> 00:05:47,360
+be losing my job.
+
+69
+00:05:47,360 --> 00:05:52,800
+And I was aware of a meal's imminent departure, so I obviously was concerned about my future
+
+70
+00:05:52,800 --> 00:05:54,279
+then too.
+
+71
+00:05:54,279 --> 00:06:00,279
+And it came as a great surprise during a board meeting when I was summoned to the To Linus
+
+72
+00:06:00,279 --> 00:06:06,600
+Planck's office where the board was meeting by Dorothy Monroe, and I had no idea why they
+
+73
+00:06:06,600 --> 00:06:10,920
+wanted to talk to me or what I could offer to the board, but nevertheless I went down
+
+74
+00:06:10,920 --> 00:06:19,240
+it, met with the board, and at that time they introduced some changes that they had
+
+75
+00:06:19,240 --> 00:06:24,160
+been thinking about, and they asked me for my opinion of these changes.
+
+76
+00:06:24,160 --> 00:06:29,680
+And on the board and the office there, somebody had written out kind of an organizational
+
+77
+00:06:29,680 --> 00:06:31,800
+chart for the institute.
+
+78
+00:06:31,800 --> 00:06:40,960
+And I looked at it and made a few comments and generally thought that I opined and I thought
+
+79
+00:06:40,960 --> 00:06:41,960
+it was a good opinion.
+
+80
+00:06:41,960 --> 00:06:49,600
+I mean it was a good idea that they had decided to really make clear the responsibilities
+
+81
+00:06:49,600 --> 00:06:52,879
+within the institute, because it was something that was of great concern to people, because
+
+82
+00:06:52,879 --> 00:06:57,639
+the institute had operated, managed early as a bit of a black box, and decisions were
+
+83
+00:06:57,639 --> 00:07:02,120
+not always clear, and the rationale for decisions were not always obvious.
+
+84
+00:07:02,120 --> 00:07:07,360
+And I think that's true in any organization, but in a small organization it can be, it can
+
+85
+00:07:07,360 --> 00:07:10,120
+cause a lot of problems.
+
+86
+00:07:10,120 --> 00:07:18,240
+So during the board meeting they asked me also, I believe, if I was interested in participating
+
+87
+00:07:18,240 --> 00:07:26,560
+in the reorganized institute, and without giving it much thought at the time, I said yes.
+
+88
+00:07:26,560 --> 00:07:32,339
+I was a bit surprised and also I think a bit flattered by this invitation to assume
+
+89
+00:07:32,339 --> 00:07:38,480
+more responsibility within the institute, and I thought it was likely to be quite a challenge.
+
+90
+00:07:38,480 --> 00:07:43,040
+At that time I had no idea just how dramatic a challenge it would be, but I knew that it
+
+91
+00:07:43,040 --> 00:07:49,319
+would be stimulating, and like I said earlier, I liked to solve problems, and I saw quite
+
+92
+00:07:49,319 --> 00:07:53,639
+a few problems, and I thought that I might be helpful in tackling them.
+
+93
+00:07:53,639 --> 00:08:00,800
+So your panel changed at some point, Bill, from the executive office of the chief executive
+
+94
+00:08:00,800 --> 00:08:01,800
+office?
+
+95
+00:08:01,800 --> 00:08:02,800
+Right.
+
+96
+00:08:02,800 --> 00:08:04,800
+It went through metamorphosis.
+
+97
+00:08:04,800 --> 00:08:10,959
+Initially Linus Pauling had asked me to be, I think the title was Assistant to the
+
+98
+00:08:10,959 --> 00:08:19,399
+President, when he assumed very temporarily the role of President, and I took that job
+
+99
+00:08:19,399 --> 00:08:20,399
+seriously.
+
+100
+00:08:20,399 --> 00:08:22,399
+I didn't really know what it entailed, but I took it seriously.
+
+101
+00:08:22,400 --> 00:08:28,840
+And I started thinking about things that needed to be acted upon at the institute, and I
+
+102
+00:08:28,840 --> 00:08:36,960
+think I produced a list of some things that needed to be done, and my rationale for
+
+103
+00:08:36,960 --> 00:08:42,800
+doing them, and gave that to Linus Pauling, and he left for a few months to go down to
+
+104
+00:08:42,800 --> 00:08:44,120
+Big Sur.
+
+105
+00:08:44,120 --> 00:08:48,480
+So there was really a bit of a vacuum, and I think Linus Pauling Jr. recognized that
+
+106
+00:08:48,480 --> 00:08:52,879
+his father at that time, recognized that his father really had no interest in managing
+
+107
+00:08:52,879 --> 00:08:56,639
+the institute, and I was left without much direction at that point.
+
+108
+00:08:56,639 --> 00:09:02,980
+I'd been given a new title, but I didn't really have a firm grasp of what I was expected
+
+109
+00:09:02,980 --> 00:09:08,159
+to do, and I didn't really feel that I had the authority to do what I thought was in
+
+110
+00:09:08,159 --> 00:09:13,720
+the best interest in the institute, because I was not the chief administrator of the institute.
+
+111
+00:09:13,720 --> 00:09:18,460
+So my job title changed when the board reorganized the institute and asked me to become
+
+112
+00:09:18,460 --> 00:09:25,620
+involved in management from that to executive officer.
+
+113
+00:09:25,620 --> 00:09:31,100
+And I think executive officer has come an old terminology from the military, and maybe
+
+114
+00:09:31,100 --> 00:09:36,300
+after a year or so as executive officer, I was named chief executive officer.
+
+115
+00:09:36,300 --> 00:09:41,259
+Was there any significant difference in the power you had, or your response to the
+
+116
+00:09:41,259 --> 00:09:43,379
+goal, is there a title change?
+
+117
+00:09:43,379 --> 00:09:45,019
+I think it was just a title change.
+
+118
+00:09:45,019 --> 00:09:52,179
+I think it was just recognizing the actual duties that I was performing at the institute.
+
+119
+00:09:52,179 --> 00:09:55,819
+Because Linus Pauling Jr. of course was still living in Hawaii, and he would come to
+
+120
+00:09:55,819 --> 00:10:01,740
+the institute periodically, sometimes as often as once a month for a day or two, excuse
+
+121
+00:10:01,740 --> 00:10:08,539
+me, but I was handling all the day-to-day administrative tasks at the institute, and also we had
+
+122
+00:10:08,539 --> 00:10:14,659
+litigation at that time and trying to, we were trying to chart a course for the future,
+
+123
+00:10:14,659 --> 00:10:20,539
+and all those things I was acting on on a daily basis and thinking about and discussing
+
+124
+00:10:20,539 --> 00:10:26,059
+with my colleagues at the institute and elsewhere.
+
+125
+00:10:26,059 --> 00:10:32,059
+I believe he became chairman of the board of trustees, and Linus Pauling Sr. at some
+
+126
+00:10:32,059 --> 00:10:37,459
+point became director of research, which was a little odd because technically Linus Pauling
+
+127
+00:10:37,459 --> 00:10:41,620
+on the board, the board was responsible.
+
+128
+00:10:41,620 --> 00:10:46,100
+I reported to the board, so I reported to Linus Pauling, but as director of research he
+
+129
+00:10:46,100 --> 00:10:52,379
+also technically reported to me as chief executive officer, so it was kind of an odd situation
+
+130
+00:10:52,379 --> 00:10:57,940
+but it didn't interfere with our relationship or any of our activities because I don't think
+
+131
+00:10:57,940 --> 00:11:00,019
+we let titles get in the way.
+
+132
+00:11:01,019 --> 00:11:07,019
+Another thing that we touched on in our last meeting that I wanted to follow up on the real
+
+133
+00:11:07,019 --> 00:11:12,019
+question here was the Linus Pauling Foundation, so I mentioned that in the context of something
+
+134
+00:11:12,019 --> 00:11:17,019
+that the TS rat was involved, and I wondered what became of that.
+
+135
+00:11:17,019 --> 00:11:18,019
+Right.
+
+136
+00:11:18,019 --> 00:11:25,019
+As I mentioned, some of the TS rat's activities were unknown to employees of the institute.
+
+137
+00:11:25,019 --> 00:11:29,620
+We became vaguely aware at some point that other organizations, with kind of a parallel
+
+138
+00:11:29,620 --> 00:11:34,659
+mission to the institute, were being set up by Pauling and Raff, and that caused a little
+
+139
+00:11:34,659 --> 00:11:40,779
+consternation because we weren't sure if, and I wasn't in management at that time, but
+
+140
+00:11:40,779 --> 00:11:47,019
+we, the employees at the institute weren't sure if these other organizations were going
+
+141
+00:11:47,019 --> 00:11:52,299
+to be competitive with the institute, were they going to compete for funds for the same
+
+142
+00:11:52,300 --> 00:11:55,460
+donors, for instance, or the same organizations?
+
+143
+00:11:55,460 --> 00:11:59,260
+And at some point, it became clear to me that it really wasn't strictly competitive but
+
+144
+00:11:59,260 --> 00:12:03,700
+I didn't really see the rationale for having independent organizations to carry out this
+
+145
+00:12:03,700 --> 00:12:04,700
+work.
+
+146
+00:12:04,700 --> 00:12:09,140
+So I believe that Raff and Pauling set up the Linus Pauling Heart Foundation because they
+
+147
+00:12:09,140 --> 00:12:18,620
+were anxious to sort of get around the management of the institute and raise money and carry
+
+148
+00:12:18,700 --> 00:12:24,500
+out clinical trials in vitamin C and heart disease, specifically atherosclerosis, and do
+
+149
+00:12:24,500 --> 00:12:32,080
+more investigative work, maybe mechanistic work on lysine, proline, vitamin C and lipoprotein
+
+150
+00:12:32,080 --> 00:12:36,360
+A, which was the main focus of Pauling's research interests at that time in North and
+
+151
+00:12:36,360 --> 00:12:38,860
+Milwaukee, the medicine.
+
+152
+00:12:38,860 --> 00:12:46,940
+But Raff had, as he and Pauling were starting to grow apart because Pauling, I think, was
+
+153
+00:12:46,940 --> 00:12:56,980
+expressing some decrease in confidence in Raff's behavior and abilities.
+
+154
+00:12:56,980 --> 00:13:01,740
+Pauling decided to wrap up the Linus Pauling Heart Foundation and I believe this was probably
+
+155
+00:13:01,740 --> 00:13:06,740
+after Raff had left the institute but here was this organization that had an independent
+
+156
+00:13:06,740 --> 00:13:11,900
+life, had headquarters in a small office building in California, and just a few blocks from
+
+157
+00:13:11,980 --> 00:13:17,419
+the institute and Raff had apparently hired several people to do work there.
+
+158
+00:13:17,419 --> 00:13:23,860
+So they were on the payroll and some of the activities of the foundation apparently
+
+159
+00:13:23,860 --> 00:13:30,699
+were surprised Pauling because when he was informed about these things he was not pleased
+
+160
+00:13:30,699 --> 00:13:34,419
+about some of the activities the foundation was under taken.
+
+161
+00:13:34,419 --> 00:13:40,620
+So he asked me if I would wind up the Linus Pauling Heart Foundation and transfer the assets
+
+162
+00:13:40,620 --> 00:13:46,060
+to the Linus Pauling Institute of Science and Medicine to carry out work and heart disease.
+
+163
+00:13:46,060 --> 00:13:50,820
+So I told him I'd be happy to do that and set about legally dissolving the Linus Pauling
+
+164
+00:13:50,820 --> 00:13:59,019
+Heart Foundation and taking the physical assets back to the 440 page mill road facility
+
+165
+00:13:59,019 --> 00:14:04,419
+and also transferring the financial assets to a restricted account at the Linus Pauling
+
+166
+00:14:04,419 --> 00:14:07,259
+Institute of Science and Medicine.
+
+167
+00:14:08,259 --> 00:14:14,100
+Okay, so the last, at the end of our interview last time we were at the point where Pauling
+
+168
+00:14:14,100 --> 00:14:20,259
+Shide, which is 1994, he received a couple of pieces of substantial gifts that had kept
+
+169
+00:14:20,259 --> 00:14:24,019
+the institute more or less alive but you also know you need to leave it off because of
+
+170
+00:14:24,019 --> 00:14:25,019
+the return to it.
+
+171
+00:14:25,019 --> 00:14:30,500
+And in 1996 the institute moved to OSU so I'm interested in knowing how that process
+
+172
+00:14:30,500 --> 00:14:31,500
+carried out.
+
+173
+00:14:32,500 --> 00:14:38,019
+Let me back up briefly in 1994, it was a very pivotal year in many respects not just
+
+174
+00:14:38,019 --> 00:14:42,860
+because of Pauling's death but it was also the year that we celebrated the 20th anniversary
+
+175
+00:14:42,860 --> 00:14:46,220
+of the Linus Pauling Institute of Science and Medicine.
+
+176
+00:14:46,220 --> 00:14:52,340
+And we started early, let's see, I think it must have been late spring or early summer.
+
+177
+00:14:52,340 --> 00:14:53,340
+Maybe it was late spring.
+
+178
+00:14:53,340 --> 00:15:00,139
+Let me see now, I'm confused about the year, was it 1993 or 1994?
+
+179
+00:15:00,139 --> 00:15:03,659
+Also it was 1993 when we celebrated the 20th anniversary, that would have been the
+
+180
+00:15:03,659 --> 00:15:08,580
+appropriate year at Rangstorf House in Mountain View, California.
+
+181
+00:15:08,580 --> 00:15:13,259
+And that was an opportunity for Pauling to see some of his old friends and colleagues.
+
+182
+00:15:13,259 --> 00:15:19,259
+We invited quite a few of his colleagues from academic institutions and local donors and
+
+183
+00:15:19,259 --> 00:15:20,259
+friends of the institute.
+
+184
+00:15:20,259 --> 00:15:24,500
+And of course the staff, faculty and staff of the Linus Pauling Institute of Science and Medicine
+
+185
+00:15:24,500 --> 00:15:25,500
+and their guests.
+
+186
+00:15:25,500 --> 00:15:31,019
+It was a really terrific event at a beautiful renovated Victorian house that was on the
+
+187
+00:15:31,019 --> 00:15:36,299
+mud flats in Mountain View and special collections came representatives of special collections
+
+188
+00:15:36,299 --> 00:15:37,299
+here at OSU.
+
+189
+00:15:37,299 --> 00:15:42,820
+Came down with some of Pauling's medals and awards that he'd already given to the university.
+
+190
+00:15:42,820 --> 00:15:48,700
+So they were on display and we had posters, scientific posters and it was really a great time
+
+191
+00:15:48,700 --> 00:15:55,179
+for Pauling to meet and greet perhaps for the last time some of his associates.
+
+192
+00:15:55,180 --> 00:16:00,740
+And then in 1994, also to celebrate the 20th anniversary of the Linus Pauling Institute
+
+193
+00:16:00,740 --> 00:16:06,100
+of Science and Medicine, we decided to convene a large scientific conference.
+
+194
+00:16:06,100 --> 00:16:10,340
+In the institute had historically convened a number of conferences.
+
+195
+00:16:10,340 --> 00:16:14,660
+One was to honor Bjorn Nordinstrom from the Carolinsky Institute.
+
+196
+00:16:14,660 --> 00:16:23,580
+Pauling became quite interested in his bioelectric theory of cancer therapy, which is quite interesting.
+
+197
+00:16:23,580 --> 00:16:27,780
+So there was a symposium to honor him and then some years earlier there had been another
+
+198
+00:16:27,780 --> 00:16:34,420
+symposium called Nutrition Health and Peace convened by the institute with presentations
+
+199
+00:16:34,420 --> 00:16:41,379
+by a whole raft of people doing work in orthomolecular medicine, molecular biology and chemistry.
+
+200
+00:16:41,379 --> 00:16:46,620
+Again, a little bit to honor Linus Pauling's work in orthomolecular medicine science and
+
+201
+00:16:46,620 --> 00:16:47,620
+peace.
+
+202
+00:16:47,620 --> 00:16:51,680
+And of course there had been birthday parties for Linus Pauling and the Linus Pauling and
+
+203
+00:16:51,680 --> 00:16:52,680
+the work for humanitarianism.
+
+204
+00:16:52,680 --> 00:16:55,960
+So there had been a lot of events throughout the history of the Linus Pauling Institute,
+
+205
+00:16:55,960 --> 00:16:59,880
+some were the fundraising focus and some of the scientific focus.
+
+206
+00:16:59,880 --> 00:17:04,759
+But of course, Linus Pauling was always at the midst of these occasions.
+
+207
+00:17:04,759 --> 00:17:13,519
+So we decided that an appropriate 20th anniversary event would be a conference, a scientific conference,
+
+208
+00:17:13,519 --> 00:17:18,080
+organized around the theme of orthomolecular medicine.
+
+209
+00:17:18,079 --> 00:17:25,960
+Linus Pauling was pleased to hear about this and we decided to call it the therapeutic
+
+210
+00:17:25,960 --> 00:17:29,679
+potential of biological antioxidants.
+
+211
+00:17:29,679 --> 00:17:34,039
+And we had a scientific committee and organizing committee set up at the institute that reviewed
+
+212
+00:17:34,039 --> 00:17:39,119
+poster abstracts and invited people to speak at the conference.
+
+213
+00:17:39,119 --> 00:17:43,960
+I remember going into Pauling's office to ask him what he thought of our provisional title
+
+214
+00:17:43,960 --> 00:17:48,039
+of the therapeutic potential of biological antioxidants and in his very characteristic
+
+215
+00:17:48,039 --> 00:17:52,440
+way, he leaned back in his chair and closed his eyes and thought for a minute and without
+
+216
+00:17:52,440 --> 00:17:57,759
+even opening his eyes, he said to me, well, I think it's fine but we shouldn't forget that
+
+217
+00:17:57,759 --> 00:18:00,920
+molecules like vitamin C serve many functions in the body.
+
+218
+00:18:00,920 --> 00:18:05,440
+They're not strictly committed to being only antioxidants.
+
+219
+00:18:05,440 --> 00:18:08,920
+They also have very other important properties and we shouldn't forget that and I agreed
+
+220
+00:18:08,920 --> 00:18:13,880
+with them completely but he gave his blessing to our provisional title for the conference.
+
+221
+00:18:13,880 --> 00:18:18,640
+So he also agreed to be the keynote speaker at the conference and this was scheduled for
+
+222
+00:18:18,640 --> 00:18:24,520
+the fall of 1994, September and people like Bruce Ames and Balthes Frye, Maret Traiber,
+
+223
+00:18:24,520 --> 00:18:31,200
+Lester Packer, Enrique Cadenas, a lot of people in the free radical field were there.
+
+224
+00:18:31,200 --> 00:18:36,120
+And I hadn't met some of these people before, I'd met Bruce Ames and Balthes Frye as early
+
+225
+00:18:36,120 --> 00:18:42,080
+as 1989 when they came to the institute to give a seminar on vitamin C because Ames
+
+226
+00:18:42,159 --> 00:18:49,399
+had published with Frye a paper in PNAS that year showing that a score bay is the outstanding
+
+227
+00:18:49,399 --> 00:18:54,679
+antioxidant in human blood and a pecking order at number one and Pauline of course was
+
+228
+00:18:54,679 --> 00:18:58,319
+very excited by that paper and they were invited to come and give seminars during the
+
+229
+00:18:58,319 --> 00:19:01,960
+day of the earthquake actually as it turned out.
+
+230
+00:19:01,960 --> 00:19:07,240
+So there were a lot of interesting people invited to speak at our conference and then of
+
+231
+00:19:07,240 --> 00:19:11,039
+course Pauline died at the end of August.
+
+232
+00:19:11,039 --> 00:19:17,159
+So I asked Henry Taube who was one of Pauline's friends and had done work in free radical
+
+233
+00:19:17,159 --> 00:19:18,759
+chemistry as well.
+
+234
+00:19:18,759 --> 00:19:23,759
+If he would step in as a substitute for Pauline and give the keynote address at our conference
+
+235
+00:19:23,759 --> 00:19:28,240
+and he was happy to do so, that was very gracious of him to consent to do that at the last
+
+236
+00:19:28,240 --> 00:19:33,279
+minute because he was very active at Stanford and I'm sure there were many demands on his
+
+237
+00:19:33,279 --> 00:19:39,920
+time and I thought it was terrific that he really rose to the occasion and agreed to give
+
+238
+00:19:39,920 --> 00:19:42,519
+that talk which went very well.
+
+239
+00:19:42,519 --> 00:19:47,160
+I drove him up to Tiburon, picked him up at Stanford and drove him to Tiburon that day
+
+240
+00:19:47,160 --> 00:19:52,400
+to give the talk and he did a outstanding job really, really thrilled to group there.
+
+241
+00:19:52,400 --> 00:20:01,240
+So after Pauline had died of course and before his death we were engaged in analyzing options
+
+242
+00:20:01,240 --> 00:20:07,920
+for the future of the institute and I discussed some ideas with some of the people that had
+
+243
+00:20:07,920 --> 00:20:15,000
+attended the therapeutic potential biological antioxidants in September and then was
+
+244
+00:20:15,000 --> 00:20:23,320
+approached in 1994, 1993, 1994, I was also working with a fellow named Bill Kemp who
+
+245
+00:20:23,320 --> 00:20:30,560
+was introducing me to people in different universities around the country and we had
+
+246
+00:20:30,560 --> 00:20:36,120
+been talking as I mentioned last time with people all over the place.
+
+247
+00:20:36,120 --> 00:20:42,560
+Bill had arranged for me to meet the governor of Oklahoma at the Jonathan Club in Los Angeles
+
+248
+00:20:42,560 --> 00:20:48,960
+because the governor of Oklahoma was on a trip as many governors do to try to get businesses
+
+249
+00:20:48,960 --> 00:20:53,920
+to relocate or move some of their operations to the state of Oklahoma because that's the
+
+250
+00:20:53,920 --> 00:20:56,240
+economic engine that drives the state.
+
+251
+00:20:56,240 --> 00:21:06,759
+So I met with the governor at the Jonathan Club, it was kind of a funny meeting that
+
+252
+00:21:06,759 --> 00:21:13,680
+was in a really luxurious room at the Jonathan Club and the governor was there with his chief
+
+253
+00:21:13,680 --> 00:21:20,279
+of staff and maybe a dozen or 14 other people, they were all paying wrapped attention to everything
+
+254
+00:21:20,279 --> 00:21:25,880
+that he said and did and they were all aligned on one side of a long, long conference table
+
+255
+00:21:26,000 --> 00:21:28,680
+and it was me on the other side of the conference table.
+
+256
+00:21:28,680 --> 00:21:36,240
+I had no people, I had no retinue, I had no advisers, just me and I had a great conversation
+
+257
+00:21:36,240 --> 00:21:41,960
+with him and he invited me and Linus Pond Jr to go to Oklahoma City to make a presentation
+
+258
+00:21:41,960 --> 00:21:48,920
+to the president of the university, the president of the foundation there which operates in
+
+259
+00:21:48,920 --> 00:21:53,560
+a similar way to the Oregon State University Foundation here with their relationship to the
+
+260
+00:21:53,559 --> 00:22:00,480
+local university, or the state school I should say, but anyway getting back to more
+
+261
+00:22:00,480 --> 00:22:10,679
+specifically your question, other people came and made presentations to our board about
+
+262
+00:22:10,679 --> 00:22:15,759
+their ideas for relocation and one of the people who came was John Byrne who brought
+
+263
+00:22:15,759 --> 00:22:20,200
+with him, I believe he brought with him Dick Scanlan who was dean of research at that
+
+264
+00:22:20,200 --> 00:22:26,440
+time and Oregon State University in many ways, I mean just superficially seemed to be
+
+265
+00:22:26,440 --> 00:22:32,080
+a good fit because Linus Pond was his alma mater, he had already agreed to give his and his
+
+266
+00:22:32,080 --> 00:22:36,400
+wife's personal and professional memorabilia to Oregon State University to be housed in
+
+267
+00:22:36,400 --> 00:22:43,480
+a new special collections, forms are the nucleus of special collections, so it seemed like
+
+268
+00:22:43,480 --> 00:22:50,440
+a good fit but we weren't really sure about the specifically how the institute would work
+
+269
+00:22:50,440 --> 00:22:55,240
+into the program here and so John Byrne and Dick Scanlan talked about the centers and
+
+270
+00:22:55,240 --> 00:22:59,599
+institutes there were already extant at Oregon State University and how they were organized
+
+271
+00:22:59,599 --> 00:23:04,799
+and how they reported to and how they were staffed and so forth and they talked a bit about
+
+272
+00:23:04,799 --> 00:23:09,960
+the nutrition department and the work that was going on there, exercise and sports physiology
+
+273
+00:23:09,960 --> 00:23:14,440
+here in medicine, pharmacy, biochemistry and bio physics, environmental and molecular
+
+274
+00:23:14,440 --> 00:23:24,720
+toxicology, strong programs that seem to have some relevance to the institute's mission.
+
+275
+00:23:24,720 --> 00:23:29,960
+And that led to of course many discussions and meetings between staff at Oregon State
+
+276
+00:23:29,960 --> 00:23:36,559
+University and our staff at the Linus Pond Institute of Science and Medicine including hosting
+
+277
+00:23:36,559 --> 00:23:45,359
+a meeting between a committee that John Byrne had put together to seriously analyze
+
+278
+00:23:45,359 --> 00:23:49,799
+this prospect of the institute relocating to Oregon State University to find out whether
+
+279
+00:23:49,799 --> 00:23:58,639
+it was really a good thing to do or not, Joanne Leon, George Bailey, a number of other
+
+280
+00:23:58,639 --> 00:24:03,679
+people were on that committee and they came down to Palo Alto and I hosted them for
+
+281
+00:24:03,799 --> 00:24:10,060
+day and talked about the mission of the institute and how we had been funded historically, talked
+
+282
+00:24:10,060 --> 00:24:13,400
+a lot about the scientific work, a lot about the fundraising work.
+
+283
+00:24:13,400 --> 00:24:18,560
+They weren't really familiar with the term orthomolecular so we spent quite a lot of time thinking
+
+284
+00:24:18,560 --> 00:24:24,120
+about that and discussing it and I think they came to realize that some of the work that
+
+285
+00:24:24,120 --> 00:24:28,480
+Dave themselves were doing could be considered orthomolecular but they hadn't really applied
+
+286
+00:24:28,559 --> 00:24:32,680
+that term to their own work.
+
+287
+00:24:32,680 --> 00:24:38,880
+And I think as a result of those many meetings it became clear that there was a good fit between
+
+288
+00:24:38,880 --> 00:24:45,880
+the Linus Pond Institute and Oregon State University although it wasn't tenable to bring
+
+289
+00:24:45,880 --> 00:24:49,920
+the whole institute with all its employees up to Corvallis because there was just too
+
+290
+00:24:49,920 --> 00:24:51,599
+many people.
+
+291
+00:24:51,599 --> 00:24:56,599
+We had I can't remember what the specific number of employees was at that time but back
+
+292
+00:24:56,800 --> 00:25:01,960
+before the reorganization there were maybe 70, 75 people at the institute and then after
+
+293
+00:25:01,960 --> 00:25:07,480
+the reorganization that was dropped down to maybe 50 or so.
+
+294
+00:25:07,480 --> 00:25:12,120
+And of course with the institute moving to Oregon State University a lot of the administrator
+
+295
+00:25:12,120 --> 00:25:17,440
+functions that we had to assume ourselves in Palo Alto, we would no longer have to assume
+
+296
+00:25:17,440 --> 00:25:24,600
+so we had no need for a controller or bookkeeper or we still had need for a fundraiser but
+
+297
+00:25:24,600 --> 00:25:28,920
+of course the fundraising activities were going to be taken over by the OSU Foundation
+
+298
+00:25:28,920 --> 00:25:35,440
+so we didn't really need to have a fundraising staff to come with us to Oregon State University.
+
+299
+00:25:35,440 --> 00:25:42,940
+So we had broad and deep discussions about all those issues and the researchers at the
+
+300
+00:25:42,940 --> 00:25:49,080
+Linus Pond Institute of Science and Medicine who the dean of research and the ad hoc committee
+
+301
+00:25:49,079 --> 00:25:54,799
+formed by John Bern believed had the best chance of succeeding here at Oregon State
+
+302
+00:25:54,799 --> 00:25:55,799
+University.
+
+303
+00:25:55,799 --> 00:26:01,000
+We're asked to come up and meet the faculty and staff that they might interact with here
+
+304
+00:26:01,000 --> 00:26:08,000
+on campus in the different departments and so there were a number of visits back and
+
+305
+00:26:08,000 --> 00:26:12,279
+forth between OSU and LPISM.
+
+306
+00:26:12,279 --> 00:26:18,559
+And as a result of that Dick Scanlon was pretty frank with me about who might really succeed
+
+307
+00:26:18,559 --> 00:26:24,879
+at Oregon State University and what might be the most important part of the Linus Pond
+
+308
+00:26:24,879 --> 00:26:31,159
+Institute to bring up to Oregon State University and that led to the decision to bring a relatively
+
+309
+00:26:31,159 --> 00:26:36,159
+small nucleus of people about half a dozen to Oregon State University.
+
+310
+00:26:36,159 --> 00:26:41,960
+Now there were some people that I think could have made the transition had they wanted to
+
+311
+00:26:41,960 --> 00:26:48,359
+but they had for instance there was one fellow doing work that was supported by a department
+
+312
+00:26:48,360 --> 00:26:54,820
+of energy grant at the Institute in Palo Alto and his wife was a physician and they had
+
+313
+00:26:54,820 --> 00:26:59,200
+a comfortable life in the Bay Area and they really didn't want to leave and there were
+
+314
+00:26:59,200 --> 00:27:04,040
+other people who also were approaching retirement age and decided that it might just be best
+
+315
+00:27:04,040 --> 00:27:06,040
+to retire rather than move to Oregon.
+
+316
+00:27:06,040 --> 00:27:12,480
+So there were a lot of factors that came into play in determining who actually moved to
+
+317
+00:27:12,480 --> 00:27:21,720
+Corvallis but at the time we had a very, and I mentioned this the last time, a really
+
+318
+00:27:21,720 --> 00:27:28,740
+good contractual relationship with Unilever and Elizabeth Arden, it was continuing so the
+
+319
+00:27:28,740 --> 00:27:35,660
+people involved with that particular project were given offered jobs at Oregon State University
+
+320
+00:27:35,660 --> 00:27:42,259
+and a number of other people were as well.
+
+321
+00:27:42,259 --> 00:27:48,100
+I think they were about half a dozen, six or seven people total.
+
+322
+00:27:48,100 --> 00:27:54,980
+It was Karna McEvally who was an Irish biochemist working on the Arden supported project Vadim
+
+323
+00:27:54,980 --> 00:28:01,740
+Ivanov who was working in cardiovascular disease research and his wife Stetlana Ivanova.
+
+324
+00:28:01,740 --> 00:28:07,660
+She was a heat roomie who was doing some really good work in cytotoxic, trying to determine
+
+325
+00:28:07,660 --> 00:28:19,740
+the cytotoxic moiety of the vitamin C molecule and some of its derivatives myself, and it
+
+326
+00:28:19,740 --> 00:28:29,140
+could have been it, I'm the only one left, that's right, Connor McEvally left after the
+
+327
+00:28:29,140 --> 00:28:36,220
+contract supported work expired and that contract had a finite start and stop time.
+
+328
+00:28:36,220 --> 00:28:44,259
+Then Vadim Ivanov and his wife Stetlana decided to return to the Bay Area because they felt
+
+329
+00:28:44,259 --> 00:28:48,460
+more comfortable in the Bay Area, they really liked California quite a lot.
+
+330
+00:28:48,460 --> 00:28:54,940
+Vadim and Stetlana had come from the Moscow Cardiological Institute in Russia and found
+
+331
+00:28:54,940 --> 00:29:00,700
+California just paradise compared to what they left in Russia, and I think they just
+
+332
+00:29:00,700 --> 00:29:07,059
+had a terrific fondness for California, so they were unwilling to become permanent residents
+
+333
+00:29:07,059 --> 00:29:12,180
+here in Oregon, and what heat roomie left after some time.
+
+334
+00:29:12,180 --> 00:29:19,620
+We had an interim director at the Institute, Don Reed who I believe at that time was director
+
+335
+00:29:19,620 --> 00:29:23,900
+of the Environmental Health Science Center as well, and a member of the Biochemistry and
+
+336
+00:29:23,900 --> 00:29:24,900
+Biophysics faculty.
+
+337
+00:29:24,900 --> 00:29:33,940
+Yeah, so he was providing some leadership, one of the first things that we did together
+
+338
+00:29:33,940 --> 00:29:40,300
+was to hire an office manager, we hired Barbara McVicar, I believe she was the first employee.
+
+339
+00:29:40,300 --> 00:29:45,340
+Actually the first employee was Obertais who was selected by the Oregon State University
+
+340
+00:29:45,340 --> 00:29:50,380
+Foundation to become our fundraiser, so I worked quite closely with Oberta in the
+
+341
+00:29:50,380 --> 00:29:56,380
+very early days in a prize in him of some of our fundraising history, telling him a little
+
+342
+00:29:56,380 --> 00:30:01,820
+bit about some of the contractual relationships we had that generated income from the Institute
+
+343
+00:30:01,820 --> 00:30:08,500
+and also some of the charitable foundations and philanthropies who have been very kind
+
+344
+00:30:08,500 --> 00:30:12,340
+to the Institute over the years and talked to him about some of our big donors and be
+
+345
+00:30:12,340 --> 00:30:14,220
+quests and so forth.
+
+346
+00:30:14,220 --> 00:30:15,220
+I worked pretty closely.
+
+347
+00:30:15,220 --> 00:30:20,380
+Oberta had been coming down to Palo Alto to go through some of our fundraising files as
+
+348
+00:30:20,380 --> 00:30:25,140
+well to help him identify what was important to bring up to Oregon State.
+
+349
+00:30:25,140 --> 00:30:32,059
+And of course, one of the most precious resources that was transferred was our donor database
+
+350
+00:30:32,059 --> 00:30:39,259
+because Oregon State University, I think, recognized that absent large government grants,
+
+351
+00:30:39,259 --> 00:30:44,539
+it was going to be tough to keep the Institute going without reliance on the contract we
+
+352
+00:30:44,539 --> 00:30:51,819
+had with Arden and Unilever and also sustained giving by our donors.
+
+353
+00:30:51,819 --> 00:30:58,539
+So that was very important to keep that safe and to cultivate the donors and that began
+
+354
+00:30:58,539 --> 00:31:01,059
+even before we moved here.
+
+355
+00:31:01,059 --> 00:31:05,700
+So what sort of commitment did OSU make to the Institute and I guess by a person?
+
+356
+00:31:06,420 --> 00:31:11,640
+Well, the commitment was really spelled out in a document that we wrote jointly called
+
+357
+00:31:11,640 --> 00:31:20,420
+a Memorandum of Understanding which was signed in 1995 by Linus Pond Jr. myself, Paul
+
+358
+00:31:20,420 --> 00:31:24,660
+Risser who was the incoming president of Oregon State University.
+
+359
+00:31:24,660 --> 00:31:31,259
+It really spelled out how in the Institute's assets, including financial assets, fundraising
+
+360
+00:31:31,259 --> 00:31:37,579
+assets, physical assets, and personnel would be transferred here to the campus of Oregon
+
+361
+00:31:37,579 --> 00:31:42,460
+State University and the Oregon State University Foundation and how the Institute would go through
+
+362
+00:31:42,460 --> 00:31:48,619
+legal dissolution and also the expectations for what the University would provide from
+
+363
+00:31:48,619 --> 00:31:55,539
+the Institute in the future including, I think, a really key phrase about launching a capital
+
+364
+00:31:55,539 --> 00:32:01,019
+campaign to secure a building from the Institute as soon as that was feasible.
+
+365
+00:32:01,019 --> 00:32:05,500
+So right from the get go there was always the promise of a building for the Institute
+
+366
+00:32:05,500 --> 00:32:14,579
+because on any university campus spaces that are premium and I'm not sure who had been
+
+367
+00:32:14,579 --> 00:32:15,579
+in the departments.
+
+368
+00:32:15,579 --> 00:32:19,119
+I think Bob chemistry and bio physics may have been in the initial space that the Institute
+
+369
+00:32:19,119 --> 00:32:25,220
+occupied in Wendell-Gerahal but in 1995 after the Memorandum of Understanding had been executed
+
+370
+00:32:25,220 --> 00:32:30,379
+and renovation of this space on the fifth floor in Wendell-Gerahal was undertaken.
+
+371
+00:32:30,380 --> 00:32:36,980
+I would come up periodically to work hard with Dick Scanlon and others on the details and
+
+372
+00:32:36,980 --> 00:32:45,780
+logistics of the move from Palo Alto to Corvallis including an analysis of the laboratory
+
+373
+00:32:45,780 --> 00:32:46,780
+requirements.
+
+374
+00:32:46,780 --> 00:32:52,660
+So these laboratories were renovated, they were painted, the wood was spiffed up and polished
+
+375
+00:32:52,660 --> 00:32:57,460
+and sanded and new countertops were installed, air conditioning was installed because these
+
+376
+00:32:57,460 --> 00:33:02,660
+old leaps in the middle of the building didn't have air conditioning, building wide air
+
+377
+00:33:02,660 --> 00:33:04,819
+conditioning.
+
+378
+00:33:04,819 --> 00:33:15,059
+And there was an area that was the south part of the fifth floor of Wendell-Gerah which
+
+379
+00:33:15,059 --> 00:33:16,700
+was renovated for LPI.
+
+380
+00:33:16,700 --> 00:33:20,340
+There were still offices and laboratories there for other departments, oceanography
+
+381
+00:33:20,340 --> 00:33:24,860
+and atmospheric sciences to name one and some other people were still scattered throughout
+
+382
+00:33:24,860 --> 00:33:25,860
+that space.
+
+383
+00:33:25,860 --> 00:33:32,460
+It wasn't a contiguous LPI space from the west end around to the east end but it was
+
+384
+00:33:32,460 --> 00:33:38,020
+certainly satisfactory for the Institute's initial efforts here at Oregon State.
+
+385
+00:33:38,020 --> 00:33:44,500
+So the furniture, the laboratory equipment, centrifuges, laboratory supplies, chemicals,
+
+386
+00:33:44,500 --> 00:33:50,700
+paper, journals, a lot of the material from Pauling's office in Palo Alto, was all transferred
+
+387
+00:33:50,700 --> 00:33:57,059
+up, moved up in August of, excuse me, July of 1996.
+
+388
+00:33:57,059 --> 00:34:05,299
+And that was a very, very difficult process because we had, we managed to move ourselves,
+
+389
+00:34:05,299 --> 00:34:10,860
+we had professional movers of course, we hired to make this move but we had to make lots
+
+390
+00:34:10,860 --> 00:34:15,340
+of decisions in Palo Alto but what should be moved and what shouldn't be moved and what
+
+391
+00:34:15,340 --> 00:34:18,340
+could be recycled and what could be thrown away and so on and so forth.
+
+392
+00:34:18,340 --> 00:34:25,900
+So we filled up two dumpsters a week for well over a month with just junk that we had
+
+393
+00:34:25,900 --> 00:34:30,300
+no use for in the future and then of course everything was packed securely and brought up
+
+394
+00:34:30,300 --> 00:34:38,539
+here at Oregon State University and a lot of the journals and laboratory equipment that
+
+395
+00:34:38,539 --> 00:34:44,180
+wasn't in use immediately was stored in the sixth floor of Wannager and with some storage
+
+396
+00:34:44,180 --> 00:34:46,500
+on the fifth floor as well.
+
+397
+00:34:46,500 --> 00:34:51,860
+And then over time, especially after Boltz-Fry was recruited as the director of the Linus
+
+398
+00:34:51,860 --> 00:34:58,340
+Buying Institute here at Oregon State and following that because I think I mentioned
+
+399
+00:34:58,340 --> 00:35:06,820
+once before that when the candidates for director that in dad position came to interview on campus
+
+400
+00:35:06,820 --> 00:35:11,219
+I think they all asked the university administration the same question which is what are you going
+
+401
+00:35:11,219 --> 00:35:16,219
+to do to provide for growth for the institute, how will the institute grow.
+
+402
+00:35:16,220 --> 00:35:22,220
+And I think the university to its credit responded satisfactorily to those questions by offering
+
+403
+00:35:22,220 --> 00:35:28,140
+to set up a couple of faculty lines and startup packages in order to recruit new faculty.
+
+404
+00:35:28,140 --> 00:35:32,740
+So that was also something that I think it was an incentive in recruiting a good director
+
+405
+00:35:32,740 --> 00:35:39,060
+that we would have the ability to grow the institute built into the initial program.
+
+406
+00:35:39,059 --> 00:35:47,460
+So as Wann Boltz-Fry assumed that position and we said about recruiting new faculty,
+
+407
+00:35:47,460 --> 00:35:52,259
+the material that had been stored in the fifth floor had to be moved and at that time
+
+408
+00:35:52,259 --> 00:35:56,900
+a lot of the filing cabinets that stored Polling's files and manuscripts and so forth were
+
+409
+00:35:56,900 --> 00:36:04,500
+moved over here to special collections and a lot of the other stuff that we perceive
+
+410
+00:36:04,500 --> 00:36:10,340
+no need to keep old journals for instance that the library couldn't use and we really had
+
+411
+00:36:10,340 --> 00:36:15,940
+no need for or storage capacity physically and when it or were recycled.
+
+412
+00:36:15,940 --> 00:36:21,940
+So the university did mention some ongoing funding then it wasn't just an issue providing space
+
+413
+00:36:21,940 --> 00:36:28,260
+and saying that we'll have a foundation represents that I hope you raise money for all of through all
+
+414
+00:36:28,260 --> 00:36:30,900
+and give you some ongoing funding as well.
+
+415
+00:36:30,900 --> 00:36:37,380
+Well in the Memorandum of Understanding that ongoing funding to provide startup packages
+
+416
+00:36:37,380 --> 00:36:41,380
+and salary lines for additional faculty that was not part of the Memorandum of Understanding.
+
+417
+00:36:41,380 --> 00:36:47,139
+That was something that developed as a result of feedback from interviews for the director
+
+418
+00:36:47,139 --> 00:36:52,900
+among the director candidates and to be honest with you because I had not had professional
+
+419
+00:36:52,900 --> 00:36:58,099
+experience within a university environment nor had line as Polling Junior nor had the other
+
+420
+00:36:58,099 --> 00:37:04,339
+members of our Board of Trustees with the exception of a couple it wasn't something that we
+
+421
+00:37:04,339 --> 00:37:11,619
+anticipated so had we anticipated that we really needed to secure a mechanism at that time to
+
+422
+00:37:11,619 --> 00:37:15,860
+grow the institute we probably would have incorporated that in the Memorandum of Understanding but I
+
+423
+00:37:15,860 --> 00:37:23,219
+think that was an issue that escaped the analysis at that time it was only later that that was really
+
+424
+00:37:23,220 --> 00:37:28,420
+addressed but the idea for a building from the institute was there right from the beginning
+
+425
+00:37:28,420 --> 00:37:33,380
+because we recognized that the renovated part of Wintergar was not going to be sufficient.
+
+426
+00:37:33,380 --> 00:37:38,100
+Should the institute be successful that wasn't going to be big enough to hold the institute and
+
+427
+00:37:38,100 --> 00:37:42,660
+we thought that having our own building would be really a fitting tribute to Linus Polling
+
+428
+00:37:43,380 --> 00:37:48,260
+and I think John Byrne and people at Oregon State University agreed that that was important.
+
+429
+00:37:49,220 --> 00:37:54,580
+It sounds like President Byrne was crucial to this process having in the first place within
+
+430
+00:37:54,580 --> 00:37:58,580
+the Paul Risser around and working with his perspective as role was.
+
+431
+00:38:00,820 --> 00:38:06,980
+Well Paul Risser didn't have much to do with it mechanistically because he signed the
+
+432
+00:38:06,980 --> 00:38:11,700
+Memorandum of Understanding because by the time that document was generated John Byrne was
+
+433
+00:38:11,700 --> 00:38:16,500
+was leaving his president so Paul Risser was the incoming president and I think there were a lot
+
+434
+00:38:16,500 --> 00:38:22,019
+of press releases that about that time as well so Paul Risser had to respond as the new face of
+
+435
+00:38:22,019 --> 00:38:26,980
+Oregon State University about this move of the Linus Polling Institute and so forth but his
+
+436
+00:38:26,980 --> 00:38:34,179
+scientific training I believe was as a botanist so he probably had less appreciation for Pauling
+
+437
+00:38:34,179 --> 00:38:40,340
+scientific work than maybe people in the other biological sciences or in the physical sciences
+
+438
+00:38:40,340 --> 00:38:46,019
+like physics and chemistry he certainly was aware of Linus Polling but I think this was basically
+
+439
+00:38:46,019 --> 00:38:53,219
+John Byrne's baby and Dick Scanlon at that time assumed a really pivotal role, a very important
+
+440
+00:38:53,219 --> 00:39:00,579
+role in helping the institute to integrate into Oregon State University so Paul Risser was
+
+441
+00:39:00,579 --> 00:39:07,539
+certainly aware of everything and very supportive of everything but did not play a really pivotal
+
+442
+00:39:07,539 --> 00:39:12,099
+role early on it was really Dick Scanlon who was working very hard in this area.
+
+443
+00:39:12,739 --> 00:39:16,179
+What were your initial impressions with the university and for Dallas?
+
+444
+00:39:18,659 --> 00:39:28,179
+Well I'll be frank my initial impressions were not great I had spent my life in the East Coast
+
+445
+00:39:28,179 --> 00:39:35,699
+near Boston and at Stanford near San Francisco which was a hive of activity intellectual cultural
+
+446
+00:39:36,660 --> 00:39:43,700
+activity academic activity Silicon Valley here burgeoned during my time there so it was a very
+
+447
+00:39:43,700 --> 00:39:50,500
+dynamic and kind of thrilling and overstimulating type of environment that I'd grown to love.
+
+448
+00:39:51,940 --> 00:39:58,660
+So coming up here to Corvallis Corvallis struck me as a very sleepy tab in those days didn't seem to
+
+449
+00:39:58,659 --> 00:40:06,099
+have a big bookstore in town didn't seem to have many movie theaters didn't seem to have a lot of
+
+450
+00:40:06,099 --> 00:40:13,940
+good restaurants and to be honest it surprised me because here's a college town with tens of
+
+451
+00:40:13,940 --> 00:40:19,219
+thousands of students and a lot of faculty who are very bright and energetic and I was surprised
+
+452
+00:40:19,219 --> 00:40:26,500
+that that kind of energy and intellectual dynamism which I'm sure existed here on campus didn't
+
+453
+00:40:26,500 --> 00:40:34,980
+translate into more that I could perceive in town so nevertheless I felt that this was the best
+
+454
+00:40:34,980 --> 00:40:39,699
+option for the institute and I felt compelled from a professional standpoint to work very hard
+
+455
+00:40:39,699 --> 00:40:45,460
+to ensure that the institute was a success because like Linus Paul in junior we didn't really want
+
+456
+00:40:45,460 --> 00:40:52,420
+to see this fail and see what could become a really successful working tribute to Linus Paul
+
+457
+00:40:52,500 --> 00:40:57,860
+and turn into a disaster so I felt personally and professionally committed to making this work and
+
+458
+00:40:58,820 --> 00:41:03,860
+I realized that it was probably imperative for me to become part of this process in moving from
+
+459
+00:41:04,659 --> 00:41:09,059
+California to Oregon at least initially to get the institute up and running and make sure that
+
+460
+00:41:09,059 --> 00:41:15,059
+everything was was happening appropriately and that we didn't really lose sight of the reason
+
+461
+00:41:15,059 --> 00:41:19,059
+that the institute existed in the first place namely the study of orthomolecular medicine.
+
+462
+00:41:22,900 --> 00:41:27,619
+I was a little surprised at kind of the parochial and kind of provincial
+
+463
+00:41:32,099 --> 00:41:38,019
+attitude of some of the faculty here at Oregon State nutrition and so forth seemed to be a
+
+464
+00:41:38,019 --> 00:41:44,340
+little old-fashioned to me but I thought there was I thought the institute would probably settle
+
+465
+00:41:44,340 --> 00:41:49,940
+in and do quite well and there were a number of faculty who were extraordinarily bright and excited
+
+466
+00:41:49,940 --> 00:41:54,500
+about the institute being here and they were the ones that we were going to be working with so I
+
+467
+00:41:54,500 --> 00:42:01,139
+felt that I felt very good about that but I was concerned really about my my own personal
+
+468
+00:42:01,139 --> 00:42:05,780
+satisfaction here in Corvallis. I mean I know that the ocean is an hour and a half away and
+
+469
+00:42:05,780 --> 00:42:10,579
+the mountains are an hour and a half away and Portland is an hour away and but everything's at
+
+470
+00:42:10,579 --> 00:42:17,940
+least an hour away and in Palo Alto I was very right in the midst of things San Francisco is a short
+
+471
+00:42:17,940 --> 00:42:26,579
+train ride half-hour by car at that so I was concerned about that but Corvallis has changed quite
+
+472
+00:42:26,579 --> 00:42:43,220
+a lot over the years as well I think George Bailey was very important as well he was in environmental
+
+473
+00:42:43,220 --> 00:42:47,940
+and molecular tax college and director of the Marine Freshwater Biomedical Sciences Center at the
+
+474
+00:42:47,940 --> 00:42:53,060
+time using trout as a model to study Carson and Genesis and he'd been part of this committee that
+
+475
+00:42:53,060 --> 00:42:57,540
+had been set up by Dick Skinner and John Burns to sort of investigate the association at the
+
+476
+00:42:57,540 --> 00:43:05,460
+institute with OSU also Chris Matthews who is the chairman of the department about chemistry and
+
+477
+00:43:05,460 --> 00:43:12,820
+about physics I think played a very important role and part of the reason these people are
+
+478
+00:43:12,820 --> 00:43:19,220
+important was that new faculty coming into the institute which was essential we're going to
+
+479
+00:43:19,220 --> 00:43:25,059
+have their academic homes in different departments across campus and maybe even in different colleges
+
+480
+00:43:25,059 --> 00:43:31,780
+across campus so it's very important for the institute to be well integrated and be close to
+
+481
+00:43:31,780 --> 00:43:38,660
+these departmental chairs and deans as well. Joanne Leong played a very important role early on
+
+482
+00:43:39,860 --> 00:43:48,340
+and Tim White I think was involved as well. I can't remember all the people who constituted
+
+483
+00:43:48,340 --> 00:43:54,340
+search committee for the director but a number of those people were also on the search committee
+
+484
+00:43:54,340 --> 00:44:01,940
+and we took that job extremely seriously and reviewed numerous applications and whittled the
+
+485
+00:44:01,940 --> 00:44:08,019
+field down to a number of really outstanding candidates and then set about presenting each member
+
+486
+00:44:08,019 --> 00:44:16,900
+of the search committee presented two candidates and the choice was overwhelming for Balsray which
+
+487
+00:44:16,900 --> 00:44:22,340
+was terrific. Also Phil Wanger who was I believe an environmental molecular tax college who
+
+488
+00:44:22,340 --> 00:44:27,140
+worked on Selenium at that time was also someone who was closely associated with institute.
+
+489
+00:44:29,140 --> 00:44:35,220
+The higher Balsray extracts the original watershed moment. It really was a hiring Balsray
+
+490
+00:44:35,940 --> 00:44:42,820
+who was working of course on vitamin C was very strategic he's a terrific scientist he had
+
+491
+00:44:42,820 --> 00:44:48,019
+terrific recommendations from Bruce Ames the National Academy of Science member and winner of the
+
+492
+00:44:52,500 --> 00:45:02,180
+award. What is the award that Paul and got from Gerald Ford? National Mental Science winner as well.
+
+493
+00:45:08,740 --> 00:45:16,100
+So Bruce Ames recommended him extremely strongly and Balsad had we knew him as well or at least
+
+494
+00:45:16,099 --> 00:45:22,099
+I had known him for a few years since his parents to give a seminar at the institute back in
+
+495
+00:45:22,099 --> 00:45:29,619
+California and he had after leaving Bruce Ames lab as a postdoc at Berkeley he'd gone to Harvard
+
+496
+00:45:29,619 --> 00:45:35,059
+had a position there and was currently at Boston University School of Medicine to work on vitamin C
+
+497
+00:45:35,059 --> 00:45:44,420
+and atherosclerosis. So we felt that it would be terrific for the institute to get him because we
+
+498
+00:45:44,420 --> 00:45:51,220
+would ensure central importance of worth of molecular medicine and coincidentally one of Paul's
+
+499
+00:45:51,220 --> 00:45:56,340
+favorite molecules vitamin C would have a very prominent place in the institute's research and
+
+500
+00:45:57,220 --> 00:46:05,220
+Balsray would be a really terrific director and then with the faculty lines and startup packages
+
+501
+00:46:05,220 --> 00:46:12,579
+created by OSU the research office I think that really was an exciting time and that really showed
+
+502
+00:46:12,579 --> 00:46:17,699
+that you know we now had a mechanism for moving forward we weren't going to be we weren't going to
+
+503
+00:46:17,699 --> 00:46:22,579
+have to be completely dependent on fundraising from our donors in order to make the institute a
+
+504
+00:46:22,579 --> 00:46:28,819
+success. Now we're going to be able to be able to bring in high caliber faculty because of these
+
+505
+00:46:28,819 --> 00:46:35,539
+faculty lines and when those people were recruited things really started to of course progress pretty
+
+506
+00:46:35,539 --> 00:46:41,139
+dramatically. So a year later you hired Tori Hagan, Merrick Trayvert and Rod Dash. That's right. So the
+
+507
+00:46:41,139 --> 00:46:46,900
+backbone research back on the green institute all three are endowed with now. That's right. That's
+
+508
+00:46:46,900 --> 00:46:52,019
+right. That was very those were all very good decisions. Tori now is director of our healthy
+
+509
+00:46:52,019 --> 00:46:57,460
+aging program. Rod Dashwood is director of the cancer chemo protection program. Rod had been here
+
+510
+00:46:57,460 --> 00:47:05,940
+previously to work with George Bailey many many years ago and is one of the leading researchers in
+
+511
+00:47:05,940 --> 00:47:13,860
+phytochemicals and cancer in the world so that was a very important part of our research program
+
+512
+00:47:14,500 --> 00:47:20,019
+and Merrick Trayvert coming up from UC Berkeley from Lester Packers Lab. One of the world's authorities
+
+513
+00:47:20,019 --> 00:47:27,139
+on vitamin E so we thought that the combination of Tori Hagan working on agi-central micronutrients,
+
+514
+00:47:27,219 --> 00:47:34,819
+Rod working in phytochemical protection against carcinogenesis and Merrett working in
+
+515
+00:47:35,699 --> 00:47:40,900
+molecular mechanisms of vitamin E another very important physiologically antioxidant and
+
+516
+00:47:40,900 --> 00:47:48,659
+bolts fry working on vitamin C would really constitute a great attack in some of these problems
+
+517
+00:47:48,659 --> 00:48:00,259
+that had interest in my spine. I think it's probably safe to say that. I think bolts
+
+518
+00:48:00,259 --> 00:48:05,859
+impressed all of them. Of course Merrett Trayvert new bolts already from their prior association
+
+519
+00:48:05,859 --> 00:48:15,059
+at UC Berkeley but I think I think his acumen and abilities and energy and reputation as a scientist
+
+520
+00:48:15,059 --> 00:48:19,619
+were really critical in attracting these other candidates who were hired.
+
+521
+00:48:28,099 --> 00:48:33,380
+That's right. That's right. It's always been a consideration a major consideration for
+
+522
+00:48:34,659 --> 00:48:40,179
+becoming a principal investigator in the institute and being selected from the enormously
+
+523
+00:48:40,179 --> 00:48:47,299
+large pool of qualified candidates the ability to support a research program through NIH or NCI
+
+524
+00:48:47,299 --> 00:48:54,179
+funding or independent funding is can't be understated and it's absolutely critical to be
+
+525
+00:48:54,179 --> 00:49:02,419
+considered for a position like that and to achieve success in that kind of funding on a regular basis.
+
+526
+00:49:02,419 --> 00:49:08,099
+I think it speaks very well with a caliber of any candidate who's selected for that position.
+
+527
+00:49:08,579 --> 00:49:15,860
+David Williams was hired shortly. David Williams was doing very good work here in environmental
+
+528
+00:49:15,860 --> 00:49:21,059
+and molecular toxicology and also had assumed directorship of the Marine Freshwater Biomedical
+
+529
+00:49:21,059 --> 00:49:28,179
+Sciences Center so he also was very interested in phytochemical protection against Carson
+
+530
+00:49:28,179 --> 00:49:32,900
+and Genesis which fit right into the institute's mission and he's been a principal investigator
+
+531
+00:49:32,980 --> 00:49:41,860
+all this time as well. He was not recruited extremely. He was at OSU. George Bailey of course
+
+532
+00:49:41,860 --> 00:49:47,460
+continued to remain as a professor at OSU just retired a few years ago and I think we've been very
+
+533
+00:49:47,460 --> 00:49:55,700
+fortunate that none of the faculty we've recruited has left for a better job than he plays out so
+
+534
+00:49:55,700 --> 00:50:01,220
+I think it shows that the institute has become a collegial and productive home for people where
+
+535
+00:50:01,220 --> 00:50:06,580
+they feel good about their ability to carry out their research programs and like their colleagues.
+
+536
+00:50:08,260 --> 00:50:12,820
+At some point the institute changed its name from the Linus Polynesian to the Science Medicine
+
+537
+00:50:12,820 --> 00:50:19,860
+to just the Linus Polynesian to the reason why. Yeah well that's kind of the two organizations
+
+538
+00:50:19,860 --> 00:50:28,420
+overlapped so the institute as a 501c3 incorporated in the state of California was known from 1973
+
+539
+00:50:28,420 --> 00:50:35,139
+or 4 on as the Linus Polynesian Institute of Science and Medicine. The institute as it exists
+
+540
+00:50:35,139 --> 00:50:40,019
+here at Oregon State University has always been known as the Linus Polynesian Institute and is
+
+541
+00:50:40,900 --> 00:50:46,740
+was independent from the Linus Polynesian Institute of Science and Medicine. When the institute moved
+
+542
+00:50:46,740 --> 00:50:52,980
+here we transferred our as I said our financial assets physical assets and some personnel
+
+543
+00:50:53,860 --> 00:51:00,900
+to establish the Linus Polynesian Institute at Oregon State University but the Shell Organization
+
+544
+00:51:00,900 --> 00:51:06,579
+continued to be viable in the state of California for actually quite a few years after that
+
+545
+00:51:07,219 --> 00:51:12,579
+and there were a number of reasons for that. One reason was we wanted to continue to be the recipient
+
+546
+00:51:12,579 --> 00:51:17,860
+of be quests that named specifically the Linus Polynesian Institute of Science and Medicine
+
+547
+00:51:18,260 --> 00:51:26,260
+and there were a couple of be quests in the offing in which the executors and attorneys handling
+
+548
+00:51:26,260 --> 00:51:33,300
+the estate weren't sure that they could recognize Oregon State University of the Oregon State
+
+549
+00:51:33,300 --> 00:51:37,539
+University Foundation as the successor to the Linus Polynesian Institute of Science and Medicine.
+
+550
+00:51:38,340 --> 00:51:44,740
+So we thought rather than imperil any of these large be quests and there were several that
+
+551
+00:51:44,740 --> 00:51:49,620
+were quite large that it would just be best to continue that Shell Organization that could be
+
+552
+00:51:49,620 --> 00:51:54,580
+the recipient of some of these funds and be quests. There were also legal issues that needed to be
+
+553
+00:51:54,580 --> 00:52:02,020
+tied up. There was litigation with Rex E. Gerowalla about wrongful termination that needed to be
+
+554
+00:52:02,020 --> 00:52:07,860
+resolved. There was litigation continuing and litigation with the TSRAF that needed to be resolved
+
+555
+00:52:07,940 --> 00:52:18,740
+and there were, see, mainly financial and legal issues that were still dangling.
+
+556
+00:52:20,180 --> 00:52:21,380
+I didn't know that about Gerowalla.
+
+557
+00:52:23,539 --> 00:52:31,940
+Yeah, everybody in California as I might have mentioned was at will that was employment status
+
+558
+00:52:31,940 --> 00:52:36,579
+and it's very popular employment status in the state of California where you don't offer people
+
+559
+00:52:36,579 --> 00:52:41,940
+contracts. It would have been nice to offer people long-term contracts but it really was not
+
+560
+00:52:41,940 --> 00:52:50,179
+economically feasible to do that. We're prudent because the institute had no reliably safe source
+
+561
+00:52:50,179 --> 00:52:57,539
+of chronic funding. We didn't have an endowment and as you know as you're well aware the
+
+562
+00:52:57,539 --> 00:53:02,819
+income was up and down over the years. So in California there's what's known as at will employment
+
+563
+00:53:02,820 --> 00:53:10,660
+which means that you can be fired virtually anytime for no cause or you could leave at any time
+
+564
+00:53:10,660 --> 00:53:17,780
+with no notice. But it mainly benefits the employer, not the employee. And I feel terrible about
+
+565
+00:53:17,780 --> 00:53:24,100
+continuing that policy but it really there was really no way to move to any other kind of policy
+
+566
+00:53:24,100 --> 00:53:31,380
+at that time in Palo Alto. And of course the Linus Planning Institute of Science and Medicine really
+
+567
+00:53:31,380 --> 00:53:39,380
+had no absolute influence on which employees from that organization would be offered jobs
+
+568
+00:53:39,380 --> 00:53:44,019
+by Oregon State University. So the Linus Planning Institute of Science and Medicine was not making
+
+569
+00:53:44,019 --> 00:53:50,019
+job offers to its own employees to come to Corvallis to take a position. Oregon State University
+
+570
+00:53:50,019 --> 00:53:59,619
+was making those offers. So when it became clear which staff members in Palo Alto would be offered
+
+571
+00:53:59,619 --> 00:54:04,259
+jobs and which weren't offered jobs, then the people who were not going to be offered jobs.
+
+572
+00:54:04,259 --> 00:54:09,219
+Some retired, some had made a decision, some resigned made a decision that they didn't want to go
+
+573
+00:54:09,219 --> 00:54:18,179
+to Oregon anyway. And some were laid off. And Rex C. Jerawalla in turn sued the institute for
+
+574
+00:54:18,179 --> 00:54:25,299
+wrongful termination. And that was another one of these outstanding, excuse me, litigations that was
+
+575
+00:54:25,300 --> 00:54:33,140
+a reason why the institute could not go out of business right away. So there was a period of
+
+576
+00:54:33,140 --> 00:54:38,100
+overlap. There was the Linus Planning Institute here at Oregon State University and there was a
+
+577
+00:54:38,100 --> 00:54:42,260
+continuing shell organization in California, the Linus Planning Institute of Science and Medicine.
+
+578
+00:54:42,900 --> 00:54:50,019
+Another reason was that we had entered into a contract with Arden and Unilever and that contract
+
+579
+00:54:50,420 --> 00:54:55,139
+with the Linus Planning Institute of Science and Medicine. So there were lots of complicated legal
+
+580
+00:54:55,139 --> 00:55:01,219
+and financial issues that all of us agreed seem to be resolved by just keeping the institute,
+
+581
+00:55:01,219 --> 00:55:06,900
+a shell organization until all these loose ends could be tied up. And then that finally was achieved
+
+582
+00:55:06,900 --> 00:55:17,380
+about 2005. 2003-2005, I can't remember the exact year but that's finally when the institute
+
+583
+00:55:17,780 --> 00:55:22,980
+went through legal dissolution and transferred remaining assets to Oregon State University Foundation.
+
+584
+00:55:23,780 --> 00:55:29,300
+So I served kind of two roles. I served continuing to serve as the chief executive officer
+
+585
+00:55:29,940 --> 00:55:36,260
+of LPSM and then also the administrative officer for LPI here at Oregon State University.
+
+586
+00:55:36,660 --> 00:55:46,580
+In 2000, one of your more interesting and successful sort of public outreach efforts to
+
+587
+00:55:46,580 --> 00:55:50,980
+micro-metry of information center came online. I wanted to talk about that a little bit.
+
+588
+00:55:50,980 --> 00:55:55,380
+One thing that's interesting and looking at it is that by that point, the institute is definitely
+
+589
+00:55:55,380 --> 00:56:00,820
+back the way from the negative claims about Lyons State. It's getting 40 kilograms as far
+
+590
+00:56:00,820 --> 00:56:06,660
+as Dr. Moore calling us. He's talking about and who is active. I'm wondering if you got
+
+591
+00:56:06,660 --> 00:56:12,260
+left sort of the conversation behind that. Sure. Well, there's never been a litmus test for
+
+592
+00:56:12,260 --> 00:56:16,500
+employment at the Linus Planning Institute even in California. And people have different
+
+593
+00:56:17,140 --> 00:56:21,700
+behavior as far as supplementation goes. There were people in California at the institute who took
+
+594
+00:56:21,700 --> 00:56:27,940
+large doses of vitamin C and vitamin E and multivitamins. There were people who didn't take supplemental
+
+595
+00:56:27,940 --> 00:56:33,940
+vitamins. So it's never been a litmus test and nobody has ever been forced to tow the party line
+
+596
+00:56:33,940 --> 00:56:38,500
+about vitamin supplements. Everybody's free to make up their own mind about what to do and what
+
+597
+00:56:38,500 --> 00:56:47,139
+to recommend and so forth. I think the scientists associated with the Linus Planning Institute that
+
+598
+00:56:47,139 --> 00:56:54,340
+came on board here in Oregon all had without fail, tremendous respect for Linus Polling.
+
+599
+00:56:55,140 --> 00:57:01,300
+But probably as good scientists were a little skeptical of the enormous mega doses that
+
+600
+00:57:01,300 --> 00:57:08,340
+Polling advocated and therefore weren't comfortable in recommending these kinds of doses
+
+601
+00:57:08,340 --> 00:57:14,579
+themselves because they either hadn't done the research to convince them that the magnitude of
+
+602
+00:57:14,579 --> 00:57:22,100
+these doses was warranted in each and every case or you know that's my guess is they just weren't
+
+603
+00:57:22,099 --> 00:57:27,940
+familiar with a lot of Polling's arguments about this. So the Micronutrient Information Center
+
+604
+00:57:28,900 --> 00:57:36,819
+came about in the year 2000. I think partly as a result of conversations at early retreats
+
+605
+00:57:37,619 --> 00:57:43,219
+and also feedback from the scientific advisory board about the institute being a resource for
+
+606
+00:57:44,420 --> 00:57:50,339
+peer-reviewed scientifically accurate and updated information on the role of micronutrients
+
+607
+00:57:50,340 --> 00:57:56,260
+including vitamins and minerals and phytochemicals and dietary constituents in preventing disease,
+
+608
+00:57:56,260 --> 00:58:03,140
+treating disease when applicable and also in attaining optimum health. We had an idea somewhat
+
+609
+00:58:03,140 --> 00:58:09,059
+similar to this on a more limited scale back in California where we had talked about becoming a
+
+610
+00:58:09,059 --> 00:58:15,940
+resource for a worldwide resource for vitamin C information specifically because we had some
+
+611
+00:58:15,940 --> 00:58:23,940
+expertise in vitamin C obviously through Linus Polling and other staff members and we had talked
+
+612
+00:58:23,940 --> 00:58:29,220
+about that if there was some way to to become a resource for that kind of information and again
+
+613
+00:58:29,220 --> 00:58:35,700
+this was before the the internet had really taken off so it would have required hiring people with
+
+614
+00:58:35,700 --> 00:58:40,900
+more knowledge about nutrition and molecular biology and the intersection between nutrition and
+
+615
+00:58:40,900 --> 00:58:47,780
+molecular biology and medicine and we just didn't have the funds to do that at that time and it
+
+616
+00:58:47,780 --> 00:58:53,300
+was also probably not prudent because there was a lot of uncertainty about the future of the
+
+617
+00:58:53,300 --> 00:58:59,300
+institute so it would have been foolhardy to set up a new program only to lose it with the move
+
+618
+00:58:59,300 --> 00:59:03,700
+of the institute to a new location or the liquidation of the institute or something like that so we
+
+619
+00:59:03,700 --> 00:59:10,820
+never acted on that dream at that time but then this kind of resurfaced in a broader sense
+
+620
+00:59:11,780 --> 00:59:16,420
+before the year 2000 and the idea then of course the internet had really taken off to make
+
+621
+00:59:16,420 --> 00:59:25,380
+this an electronic electronically accessible database and we started thinking about who would be
+
+622
+00:59:25,380 --> 00:59:30,660
+appropriate to set up and manage such a database and we felt somebody with a PhD in nutrition
+
+623
+00:59:31,380 --> 00:59:37,620
+or in molecular biology related to nutrition and somebody with some computer skills would be
+
+624
+00:59:37,619 --> 00:59:43,699
+required to do this so at that time Jane Higden had just gotten a PhD in nutrition from
+
+625
+00:59:44,339 --> 00:59:50,659
+Oregon State University and was not interested in pursuing a career in experimental science
+
+626
+00:59:50,659 --> 00:59:57,059
+wasn't really interested in securing a tenure track position in academia but was interested in
+
+627
+00:59:57,059 --> 01:00:02,739
+staying in the scientific realm so she applied for that position and she was perfectly suited for it
+
+628
+01:00:02,739 --> 01:00:07,139
+she had had experience as a nurse in New York City I think she got a nursing degree from
+
+629
+01:00:07,139 --> 01:00:12,099
+PACE University and had gotten an undergraduate degree in biology from Stanford so she was
+
+630
+01:00:12,099 --> 01:00:18,900
+quite smart and had great experience and was willing to take on this task of setting up our
+
+631
+01:00:18,900 --> 01:00:24,339
+Migrant Community Information Center and we also hired somebody to work with her who could do the
+
+632
+01:00:25,940 --> 01:00:29,539
+initial computer work and software that was required to get this up and running
+
+633
+01:00:30,500 --> 01:00:39,059
+excuse me so the two of them collaborated on this and over the years it's developed into quite
+
+634
+01:00:39,059 --> 01:00:42,259
+an astonishing resource and to the extent that
+
+635
+01:00:47,059 --> 01:00:51,539
+when we thought about updating Pauling's book Had a Live Longer and Feel Better and this is
+
+636
+01:00:51,539 --> 01:00:56,739
+something that Paulie himself had pursued back in the 80s and he'd signed a contract with Brian
+
+637
+01:00:56,740 --> 01:01:00,820
+Lieberwitz as a matter of fact to work on an update of how to live longer feel better but
+
+638
+01:01:01,300 --> 01:01:05,940
+I think they had a disagreement about the strategy there in the scope of the work and that
+
+639
+01:01:06,580 --> 01:01:12,260
+really came to not but Linus Point Jr. and I were very interested in getting a new addition
+
+640
+01:01:12,260 --> 01:01:16,660
+of how to live longer and feel better published and we talked to a number of people that we thought
+
+641
+01:01:16,660 --> 01:01:23,460
+would be good candidates including Gladys Block we wanted somebody who was sympathetic to Pauling's
+
+642
+01:01:23,460 --> 01:01:28,980
+ideas and orthomolecular medicine but also extremely knowledgeable and kept up with the literature
+
+643
+01:01:28,980 --> 01:01:36,420
+and so forth to find someone to do that who already has a productive research career is really
+
+644
+01:01:36,420 --> 01:01:43,300
+difficult and we weren't able to locate anyone to carry out that work and then with the advent of
+
+645
+01:01:43,300 --> 01:01:50,579
+our Migrant Community Information Center it occurred to me that that was really an electronic update
+
+646
+01:01:50,579 --> 01:01:55,299
+of Pauling's book because now we were continuing to stay abreast of all the research information
+
+647
+01:01:56,420 --> 01:02:04,659
+in orthomolecular medicine and instead of compiling it into a book it was online so we decided
+
+648
+01:02:04,659 --> 01:02:10,019
+when the prospect of publishing an anniversary edition of How to Live Long and Feel Better came up
+
+649
+01:02:10,819 --> 01:02:14,099
+and I approached Oregon State University Press about that
+
+650
+01:02:14,579 --> 01:02:24,500
+we decided to keep the book intact add back some illustrations and other work that had been
+
+651
+01:02:24,500 --> 01:02:29,699
+deleted because when the book went from trade paper back sides on nice paper to
+
+652
+01:02:30,900 --> 01:02:36,579
+mass market paper back sides on coarse paper some of the resolution of the type was lost and
+
+653
+01:02:36,579 --> 01:02:40,900
+some of the illustrations just weren't appropriate so they were deleted from that mass market paper
+
+654
+01:02:41,860 --> 01:02:48,740
+we wanted to bring those back and decided that the best way of doing this new edition of the book
+
+655
+01:02:48,740 --> 01:02:54,500
+which would be the 20th anniversary edition would be to have a new forward written and afterward
+
+656
+01:02:55,380 --> 01:03:01,300
+kind of put the work in context with on the basis of new research that had been done since the book
+
+657
+01:03:01,300 --> 01:03:08,420
+was first published in 1986 and also makes some judicious annotations where people at Pauling
+
+658
+01:03:08,420 --> 01:03:13,460
+refers to for instance in the present tense who have died maybe indicate that the people have died
+
+659
+01:03:13,460 --> 01:03:20,180
+or if the RDAs changed maybe indicate why the RDAs changed or the UL and things like that so
+
+660
+01:03:20,900 --> 01:03:25,780
+we really limited to tinkering with the text to annotations and then providing some more text at
+
+661
+01:03:25,780 --> 01:03:31,619
+the beginning and end of the book and then directing people in the afterward to visit the
+
+662
+01:03:31,619 --> 01:03:35,860
+Micronutrient Information Center because that really provides an update of how to live longer and
+
+663
+01:03:35,860 --> 01:03:45,780
+feel better and over the years as the number of chapters grew in that Micronutrient Information Center
+
+664
+01:03:45,780 --> 01:03:53,460
+and it became and was always widely accessible through search engines it's becoming enormously
+
+665
+01:03:53,460 --> 01:04:00,900
+popular so recently it's been getting on on the order of 20 to 25 million hits per year
+
+666
+01:04:01,780 --> 01:04:06,980
+and most of those of course are not local they're all over the country all over the world
+
+667
+01:04:07,780 --> 01:04:15,139
+and it's been a terrific resource for people to use in consulting with their physicians about
+
+668
+01:04:15,139 --> 01:04:20,820
+health problems or to find out more about the biochemical or physiological action of some of these
+
+669
+01:04:20,820 --> 01:04:26,099
+important Micronutrients the emphasis in the Micronutrient Information Center has always been on
+
+670
+01:04:26,099 --> 01:04:32,980
+human health so we will revert to discussing cell culture or animal studies when there
+
+671
+01:04:32,980 --> 01:04:38,179
+doesn't seem to be much human data available but the focus is really on humans because humans are
+
+672
+01:04:38,179 --> 01:04:42,019
+the ones that are reading this they're the ones that are interested in applying this information to
+
+673
+01:04:42,019 --> 01:04:48,819
+their own health and that's been the focus and the information that has been written by Jane Higdon
+
+674
+01:04:49,539 --> 01:04:55,380
+and she was succeeded by Dr. Victoria Drake and now we have another person working with Victoria
+
+675
+01:04:55,380 --> 01:05:02,980
+Drake on the Micronutrient Information Center on Johnna Angelo all the articles that they
+
+676
+01:05:02,980 --> 01:05:08,900
+write are sent out to leading experts in the field for peer review and then they're periodically
+
+677
+01:05:08,900 --> 01:05:15,460
+updated as well to take into account new information new studies that might cause the institute to
+
+678
+01:05:15,460 --> 01:05:20,340
+modify its recommendations so the end of each of these chapters ends with a line is applying
+
+679
+01:05:20,340 --> 01:05:27,700
+recommendation and in many cases it's very similar to or the same as the DRIs that the food
+
+680
+01:05:27,700 --> 01:05:32,820
+nutrition board publishes in some cases it's different and in the case of vitamin C for instance
+
+681
+01:05:32,820 --> 01:05:38,900
+it's different we don't recommend the enormous quantities that line is applying recommended
+
+682
+01:05:39,460 --> 01:05:46,820
+in part because pharmacokinetic studies and molecular studies have revealed that the amount of
+
+683
+01:05:46,820 --> 01:05:54,100
+vitamin C absorbed from the gut into the bloodstream is limited by the sodium vitamin C transporters
+
+684
+01:05:54,100 --> 01:05:58,340
+which are relatively newly discovered they hadn't been discovered by the time Pauline died
+
+685
+01:05:59,700 --> 01:06:06,660
+but they are known now and it explains why only a fraction of a very small dose of vitamin C gets
+
+686
+01:06:06,660 --> 01:06:11,380
+from the gut into the bloodstream it's limited it's controlled by these vitamin C transporters so
+
+687
+01:06:11,380 --> 01:06:17,140
+it just doesn't diffuse you know against a gradient or something it really is limited
+
+688
+01:06:18,180 --> 01:06:24,660
+so practically speaking and biochemically it doesn't make sense to take a huge dose of vitamin C
+
+689
+01:06:24,660 --> 01:06:32,820
+because only a small fraction of that will be absorbed so we decided on the basis of meta-analyses
+
+690
+01:06:32,820 --> 01:06:39,460
+on basis of biochemical epidemiological studies that it's important to keep blood levels of
+
+691
+01:06:39,460 --> 01:06:47,139
+vitamin C very high that produce not really saturation but very high concentrations in circulating
+
+692
+01:06:47,139 --> 01:06:52,260
+cells in the blood and also cells in different tissues because vitamin C is very important and non-toxic
+
+693
+01:06:53,059 --> 01:07:01,539
+so we recommend now to get at least 400 milligrams a day so by saying at least 400 milligrams a day
+
+694
+01:07:01,539 --> 01:07:07,139
+we recognize that it's important to get much more than what the RDA is for instance
+
+695
+01:07:07,139 --> 01:07:10,980
+and we also recognize implicitly the safety of high dose vitamin C
+
+696
+01:07:13,059 --> 01:07:18,420
+so we don't specifically recommend many grams a day but we recognize also that high dose
+
+697
+01:07:18,420 --> 01:07:24,500
+vitamin C is very safe as a matter of fact the UL which is the upper tolerable upper level of intake
+
+698
+01:07:24,500 --> 01:07:33,779
+for vitamin C was established in 2000 at 2000 milligrams per day based solely on the transient
+
+699
+01:07:33,780 --> 01:07:39,380
+laxative effect of higher doses in some people which is really not a serious side effect
+
+700
+01:07:40,660 --> 01:07:43,540
+it's not really pathological or toxic
+
+701
+01:07:45,460 --> 01:07:52,740
+is the argument in favor of intravenous vitamin C in the possible therapeutic procedure that
+
+702
+01:07:52,740 --> 01:07:58,980
+does that still have a question? Well actually that's been greatly reinvigorated by some of these
+
+703
+01:07:58,980 --> 01:08:04,740
+pharmacokinetic studies after the Mayo Clinic studies as we discussed there was kind of a dismissal
+
+704
+01:08:04,740 --> 01:08:09,780
+of vitamin C the utility of vitamin C as a therapeutic agent in cancer and a lot of oncologists and
+
+705
+01:08:09,780 --> 01:08:16,420
+physicians became very uninterested in vitamin C this pedestrian molecule it's already been studied
+
+706
+01:08:16,420 --> 01:08:22,819
+by the Mayo Clinic it's failed so therefore it's time to move on however pharmacokinetic studies
+
+707
+01:08:22,819 --> 01:08:29,380
+that really demonstrated very clearly in these transport studies in molecular biology
+
+708
+01:08:34,739 --> 01:08:35,699
+something might throw
+
+709
+01:08:38,899 --> 01:08:44,420
+showed that when you give vitamin C intravenously you get much higher concentrations in the blood
+
+710
+01:08:44,420 --> 01:08:50,579
+than you do when you take it orally in depending upon the dose given intravenously you can end up
+
+711
+01:08:50,579 --> 01:08:55,859
+with millimolar concentrations in the blood when you take vitamin C orally it's tough to get
+
+712
+01:08:55,859 --> 01:09:02,180
+above about 200 micromole per liter in the blood concentration so millimolar you're talking about
+
+713
+01:09:02,180 --> 01:09:08,899
+70 or 100 times greater concentration of vitamin C when given intravenously and that led people
+
+714
+01:09:08,899 --> 01:09:16,260
+conducting these pharmacokinetic studies to think more carefully about why Cameron's work with
+
+715
+01:09:16,260 --> 01:09:21,780
+Pauline was so successful in Scotland and why the Mayo Clinic's work in Minnesota failed
+
+716
+01:09:22,500 --> 01:09:29,539
+and it's pretty clear that these these high levels of vitamin C exhibit cytotoxicity selective
+
+717
+01:09:29,539 --> 01:09:35,380
+cytotoxicity against tumor cells and this has been shown in cell culture experiments for many many
+
+718
+01:09:35,380 --> 01:09:40,820
+many years and even in the early 1980s Pauline himself published with Japanese colleagues
+
+719
+01:09:41,779 --> 01:09:48,979
+a paper showing that vitamin C had cytotoxicity against tumor cells in culture
+
+720
+01:09:49,859 --> 01:09:55,699
+and that this was completely nullified by the addition of catalysts to the culture medium
+
+721
+01:09:55,699 --> 01:10:00,979
+and catalysts of course quenches hydrogen peroxide so they surmise that the cytotoxicity was due
+
+722
+01:10:00,979 --> 01:10:06,739
+to vitamin C acting as a prooxenant and generating hydrogen peroxide which was then killing tumor cells
+
+723
+01:10:07,219 --> 01:10:13,779
+so this very mechanism was then rediscovered many years later and shown to occur when you get
+
+724
+01:10:13,779 --> 01:10:18,659
+these pharmacological concentrations of vitamin C in the blood when given intravenously
+
+725
+01:10:18,659 --> 01:10:23,699
+it starts generating hydrogen peroxide which attacks tumor cells and it seems to be very selective
+
+726
+01:10:23,699 --> 01:10:28,340
+either normal cells are protected by endogenous antioxidants or some other protective mechanism
+
+727
+01:10:28,340 --> 01:10:35,219
+as it play and that led to renewed interest in the prospect of using high dose IV vitamin C
+
+728
+01:10:35,940 --> 01:10:42,100
+as a junk of therapy and cancer and there have been many many anecdotal studies published case
+
+729
+01:10:42,100 --> 01:10:49,140
+histories published and a couple of phase one clinical trials published as well so I think there's
+
+730
+01:10:49,140 --> 01:10:54,180
+quite a lot of interest now but there are also quite a lot of issues that need to be much more
+
+731
+01:10:54,180 --> 01:11:00,579
+fully characterized for instance which types of human cancer are most sensitive to these high
+
+732
+01:11:00,579 --> 01:11:07,380
+concentrations of vitamin C which patients are the best candidates for high dose vitamin C at what
+
+733
+01:11:07,380 --> 01:11:17,220
+stage of cancer can vitamin C be given with chemotherapy drugs in a synergistic manner would
+
+734
+01:11:17,220 --> 01:11:23,300
+vitamin C negate the effect of some types of chemotherapy drugs should it be used in connection with
+
+735
+01:11:23,300 --> 01:11:30,420
+radiotherapy and what would be the optimum protocol for administration of vitamin C
+
+736
+01:11:32,100 --> 01:11:38,500
+for instance Cameron with his terminally old patient population these people were hospitalized
+
+737
+01:11:38,500 --> 01:11:44,980
+waiting to die so he could give continuous slow drip intravenous vitamin C high dose vitamin C
+
+738
+01:11:45,779 --> 01:11:52,900
+hour after hour day after day so retrospectively you're thinking about this and thinking that
+
+739
+01:11:53,300 --> 01:11:58,739
+hydrogen peroxide must have been rather continuously generated and rather continuously
+
+740
+01:11:58,739 --> 01:12:06,180
+attacking these tumor cells in vivo for many patients now who get high dose IV vitamin C it's given
+
+741
+01:12:06,180 --> 01:12:13,140
+in a periodic fashion two or three times a week very high doses so hydrogen peroxide is being
+
+742
+01:12:13,140 --> 01:12:20,180
+generated transiently and then after four to six hours the level of vitamin C in the blood is
+
+743
+01:12:20,180 --> 01:12:26,980
+right back at baseline no more hydrogen peroxide generation presumably so those kinds of issues whether
+
+744
+01:12:26,980 --> 01:12:33,860
+it's okay to have periodic generation of hydrogen peroxide through what kind of intermittent IV
+
+745
+01:12:33,860 --> 01:12:39,060
+vitamin C use or whether this continuous generation of hydrogen peroxide is more effective all these
+
+746
+01:12:39,060 --> 01:12:45,860
+issues are very nuanced and difficult and I think have to be really thoroughly characterized before
+
+747
+01:12:45,859 --> 01:12:53,539
+we'll really understand the merits of vitamin C against cancer but there are people that are
+
+748
+01:12:53,539 --> 01:13:01,299
+actively working in that area and they recognize all these issues. In 2001 the institute hosts its
+
+749
+01:13:01,299 --> 01:13:06,339
+first diet and not coming to the health conference and that also came with the first LPI advice for
+
+750
+01:13:06,339 --> 01:13:11,779
+the health research which is a $50,000 prize pretty remarkable time around for an organization that
+
+751
+01:13:11,939 --> 01:13:17,460
+is continuing on the treatment going out of business in 15 years before. Really amazing turnaround and
+
+752
+01:13:18,579 --> 01:13:24,099
+part of that has to do with I think Rick Hicks cultivation of donors over the years by always
+
+753
+01:13:24,099 --> 01:13:29,859
+putting information about bequest and playing gifts in the periodic newsletter that went out to
+
+754
+01:13:29,859 --> 01:13:37,619
+our constituents so people were aware from the mid-70s on and named the institute in their wills
+
+755
+01:13:37,619 --> 01:13:45,220
+and those bequest that came in very irregularly and unpredictably to the institute allowed us to
+
+756
+01:13:45,220 --> 01:13:50,659
+do really wonderful things including a doubt endowing new faculty positions within the institute
+
+757
+01:13:51,779 --> 01:13:56,180
+convening things like the diet and optimum health conference and giving that prize for health
+
+758
+01:13:56,180 --> 01:14:03,220
+research and also the fact that the cost of doing business here at Oregon State was much less
+
+759
+01:14:03,220 --> 01:14:08,820
+because we weren't having to pay rent any longer we weren't having to pay people to
+
+760
+01:14:09,699 --> 01:14:15,619
+participate in a large fundraising program or pay a controller bookkeeper and so forth so
+
+761
+01:14:15,619 --> 01:14:21,460
+a lot of the activities that had to be supported as an independent organization did not have to be
+
+762
+01:14:21,460 --> 01:14:28,659
+supported in this context of Oregon State University so costs were down and therefore the bequest
+
+763
+01:14:28,819 --> 01:14:33,220
+and the money that was coming in could be could be applied towards growth of the institute
+
+764
+01:14:34,180 --> 01:14:40,819
+instead of just merely sustaining the institute. Also in 2001 Jill Beckman arrived at the institute
+
+765
+01:14:41,699 --> 01:14:47,139
+talking a little bit about the background behind that and the fact that he is working ALS into
+
+766
+01:14:47,139 --> 01:14:51,779
+sort of open up a different angle of research for the institute. That's right there always been
+
+767
+01:14:52,500 --> 01:14:56,260
+interest of course in neurodegenerative diseases at the institute and
+
+768
+01:14:56,739 --> 01:15:02,820
+we were looking for a candidate who could open up that new area of research and
+
+769
+01:15:03,699 --> 01:15:08,980
+Jill Beckman was one who applied and he'd done some really outstanding work on molecular work on
+
+770
+01:15:09,539 --> 01:15:13,940
+ALS in Birmingham Alabama at the University of Alabama
+
+771
+01:15:14,980 --> 01:15:20,500
+showing that Paroxy nitrite is a very interesting destructive molecule that is generated
+
+772
+01:15:20,899 --> 01:15:29,460
+through the evolution of nitric oxide in the body very damaging molecule so his work really appealed
+
+773
+01:15:29,460 --> 01:15:35,619
+to us reactive nitrogen species was kind of a new avenue of research reactive oxygen species work
+
+774
+01:15:35,619 --> 01:15:41,060
+of course have been undertaken by many people all around the world for many years including some
+
+775
+01:15:41,060 --> 01:15:47,699
+at LPI but reactive nitrogen species was kind of a new a new facet of this that would be very
+
+776
+01:15:47,699 --> 01:15:57,139
+interesting pursue and he was given the Aether Helen Pauline in dad position because we thought it
+
+777
+01:15:57,139 --> 01:16:02,739
+would be would be nice to honor Linus Pauline's wife with another with the second in dad position
+
+778
+01:16:04,019 --> 01:16:10,420
+and at that time we had the money thanks to Bequest in order to do that and also some of the money
+
+779
+01:16:10,420 --> 01:16:16,979
+that came into the institute at that time was not just from Bequest but also from legal actions
+
+780
+01:16:17,779 --> 01:16:21,699
+as an example when the insurance companies refused to
+
+781
+01:16:24,260 --> 01:16:27,139
+reimburse us for legal expenses during the raffle litigation
+
+782
+01:16:29,139 --> 01:16:34,739
+I decided to sue the insurance companies because they weren't honoring our claims
+
+783
+01:16:35,619 --> 01:16:41,619
+and they made up reasons why you know they couldn't honor the claims but nevertheless are
+
+784
+01:16:43,460 --> 01:16:47,300
+commercial liability and directors and officers insurance I thought would apply
+
+785
+01:16:47,380 --> 01:16:51,380
+and I was shocked that they refused to honor these claims so we decided to sue them
+
+786
+01:16:52,180 --> 01:16:56,820
+and that was settled before going to trial and that resulted in quite a large amount of money
+
+787
+01:16:56,820 --> 01:17:02,420
+coming to the institute as well so we had money coming in from a number of different avenues that
+
+788
+01:17:02,420 --> 01:17:10,500
+allowed us to adopt these positions. Just a couple more questions we talked about the principal
+
+789
+01:17:10,500 --> 01:17:15,539
+investigators and balls and when it did any of the folks that have been made their figures in the last
+
+790
+01:17:15,539 --> 01:17:24,899
+10 years or so we're trying to have the institute. Well I think clearly the people who were
+
+791
+01:17:24,899 --> 01:17:31,779
+operating the research office were have been very important because balls probably reports
+
+792
+01:17:31,779 --> 01:17:37,939
+to the head of the research office and the money that are available through returned overhead
+
+793
+01:17:37,939 --> 01:17:43,699
+and through the research office have been very important to the institute over the years
+
+794
+01:17:45,539 --> 01:17:52,420
+the deans and departmental chairs have also been extraordinarily important because when candidates
+
+795
+01:17:53,380 --> 01:17:58,579
+are being interviewed and reviewed for a faculty position within the institute as a principal
+
+796
+01:17:58,579 --> 01:18:03,300
+investigator at the institute they have to have an academic home as well which means that the
+
+797
+01:18:04,260 --> 01:18:11,859
+chairperson of the appropriate academic unit and his or her colleagues and faculty members have
+
+798
+01:18:11,859 --> 01:18:16,259
+to vote on whether or not this candidate will fit into their department so it's a very
+
+799
+01:18:18,099 --> 01:18:23,139
+convoluted and entwined process of selecting someone for the institute and for
+
+800
+01:18:24,099 --> 01:18:28,099
+an academic department so all the departmental heads have been quite important as well.
+
+801
+01:18:29,699 --> 01:18:37,299
+That was your job change over time. Well my job has changed in so far as I obviously am no
+
+802
+01:18:37,300 --> 01:18:42,100
+longer the chief executive officer of the Linus Pong Institute of Science and Medicine which was
+
+803
+01:18:42,100 --> 01:18:47,460
+kind of a parallel track for me and once that was finally legally dissolved and I didn't have to
+
+804
+01:18:48,420 --> 01:18:55,220
+think about that any longer and basically could focus on my responsibilities as administrative
+
+805
+01:18:55,220 --> 01:19:01,779
+officer for the institute and from the when we first moved here I took over editor ship of the
+
+806
+01:19:01,779 --> 01:19:06,900
+newsletter because we recognized that the newsletter continued to be an important educational
+
+807
+01:19:06,900 --> 01:19:14,420
+tool and fundraising tool for the institute and I thought I could do it and Don read thought I
+
+808
+01:19:14,420 --> 01:19:22,100
+could do it so I just started to do that unilaterally and that's been a lot of fun. We have historically
+
+809
+01:19:22,100 --> 01:19:30,260
+given out pilot project grants to fund initial research by people doing work related to the
+
+810
+01:19:30,260 --> 01:19:36,420
+institute of the mission in order to allow them to obtain enough data to apply for larger
+
+811
+01:19:36,420 --> 01:19:42,739
+more sustaining grants from say NCI or NIH and the work that they've done has always been reported
+
+812
+01:19:42,739 --> 01:19:49,140
+in the newsletter so talking to those people getting asking them for articles for the newsletter
+
+813
+01:19:49,140 --> 01:19:54,579
+editing those articles trying to translate that information from a very technical
+
+814
+01:19:56,659 --> 01:20:01,460
+language to language that's a little more friendly to the casual reader has been a lot of my
+
+815
+01:20:01,460 --> 01:20:09,619
+responsibility and then of course pursuing this option of a new building for the institute
+
+816
+01:20:09,619 --> 01:20:14,980
+it's been something that balls Ryan I've been working on right from the beginning very diligently
+
+817
+01:20:14,980 --> 01:20:20,420
+and then when the funding finally came together for that even before the funding came together
+
+818
+01:20:20,420 --> 01:20:25,220
+we spent quite a lot of time talking to architects and visiting buildings and so forth trying to
+
+819
+01:20:25,220 --> 01:20:32,180
+get a clearer idea of what it was we wanted and also to provide us with material that could be
+
+820
+01:20:32,180 --> 01:20:38,579
+shown to prospective donors so we wanted to have a good idea of what the institute could look like
+
+821
+01:20:38,579 --> 01:20:46,020
+what the new building could look like and have something that we could show to people a visual
+
+822
+01:20:46,020 --> 01:20:50,900
+representation of this model or something like that so he and I worked very closely on
+
+823
+01:20:51,620 --> 01:20:58,580
+on all that work and I became a member of the steering committee for the Linus Pong Science Center
+
+824
+01:20:58,580 --> 01:21:03,460
+so I'd say for the last couple of years two or three years I've been working very intensively
+
+825
+01:21:04,260 --> 01:21:10,020
+with user groups trying to identify issues that needed to be incorporated into the design and
+
+826
+01:21:10,020 --> 01:21:17,620
+given to the architects to design our building and also there's always been a bit of a fundraising
+
+827
+01:21:17,619 --> 01:21:23,059
+component to my position as well because I have such a long history with the institute and I know
+
+828
+01:21:23,059 --> 01:21:30,180
+about a lot of our past activities and I knew Linus Pong pretty well I'm often asked by our fundraiser
+
+829
+01:21:30,180 --> 01:21:36,019
+or other groups the Rudry Club, Blinds Club, different groups here at Oregon State University
+
+830
+01:21:37,059 --> 01:21:42,260
+and elsewhere to give talks on Pong and Orthomolecular Medicine or to provide
+
+831
+01:21:43,060 --> 01:21:50,180
+overviews of the research that's going on at the institute now and I rather often in two or
+
+832
+01:21:50,180 --> 01:21:56,579
+three times a year travel to scientific or medical conferences to make presentations on Pong and
+
+833
+01:21:56,579 --> 01:22:02,980
+Orthomolecular Medicine and to give those kinds of updates. My last set of questions is about the
+
+834
+01:22:02,980 --> 01:22:11,460
+building and opened this last September more or less and you obviously involved in that process
+
+835
+01:22:15,060 --> 01:22:20,740
+well it's just such a terrific change from the institute. One of her as I said was completely
+
+836
+01:22:20,740 --> 01:22:27,300
+satisfactory in the early days for the institute but as the institute grew we became very fragmented
+
+837
+01:22:27,300 --> 01:22:32,740
+because we had faculty in different buildings all over campus and it became less and less
+
+838
+01:22:32,739 --> 01:22:39,859
+likely to interact with fellow faculty who were part of the institute and of course I think that
+
+839
+01:22:39,859 --> 01:22:48,579
+decreases the collegiality and also diminishes the prospect for good meaningful scientific interactions
+
+840
+01:22:48,579 --> 01:22:53,619
+on a frequent basis that could generate new ideas and make progress in research projects.
+
+841
+01:22:54,819 --> 01:23:01,460
+So the new building has allowed almost all the institute principal investigators to be housed
+
+842
+01:23:01,460 --> 01:23:07,300
+together now. Joe Beckman is still in ALS but it's just a stone's throw from the Linus Pong
+
+843
+01:23:07,300 --> 01:23:12,739
+Science Center which is next to Nash which is the building that sits between ALS and the Linus Pong
+
+844
+01:23:12,739 --> 01:23:17,699
+Science Center so he's still physically very close to the institute although not part of the building
+
+845
+01:23:17,699 --> 01:23:29,619
+itself and being in a very spacious well lit modern building with open lab space and modular space
+
+846
+01:23:29,619 --> 01:23:36,579
+that's quite flexible is just such a such a wonderful inspiration for everyone and the interaction
+
+847
+01:23:36,579 --> 01:23:42,019
+with your colleagues now is dramatically increased as well because all the offices are aligned along
+
+848
+01:23:42,019 --> 01:23:48,819
+the north wall on the third floor and the fourth floor and there's an open atrium kind of a cathedral
+
+849
+01:23:48,819 --> 01:23:55,300
+less environment between the third and fourth floor a staircase in the middle there allows people
+
+850
+01:23:55,300 --> 01:24:00,659
+to get from one floor to the other so there's just this feeling of openness and integration that
+
+851
+01:24:00,659 --> 01:24:14,579
+is really wonderful. Well the next set of priorities I think are to expand and develop our
+
+852
+01:24:14,579 --> 01:24:20,500
+Micronutrient Information Center and also work on a new program in our outreach which is called
+
+853
+01:24:20,500 --> 01:24:28,659
+the Healthy Youth Program which is trying to introduce the concepts of good nutrition and lifestyle
+
+854
+01:24:28,659 --> 01:24:35,699
+among elementary school children and middle school children so that kids can get good ideas about
+
+855
+01:24:35,699 --> 01:24:42,819
+how to stay healthy when they're young in terms of exercise and eating well and also we still have
+
+856
+01:24:42,819 --> 01:24:50,180
+the ability to recruit more faculty for a healthy aging program. Once we recruit more faculty
+
+857
+01:24:50,180 --> 01:24:57,300
+for a healthy aging program I think we'll be saturated with respect to four principal investigators
+
+858
+01:24:57,300 --> 01:25:06,420
+per area having labs in the Linus Pong Institute. Well that's the end of my questions are there any
+
+859
+01:25:06,420 --> 01:25:10,180
+things that we didn't cover that come to mine off hand that we should talk about as far as
+
+860
+01:25:10,180 --> 01:25:21,140
+we can. Probably but I can't think of anything off hand so let me think about that.
+

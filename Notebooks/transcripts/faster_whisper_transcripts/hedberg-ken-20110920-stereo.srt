@@ -1,0 +1,4816 @@
+1
+00:00:00,000 --> 00:00:09,000
+Okay, so we are recording now, and it was like last time, real briefly, just state
+
+2
+00:00:09,000 --> 00:00:10,000
+your name and date.
+
+3
+00:00:10,000 --> 00:00:15,000
+Yeah, my name is Kenneth Hadberg, and what else you want?
+
+4
+00:00:15,000 --> 00:00:17,000
+Date, date.
+
+5
+00:00:17,000 --> 00:00:18,000
+Date, today?
+
+6
+00:00:18,000 --> 00:00:19,000
+Yeah.
+
+7
+00:00:19,000 --> 00:00:24,000
+Oh, and this is September 20th, 2011.
+
+8
+00:00:24,000 --> 00:00:29,000
+So we left off last time, you had just made the switch over to there and she made here,
+
+9
+00:00:29,000 --> 00:00:31,000
+and that you were starting your research with him.
+
+10
+00:00:31,000 --> 00:00:36,000
+I wanted to tell us about how that happened, how you met she made here.
+
+11
+00:00:36,000 --> 00:00:37,000
+Yeah.
+
+12
+00:00:37,000 --> 00:00:38,000
+I started out on that subject.
+
+13
+00:00:38,000 --> 00:00:42,000
+This was at Caltech.
+
+14
+00:00:42,000 --> 00:00:45,000
+I can't remember whether I mentioned it.
+
+15
+00:00:45,000 --> 00:00:47,000
+I spent a year working with gardener Swain.
+
+16
+00:00:47,000 --> 00:00:48,000
+I think I did that.
+
+17
+00:00:49,000 --> 00:00:57,000
+Well, at the end of that time, I interviewed Werder Schimmaker, who might pass them
+
+18
+00:00:57,000 --> 00:00:59,000
+him all several times, and he had a group of people.
+
+19
+00:00:59,000 --> 00:01:02,000
+He was young, not far from my age.
+
+20
+00:01:02,000 --> 00:01:04,000
+So I went to see him.
+
+21
+00:01:04,000 --> 00:01:10,000
+We hit it off well, and I decided I would do my future work with him.
+
+22
+00:01:10,000 --> 00:01:17,000
+And I began almost immediately, and we decided we would look at
+
+23
+00:01:18,000 --> 00:01:24,000
+the number of boron compounds that we were able to...
+
+24
+00:01:24,000 --> 00:01:26,000
+We didn't make them ourselves.
+
+25
+00:01:26,000 --> 00:01:33,000
+We got them from a guy at USC, whose name I can't remember now.
+
+26
+00:01:33,000 --> 00:01:36,000
+A distinguished inorganic endless today, right?
+
+27
+00:01:36,000 --> 00:01:46,000
+And we began with DiBorane, which we measured, and were able to show conclusively that
+
+28
+00:01:47,000 --> 00:01:51,000
+it was a non-ethane-like structure.
+
+29
+00:01:51,000 --> 00:01:58,000
+It had two hydrogens up above and below the boron, boron, boron bond,
+
+30
+00:01:58,000 --> 00:02:01,000
+and the well-known bridge structure.
+
+31
+00:02:01,000 --> 00:02:13,000
+After that, we took up a number of other boron compounds, including B4H10, B5H9, B5H11,
+
+32
+00:02:14,000 --> 00:02:21,000
+and some substituted diBorane with chlorine and bromine atoms on them,
+
+33
+00:02:21,000 --> 00:02:31,000
+and also amino groups, amino diBorane, we studied all of these took place in the next few years.
+
+34
+00:02:31,000 --> 00:02:34,000
+I think some of them overlapped.
+
+35
+00:02:34,000 --> 00:02:40,000
+I was still working when some of them after I got my degree when I continued.
+
+36
+00:02:41,000 --> 00:02:47,000
+So that was an exciting time.
+
+37
+00:02:47,000 --> 00:03:02,000
+And excuse me, I finished my degree in June of 1948, and I was offered a post-doctoral position
+
+38
+00:03:03,000 --> 00:03:07,000
+and that came about in an interesting way.
+
+39
+00:03:07,000 --> 00:03:16,000
+Pauline came around one time in spring of 1947.
+
+40
+00:03:18,000 --> 00:03:23,000
+That was only, or maybe it was a fall of 1947.
+
+41
+00:03:23,000 --> 00:03:30,000
+I'd only been there for at most 18 months, and he said,
+
+42
+00:03:30,000 --> 00:03:34,000
+I think you should write up your work for a degree.
+
+43
+00:03:34,000 --> 00:03:45,000
+And I said, well, I was hoping I would be able to take another year and work that year with Professor Badger,
+
+44
+00:03:45,000 --> 00:03:52,000
+who was a distinguished spectroscopist.
+
+45
+00:03:52,000 --> 00:03:57,000
+Pauline said to me, well, he says, you write up your thesis and get a degree,
+
+46
+00:03:57,000 --> 00:04:04,000
+and see that you get a fellowship so you can spend an extra year working with Dick Badger.
+
+47
+00:04:04,000 --> 00:04:12,000
+And then he said, you know, you'll make a lot more money after you get your degree than you would before you get your degree.
+
+48
+00:04:12,000 --> 00:04:17,000
+So why not? Your studying doesn't stop at the time you get your degree.
+
+49
+00:04:17,000 --> 00:04:24,000
+So the logic of this was impeccable, and I said about writing up my work for my thesis.
+
+50
+00:04:24,000 --> 00:04:35,000
+And I'm sorry about this thought. I had the same problem last time.
+
+51
+00:04:35,000 --> 00:04:41,000
+So I finished writing up my thesis.
+
+52
+00:04:41,000 --> 00:04:52,000
+Now the troublesome aspect of this is that my supervisor, Werner Schumacher, was off on the Guggenheim Fellowship in Denmark.
+
+53
+00:04:52,000 --> 00:05:00,000
+And so the person that nominally oversaw my research was Robert Cory.
+
+54
+00:05:00,000 --> 00:05:10,000
+Robert Cory, of course, he and Pauline published a series of seven papers that ultimately led to Pauline's winning an Nobel Prize for his Alpha Helix.
+
+55
+00:05:10,000 --> 00:05:14,000
+And other things as well.
+
+56
+00:05:14,000 --> 00:05:21,000
+Anyway, Bob Cory didn't know anything about electron diffraction, but he was a very nice, friendly man.
+
+57
+00:05:21,000 --> 00:05:25,000
+And he helped me over some crucial points.
+
+58
+00:05:25,000 --> 00:05:31,000
+So I said, I'm having a lot of trouble writing this thesis, getting it all right.
+
+59
+00:05:31,000 --> 00:05:38,000
+He says, well, he says, tell me what it is you're struggling with.
+
+60
+00:05:38,000 --> 00:05:43,000
+And so I told him, he says, well, why don't you write it down?
+
+61
+00:05:43,000 --> 00:05:51,000
+So I wrote down what I had been telling him, and then edited a little bit, and that took me over home.
+
+62
+00:05:51,000 --> 00:05:58,000
+Anyway, I finally finished my thesis, and took my examination.
+
+63
+00:05:58,000 --> 00:06:01,000
+Pauline was not present in Werner. He was not present either.
+
+64
+00:06:01,000 --> 00:06:06,000
+He was still being a Denmark.
+
+65
+00:06:06,000 --> 00:06:13,000
+So, excuse me.
+
+66
+00:06:13,000 --> 00:06:25,000
+After I got my degree, I continued to work for a while on the projects that I had been working until Werner returned to Denmark.
+
+67
+00:06:25,000 --> 00:06:31,000
+And then I was sure enough I've got my degree polling returned.
+
+68
+00:06:31,000 --> 00:06:45,000
+And I received notice that I had been awarded an A.A. Noise Fellowship, which enabled me to spend a year working with Richard Badger, which I did.
+
+69
+00:06:45,000 --> 00:06:49,000
+And I learned some spectroscopy in that year.
+
+70
+00:06:49,000 --> 00:06:56,000
+But on the side, I continued my work in electron diffraction as well.
+
+71
+00:06:56,000 --> 00:07:05,000
+Well, that was a very nice year. At the end of my fellowship year, I was appointed a research fellow at Caltech.
+
+72
+00:07:05,000 --> 00:07:15,000
+And I worked on a grant that Werner Schumacher had with the Office of Naval Research.
+
+73
+00:07:15,000 --> 00:07:20,000
+At that time, the Office of Naval Research was sponsoring basic research.
+
+74
+00:07:20,000 --> 00:07:26,000
+I didn't have to have much to do with the Navy as far as I could make up.
+
+75
+00:07:26,000 --> 00:07:38,000
+So, I worked on that for a couple of years. And then in 1951, I think it was Pauline said to me,
+
+76
+00:07:38,000 --> 00:07:43,000
+oh, maybe I should go back a step.
+
+77
+00:07:43,000 --> 00:07:56,000
+During this year, a number of people showed up at Caltech from abroad, mostly post-doctoral people who were anxious to work,
+
+78
+00:07:56,000 --> 00:08:04,000
+either with Pauline or some other dignitary and Werner Schumacher.
+
+79
+00:08:04,000 --> 00:08:14,000
+And I became quite friendly with a number of these people, including a guy from Norway named Ultibus Johnson.
+
+80
+00:08:14,000 --> 00:08:25,000
+I'm getting just a little ahead of the story there, but because I decided after I'd had a couple of years that I should have a post-doctoral fellowship,
+
+81
+00:08:25,000 --> 00:08:27,000
+maybe abroad or something like that.
+
+82
+00:08:27,000 --> 00:08:32,000
+So, I decided that I would continue my work in spectroscopy.
+
+83
+00:08:32,000 --> 00:08:42,000
+And so, I filled out an application for a full-bright fellowship to Belgium.
+
+84
+00:08:42,000 --> 00:08:45,000
+There was a man there with whom I wanted to work.
+
+85
+00:08:45,000 --> 00:08:54,000
+And so, I filled this thing out, sent it all off and got back on notice and due course a few months later, something unfortunately.
+
+86
+00:08:54,000 --> 00:09:04,000
+My application had been received too late to be considered in that year's batch of full-bright fellows,
+
+87
+00:09:04,000 --> 00:09:09,000
+but they urged me to apply again for the following year.
+
+88
+00:09:09,000 --> 00:09:16,000
+Well, in the following year, my friend Ultibus Johnson, later friend,
+
+89
+00:09:16,000 --> 00:09:21,000
+Ultibus Johnson showed up from Norway and he was a specialist in electro-indifraction,
+
+90
+00:09:21,000 --> 00:09:28,000
+and I had known him not personally, but through publications.
+
+91
+00:09:28,000 --> 00:09:31,000
+And we hit it off.
+
+92
+00:09:31,000 --> 00:09:41,000
+We became very friendly with my wife and myself, and him and his wife, and he had two small daughters.
+
+93
+00:09:41,000 --> 00:09:45,000
+And so, we worked together at Caltech for a while.
+
+94
+00:09:45,000 --> 00:09:50,000
+And then, as the year drew to a close, he said,
+
+95
+00:09:50,000 --> 00:09:58,000
+why don't you apply again for a full-bright and apply this time to go to Norway instead of to Belgium?
+
+96
+00:09:58,000 --> 00:10:03,000
+I said, well, that sounds to me like it might be worthwhile.
+
+97
+00:10:03,000 --> 00:10:05,000
+Maybe I'll do that.
+
+98
+00:10:05,000 --> 00:10:10,000
+About the same time Pauline walked into my office one day and said to me,
+
+99
+00:10:10,000 --> 00:10:14,000
+I think you should apply for a Guggenheim fellowship.
+
+100
+00:10:14,000 --> 00:10:18,000
+This is how he didn't say, would you like to?
+
+101
+00:10:18,000 --> 00:10:21,000
+He said, I think you should do this.
+
+102
+00:10:21,000 --> 00:10:26,000
+Well, Pauline carried such an oral with him that when he made a suggestion,
+
+103
+00:10:26,000 --> 00:10:35,000
+you almost always followed through and decided that was a prestigious fellowship.
+
+104
+00:10:35,000 --> 00:10:39,000
+And so I thought, gulped and said, OK, well, I'll do that.
+
+105
+00:10:39,000 --> 00:10:48,000
+So I wrote out an application form, which was essentially the same proposal for research
+
+106
+00:10:48,000 --> 00:10:52,000
+that I had written to the full-bright program.
+
+107
+00:10:52,000 --> 00:10:55,000
+And I sent this off.
+
+108
+00:10:55,000 --> 00:11:01,000
+And I waited around a while, working away with Werner, not knowing what was going to happen.
+
+109
+00:11:01,000 --> 00:11:05,000
+I mean, Tom Bustjansson went back to Norway.
+
+110
+00:11:05,000 --> 00:11:13,000
+And in due course, I got a letter from the full-bright people saying that I had been awarded
+
+111
+00:11:13,000 --> 00:11:19,000
+a full-bright research fellowship to go to Norway.
+
+112
+00:11:19,000 --> 00:11:25,000
+And this paid all my living expenses and paid my transportation back and forth.
+
+113
+00:11:26,000 --> 00:11:31,000
+And then about that same time, maybe a little later, Pauline walked into my office
+
+114
+00:11:31,000 --> 00:11:36,000
+and said to me, well, are you getting ready to go to Norway?
+
+115
+00:11:36,000 --> 00:11:44,000
+And he didn't know anything about my having received the full-bright fellowship.
+
+116
+00:11:44,000 --> 00:11:48,000
+And I said, well, I didn't know I was going.
+
+117
+00:11:48,000 --> 00:11:53,000
+And I think I may have the chronology inverted here a little bit.
+
+118
+00:11:53,000 --> 00:11:58,000
+I think maybe he came in before I received notice of the full-bright fellowship.
+
+119
+00:11:58,000 --> 00:12:01,000
+That makes a little more sense in retrospect.
+
+120
+00:12:01,000 --> 00:12:03,000
+I said, I didn't know I was going.
+
+121
+00:12:03,000 --> 00:12:07,000
+He said, well, the selection committee generally follows my recommendations
+
+122
+00:12:07,000 --> 00:12:09,000
+and he turned and walked out.
+
+123
+00:12:09,000 --> 00:12:13,000
+That was a total conversation we had on the issue.
+
+124
+00:12:13,000 --> 00:12:20,000
+And a bit later, I got a letter from the good and high people saying I had been awarded a good and high fellowship to go to Norway.
+
+125
+00:12:21,000 --> 00:12:24,000
+And it was $3,500, well, now.
+
+126
+00:12:24,000 --> 00:12:30,000
+And then the full-bright notice occurred and there I had gone from where I had no support,
+
+127
+00:12:30,000 --> 00:12:37,000
+where I had two rather well-endowed fellowships for the same period.
+
+128
+00:12:37,000 --> 00:12:40,000
+So I thought, well, you know, I have to let them know.
+
+129
+00:12:40,000 --> 00:12:46,000
+So I rolled off to the good and high people, said I'd also been awarded a full-bright fellowship research fellowship.
+
+130
+00:12:46,000 --> 00:12:54,000
+They said, the good and high money was given to me irrespective of whatever other awards or monies I had.
+
+131
+00:12:54,000 --> 00:12:56,000
+Well, I felt pretty good about that.
+
+132
+00:12:56,000 --> 00:13:00,000
+So, well, of course, I set the same letter to the full-bright people.
+
+133
+00:13:00,000 --> 00:13:13,000
+And they wrote back after a while and said, we normally subtract money from additional grants, from the full-bright grant.
+
+134
+00:13:13,000 --> 00:13:25,000
+But that, the amount of money that you have from the other source should be enough to support you for the full period of your time before we will take any action on this.
+
+135
+00:13:25,000 --> 00:13:34,000
+And they said, we have determined that the $3,500, this is in 1942, that went a long way then.
+
+136
+00:13:34,000 --> 00:13:41,000
+That $3,500 is not enough to support you in Norway for a full 12 months.
+
+137
+00:13:41,000 --> 00:13:46,000
+So we will not subtract it from the amount that we give you for the full-bright grant.
+
+138
+00:13:46,000 --> 00:13:55,000
+Well, the full-bright grant was the equivalent of a little more money than that actually.
+
+139
+00:13:55,000 --> 00:14:00,000
+I can't remember what it was in Croner.
+
+140
+00:14:00,000 --> 00:14:07,000
+I think it was 4,200 Croner a month, and there was $7 Croner to the dollar then.
+
+141
+00:14:07,000 --> 00:14:10,000
+So that was about $600 a month.
+
+142
+00:14:10,000 --> 00:14:12,000
+So that went in $75,000.
+
+143
+00:14:12,000 --> 00:14:17,000
+And almost 10,000 bucks in those days were big bucks.
+
+144
+00:14:17,000 --> 00:14:26,000
+Well, at this time, my first wife decided that she met somebody she preferred to me, and so she left me, and I had all this money.
+
+145
+00:14:26,000 --> 00:14:32,000
+I was going to go to Norway with as a single person.
+
+146
+00:14:32,000 --> 00:14:43,000
+So I booked passage on Mauritania, and I traveled across the country, visited a couple of laboratories.
+
+147
+00:14:43,000 --> 00:14:50,000
+I went to Oak Ridge and visited some friends there, went on to New York, sent my luggage on ahead,
+
+148
+00:14:50,000 --> 00:14:56,000
+and due course, I embarked on the Mauritania, which took me to Southampton.
+
+149
+00:14:56,000 --> 00:15:05,000
+And I spent a few days in England, and then I set sail again on another ship to Norway.
+
+150
+00:15:06,000 --> 00:15:13,000
+And when I arrived there, this was an origin ship liner.
+
+151
+00:15:13,000 --> 00:15:20,000
+I was met at the pier by my friend, Ultima Stilinson, and the number of other people that I had met there.
+
+152
+00:15:20,000 --> 00:15:32,000
+I didn't mention that I had been to Norway once before, after I had met Boston, so I went to an international meeting in Stockholm.
+
+153
+00:15:33,000 --> 00:15:39,000
+And on the way back, I stopped, so I'll buy and shadowed it in a little bit about what we were going to do.
+
+154
+00:15:39,000 --> 00:15:47,000
+And we had a big party. That was a fine party. I can still remember it.
+
+155
+00:15:47,000 --> 00:15:55,000
+I don't know whether I should go into the details there, but anyway, that was a great party.
+
+156
+00:15:55,000 --> 00:16:02,000
+So he and his friends and collaborators in the laboratory met me at the boat.
+
+157
+00:16:02,000 --> 00:16:07,000
+And they had been looking for a place for me to live.
+
+158
+00:16:07,000 --> 00:16:16,000
+This was in Norway in 1950, the October of 1952, first of October.
+
+159
+00:16:17,000 --> 00:16:25,000
+And it was after the war, and Norway hadn't really begun to recover very much then.
+
+160
+00:16:25,000 --> 00:16:32,000
+So they told me that they had found an apartment, and they were ashamed to say it was terribly expensive.
+
+161
+00:16:32,000 --> 00:16:39,000
+But they thought it might suit me pretty well, because it was very close to shopping.
+
+162
+00:16:40,000 --> 00:16:43,000
+I had a...
+
+163
+00:16:43,000 --> 00:16:48,000
+Oh, let me call it a district, anyway. I called my use to it.
+
+164
+00:16:48,000 --> 00:16:56,000
+And I had a fine apartment there, and it was owned by an English woman who had been separated or divorced from her husband.
+
+165
+00:16:56,000 --> 00:17:05,000
+And she'd gotten this apartment. She was going back to England, where she came from originally, and was going to run it out for a year.
+
+166
+00:17:05,000 --> 00:17:16,000
+And it cost, my friends told me, the sum of much over price was 150 crore a month. That's $20.
+
+167
+00:17:16,000 --> 00:17:26,000
+Now 150 crore, remember, my first check was 4,200 crore, and that paid my rent for the entire month.
+
+168
+00:17:27,000 --> 00:17:33,000
+And so anyway, I moved into this place, which was furnished.
+
+169
+00:17:33,000 --> 00:17:42,000
+It had a kind of a couch or a bed, but it was perfectly satisfactory and had a kitchen, a bath, and all of that.
+
+170
+00:17:42,000 --> 00:17:51,000
+Kind of a studio arrangement, within walking, the easy walking distance of the university, up on the hill.
+
+171
+00:17:52,000 --> 00:18:01,000
+So I lived there, and I had determined before I left that I was going to learn the language.
+
+172
+00:18:01,000 --> 00:18:11,000
+And my friends, Boss Johnson, had been talking to the cultural attaché at the embassy, and to the people in charge of the full-by program.
+
+173
+00:18:11,000 --> 00:18:19,000
+And they had managed to find me a set of records, called, and those that are no longer existent, I think,
+
+174
+00:18:19,000 --> 00:18:27,000
+extent to, called, lingual phone records, and they got me, they were 78s, and they got me an old record player.
+
+175
+00:18:27,000 --> 00:18:32,000
+A friend had one of those, and so I could play these records on them, and they could hear the sound.
+
+176
+00:18:32,000 --> 00:18:40,000
+Along with these records came a book, and this book had a picture on it, and it had the text that was spoken.
+
+177
+00:18:40,000 --> 00:18:49,000
+So the idea was that you put the record on, and the first lesson, of course, was almost obvious.
+
+178
+00:18:49,000 --> 00:18:53,000
+The words were ones that you could transliterate from English, you know.
+
+179
+00:18:53,000 --> 00:19:05,000
+So very slowly the words were spoken on this page, and you could see the picture of what it was describing on the facing page.
+
+180
+00:19:05,000 --> 00:19:26,000
+And so I would look at this, and the spoken word would come to you, and then there would be a pause, and you were supposed to repeat after this, mimicking the accent, but tonality as closely as you could.
+
+181
+00:19:26,000 --> 00:19:38,000
+And so this, I later came to admire these records very much, because at the same time you saw the written language, you heard it spoken, and you had to speak it.
+
+182
+00:19:38,000 --> 00:19:43,000
+And there was no translation except in the picture.
+
+183
+00:19:43,000 --> 00:19:54,000
+And believe it or not, this happened in 52, I can still recite lesson 1, 2, 3, almost by heart, because after you had gone through this thing,
+
+184
+00:19:54,000 --> 00:20:06,000
+there was another section where they were asked, you were asked the question relating to this, and you had to respond to that.
+
+185
+00:20:06,000 --> 00:20:19,000
+You see, it was quite remarkable, and an example of this, the first sentence was describing the picture is,
+
+186
+00:20:19,000 --> 00:20:27,000
+now you can almost say what that, no origin is a language which has almost the same word order as English.
+
+187
+00:20:27,000 --> 00:20:35,000
+And that the odd means this is, and this is the family handsome in this picture.
+
+188
+00:20:35,000 --> 00:20:45,000
+And then there's a bestifier, sit there, e in, li in a stool, grandfather is sitting in a walking chair.
+
+189
+00:20:45,000 --> 00:20:53,000
+And you could see that, if you know, at the bottom it says bestifier, it says grandfather is here, look in the picture, and there's an old man, you know, the beard.
+
+190
+00:20:53,000 --> 00:21:04,000
+And he's sitting, sit there, you know, that right away, in e in, and li in a stool, you already learn that stool is chair, and li in, it means rocker.
+
+191
+00:21:04,000 --> 00:21:14,000
+Anyway, that's just an example. And I went through, every day I came back from the university, I would sit down, I would study, it's amazing.
+
+192
+00:21:14,000 --> 00:21:24,000
+These things only played for three minutes if you played them through. It took me an hour to an hour and a half to get through a single lesson doing everything they wanted me to do.
+
+193
+00:21:24,000 --> 00:21:38,000
+And in the morning I would go up to the university and I would, my friends saw, you know, they knew I was doing this, and I could recite the whole lesson to them, which caused proxisms of laughter.
+
+194
+00:21:38,000 --> 00:21:52,000
+One of my friends said, the guy, there were several voices, as the lessons went on, the first was a man who had a, he was an Norwegian, but he was a rector of the university at that time.
+
+195
+00:21:52,000 --> 00:22:00,000
+And my friends swore they could hear his voice speaking when I spoke to them, having mimicked his accent.
+
+196
+00:22:00,000 --> 00:22:13,000
+Well anyhow, when I first went up to the laboratory to meet Paul Stehonson in the work environment, and we talked, we knew what we were going to do here.
+
+197
+00:22:13,000 --> 00:22:31,000
+He introduced me to his laboratory assistant, whose name was Lisa Smith-Ick, and he said, she's only been working with the three months, but I think you two should work together because I am an administrative duties I'm occupied with also.
+
+198
+00:22:31,000 --> 00:23:00,000
+So we engaged in this project, and Lisa and I worked on it together. Well, when I was introduced to her, I was ever so impressed because, of course, I was introduced in English on the first day or two, and she spoke to me in English, and we had a conversation and I later asked, well, have you spent any time in, what did you learn your English? She said, well, I learned it in school, I said, haven't you been to England or the States? Oh no, no, she says, I've never been in an English-speaking country.
+
+199
+00:23:00,000 --> 00:23:10,000
+It impressed me so much, and this is true all these people, you know, you'd walk in, they've never been out of the country they can talk to you in your language.
+
+200
+00:23:10,000 --> 00:23:14,000
+Which of us can do that here? It's almost impossible.
+
+201
+00:23:14,000 --> 00:23:34,000
+Anyway, we worked together for two or three days, and then I, very interested in music, and the also Philharmonic, played downtown, and I got on the tram one time, went down to the town.
+
+202
+00:23:34,000 --> 00:23:45,000
+Oh, I think, oh, in the first few days I was there, I decided I needed to have my own car.
+
+203
+00:23:45,000 --> 00:23:52,000
+There were very few cars, and also at that time, my use to it today is one of the busiest places in town.
+
+204
+00:23:52,000 --> 00:24:00,000
+I mean, it's bumper to bumper getting through there. When I lived there, it was rarely a car, and they were all pre-war things.
+
+205
+00:24:00,000 --> 00:24:10,000
+The country was so destitute, of so devoid of money that cars were very, very hard to come by.
+
+206
+00:24:10,000 --> 00:24:20,000
+But anyway, I could buy a car, there were agencies there, but I had to pay for it in the foreign currency, and I had to agree to sell it.
+
+207
+00:24:20,000 --> 00:24:28,000
+I mean, I had to agree to export the car.
+
+208
+00:24:28,000 --> 00:24:38,000
+It had a special license plate on it, indicated it had a Q number on it, which means owned by a foreigner, and means you didn't buy tax.
+
+209
+00:24:38,000 --> 00:24:46,000
+So the upside of all this was that if I sold the car in the country at the end, tax would have to be paid on it at that stage.
+
+210
+00:24:46,000 --> 00:24:55,000
+So I bought this car. So I drove the downtown to go to the symphony here a few weeks later.
+
+211
+00:24:55,000 --> 00:25:02,000
+And as I walked in, they're still picking up her ticket as I was picking up mine.
+
+212
+00:25:02,000 --> 00:25:11,000
+So we sat together, enjoyed the symphony, and afterward I asked her if she'd like to have a after concert snack.
+
+213
+00:25:11,000 --> 00:25:20,000
+And so we went to a restaurant of famous place called Blooms that is still there, and we had a big cheese spread and had a good time together.
+
+214
+00:25:20,000 --> 00:25:24,000
+And we again date regularly.
+
+215
+00:25:24,000 --> 00:25:34,000
+And the upside of all that was that after my year there, I went back to the States.
+
+216
+00:25:34,000 --> 00:25:41,000
+And there was a decent eye we're thinking of getting married.
+
+217
+00:25:41,000 --> 00:25:46,000
+And I wasn't quite ready to commit because I hadn't quite recovered from my first marriage.
+
+218
+00:25:46,000 --> 00:25:59,000
+But at any rate, I got back to the States, and then I proposed to her, and I came back the following summer, which is 54, and we were married in Oslo.
+
+219
+00:25:59,000 --> 00:26:06,000
+And that, say, 54, I guess we've now been married 57 years.
+
+220
+00:26:06,000 --> 00:26:10,000
+Anyhow, that was a romantic outcome.
+
+221
+00:26:10,000 --> 00:26:13,000
+And I got, I've often speculated about this later.
+
+222
+00:26:13,000 --> 00:26:22,000
+Suppose that full-bright application that I had applied for to Holland to Belgium had been successful.
+
+223
+00:26:22,000 --> 00:26:27,000
+My life would have been quite different from what it is now.
+
+224
+00:26:27,000 --> 00:26:31,000
+Such things, fate turns on.
+
+225
+00:26:31,000 --> 00:26:35,000
+Were there any problems with your family?
+
+226
+00:26:35,000 --> 00:26:39,000
+How do you mean marrying a fair foreigner?
+
+227
+00:26:39,000 --> 00:26:44,000
+Her mother had died a couple of years before I arrived.
+
+228
+00:26:44,000 --> 00:26:48,000
+She had a sister and a father.
+
+229
+00:26:48,000 --> 00:26:53,000
+A father worked in a bank, a personal manager of a bank.
+
+230
+00:26:53,000 --> 00:27:05,000
+And she had an aunt, the sister of her mother, that lived upstairs in the apartment building.
+
+231
+00:27:05,000 --> 00:27:12,000
+My wife's family is going back to generations as a distinguished one.
+
+232
+00:27:12,000 --> 00:27:27,000
+They came from Denmark, and my wife's great-great-grandfather was the foreign minister of Denmark.
+
+233
+00:27:27,000 --> 00:27:35,000
+And he and his, one of his siblings, founded essentially the New York Times of Denmark,
+
+234
+00:27:35,000 --> 00:27:38,000
+called Poulotique.
+
+235
+00:27:38,000 --> 00:27:42,000
+And so the family had an interest in that newspaper.
+
+236
+00:27:42,000 --> 00:27:52,000
+One of the other brothers was a distinguished newspaper, my name is Critique.
+
+237
+00:27:52,000 --> 00:27:56,000
+The name is well-known.
+
+238
+00:27:56,000 --> 00:27:59,000
+It's called Brandes.
+
+239
+00:27:59,000 --> 00:28:03,000
+You can find books written about the Brandes family in Denmark.
+
+240
+00:28:03,000 --> 00:28:10,000
+It's a great-great-grandfather and great-great-great uncle.
+
+241
+00:28:10,000 --> 00:28:16,000
+So anyway, Elisa's mother stemmed from this group,
+
+242
+00:28:16,000 --> 00:28:20,000
+as did her aunt upstairs, who became kind of a surrogate mother to her,
+
+243
+00:28:20,000 --> 00:28:24,000
+after her own mother died.
+
+244
+00:28:24,000 --> 00:28:31,000
+So we came back, Elisa's father.
+
+245
+00:28:31,000 --> 00:28:34,000
+I enjoyed him a lot.
+
+246
+00:28:34,000 --> 00:28:36,000
+He was very taciturn.
+
+247
+00:28:36,000 --> 00:28:42,000
+Some Norwegians don't say very much, but I think he was pleased that I could speak to him in his language.
+
+248
+00:28:42,000 --> 00:28:44,000
+He didn't know.
+
+249
+00:28:44,000 --> 00:28:50,000
+He could speak a few words in some words of English, but he wasn't as comfortable in it.
+
+250
+00:28:51,000 --> 00:28:56,000
+So we hit it off very well.
+
+251
+00:28:56,000 --> 00:29:04,000
+And Elisa's aunt too, she was a nutrition type person.
+
+252
+00:29:04,000 --> 00:29:09,000
+She had beautiful furniture and paintings and so on.
+
+253
+00:29:09,000 --> 00:29:15,000
+And her husband was a distinguished Norwegian scholar and so on.
+
+254
+00:29:15,000 --> 00:29:19,000
+Very wealthy.
+
+255
+00:29:19,000 --> 00:29:27,000
+And this family, Elisa's aunt, uncle, and her cousin, to whom she is still very close.
+
+256
+00:29:27,000 --> 00:29:29,000
+We see them quite often.
+
+257
+00:29:29,000 --> 00:29:32,000
+They have a lot of fancy stuff.
+
+258
+00:29:32,000 --> 00:29:35,000
+They have paintings by Toulouse with track.
+
+259
+00:29:35,000 --> 00:29:45,000
+And they have munk originals, Edward munk, watercolors and lithographs and so on in their house.
+
+260
+00:29:45,000 --> 00:29:48,000
+That was just something on the wall.
+
+261
+00:29:48,000 --> 00:29:53,000
+I was pretty impressed by all that.
+
+262
+00:29:53,000 --> 00:29:57,000
+So after we were married, I...
+
+263
+00:29:57,000 --> 00:30:00,000
+Do you have a Norwegian lady?
+
+264
+00:30:00,000 --> 00:30:04,000
+No, we married in the city hall in Norway.
+
+265
+00:30:04,000 --> 00:30:07,000
+You haven't been in Norway, have you?
+
+266
+00:30:07,000 --> 00:30:12,000
+No, well, they have an absolutely beautiful city hall.
+
+267
+00:30:12,000 --> 00:30:27,000
+And it's got marvelous paintings around that huge murals on the wall that depict the development and evolution of the Norwegian nation.
+
+268
+00:30:27,000 --> 00:30:35,000
+And outside they have some carved, huge carved wooden figures from North mythology.
+
+269
+00:30:35,000 --> 00:30:41,000
+Wooden is there on his eight-legged horse with two ravens ahead, all in wood you can see up there.
+
+270
+00:30:41,000 --> 00:30:44,000
+So no, we were married.
+
+271
+00:30:44,000 --> 00:30:50,000
+These had a reinstall license before I arrived and we were married in this office.
+
+272
+00:30:50,000 --> 00:30:55,000
+It was a civil wedding.
+
+273
+00:30:55,000 --> 00:31:10,000
+I'm not sure, but I think, as far as I know, a lot of the Norwegian weddings are done in that fashion, at least of the generation that Lisa stems from.
+
+274
+00:31:11,000 --> 00:31:19,000
+So after we were married, we fussed around a while because we had to get a visa for her.
+
+275
+00:31:19,000 --> 00:31:27,000
+And that's a story which irritates me still.
+
+276
+00:31:27,000 --> 00:31:31,000
+So we applied for a visa down at the embassy.
+
+277
+00:31:31,000 --> 00:31:39,000
+And the embassy is very worried that there are foreigners that want to marry American citizens simply to get into the country.
+
+278
+00:31:39,000 --> 00:31:43,000
+And you have to jump through a whole bunch of hoops.
+
+279
+00:31:43,000 --> 00:31:49,000
+And time went on, one wait, turned it two, turned into three, and so on.
+
+280
+00:31:49,000 --> 00:31:55,000
+And no word, no word at all.
+
+281
+00:31:55,000 --> 00:32:02,000
+And so I finally wrote to a friend of mine that I had met at Caltech and then was working as a scientist working in Washington.
+
+282
+00:32:02,000 --> 00:32:05,000
+And I explained the situation to him.
+
+283
+00:32:05,000 --> 00:32:17,000
+And he pulled some strings and discovered that the application was sitting on the desk someplace in a pile of papers and they were working through and they would get to it.
+
+284
+00:32:17,000 --> 00:32:31,000
+So I virtually blew my top at this because here I am sitting in Oslo and not getting paid because I'm not working waiting for some secretary to clear my application for the visa.
+
+285
+00:32:32,000 --> 00:32:38,000
+So I wrote to my congressman in Pasadena.
+
+286
+00:32:38,000 --> 00:32:48,000
+And he wrote back on the other dismissal, dismissive letters saying we have to make absolutely certain that these marriages are not marriages of convenience.
+
+287
+00:32:48,000 --> 00:32:52,000
+And you can imagine how I felt about it.
+
+288
+00:32:52,000 --> 00:32:56,000
+He was a conservative Republican.
+
+289
+00:32:56,000 --> 00:33:05,000
+I probably turned him into a Democrat forever, but anyhow, eventually we got the visa.
+
+290
+00:33:05,000 --> 00:33:12,000
+We got on the plane, flew to Washington, spent a night there, then went on the Pasadena.
+
+291
+00:33:12,000 --> 00:33:18,000
+And my wife was very tired at this time and discouraged.
+
+292
+00:33:18,000 --> 00:33:27,000
+And when Norway had beautiful atmospheric conditions, you could breathe deeply and the sky was clear.
+
+293
+00:33:27,000 --> 00:33:39,000
+And we landed in a heavy smog time in LA and she later says she felt like getting right back on the next plane and going home without experience.
+
+294
+00:33:39,000 --> 00:33:56,000
+So we stayed there and I went back to work at Caltech as a senior research fellow now and continued until I learned about the job at Oregon State.
+
+295
+00:33:56,000 --> 00:34:00,000
+Now, shall I go on to that?
+
+296
+00:34:00,000 --> 00:34:03,000
+No, I have more questions about Caltech.
+
+297
+00:34:03,000 --> 00:34:06,000
+I'll take a little bit more in this.
+
+298
+00:34:06,000 --> 00:34:15,000
+So it sounds to me like the first experience you have that trust was with Schumaker?
+
+299
+00:34:15,000 --> 00:34:18,000
+No, it was Dick Badger.
+
+300
+00:34:18,000 --> 00:34:23,000
+I did a lecture on the fraction with Schumaker, which is a different technique.
+
+301
+00:34:23,000 --> 00:34:27,000
+Some people call it an electron spectroscopy, but it is not.
+
+302
+00:34:27,000 --> 00:34:32,000
+I'm sorry?
+
+303
+00:34:32,000 --> 00:34:36,000
+Can it be bundled under the heading of crystallography or is that a separate discipline?
+
+304
+00:34:36,000 --> 00:34:42,000
+It's a separate discipline, but it's similar to the crystallography in the sense that you measure a diffraction pattern.
+
+305
+00:34:42,000 --> 00:34:56,000
+The diffraction patterns are very, very different because I'm looking at molecules on the gas and x-ray diffraction looks at molecules and is in a crystal or at least in a condensed phase.
+
+306
+00:34:56,000 --> 00:35:00,000
+So how would you classify your discipline in the view?
+
+307
+00:35:00,000 --> 00:35:03,000
+Well, how do you mean classify it?
+
+308
+00:35:03,000 --> 00:35:08,000
+It's a technique for studying the sizes and shapes of individual molecules.
+
+309
+00:35:08,000 --> 00:35:15,000
+So would you call yourself a physical chemistry with infrastructure or chemistry?
+
+310
+00:35:15,000 --> 00:35:20,000
+So I guess I'm wondering at what point did you decide this is something you want to pursue?
+
+311
+00:35:20,000 --> 00:35:22,000
+Oh, I see.
+
+312
+00:35:22,000 --> 00:35:35,000
+Well, when I was at Caltech, as I say, I started doing organic reaction mechanisms for a year, then I did electron diffraction.
+
+313
+00:35:35,000 --> 00:35:45,000
+And in the course of this, I did some crystal structure with two other people.
+
+314
+00:35:45,000 --> 00:35:52,000
+And then I did spectroscopy with Dick Badger, so I had four different experiences there.
+
+315
+00:35:52,000 --> 00:36:03,000
+Now, this is a little unusual because at this institution, it's rare that a student works for more than one person in the course of getting his or her degree.
+
+316
+00:36:03,000 --> 00:36:09,000
+Usually you pick a supervisor and you work on his projects and write up a thesis and you're out of here.
+
+317
+00:36:09,000 --> 00:36:19,000
+But I worked and in my thesis, the Badger work, of course, I was a post-cultural fellow at that time.
+
+318
+00:36:19,000 --> 00:36:28,000
+But in the course of getting my degree, I did three things and all of these things were written up in my thesis in different sections.
+
+319
+00:36:28,000 --> 00:36:44,000
+That's a little unusual. Probably a little unusual for Caltech, too, in that people often do two different things, but three with three different people is quite different.
+
+320
+00:36:44,000 --> 00:36:57,000
+I don't know whether I mentioned that crystal structure was very interesting. It had to do with a compound arsenal benzene, which has a formula
+
+321
+00:36:57,000 --> 00:37:05,000
+that I can describe verbally as two benzene rings and two arsenic atoms.
+
+322
+00:37:05,000 --> 00:37:17,000
+It was generally thought that the benzene rings are hooked to the arsenic atoms and two arsenic atoms are joined together by a double bond, as we say in the language.
+
+323
+00:37:17,000 --> 00:37:28,000
+But it was pretty well understood at that time that arsenic doesn't like to form double bonds very readily, and particularly with a compound like this,
+
+324
+00:37:28,000 --> 00:37:34,000
+there's no opportunity, for example, no oxygen, so round to form double bonds.
+
+325
+00:37:34,000 --> 00:37:42,000
+So it was widely thought to be a dimer the one I described, just two units hooked together.
+
+326
+00:37:42,000 --> 00:37:57,000
+But we suspected that wasn't true, and so when we looked at it, we found that there actually was a six-member ring of arsenic atoms with these benzene rings flopping off, one off of each arsenic atom.
+
+327
+00:37:57,000 --> 00:38:03,000
+So it was a hexamer, really, and a very nice molecule.
+
+328
+00:38:03,000 --> 00:38:16,000
+The interesting thing about this is, many years later, I got a photocopy and a large photocopy, which I still have.
+
+329
+00:38:16,000 --> 00:38:22,000
+This is before Euro became the official currency of Europe.
+
+330
+00:38:22,000 --> 00:38:27,000
+I have a 200-mark German banknote.
+
+331
+00:38:27,000 --> 00:38:30,000
+Now 200 marks was a big bucks in those days.
+
+332
+00:38:30,000 --> 00:38:43,000
+And on it is a picture, a man who is responsible for discovering the first arsenicles in use for treating syphilis in particular.
+
+333
+00:38:44,000 --> 00:39:08,000
+Well, one of the arsenicles used was I gather was our senomenzine, because on this banknote our paper is actually cited with the three authors and the date, which happens to be wrong, but at any rate it's on the face of this banknote.
+
+334
+00:39:08,000 --> 00:39:12,000
+I thought that was lots of fun.
+
+335
+00:39:12,000 --> 00:39:19,000
+So, anyway, that's what I did at Caltech.
+
+336
+00:39:19,000 --> 00:39:22,000
+And I call myself a structure chemist.
+
+337
+00:39:22,000 --> 00:39:36,000
+So the thing that led me into electron diffraction was, you have to realize, this was 50 odd years ago now, it was kind of a cutting-edge technology.
+
+338
+00:39:36,000 --> 00:39:53,000
+It was the best way, everything considered, of determining the sizes and shapes and motions of individual molecules that are unaffected by the presence of others.
+
+339
+00:39:53,000 --> 00:39:58,000
+This was a crystal structure, of course, of molecules that are all packed together.
+
+340
+00:39:58,000 --> 00:40:07,000
+And the other technique that works also on the same phase is microinspectroscopy.
+
+341
+00:40:07,000 --> 00:40:16,000
+But in order for microinspectroscopy to succeed, molecule has to have a dipole moment and a lot of them don't.
+
+342
+00:40:16,000 --> 00:40:26,000
+Our senomenzine, for example, would not have, so you can't study a lot of things, but we can study anything we can get into the gas phase, select on the fraction.
+
+343
+00:40:26,000 --> 00:40:40,000
+So, I decided I would continue with that work, because I like what I was doing with Schumaker at Caltech, and that's what got me started.
+
+344
+00:40:40,000 --> 00:40:49,000
+So you've been seeing Schumaker and Cori, I'm interested in knowing a little bit more about what they were like, because their personalities were like a few centimeters socially.
+
+345
+00:40:49,000 --> 00:41:09,000
+Well, I can tell you, well Schumaker, in my way of thinking he was a brilliant scientist, but not aggressive in the sense that he pushed like a lot of people.
+
+346
+00:41:09,000 --> 00:41:21,000
+You know, in science, it isn't always enough to have talent.
+
+347
+00:41:21,000 --> 00:41:33,000
+You have to be a salesman as well, and people like Linus Pauling, he is a tremendous salesman because he had a personality that took in the whole room.
+
+348
+00:41:33,000 --> 00:41:40,000
+So his, and yet a sense of humor in his lectures were very, very heavily attended.
+
+349
+00:41:40,000 --> 00:41:52,000
+People had come from miles around to hear him, and I've heard him lecture to packed halls in several foreign countries.
+
+350
+00:41:52,000 --> 00:42:00,000
+For other people, who are distinguished also, but have a very tiring personality.
+
+351
+00:42:00,000 --> 00:42:10,000
+And some of these are one noble prizes, you know, but they don't have a public acclaim that a person like Pauling does
+
+352
+00:42:10,000 --> 00:42:21,000
+or Ahmed Surwel knows from contact. And these guys sell themselves, you know, and there are other people too.
+
+353
+00:42:21,000 --> 00:42:31,000
+So Schumaker was a brilliant scientist and a very critical thinker.
+
+354
+00:42:31,000 --> 00:42:34,000
+He was amazing in that respect.
+
+355
+00:42:34,000 --> 00:42:42,000
+He was so highly regarded that Pauling used to come down and bounce his ideas off of Schumaker.
+
+356
+00:42:42,000 --> 00:42:46,000
+He would come into the office, you know, and talk to Schumaker and say,
+
+357
+00:42:46,000 --> 00:42:51,000
+Werner, what do you think of this? And he would describe something.
+
+358
+00:42:51,000 --> 00:43:02,000
+And other people, the organic chemists from the Third Floor of Caltech,
+
+359
+00:43:02,000 --> 00:43:11,000
+names are getting harder for me to come by quickly, would come down, talk to him about various problems they had.
+
+360
+00:43:11,000 --> 00:43:18,000
+And he was like a bulldog. He couldn't let go of a problem. He would analyze it, turn it around upside down,
+
+361
+00:43:18,000 --> 00:43:24,000
+and if this, that, et cetera, et cetera. These people would sit and listen very carefully to him.
+
+362
+00:43:24,000 --> 00:43:34,000
+So that's the kind of guy he was. He also, we went hiking in the Sierra backpacking together.
+
+363
+00:43:34,000 --> 00:43:39,000
+We became close personal friends, as well as my, me being his student.
+
+364
+00:43:39,000 --> 00:43:45,000
+So we did hikes in the high Sierra's on a couple of occasions.
+
+365
+00:43:45,000 --> 00:43:54,000
+I used to go every summer for, anyway, one to two weeks backpacking in the high Sierra.
+
+366
+00:43:54,000 --> 00:44:02,000
+So we would do that. And he was eager and interested in that.
+
+367
+00:44:02,000 --> 00:44:12,000
+There are a host of interesting events, but you see, I'm not quite sure how much of this I should go into,
+
+368
+00:44:12,000 --> 00:44:20,000
+but let me talk about Cori. Cori was a, he was a very nice man.
+
+369
+00:44:20,000 --> 00:44:29,000
+And he helped me a great deal when Schumacher wasn't there in that last year when I was writing up my thesis.
+
+370
+00:44:29,000 --> 00:44:36,000
+And he was a crystallographer.
+
+371
+00:44:36,000 --> 00:44:44,000
+And I don't remember the details, so I won't try to recite them, but I've read them.
+
+372
+00:44:44,000 --> 00:44:58,000
+You can get them. The Caltech archives tell all about polling, encountering Cori and inviting him to come to Caltech.
+
+373
+00:44:58,000 --> 00:45:04,000
+So at any rate, he suffered from some kind of a nervous disorder.
+
+374
+00:45:04,000 --> 00:45:14,000
+It was not Parkinson's in that he had some ticks that would cause his whole arm to move a little bit.
+
+375
+00:45:14,000 --> 00:45:23,000
+And when he walked, he walked sometimes with a little bit of motion.
+
+376
+00:45:23,000 --> 00:45:29,000
+And I'm not quite sure what it was, but that was not evident in the speech when you talked to him.
+
+377
+00:45:29,000 --> 00:45:37,000
+And when he was sitting down, you didn't see any Parkinson's like motion at all for me.
+
+378
+00:45:37,000 --> 00:45:42,000
+But he would come to see me, and I could see him in a time I wanted.
+
+379
+00:45:42,000 --> 00:45:49,000
+He was responsible for a very large, excuse me, laboratory.
+
+380
+00:45:49,000 --> 00:46:04,000
+He was headed up by a guy who was making compounds of the sort that polling was interested in that played a role ultimately in his formulation of the Alpha helix.
+
+381
+00:46:04,000 --> 00:46:14,000
+So I don't know much more about him than just that.
+
+382
+00:46:14,000 --> 00:46:22,000
+To this day, I'm very grateful for what he did for me in the time of Schimmick's absence.
+
+383
+00:46:22,000 --> 00:46:24,000
+Do you know Dan Campbell?
+
+384
+00:46:24,000 --> 00:46:29,000
+Yes. Dan was a very nice guy too and he had a very nice wife.
+
+385
+00:46:29,000 --> 00:46:39,000
+I knew Dan Campbell quite well because there was a very free social order at Caltech.
+
+386
+00:46:39,000 --> 00:46:44,000
+All kinds of parties with the students, postdocs and the faculty.
+
+387
+00:46:44,000 --> 00:46:51,000
+You have a student party, you know, and everybody would be invited and Dick Badger would show up with his wife and Dan and his wife would show up.
+
+388
+00:46:51,000 --> 00:46:54,000
+And others as well.
+
+389
+00:46:54,000 --> 00:46:59,000
+Polling didn't come to these parties as far as I know.
+
+390
+00:46:59,000 --> 00:47:08,000
+I don't remember ever seeing him there, but I do remember a number of them in which people from physics can Dick Feynman showed up in a number of these.
+
+391
+00:47:08,000 --> 00:47:13,000
+I heard Feynman play his bongo drums at these parties.
+
+392
+00:47:13,000 --> 00:47:18,000
+So Campbell was a nice guy.
+
+393
+00:47:18,000 --> 00:47:22,000
+He had a medical problem which was solved.
+
+394
+00:47:22,000 --> 00:47:28,000
+He had colon cancer and they removed a large tumor from his colon.
+
+395
+00:47:28,000 --> 00:47:33,000
+But I don't think he ever suffered a recurrence of that.
+
+396
+00:47:33,000 --> 00:47:42,000
+He was what was called an immunochemus and that was something that Polling was interested in at the time and immunochemus straight.
+
+397
+00:47:42,000 --> 00:47:47,000
+So does that answer your question about what I knew about Campbell?
+
+398
+00:47:47,000 --> 00:47:50,000
+Did you ever buy any chance to eat Roger Hayward?
+
+399
+00:47:50,000 --> 00:47:51,000
+Yes.
+
+400
+00:47:51,000 --> 00:47:52,000
+No.
+
+401
+00:47:52,000 --> 00:47:54,000
+But only in passing.
+
+402
+00:47:54,000 --> 00:47:58,000
+Roger Hayward of course was illustrating Polling books for him.
+
+403
+00:47:58,000 --> 00:48:05,000
+And he had a number of beautiful figures in various books.
+
+404
+00:48:05,000 --> 00:48:07,000
+But only in passing.
+
+405
+00:48:07,000 --> 00:48:08,000
+I just met him.
+
+406
+00:48:08,000 --> 00:48:11,000
+I had never had a chance to talk with him.
+
+407
+00:48:11,000 --> 00:48:12,000
+We have Hayward's papers.
+
+408
+00:48:12,000 --> 00:48:14,000
+We also have the papers of Jack Demitz.
+
+409
+00:48:14,000 --> 00:48:15,000
+Well do you?
+
+410
+00:48:15,000 --> 00:48:16,000
+Yes.
+
+411
+00:48:16,000 --> 00:48:17,000
+Yeah, I guess you told me that last time.
+
+412
+00:48:17,000 --> 00:48:20,000
+I'm interested in knowing a little bit more about Jack with it.
+
+413
+00:48:20,000 --> 00:48:24,000
+And then the person and also why is he important among scientists?
+
+414
+00:48:24,000 --> 00:48:25,000
+Oh.
+
+415
+00:48:26,000 --> 00:48:31,000
+Well, I didn't talk about Jack before.
+
+416
+00:48:31,000 --> 00:48:32,000
+Did I?
+
+417
+00:48:32,000 --> 00:48:34,000
+No.
+
+418
+00:48:34,000 --> 00:48:41,000
+Jack became a very honest to this day, a very good friend of mine.
+
+419
+00:48:41,000 --> 00:48:51,000
+He showed up after getting his degree in Scotland with Jim Robertson.
+
+420
+00:48:51,000 --> 00:48:53,000
+And he came to Caltech.
+
+421
+00:48:53,000 --> 00:48:56,000
+And in the British system, you know, when you study for a PhD,
+
+422
+00:48:56,000 --> 00:48:58,000
+you do your undergraduate work.
+
+423
+00:48:58,000 --> 00:49:00,000
+You study for a PhD.
+
+424
+00:49:00,000 --> 00:49:06,000
+But my understanding is you don't do much coursework from that point on.
+
+425
+00:49:06,000 --> 00:49:10,000
+So Jack attended lectures at Caltech.
+
+426
+00:49:10,000 --> 00:49:17,000
+You see, on subjects that he had an interest in that he had not been exposed to before.
+
+427
+00:49:17,000 --> 00:49:21,000
+But we worked together a little bit.
+
+428
+00:49:21,000 --> 00:49:24,000
+We published a paper together.
+
+429
+00:49:24,000 --> 00:49:31,000
+And Jack has an absolutely incredible sense of humor.
+
+430
+00:49:31,000 --> 00:49:35,000
+And he could do, I don't know.
+
+431
+00:49:35,000 --> 00:49:37,000
+He's not a pushy guy.
+
+432
+00:49:37,000 --> 00:49:40,000
+It's kind of a laid back life sense of humor, you know.
+
+433
+00:49:40,000 --> 00:49:43,000
+But he's not a retiring individual at all.
+
+434
+00:49:43,000 --> 00:49:50,000
+He's a very social guy. He's just not a pushy social guy.
+
+435
+00:49:50,000 --> 00:49:54,000
+So he came to Caltech and he was working on crystallography,
+
+436
+00:49:54,000 --> 00:49:57,000
+on an electron diffraction.
+
+437
+00:49:57,000 --> 00:50:01,000
+And then he was joined by, I won't say he was joined,
+
+438
+00:50:01,000 --> 00:50:05,000
+but another guy came named Leslie Orgel.
+
+439
+00:50:05,000 --> 00:50:09,000
+And Jack and Leslie became very good friends.
+
+440
+00:50:09,000 --> 00:50:14,000
+Leslie, he died recently, but he was a distinguished scientist.
+
+441
+00:50:14,000 --> 00:50:26,000
+He was a theoretical chemist to begin with, but begin turned to molecular biology later on.
+
+442
+00:50:26,000 --> 00:50:33,000
+And went to the Salk Institute and had a distinguished career there.
+
+443
+00:50:33,000 --> 00:50:43,000
+Jack, when Pauline won his Nobel Prize for chemistry in 54,
+
+444
+00:50:43,000 --> 00:50:50,000
+we had a huge big, and then we put together,
+
+445
+00:50:50,000 --> 00:50:54,000
+let's call it a review in the Valleville sort of thing,
+
+446
+00:50:54,000 --> 00:50:56,000
+where there are lots of skits and songs.
+
+447
+00:50:56,000 --> 00:51:02,000
+And there was a talented fellow named Ted Herald, also from Britain,
+
+448
+00:51:02,000 --> 00:51:06,000
+who could write music and play the piano.
+
+449
+00:51:06,000 --> 00:51:10,000
+And he composed a lot of stuff.
+
+450
+00:51:10,000 --> 00:51:18,000
+And among other things that were composed were little acts for a participant
+
+451
+00:51:18,000 --> 00:51:22,000
+who would do a kind of monologue.
+
+452
+00:51:22,000 --> 00:51:25,000
+And Jack was involved in one of these.
+
+453
+00:51:25,000 --> 00:51:27,000
+That's the famous one.
+
+454
+00:51:27,000 --> 00:51:30,000
+The whole thing has been recorded.
+
+455
+00:51:30,000 --> 00:51:32,000
+You probably have a copy of it here.
+
+456
+00:51:32,000 --> 00:51:35,000
+It's called the Road to Stockholm.
+
+457
+00:51:35,000 --> 00:51:39,000
+In there, there's something where one of the individuals
+
+458
+00:51:39,000 --> 00:51:42,000
+who's sitting in his laboratory looking out the window
+
+459
+00:51:42,000 --> 00:51:49,000
+at the young girls going by in front of a cold Bunsen, as Jack puts it.
+
+460
+00:51:49,000 --> 00:51:54,000
+If you haven't heard that record, it should be put on tape or a disc
+
+461
+00:51:54,000 --> 00:52:02,000
+because it's on shellac and homemade and it tends to deteriorate.
+
+462
+00:52:02,000 --> 00:52:07,000
+So Jack participated in things like that.
+
+463
+00:52:07,000 --> 00:52:13,000
+Then a young lady came
+
+464
+00:52:13,000 --> 00:52:17,000
+and they began to go together.
+
+465
+00:52:17,000 --> 00:52:19,000
+Her name was Daphne.
+
+466
+00:52:19,000 --> 00:52:25,000
+I don't remember her last name.
+
+467
+00:52:25,000 --> 00:52:30,000
+But at any rate, they became very close and became engaged to be married.
+
+468
+00:52:30,000 --> 00:52:35,000
+She was a post-doctoral person working in biology.
+
+469
+00:52:35,000 --> 00:52:38,000
+And they had met at one of these social occasions, I guess,
+
+470
+00:52:38,000 --> 00:52:41,000
+and they were together a lot in groups,
+
+471
+00:52:41,000 --> 00:52:45,000
+and big parties, all of this were.
+
+472
+00:52:45,000 --> 00:52:51,000
+And then Jack's period, Daphne went home
+
+473
+00:52:51,000 --> 00:52:55,000
+and Jack's period at Celtic ended, and he went home.
+
+474
+00:52:55,000 --> 00:52:59,000
+And then it turned out that she had decided against the marriage
+
+475
+00:52:59,000 --> 00:53:03,000
+and broke the engagement.
+
+476
+00:53:03,000 --> 00:53:10,000
+Well, Jack at this time was working with Dorothy Hunchkin and Oxford.
+
+477
+00:53:10,000 --> 00:53:13,000
+And I was on a trip to Europe for some meeting or another.
+
+478
+00:53:13,000 --> 00:53:21,000
+And I stopped by and visited with Jack and he told me that it was really a hard thing for him.
+
+479
+00:53:21,000 --> 00:53:26,000
+But it turned out Daphne never married after that.
+
+480
+00:53:26,000 --> 00:53:28,000
+We're not quite sure.
+
+481
+00:53:28,000 --> 00:53:32,000
+And the reason that they broke up,
+
+482
+00:53:32,000 --> 00:53:39,000
+it's a little obscure, but I can say this at least as a rumor.
+
+483
+00:53:39,000 --> 00:53:46,000
+She decided that Jack was Jewish, his Jewish, and she was not.
+
+484
+00:53:46,000 --> 00:53:50,000
+And this conflict, religious conflict, apparently,
+
+485
+00:53:50,000 --> 00:53:55,000
+was something she decided she couldn't live with.
+
+486
+00:53:55,000 --> 00:54:01,000
+At any rate, a year or two later,
+
+487
+00:54:01,000 --> 00:54:05,000
+Jack met another young woman,
+
+488
+00:54:05,000 --> 00:54:08,000
+his present life, his name is Barbara.
+
+489
+00:54:08,000 --> 00:54:11,000
+And he met her in Blackwells at Hunchford.
+
+490
+00:54:11,000 --> 00:54:15,000
+She was where she was...
+
+491
+00:54:15,000 --> 00:54:17,000
+I don't know what her background is,
+
+492
+00:54:17,000 --> 00:54:20,000
+but she was working in the store there in Blackwells.
+
+493
+00:54:20,000 --> 00:54:22,000
+And they hit it off immediately.
+
+494
+00:54:22,000 --> 00:54:24,000
+She's a beautiful girl.
+
+495
+00:54:24,000 --> 00:54:27,000
+And they were married and they have...
+
+496
+00:54:27,000 --> 00:54:32,000
+I think they have two children.
+
+497
+00:54:32,000 --> 00:54:39,000
+So Jack, at the end of this period in Britain,
+
+498
+00:54:39,000 --> 00:54:41,000
+you may have almost unrecorded,
+
+499
+00:54:41,000 --> 00:54:44,000
+but you want me to tell you what I know about it.
+
+500
+00:54:44,000 --> 00:54:46,000
+His future career was...
+
+501
+00:54:46,000 --> 00:54:49,000
+Dorothy Hodgkin, of course,
+
+502
+00:54:49,000 --> 00:54:53,000
+worked in the structure of Vitamin B12
+
+503
+00:54:53,000 --> 00:54:56,000
+and had determined its structure
+
+504
+00:54:56,000 --> 00:55:01,000
+and had presented this as a plenary lecture at a meeting
+
+505
+00:55:02,000 --> 00:55:04,000
+from what happened to be there.
+
+506
+00:55:04,000 --> 00:55:06,000
+And she got a standing ovation for this.
+
+507
+00:55:06,000 --> 00:55:09,000
+And she later won the Nobel Prize for her work.
+
+508
+00:55:09,000 --> 00:55:14,000
+Well, this lecture or other work that she had been doing
+
+509
+00:55:14,000 --> 00:55:17,000
+with Arcanic molecules,
+
+510
+00:55:17,000 --> 00:55:22,000
+impressed the people in the organic...
+
+511
+00:55:22,000 --> 00:55:25,000
+I don't know whether it's a college or a school
+
+512
+00:55:25,000 --> 00:55:27,000
+or whatever division,
+
+513
+00:55:28,000 --> 00:55:30,000
+in Zurich,
+
+514
+00:55:30,000 --> 00:55:33,000
+and they asked her to recommend somebody
+
+515
+00:55:33,000 --> 00:55:36,000
+who could be in organic chemistry
+
+516
+00:55:36,000 --> 00:55:38,000
+who could determine structures
+
+517
+00:55:38,000 --> 00:55:41,000
+and she recommended Jack.
+
+518
+00:55:41,000 --> 00:55:43,000
+Well, he went there,
+
+519
+00:55:43,000 --> 00:55:46,000
+table lecture, showed what he was doing,
+
+520
+00:55:46,000 --> 00:55:48,000
+and the hope shot along this was
+
+521
+00:55:48,000 --> 00:55:51,000
+they hired him as a faculty member.
+
+522
+00:55:51,000 --> 00:55:54,000
+Well, he's had a distinguished career there.
+
+523
+00:55:54,000 --> 00:55:59,000
+He just widened his horizons
+
+524
+00:55:59,000 --> 00:56:04,000
+immensely, became a professor,
+
+525
+00:56:04,000 --> 00:56:07,000
+which in the Old German system
+
+526
+00:56:07,000 --> 00:56:09,000
+is about the equivalent
+
+527
+00:56:09,000 --> 00:56:13,000
+of the well-regarded senator in this country.
+
+528
+00:56:13,000 --> 00:56:20,000
+And he spent his entire career at Zurich.
+
+529
+00:56:20,000 --> 00:56:22,000
+He's now retired,
+
+530
+00:56:22,000 --> 00:56:26,000
+but I think he still has an office
+
+531
+00:56:26,000 --> 00:56:29,000
+although I'm not sure what he's doing.
+
+532
+00:56:29,000 --> 00:56:33,000
+Occasionally, I run across him
+
+533
+00:56:33,000 --> 00:56:35,000
+in this country,
+
+534
+00:56:35,000 --> 00:56:40,000
+and I write to him occasionally also.
+
+535
+00:56:40,000 --> 00:56:43,000
+So,
+
+536
+00:56:43,000 --> 00:56:46,000
+he is a...
+
+537
+00:56:46,000 --> 00:56:48,000
+his reputation grew by leaps and bounds.
+
+538
+00:56:48,000 --> 00:56:50,000
+He's a foreign associate
+
+539
+00:56:50,000 --> 00:56:53,000
+of the National Academy of Sciences,
+
+540
+00:56:53,000 --> 00:56:57,000
+and he gave the Baker lectures
+
+541
+00:56:57,000 --> 00:56:59,000
+at Cornell.
+
+542
+00:56:59,000 --> 00:57:01,000
+That's the same lecture series
+
+543
+00:57:01,000 --> 00:57:03,000
+that Pauline gave
+
+544
+00:57:03,000 --> 00:57:04,000
+that resulted in this book,
+
+545
+00:57:04,000 --> 00:57:07,000
+The Nature, the Chemical Pond.
+
+546
+00:57:07,000 --> 00:57:09,000
+So, Jack's had a wonderful career.
+
+547
+00:57:09,000 --> 00:57:13,000
+He's a very, very nice man.
+
+548
+00:57:13,000 --> 00:57:14,000
+Did he...
+
+549
+00:57:14,000 --> 00:57:16,000
+does he have any major discoveries
+
+550
+00:57:16,000 --> 00:57:18,000
+that you've known for?
+
+551
+00:57:18,000 --> 00:57:19,000
+Well, it's a little hard to tell.
+
+552
+00:57:19,000 --> 00:57:23,000
+Major discoveries in a scientific sense.
+
+553
+00:57:23,000 --> 00:57:27,000
+He has a lot of distinguished...
+
+554
+00:57:27,000 --> 00:57:30,000
+he has a distinguished publication record,
+
+555
+00:57:30,000 --> 00:57:31,000
+not in the mouth,
+
+556
+00:57:31,000 --> 00:57:34,000
+but the sorts of things that he took up
+
+557
+00:57:34,000 --> 00:57:37,000
+and studied thoroughly.
+
+558
+00:57:37,000 --> 00:57:42,000
+Basic science is very helpful to others.
+
+559
+00:57:42,000 --> 00:57:46,000
+But I don't follow crystallography very closely,
+
+560
+00:57:47,000 --> 00:57:51,000
+so I can't tell you much about what he has done.
+
+561
+00:57:51,000 --> 00:57:55,000
+I do know that he worked very hard
+
+562
+00:57:55,000 --> 00:57:57,000
+on the confirmations of rings
+
+563
+00:57:57,000 --> 00:58:00,000
+of various members in the rings.
+
+564
+00:58:00,000 --> 00:58:04,000
+There is elements of the rings,
+
+565
+00:58:04,000 --> 00:58:05,000
+five, six, seven, eight,
+
+566
+00:58:05,000 --> 00:58:07,000
+and more rings and so on.
+
+567
+00:58:07,000 --> 00:58:11,000
+He's well known for that.
+
+568
+00:58:12,000 --> 00:58:16,000
+I'd like to talk about calling it for a little bit.
+
+569
+00:58:16,000 --> 00:58:19,000
+It doesn't sound like he...
+
+570
+00:58:19,000 --> 00:58:23,000
+It sounds like he was certainly a person
+
+571
+00:58:23,000 --> 00:58:28,000
+who spent time with others,
+
+572
+00:58:28,000 --> 00:58:30,000
+but it often sounds like it's not
+
+573
+00:58:30,000 --> 00:58:34,000
+a sort of social way.
+
+574
+00:58:34,000 --> 00:58:36,000
+Yes, well,
+
+575
+00:58:36,000 --> 00:58:39,000
+he wasn't anti-social at all.
+
+576
+00:58:39,000 --> 00:58:42,000
+It's just that...
+
+577
+00:58:42,000 --> 00:58:45,000
+the kinds of parties of undescribing
+
+578
+00:58:45,000 --> 00:58:48,000
+that many, but not all,
+
+579
+00:58:48,000 --> 00:58:50,000
+the faculty attended.
+
+580
+00:58:50,000 --> 00:58:53,000
+Like...
+
+581
+00:58:53,000 --> 00:58:57,000
+Oh...
+
+582
+00:58:57,000 --> 00:58:59,000
+I'm trying to think, for example,
+
+583
+00:58:59,000 --> 00:59:01,000
+you mentioned Dan Campbell,
+
+584
+00:59:01,000 --> 00:59:04,000
+and Dick Badger, and Werner,
+
+585
+00:59:04,000 --> 00:59:08,000
+and a number of other faculty members,
+
+586
+00:59:08,000 --> 00:59:12,000
+as well as postdocs and graduates.
+
+587
+00:59:12,000 --> 00:59:14,000
+We all have a big party, you know.
+
+588
+00:59:14,000 --> 00:59:16,000
+Everybody was on a first-name basis.
+
+589
+00:59:16,000 --> 00:59:20,000
+I never called Badger by anything other than his first name,
+
+590
+00:59:20,000 --> 00:59:21,000
+even as a student.
+
+591
+00:59:21,000 --> 00:59:23,000
+That's how he was known.
+
+592
+00:59:23,000 --> 00:59:26,000
+Almost everybody was on a first-name basis
+
+593
+00:59:26,000 --> 00:59:28,000
+except with Pauling.
+
+594
+00:59:28,000 --> 00:59:31,000
+He was always Dr. Pauling.
+
+595
+00:59:31,000 --> 00:59:33,000
+He sort of carried an oral with him,
+
+596
+00:59:33,000 --> 00:59:36,000
+and although he was friendly enough,
+
+597
+00:59:36,000 --> 00:59:38,000
+you know, you didn't...
+
+598
+00:59:38,000 --> 00:59:42,000
+he only came so far.
+
+599
+00:59:42,000 --> 00:59:46,000
+He always called me by my first name.
+
+600
+00:59:46,000 --> 00:59:49,000
+Even on visits around here,
+
+601
+00:59:49,000 --> 00:59:52,000
+I never really called him by his first name
+
+602
+00:59:52,000 --> 00:59:55,000
+with any comfort at all,
+
+603
+00:59:55,000 --> 00:59:59,000
+because he never invited it.
+
+604
+00:59:59,000 --> 01:00:03,000
+Now,
+
+605
+01:00:03,000 --> 01:00:05,000
+I should tell you something.
+
+606
+01:00:05,000 --> 01:00:11,000
+This is kind of going back to my stay in Norway.
+
+607
+01:00:11,000 --> 01:00:14,000
+The person who headed up the laboratory
+
+608
+01:00:14,000 --> 01:00:17,000
+when I first went there was a man named Old Hussle.
+
+609
+01:00:17,000 --> 01:00:21,000
+He later won the Nobel Prize.
+
+610
+01:00:21,000 --> 01:00:23,000
+Hussle was...
+
+611
+01:00:23,000 --> 01:00:26,000
+is it alright if I tell a little bit about Hussle?
+
+612
+01:00:26,000 --> 01:00:29,000
+He was an interesting man,
+
+613
+01:00:29,000 --> 01:00:31,000
+and the Norwegian system then
+
+614
+01:00:31,000 --> 01:00:34,000
+they had professorships just like the German system.
+
+615
+01:00:34,000 --> 01:00:37,000
+He was a professor of physical chemistry,
+
+616
+01:00:37,000 --> 01:00:39,000
+and there was a professor of organic chemistry.
+
+617
+01:00:39,000 --> 01:00:41,000
+His name was Banner,
+
+618
+01:00:41,000 --> 01:00:44,000
+and a professor of organic chemistry,
+
+619
+01:00:44,000 --> 01:00:46,000
+these three groups.
+
+620
+01:00:46,000 --> 01:00:48,000
+But Hussle was unique.
+
+621
+01:00:48,000 --> 01:00:51,000
+He was virtually...
+
+622
+01:00:51,000 --> 01:00:54,000
+I don't know that I could call him an old vinyl,
+
+623
+01:00:54,000 --> 01:00:57,000
+but he had very light features,
+
+624
+01:00:57,000 --> 01:00:59,000
+very light hair,
+
+625
+01:00:59,000 --> 01:01:01,000
+and he was very...
+
+626
+01:01:01,000 --> 01:01:04,000
+and he had trouble reading.
+
+627
+01:01:04,000 --> 01:01:06,000
+He never married,
+
+628
+01:01:06,000 --> 01:01:09,000
+and he had a lot of money that he inherited.
+
+629
+01:01:09,000 --> 01:01:13,000
+He was a very good scientist.
+
+630
+01:01:13,000 --> 01:01:15,000
+During the war,
+
+631
+01:01:15,000 --> 01:01:18,000
+he was very aggressive,
+
+632
+01:01:18,000 --> 01:01:21,000
+and he was imprisoned
+
+633
+01:01:21,000 --> 01:01:24,000
+along with a couple of other people,
+
+634
+01:01:24,000 --> 01:01:28,000
+and they were kept in a camp in Oslo.
+
+635
+01:01:28,000 --> 01:01:30,000
+They were not allowed to teach.
+
+636
+01:01:30,000 --> 01:01:33,000
+They were closed.
+
+637
+01:01:33,000 --> 01:01:38,000
+But against all regulations in this camp,
+
+638
+01:01:38,000 --> 01:01:42,000
+Hussle organized a series of lectures and studies,
+
+639
+01:01:42,000 --> 01:01:44,000
+so the imprisoned people
+
+640
+01:01:44,000 --> 01:01:47,000
+who actually learned a lot
+
+641
+01:01:47,000 --> 01:01:49,000
+while they were incarcerated
+
+642
+01:01:49,000 --> 01:01:51,000
+from people who had lecture on topics,
+
+643
+01:01:51,000 --> 01:01:54,000
+you see, they had been put in the camp with them.
+
+644
+01:01:54,000 --> 01:01:59,000
+So Hussle didn't knuckle under at all to the Germans.
+
+645
+01:01:59,000 --> 01:02:01,000
+Well, in the war ended,
+
+646
+01:02:01,000 --> 01:02:06,000
+and he went back and resumed his position in Oslo.
+
+647
+01:02:06,000 --> 01:02:12,000
+All the people who had been in the camp with him,
+
+648
+01:02:12,000 --> 01:02:15,000
+he used the familiar form of the dress.
+
+649
+01:02:15,000 --> 01:02:17,000
+At that time, in Norway,
+
+650
+01:02:17,000 --> 01:02:20,000
+there were two words for you,
+
+651
+01:02:20,000 --> 01:02:27,000
+which is do and z,
+
+652
+01:02:27,000 --> 01:02:30,000
+or d, rather, I'm thinking of German.
+
+653
+01:02:30,000 --> 01:02:35,000
+So he was d with,
+
+654
+01:02:35,000 --> 01:02:37,000
+of the old school,
+
+655
+01:02:37,000 --> 01:02:39,000
+he was d with almost everybody
+
+656
+01:02:39,000 --> 01:02:41,000
+that he didn't know older people,
+
+657
+01:02:41,000 --> 01:02:46,000
+especially they always referred to one of his d and d.
+
+658
+01:02:46,000 --> 01:02:50,000
+Anyway,
+
+659
+01:02:50,000 --> 01:02:54,000
+Hussle,
+
+660
+01:02:54,000 --> 01:02:58,000
+after I had been there for a year and come back,
+
+661
+01:02:58,000 --> 01:03:01,000
+I would always make a point to go in to see Hussle,
+
+662
+01:03:01,000 --> 01:03:04,000
+because he was the professor.
+
+663
+01:03:04,000 --> 01:03:06,000
+He was, in effect,
+
+664
+01:03:06,000 --> 01:03:08,000
+I think, a kind of a lonely man,
+
+665
+01:03:08,000 --> 01:03:10,000
+because he had no family,
+
+666
+01:03:10,000 --> 01:03:13,000
+he had a, a live-in,
+
+667
+01:03:13,000 --> 01:03:16,000
+a huskieper who served him his meals
+
+668
+01:03:16,000 --> 01:03:18,000
+and did everything around.
+
+669
+01:03:18,000 --> 01:03:21,000
+I had a beautiful house.
+
+670
+01:03:21,000 --> 01:03:23,000
+And one time when I came in,
+
+671
+01:03:23,000 --> 01:03:25,000
+you know, I was always going to see him,
+
+672
+01:03:25,000 --> 01:03:26,000
+and we would shake hands,
+
+673
+01:03:26,000 --> 01:03:28,000
+and he would go to the board
+
+674
+01:03:28,000 --> 01:03:31,000
+and show me what he was working on.
+
+675
+01:03:31,000 --> 01:03:33,000
+And then one time,
+
+676
+01:03:33,000 --> 01:03:35,000
+when he was working at the board,
+
+677
+01:03:35,000 --> 01:03:37,000
+and I had said d and so on,
+
+678
+01:03:37,000 --> 01:03:38,000
+he was saying d,
+
+679
+01:03:38,000 --> 01:03:39,000
+he turned to me and he said,
+
+680
+01:03:39,000 --> 01:03:41,000
+this is traditional in Norway.
+
+681
+01:03:41,000 --> 01:03:44,000
+He said, we have known one another for a long time.
+
+682
+01:03:44,000 --> 01:03:48,000
+I think it is time that we say do to each other.
+
+683
+01:03:48,000 --> 01:03:50,000
+Now,
+
+684
+01:03:50,000 --> 01:03:53,000
+a younger man could never propose that.
+
+685
+01:03:53,000 --> 01:03:56,000
+It had to be the older man.
+
+686
+01:03:56,000 --> 01:03:59,000
+And of course, I was knowing Hussle was ideal.
+
+687
+01:03:59,000 --> 01:04:01,000
+I was quite honored by this,
+
+688
+01:04:01,000 --> 01:04:03,000
+because here I was a foreigner.
+
+689
+01:04:03,000 --> 01:04:05,000
+I was saying, do to him,
+
+690
+01:04:05,000 --> 01:04:07,000
+where people that have been in his laboratory for years
+
+691
+01:04:07,000 --> 01:04:13,000
+that had not been in the campground thing were still d.
+
+692
+01:04:13,000 --> 01:04:15,000
+And these guys had been around for 20 years.
+
+693
+01:04:15,000 --> 01:04:18,000
+He still said, d, you know.
+
+694
+01:04:18,000 --> 01:04:20,000
+So,
+
+695
+01:04:20,000 --> 01:04:22,000
+but anyway, I guess
+
+696
+01:04:22,000 --> 01:04:25,000
+I probably hit it off with him because,
+
+697
+01:04:25,000 --> 01:04:28,000
+of course, I always spoke no region to him.
+
+698
+01:04:28,000 --> 01:04:31,000
+And he was so pleased that an American would come
+
+699
+01:04:31,000 --> 01:04:34,000
+and learn Norwegian, say.
+
+700
+01:04:34,000 --> 01:04:38,000
+Anyhow, he invited Lisa and me to dinner at his house
+
+701
+01:04:38,000 --> 01:04:40,000
+on time.
+
+702
+01:04:40,000 --> 01:04:42,000
+We went back to Norway after we were married.
+
+703
+01:04:42,000 --> 01:04:46,000
+I've been there a couple of times on sabbatical leaves afterward.
+
+704
+01:04:46,000 --> 01:04:49,000
+And one of these cases, he invited us to dinner.
+
+705
+01:04:49,000 --> 01:04:52,000
+We had a magnificent dinner at his house.
+
+706
+01:04:52,000 --> 01:04:53,000
+It was all catered.
+
+707
+01:04:53,000 --> 01:04:56,000
+He had ordered it in from the catering outfit.
+
+708
+01:04:56,000 --> 01:04:58,000
+I think I say yes, actually.
+
+709
+01:04:58,000 --> 01:05:00,000
+We're running a catering outfit.
+
+710
+01:05:00,000 --> 01:05:07,000
+And we had a very pleasant evening at Hussle's house.
+
+711
+01:05:07,000 --> 01:05:09,000
+So...
+
+712
+01:05:09,000 --> 01:05:13,000
+The people didn't get to that TV level were calling very often.
+
+713
+01:05:13,000 --> 01:05:15,000
+Pardon?
+
+714
+01:05:15,000 --> 01:05:17,000
+The people didn't get to the TV level were calling very often.
+
+715
+01:05:17,000 --> 01:05:19,000
+Not very often.
+
+716
+01:05:19,000 --> 01:05:20,000
+It's a little hard to tell.
+
+717
+01:05:20,000 --> 01:05:22,000
+I was kind of one way, as I said, you know.
+
+718
+01:05:22,000 --> 01:05:24,000
+He always shook hands and said,
+
+719
+01:05:24,000 --> 01:05:25,000
+said, how's Lisa doing?
+
+720
+01:05:25,000 --> 01:05:28,000
+And he would ask me about her all sorts of things.
+
+721
+01:05:28,000 --> 01:05:31,000
+He would call me Ken, but I...
+
+722
+01:05:31,000 --> 01:05:36,000
+I never felt that he relished me calling him Linus.
+
+723
+01:05:36,000 --> 01:05:40,000
+And everybody had that feeling.
+
+724
+01:05:40,000 --> 01:05:42,000
+I know...
+
+725
+01:05:42,000 --> 01:05:46,000
+He visited here when Earl Gilbert was chairman in the live.
+
+726
+01:05:46,000 --> 01:05:49,000
+And Gilbert referred to him as Linus.
+
+727
+01:05:49,000 --> 01:05:52,000
+They talked to one another on that basis.
+
+728
+01:05:52,000 --> 01:05:57,000
+But I don't think Gilbert had really met him before.
+
+729
+01:05:57,000 --> 01:05:59,000
+I just don't know him.
+
+730
+01:05:59,000 --> 01:06:03,000
+The point is that apparently he had a swing ball that was playing popular that day.
+
+731
+01:06:04,000 --> 01:06:05,000
+Yes.
+
+732
+01:06:05,000 --> 01:06:07,000
+I haven't talked about that, have I?
+
+733
+01:06:07,000 --> 01:06:10,000
+Well, no, well.
+
+734
+01:06:10,000 --> 01:06:16,000
+Here is a couple of incidents surrounding this woman, cool.
+
+735
+01:06:16,000 --> 01:06:24,000
+I was asked by the Paulings with my then first wife
+
+736
+01:06:24,000 --> 01:06:28,000
+to babysit the children while they were off on a trip.
+
+737
+01:06:28,000 --> 01:06:34,000
+The children were Peter, Linda, and Krillin.
+
+738
+01:06:34,000 --> 01:06:39,000
+And they were early, early teens.
+
+739
+01:06:39,000 --> 01:06:45,000
+And Linus had finished and gone off to medical training
+
+740
+01:06:45,000 --> 01:06:49,000
+was off in Linus, Jr., in Hawaii.
+
+741
+01:06:49,000 --> 01:06:57,000
+And so we weren't required to do anything that kids ought to go
+
+742
+01:06:57,000 --> 01:06:58,000
+to school and so on.
+
+743
+01:06:58,000 --> 01:07:00,000
+We were supposed to be there in the evenings,
+
+744
+01:07:00,000 --> 01:07:04,000
+make sure that they were all there and so on.
+
+745
+01:07:04,000 --> 01:07:09,000
+And so we did that.
+
+746
+01:07:09,000 --> 01:07:16,000
+And they had this swimming pool.
+
+747
+01:07:16,000 --> 01:07:21,000
+Paulings' house had two wings that came together like this.
+
+748
+01:07:21,000 --> 01:07:25,000
+And people were fond of saying, I'm not sure whether it's true or not,
+
+749
+01:07:25,000 --> 01:07:31,000
+but the angle between the wings was 109 degrees in 28 minutes,
+
+750
+01:07:31,000 --> 01:07:36,000
+which is, of course, the angle, the tetrahedral bond angle.
+
+751
+01:07:36,000 --> 01:07:38,000
+I don't know whether that story is true or not,
+
+752
+01:07:38,000 --> 01:07:40,000
+but it certainly was very close to it.
+
+753
+01:07:40,000 --> 01:07:42,000
+Well, down in the, a little below,
+
+754
+01:07:42,000 --> 01:07:45,000
+the house was built slightly up and down below.
+
+755
+01:07:45,000 --> 01:07:48,000
+They had this swimming pool.
+
+756
+01:07:48,000 --> 01:07:52,000
+And the Pauling kids, when their parents were away,
+
+757
+01:07:52,000 --> 01:07:55,000
+were on the habit of going around the chemistry department,
+
+758
+01:07:55,000 --> 01:07:59,000
+inviting everybody up to a big party in this swimming pool.
+
+759
+01:07:59,000 --> 01:08:03,000
+And I remember this happening one time.
+
+760
+01:08:03,000 --> 01:08:08,000
+The pool was full of people and the Paulings showed up.
+
+761
+01:08:08,000 --> 01:08:10,000
+And in a short while,
+
+762
+01:08:10,000 --> 01:08:14,000
+Ava Hillin came out and said, Linda,
+
+763
+01:08:14,000 --> 01:08:16,000
+your father and I would like to take a swim.
+
+764
+01:08:16,000 --> 01:08:21,000
+Can you get these people out of here?
+
+765
+01:08:21,000 --> 01:08:24,000
+There was a hush that fell over the group,
+
+766
+01:08:24,000 --> 01:08:31,000
+and we vacated the premises very quickly.
+
+767
+01:08:31,000 --> 01:08:36,000
+One of the occasions when I was babysitting the kids,
+
+768
+01:08:36,000 --> 01:08:39,000
+I heard a splash.
+
+769
+01:08:39,000 --> 01:08:41,000
+This is late at night.
+
+770
+01:08:41,000 --> 01:08:44,000
+It was 11 o'clock and I'd actually gone to bed,
+
+771
+01:08:44,000 --> 01:08:49,000
+and the bedroom faced downhill.
+
+772
+01:08:49,000 --> 01:08:52,000
+But I couldn't really see this swimming pool clearly.
+
+773
+01:08:52,000 --> 01:08:54,000
+I think I saw some ripples in it.
+
+774
+01:08:54,000 --> 01:08:57,000
+And I heard this splash.
+
+775
+01:08:57,000 --> 01:08:59,000
+And I wondered what the hell that was.
+
+776
+01:08:59,000 --> 01:09:04,000
+But anyway, I didn't bother to go out and check and so on.
+
+777
+01:09:04,000 --> 01:09:09,000
+And the next day, there was no sign of anything awry.
+
+778
+01:09:09,000 --> 01:09:11,000
+And on the second day,
+
+779
+01:09:11,000 --> 01:09:17,000
+I also heard this splash in the pool.
+
+780
+01:09:17,000 --> 01:09:20,000
+And again, I did nothing about it.
+
+781
+01:09:20,000 --> 01:09:23,000
+But in the morning, I got up and I went into the kitchen
+
+782
+01:09:23,000 --> 01:09:25,000
+and made my breakfast,
+
+783
+01:09:25,000 --> 01:09:28,000
+and there was a strange man standing there in the kitchen,
+
+784
+01:09:28,000 --> 01:09:30,000
+making breakfast.
+
+785
+01:09:30,000 --> 01:09:34,000
+And this was a guy.
+
+786
+01:09:34,000 --> 01:09:36,000
+Again, the name is hard for me to come by,
+
+787
+01:09:36,000 --> 01:09:39,000
+but a long standing friend of the Paulings and Paulings
+
+788
+01:09:39,000 --> 01:09:44,000
+has mentioned it by name from the University of Texas.
+
+789
+01:09:44,000 --> 01:09:47,000
+And I guess they'd asked him if he'd like to stay there.
+
+790
+01:09:47,000 --> 01:09:50,000
+Well, pardon me.
+
+791
+01:09:50,000 --> 01:09:55,000
+Yeah, that's right, Jeffress.
+
+792
+01:09:55,000 --> 01:09:57,000
+So we introduced ourselves to each other.
+
+793
+01:09:57,000 --> 01:09:59,000
+It turned out we'd been living in this house,
+
+794
+01:09:59,000 --> 01:10:01,000
+both of us for three days.
+
+795
+01:10:01,000 --> 01:10:04,000
+And this was the first time our paths had crossed.
+
+796
+01:10:04,000 --> 01:10:07,000
+I usually got up early and so did my then wife.
+
+797
+01:10:07,000 --> 01:10:09,000
+She went to work and I went to Caltech,
+
+798
+01:10:09,000 --> 01:10:13,000
+and he apparently was on vacation, came up later.
+
+799
+01:10:13,000 --> 01:10:16,000
+So we've been living for three days.
+
+800
+01:10:16,000 --> 01:10:20,000
+It's almost the third day that I met this guy in the same house.
+
+801
+01:10:20,000 --> 01:10:23,000
+Lloyd Jeffress, that's right.
+
+802
+01:10:23,000 --> 01:10:27,000
+So that was the swimming pool.
+
+803
+01:10:27,000 --> 01:10:31,000
+What do you recall about the children's personality?
+
+804
+01:10:31,000 --> 01:10:34,000
+Oh, Peter.
+
+805
+01:10:34,000 --> 01:10:37,000
+Very, very vivacious.
+
+806
+01:10:37,000 --> 01:10:40,000
+And Linda also.
+
+807
+01:10:40,000 --> 01:10:44,000
+Unless so he was younger, quite a bit younger.
+
+808
+01:10:44,000 --> 01:10:46,000
+Well, I don't know how much younger,
+
+809
+01:10:46,000 --> 01:10:49,000
+but at any rate,
+
+810
+01:10:49,000 --> 01:10:53,000
+the two older ones,
+
+811
+01:10:53,000 --> 01:10:59,000
+they were almost
+
+812
+01:10:59,000 --> 01:11:01,000
+unfettered.
+
+813
+01:11:01,000 --> 01:11:03,000
+I mean, they were just
+
+814
+01:11:03,000 --> 01:11:06,000
+into everything in a good, humored way.
+
+815
+01:11:06,000 --> 01:11:10,000
+Very vocal both of them.
+
+816
+01:11:10,000 --> 01:11:12,000
+Many years later,
+
+817
+01:11:12,000 --> 01:11:18,000
+I went to Lisa and I went to Europe.
+
+818
+01:11:18,000 --> 01:11:23,000
+And Peter at that time had gotten the position
+
+819
+01:11:23,000 --> 01:11:27,000
+at the University of London, I guess it was.
+
+820
+01:11:27,000 --> 01:11:31,000
+And I called him and he met us in a sports car.
+
+821
+01:11:31,000 --> 01:11:34,000
+By this time he had been pretty heavily in the alcohols
+
+822
+01:11:34,000 --> 01:11:36,000
+and big problems.
+
+823
+01:11:36,000 --> 01:11:38,000
+But at any rate,
+
+824
+01:11:38,000 --> 01:11:42,000
+he was enthralled with my wife, Lisa, you know,
+
+825
+01:11:42,000 --> 01:11:44,000
+and boy, he couldn't.
+
+826
+01:11:44,000 --> 01:11:46,000
+He was sidelining up to her all the time
+
+827
+01:11:46,000 --> 01:11:49,000
+and giving her all sorts of compliments.
+
+828
+01:11:49,000 --> 01:11:52,000
+She was laughing at him most of the time.
+
+829
+01:11:52,000 --> 01:11:56,000
+Peter had trouble with,
+
+830
+01:11:56,000 --> 01:12:00,000
+I think he had been divorced once,
+
+831
+01:12:00,000 --> 01:12:03,000
+and I don't remember any details
+
+832
+01:12:03,000 --> 01:12:06,000
+of his life, I only knew at the end
+
+833
+01:12:06,000 --> 01:12:10,000
+that he was totally
+
+834
+01:12:10,000 --> 01:12:15,000
+incompetent and he had gone to Wales
+
+835
+01:12:15,000 --> 01:12:18,000
+and was living in a small house
+
+836
+01:12:18,000 --> 01:12:21,000
+that I got a phone call from in a couple of times
+
+837
+01:12:21,000 --> 01:12:24,000
+and Yale asking me about
+
+838
+01:12:24,000 --> 01:12:27,000
+certain events in his father's life
+
+839
+01:12:27,000 --> 01:12:30,000
+as a fellow named Herman Branson
+
+840
+01:12:30,000 --> 01:12:36,000
+had given pulling some problems
+
+841
+01:12:36,000 --> 01:12:39,000
+regarding priority and discovery or ideas
+
+842
+01:12:39,000 --> 01:12:41,000
+and so on.
+
+843
+01:12:41,000 --> 01:12:43,000
+Peter had called me,
+
+844
+01:12:43,000 --> 01:12:45,000
+I knew Herman Branson,
+
+845
+01:12:45,000 --> 01:12:47,000
+well, I knew anything about this
+
+846
+01:12:47,000 --> 01:12:54,000
+and I didn't.
+
+847
+01:12:54,000 --> 01:12:59,000
+Well, Linda,
+
+848
+01:12:59,000 --> 01:13:04,000
+I don't know a great deal about her life
+
+849
+01:13:04,000 --> 01:13:06,000
+how she went to college,
+
+850
+01:13:06,000 --> 01:13:10,000
+what she did, I know.
+
+851
+01:13:10,000 --> 01:13:14,000
+She met Barclay when Barclay was a student at Caltech.
+
+852
+01:13:14,000 --> 01:13:17,000
+Pulling was very impressed by Barclay.
+
+853
+01:13:17,000 --> 01:13:21,000
+I remember one occasion on a party when I was up there.
+
+854
+01:13:21,000 --> 01:13:23,000
+He was asking Barclay some questions
+
+855
+01:13:23,000 --> 01:13:26,000
+and Barclay was answering them
+
+856
+01:13:26,000 --> 01:13:30,000
+I guess he was he decided that he was
+
+857
+01:13:30,000 --> 01:13:36,000
+the guy for his daughter.
+
+858
+01:13:36,000 --> 01:13:39,000
+Again, that's just my
+
+859
+01:13:39,000 --> 01:13:43,000
+my reaction about it.
+
+860
+01:13:43,000 --> 01:13:47,000
+Barclay was a nice guy
+
+861
+01:13:47,000 --> 01:13:49,000
+of course he lived in Pasadena
+
+862
+01:13:49,000 --> 01:13:52,000
+and after we came to Corralis we didn't see them very much
+
+863
+01:13:52,000 --> 01:13:55,000
+but Barclay used to make an annual
+
+864
+01:13:55,000 --> 01:14:00,000
+trip up to his glacier in Alaska
+
+865
+01:14:00,000 --> 01:14:03,000
+he was doing measurements on glacial flow
+
+866
+01:14:03,000 --> 01:14:06,000
+and so on.
+
+867
+01:14:06,000 --> 01:14:07,000
+And one time they stopped by
+
+868
+01:14:07,000 --> 01:14:10,000
+and they stayed overnight with us
+
+869
+01:14:10,000 --> 01:14:12,000
+at a very pleasant evening
+
+870
+01:14:12,000 --> 01:14:14,000
+and Barclay could play the piano quite well
+
+871
+01:14:14,000 --> 01:14:17,000
+and so he enjoyed sitting at our piano
+
+872
+01:14:17,000 --> 01:14:22,000
+and playing it during the evenings.
+
+873
+01:14:22,000 --> 01:14:25,000
+And afterwards Linda asked her
+
+874
+01:14:25,000 --> 01:14:29,000
+a father for something that
+
+875
+01:14:29,000 --> 01:14:31,000
+she could give to these and me
+
+876
+01:14:31,000 --> 01:14:34,000
+as a token of appreciation
+
+877
+01:14:34,000 --> 01:14:37,000
+and I have a picture
+
+878
+01:14:37,000 --> 01:14:40,000
+of pulling together
+
+879
+01:14:40,000 --> 01:14:43,000
+with
+
+880
+01:14:43,000 --> 01:14:46,000
+the whole of the famous South African doctor
+
+881
+01:14:46,000 --> 01:14:50,000
+Dr.
+
+882
+01:14:51,000 --> 01:14:54,000
+Yeah, Albert's fight set.
+
+883
+01:14:54,000 --> 01:14:58,000
+We're both of them in the picture
+
+884
+01:14:58,000 --> 01:15:03,000
+and that was sent to me by Linda.
+
+885
+01:15:03,000 --> 01:15:08,000
+Well, we'd like back on this period
+
+886
+01:15:08,000 --> 01:15:11,000
+of Caltech it's called the Golden Age of Caltech
+
+887
+01:15:11,000 --> 01:15:13,000
+and I guess just been kind of closing
+
+888
+01:15:13,000 --> 01:15:15,000
+to what does that mean to you
+
+889
+01:15:15,000 --> 01:15:19,000
+that this period of the Golden Age of Caltech?
+
+890
+01:15:19,000 --> 01:15:24,000
+Well, I guess it's
+
+891
+01:15:24,000 --> 01:15:29,000
+probably termed because it was
+
+892
+01:15:29,000 --> 01:15:32,000
+you know I was asked to give a lecture
+
+893
+01:15:32,000 --> 01:15:35,000
+a banquet talk one time at a meeting
+
+894
+01:15:35,000 --> 01:15:38,000
+symposium in Texas
+
+895
+01:15:38,000 --> 01:15:40,000
+and the topic suggested to me
+
+896
+01:15:40,000 --> 01:15:42,000
+was the Golden Age at Caltech.
+
+897
+01:15:42,000 --> 01:15:44,000
+That was a title of the talk
+
+898
+01:15:44,000 --> 01:15:46,000
+so I dredged through all the archives
+
+899
+01:15:46,000 --> 01:15:48,000
+and found out quite a lot
+
+900
+01:15:48,000 --> 01:15:51,000
+of various people and things.
+
+901
+01:15:51,000 --> 01:15:54,000
+But the Golden Age was the age
+
+902
+01:15:54,000 --> 01:15:59,000
+of all this marvelous stuff
+
+903
+01:15:59,000 --> 01:16:02,000
+that Pauling was doing in chemistry
+
+904
+01:16:02,000 --> 01:16:06,000
+and people like Feynman
+
+905
+01:16:06,000 --> 01:16:10,000
+and others were doing in physics
+
+906
+01:16:10,000 --> 01:16:13,000
+and it was an environment
+
+907
+01:16:13,000 --> 01:16:16,000
+that couldn't be more exciting
+
+908
+01:16:16,000 --> 01:16:19,000
+to a young student
+
+909
+01:16:19,000 --> 01:16:23,000
+because you could almost literally
+
+910
+01:16:23,000 --> 01:16:26,000
+hear a lecture each week
+
+911
+01:16:26,000 --> 01:16:28,000
+by a Nobel Prize winner
+
+912
+01:16:28,000 --> 01:16:31,000
+and some subject or another visitors.
+
+913
+01:16:31,000 --> 01:16:33,000
+I mean I've heard lectures
+
+914
+01:16:33,000 --> 01:16:35,000
+from people like Fermi
+
+915
+01:16:35,000 --> 01:16:37,000
+who came from Argonne.
+
+916
+01:16:37,000 --> 01:16:39,000
+I've attended lectures
+
+917
+01:16:39,000 --> 01:16:44,000
+by Feynman, Carl Anderson
+
+918
+01:16:44,000 --> 01:16:47,000
+was there, I've heard lectures by him
+
+919
+01:16:47,000 --> 01:16:50,000
+and I've heard lectures
+
+920
+01:16:50,000 --> 01:16:52,000
+by people in chemistry
+
+921
+01:16:52,000 --> 01:16:54,000
+who came through.
+
+922
+01:16:54,000 --> 01:16:56,000
+So all this appeared
+
+923
+01:16:56,000 --> 01:16:59,000
+when I was a student
+
+924
+01:16:59,000 --> 01:17:01,000
+and at the same time we knew
+
+925
+01:17:01,000 --> 01:17:03,000
+there was a very active program
+
+926
+01:17:03,000 --> 01:17:05,000
+and X-ray crystallography
+
+927
+01:17:05,000 --> 01:17:09,000
+going on devoted to providing Pauling
+
+928
+01:17:09,000 --> 01:17:11,000
+I'm quite sure with the
+
+929
+01:17:11,000 --> 01:17:16,000
+fundamentals of structure
+
+930
+01:17:16,000 --> 01:17:18,000
+that would enable him,
+
+931
+01:17:18,000 --> 01:17:22,000
+finally, to formulate the alpha helix.
+
+932
+01:17:22,000 --> 01:17:25,000
+They published seven papers, you know,
+
+933
+01:17:25,000 --> 01:17:27,000
+that's one of them's alpha helix
+
+934
+01:17:27,000 --> 01:17:28,000
+that's the famous one
+
+935
+01:17:28,000 --> 01:17:30,000
+and there's a pleated sheet
+
+936
+01:17:30,000 --> 01:17:32,000
+and a number of other things
+
+937
+01:17:32,000 --> 01:17:34,000
+that they published at that time.
+
+938
+01:17:34,000 --> 01:17:37,000
+So all of this was going on
+
+939
+01:17:37,000 --> 01:17:40,000
+and we knew it
+
+940
+01:17:40,000 --> 01:17:43,000
+and when Pauling finally unveiled
+
+941
+01:17:43,000 --> 01:17:46,000
+his alpha helix,
+
+942
+01:17:46,000 --> 01:17:48,000
+I remember that was a lecture
+
+943
+01:17:48,000 --> 01:17:55,000
+of some showmanship
+
+944
+01:17:55,000 --> 01:17:57,000
+and I told you about that,
+
+945
+01:17:57,000 --> 01:17:58,000
+no doubt.
+
+946
+01:17:58,000 --> 01:18:03,000
+Celtic built these space-filling models.
+
+947
+01:18:03,000 --> 01:18:05,000
+You have some of them here
+
+948
+01:18:05,000 --> 01:18:06,000
+in a special collection
+
+949
+01:18:06,000 --> 01:18:09,000
+of the alpha helix, actually I think.
+
+950
+01:18:09,000 --> 01:18:13,000
+And I think it was that same model
+
+951
+01:18:13,000 --> 01:18:14,000
+which was about this high
+
+952
+01:18:14,000 --> 01:18:16,000
+and it's got red, white
+
+953
+01:18:16,000 --> 01:18:19,000
+and black atoms
+
+954
+01:18:19,000 --> 01:18:21,000
+all distributed through it,
+
+955
+01:18:21,000 --> 01:18:26,000
+representing the various elements.
+
+956
+01:18:26,000 --> 01:18:28,000
+You started to give a lecture on this
+
+957
+01:18:28,000 --> 01:18:30,000
+and this thing was in the middle of the room
+
+958
+01:18:30,000 --> 01:18:35,000
+but it was covered with a tall paper bag.
+
+959
+01:18:35,000 --> 01:18:37,000
+So he was going to describe the structure, you know
+
+960
+01:18:37,000 --> 01:18:39,000
+and as he went on people's curiosity
+
+961
+01:18:39,000 --> 01:18:42,000
+they were getting more and more in the edge of his sheets.
+
+962
+01:18:42,000 --> 01:18:44,000
+And he walked over and he pulled this thing up
+
+963
+01:18:44,000 --> 01:18:45,000
+just a little about that far
+
+964
+01:18:45,000 --> 01:18:46,000
+and he put it down and he says,
+
+965
+01:18:46,000 --> 01:18:48,000
+oh he said I forgot to
+
+966
+01:18:48,000 --> 01:18:50,000
+and then people sort of twittered.
+
+967
+01:18:50,000 --> 01:18:52,000
+He did that once more, you know,
+
+968
+01:18:52,000 --> 01:18:54,000
+when people laughed
+
+969
+01:18:54,000 --> 01:18:56,000
+and the third time
+
+970
+01:18:56,000 --> 01:18:58,000
+he took it off and showed it was
+
+971
+01:18:58,000 --> 01:19:00,000
+everybody applauded, you see.
+
+972
+01:19:00,000 --> 01:19:05,000
+He was a great showman in that respect.
+
+973
+01:19:05,000 --> 01:19:08,000
+I remember, by the way,
+
+974
+01:19:08,000 --> 01:19:11,000
+a lecture he gave
+
+975
+01:19:11,000 --> 01:19:13,000
+in quantum mechanics.
+
+976
+01:19:13,000 --> 01:19:18,000
+I took of course in quantum mechanics from him.
+
+977
+01:19:18,000 --> 01:19:20,000
+The room was quite full of students.
+
+978
+01:19:20,000 --> 01:19:21,000
+He walked in one time,
+
+979
+01:19:21,000 --> 01:19:25,000
+he carried a big book
+
+980
+01:19:25,000 --> 01:19:29,000
+which was
+
+981
+01:19:29,000 --> 01:19:31,000
+the nature, I'm sorry,
+
+982
+01:19:31,000 --> 01:19:35,000
+an introduction to quantum mechanics
+
+983
+01:19:35,000 --> 01:19:38,000
+by him and Brian Wilson.
+
+984
+01:19:38,000 --> 01:19:42,000
+And the normal copy is about that thick
+
+985
+01:19:42,000 --> 01:19:44,000
+but this is about that thick
+
+986
+01:19:44,000 --> 01:19:45,000
+and it turns out that
+
+987
+01:19:45,000 --> 01:19:47,000
+every facing page was blank
+
+988
+01:19:47,000 --> 01:19:48,000
+so he could write notes in it
+
+989
+01:19:48,000 --> 01:19:50,000
+and he would lecture from this.
+
+990
+01:19:50,000 --> 01:19:51,000
+He would come in.
+
+991
+01:19:51,000 --> 01:19:53,000
+Well one day he walked in
+
+992
+01:19:53,000 --> 01:19:54,000
+and as he got inside there was a
+
+993
+01:19:54,000 --> 01:19:56,000
+the room was very wide
+
+994
+01:19:56,000 --> 01:19:57,000
+and had blackboards.
+
+995
+01:19:57,000 --> 01:19:59,000
+They were blackboards in those days
+
+996
+01:19:59,000 --> 01:20:00,000
+from one end to the other.
+
+997
+01:20:00,000 --> 01:20:02,000
+He walked in and he
+
+998
+01:20:02,000 --> 01:20:04,000
+picked up a piece of chalk
+
+999
+01:20:04,000 --> 01:20:06,000
+and there were three panels here.
+
+1000
+01:20:06,000 --> 01:20:08,000
+He wrote on the upper left end corner
+
+1001
+01:20:08,000 --> 01:20:12,000
+N-O-2,
+
+1002
+01:20:12,000 --> 01:20:14,000
+nitrogen dioxide.
+
+1003
+01:20:14,000 --> 01:20:15,000
+Without saying a word,
+
+1004
+01:20:15,000 --> 01:20:17,000
+he went across, he began to lecture
+
+1005
+01:20:17,000 --> 01:20:18,000
+and he filled up the board
+
+1006
+01:20:18,000 --> 01:20:20,000
+over here
+
+1007
+01:20:20,000 --> 01:20:22,000
+and continues lecture,
+
+1008
+01:20:22,000 --> 01:20:23,000
+filled up the board over here
+
+1009
+01:20:23,000 --> 01:20:25,000
+and as he got to the bottom
+
+1010
+01:20:25,000 --> 01:20:26,000
+he had reached the point where he says,
+
+1011
+01:20:26,000 --> 01:20:29,000
+now you take an N-O-2 molecule
+
+1012
+01:20:29,000 --> 01:20:32,000
+and he pointed to what he had already put on the chair.
+
+1013
+01:20:32,000 --> 01:20:34,000
+People the whole hour were wondering
+
+1014
+01:20:34,000 --> 01:20:36,000
+what was going to happen
+
+1015
+01:20:36,000 --> 01:20:39,000
+but he had it at the precise location
+
+1016
+01:20:39,000 --> 01:20:41,000
+where he needed an illustration
+
+1017
+01:20:41,000 --> 01:20:43,000
+for what he had been talking about
+
+1018
+01:20:43,000 --> 01:20:45,000
+and they had it already written up there.
+
+1019
+01:20:45,000 --> 01:20:47,000
+That's the kind of subtle humor
+
+1020
+01:20:47,000 --> 01:20:54,000
+that he used to impress the students.
+
+1021
+01:20:54,000 --> 01:20:57,000
+He gave lectures to the undergraduates too
+
+1022
+01:20:57,000 --> 01:20:58,000
+and a lot of the undergraduates
+
+1023
+01:20:58,000 --> 01:21:00,000
+were a little bit unhappy with this.
+
+1024
+01:21:00,000 --> 01:21:02,000
+The better ones were not.
+
+1025
+01:21:02,000 --> 01:21:04,000
+The graduate teaching assistants
+
+1026
+01:21:04,000 --> 01:21:05,000
+of which I was one
+
+1027
+01:21:05,000 --> 01:21:07,000
+when I first came there
+
+1028
+01:21:07,000 --> 01:21:09,000
+were delighted with these lectures
+
+1029
+01:21:09,000 --> 01:21:12,000
+because they were what they were looking for.
+
+1030
+01:21:12,000 --> 01:21:15,000
+But the students,
+
+1031
+01:21:15,000 --> 01:21:18,000
+he wouldn't pick out topics in the book
+
+1032
+01:21:18,000 --> 01:21:19,000
+and talk about them,
+
+1033
+01:21:19,000 --> 01:21:21,000
+the book's book for itself.
+
+1034
+01:21:21,000 --> 01:21:23,000
+But he would talk about things
+
+1035
+01:21:23,000 --> 01:21:25,000
+associated with them
+
+1036
+01:21:25,000 --> 01:21:27,000
+and that were involved at perhaps
+
+1037
+01:21:27,000 --> 01:21:30,000
+at the cutting level of research
+
+1038
+01:21:30,000 --> 01:21:33,000
+and he would talk about this
+
+1039
+01:21:33,000 --> 01:21:36,000
+and that kind of disappointed a lot of the students
+
+1040
+01:21:36,000 --> 01:21:38,000
+who wanted more explanation
+
+1041
+01:21:38,000 --> 01:21:41,000
+of what they were reading in the textbook.
+
+1042
+01:21:41,000 --> 01:21:44,000
+Anyway, as TAs,
+
+1043
+01:21:44,000 --> 01:21:48,000
+we all like the lectures very much.
+
+1044
+01:21:48,000 --> 01:21:50,000
+Well, is there anything else
+
+1045
+01:21:50,000 --> 01:21:54,000
+about the Caltech years that we should talk about?
+
+1046
+01:21:54,000 --> 01:22:00,000
+I don't know.
+
+1047
+01:22:00,000 --> 01:22:05,000
+We've talked about a lot of the personalities there.
+
+1048
+01:22:05,000 --> 01:22:10,000
+There were a lot of people
+
+1049
+01:22:10,000 --> 01:22:14,000
+I haven't mentioned that figured prominently.
+
+1050
+01:22:14,000 --> 01:22:16,000
+For example, Jerry Donahue
+
+1051
+01:22:16,000 --> 01:22:18,000
+is a distinguished crystallographer
+
+1052
+01:22:18,000 --> 01:22:21,000
+and he happened to be
+
+1053
+01:22:21,000 --> 01:22:28,000
+in England in the same laboratory
+
+1054
+01:22:28,000 --> 01:22:31,000
+where Watson and Crick were.
+
+1055
+01:22:31,000 --> 01:22:34,000
+And he is said to have
+
+1056
+01:22:34,000 --> 01:22:36,000
+made a key observation to them
+
+1057
+01:22:36,000 --> 01:22:39,000
+about the configuration
+
+1058
+01:22:39,000 --> 01:22:41,000
+that played a big role
+
+1059
+01:22:41,000 --> 01:22:46,000
+and they're eventually
+
+1060
+01:22:46,000 --> 01:22:50,000
+coming to the right structure for DNA.
+
+1061
+01:22:51,000 --> 01:22:54,000
+There were other personalities
+
+1062
+01:22:54,000 --> 01:23:00,000
+I haven't mentioned in chemistry.
+
+1063
+01:23:00,000 --> 01:23:03,000
+There were all sorts of names
+
+1064
+01:23:03,000 --> 01:23:05,000
+that run by,
+
+1065
+01:23:05,000 --> 01:23:08,000
+but I don't have anything particular to say about them.
+
+1066
+01:23:08,000 --> 01:23:11,000
+I did some work with a guy named Werner Navaki
+
+1067
+01:23:11,000 --> 01:23:13,000
+from Switzerland.
+
+1068
+01:23:13,000 --> 01:23:17,000
+He was a very, very impressive man
+
+1069
+01:23:17,000 --> 01:23:19,000
+named Edgar Halbrenner.
+
+1070
+01:23:19,000 --> 01:23:22,000
+You know that name?
+
+1071
+01:23:22,000 --> 01:23:25,000
+Edgar came to Caltech also.
+
+1072
+01:23:25,000 --> 01:23:27,000
+He was Swiss.
+
+1073
+01:23:27,000 --> 01:23:29,000
+I think he was a Jew
+
+1074
+01:23:29,000 --> 01:23:31,000
+that left Germany and had gone to Switzerland
+
+1075
+01:23:31,000 --> 01:23:34,000
+just ahead of the Nazis
+
+1076
+01:23:34,000 --> 01:23:38,000
+and he was a superb scientist.
+
+1077
+01:23:38,000 --> 01:23:41,000
+He had a wonderful sense of humor
+
+1078
+01:23:41,000 --> 01:23:43,000
+and he taught me
+
+1079
+01:23:43,000 --> 01:23:47,000
+in my life how to make cheese fondue
+
+1080
+01:23:47,000 --> 01:23:49,000
+and he became very,
+
+1081
+01:23:49,000 --> 01:23:51,000
+went back to Switzerland,
+
+1082
+01:23:51,000 --> 01:23:52,000
+rose to the ranks,
+
+1083
+01:23:52,000 --> 01:23:55,000
+became a distinguished professor
+
+1084
+01:23:55,000 --> 01:23:58,000
+and went to Basel.
+
+1085
+01:23:58,000 --> 01:24:01,000
+He and Jack Dunnets were very close
+
+1086
+01:24:01,000 --> 01:24:02,000
+as families,
+
+1087
+01:24:02,000 --> 01:24:03,000
+so they had apartments
+
+1088
+01:24:03,000 --> 01:24:08,000
+just a couple of doors away from each other.
+
+1089
+01:24:08,000 --> 01:24:11,000
+Edgar died a few years ago
+
+1090
+01:24:11,000 --> 01:24:14,000
+and I had written to him
+
+1091
+01:24:14,000 --> 01:24:16,000
+when I knew that he was ill
+
+1092
+01:24:16,000 --> 01:24:19,000
+and I got a very nice letter back from him.
+
+1093
+01:24:19,000 --> 01:24:21,000
+And a year and a half later
+
+1094
+01:24:21,000 --> 01:24:23,000
+I was going to write a game
+
+1095
+01:24:23,000 --> 01:24:24,000
+and then a fellow named
+
+1096
+01:24:24,000 --> 01:24:26,000
+Ishin Moser showed up
+
+1097
+01:24:26,000 --> 01:24:28,000
+to give a lecture in chemistry
+
+1098
+01:24:28,000 --> 01:24:30,000
+and I knew Ishin Moser.
+
+1099
+01:24:30,000 --> 01:24:32,000
+I'd given a lecture in Zurich
+
+1100
+01:24:32,000 --> 01:24:34,000
+and Halbrenner always spoke
+
+1101
+01:24:34,000 --> 01:24:36,000
+very highly of Ishin Moser.
+
+1102
+01:24:36,000 --> 01:24:37,000
+So I said,
+
+1103
+01:24:37,000 --> 01:24:38,000
+how was Edgar?
+
+1104
+01:24:38,000 --> 01:24:39,000
+He said, oh he died.
+
+1105
+01:24:39,000 --> 01:24:41,000
+I was shocked.
+
+1106
+01:24:41,000 --> 01:24:43,000
+I'm absolutely shocked.
+
+1107
+01:24:43,000 --> 01:24:46,000
+And so I talked to Jack Dunnets
+
+1108
+01:24:46,000 --> 01:24:48,000
+about this running letter
+
+1109
+01:24:48,000 --> 01:24:50,000
+so I hadn't heard at all.
+
+1110
+01:24:50,000 --> 01:24:53,000
+He said, he apologized objectively
+
+1111
+01:24:53,000 --> 01:24:55,000
+for not having let me know.
+
+1112
+01:24:55,000 --> 01:24:58,000
+But then he said at the end,
+
+1113
+01:24:58,000 --> 01:25:01,000
+Edgar became very discouraged
+
+1114
+01:25:01,000 --> 01:25:03,000
+about something he had
+
+1115
+01:25:03,000 --> 01:25:07,000
+lost a leg in an accident.
+
+1116
+01:25:07,000 --> 01:25:10,000
+You probably know all about that.
+
+1117
+01:25:10,000 --> 01:25:11,000
+Oh.
+
+1118
+01:25:11,000 --> 01:25:13,000
+Well, I'll tell you that in a minute.
+
+1119
+01:25:13,000 --> 01:25:14,000
+But he came very discouraged
+
+1120
+01:25:14,000 --> 01:25:16,000
+and he was in the hospital
+
+1121
+01:25:16,000 --> 01:25:19,000
+and out and finally,
+
+1122
+01:25:19,000 --> 01:25:20,000
+according to Jack,
+
+1123
+01:25:20,000 --> 01:25:21,000
+it appears as if he just
+
+1124
+01:25:21,000 --> 01:25:24,000
+gave up and he died
+
+1125
+01:25:24,000 --> 01:25:26,000
+in the hospital.
+
+1126
+01:25:26,000 --> 01:25:27,000
+And in spite of him being
+
+1127
+01:25:27,000 --> 01:25:30,000
+very, very close to families,
+
+1128
+01:25:30,000 --> 01:25:31,000
+I said, well, how is Ruth doing?
+
+1129
+01:25:31,000 --> 01:25:33,000
+That said, to her life.
+
+1130
+01:25:33,000 --> 01:25:35,000
+He says, I don't know.
+
+1131
+01:25:35,000 --> 01:25:36,000
+He says it's amazing
+
+1132
+01:25:36,000 --> 01:25:39,000
+because she retreated
+
+1133
+01:25:39,000 --> 01:25:42,000
+into herself and has occupied herself
+
+1134
+01:25:42,000 --> 01:25:44,000
+solely with her children
+
+1135
+01:25:44,000 --> 01:25:46,000
+and grandchildren.
+
+1136
+01:25:46,000 --> 01:25:48,000
+We haven't ever heard a word from her.
+
+1137
+01:25:48,000 --> 01:25:50,000
+And he was terribly surprised
+
+1138
+01:25:50,000 --> 01:25:52,000
+because they were very close
+
+1139
+01:25:52,000 --> 01:25:54,000
+and she was an open,
+
+1140
+01:25:54,000 --> 01:25:58,000
+friendly woman with a great sense of humor.
+
+1141
+01:25:58,000 --> 01:26:00,000
+And maybe it just struck her so hard
+
+1142
+01:26:00,000 --> 01:26:03,000
+that she didn't want to have any connection
+
+1143
+01:26:03,000 --> 01:26:06,000
+with the past at all.
+
+1144
+01:26:06,000 --> 01:26:08,000
+I wrote her a letter
+
+1145
+01:26:08,000 --> 01:26:10,000
+and I never had a response
+
+1146
+01:26:10,000 --> 01:26:12,000
+offering my condolences
+
+1147
+01:26:12,000 --> 01:26:15,000
+that Edgar
+
+1148
+01:26:15,000 --> 01:26:22,000
+was a very athletic guy,
+
+1149
+01:26:22,000 --> 01:26:23,000
+particularly in a rowing.
+
+1150
+01:26:23,000 --> 01:26:25,000
+He was a single-score guy.
+
+1151
+01:26:25,000 --> 01:26:27,000
+He wrote on the lake in Zurich
+
+1152
+01:26:27,000 --> 01:26:29,000
+but he was a budding scientist
+
+1153
+01:26:29,000 --> 01:26:33,000
+and he told me all this.
+
+1154
+01:26:33,000 --> 01:26:36,000
+He had been out on the town
+
+1155
+01:26:36,000 --> 01:26:41,000
+of these girlfriend
+
+1156
+01:26:41,000 --> 01:26:46,000
+and they had come by the house
+
+1157
+01:26:46,000 --> 01:26:48,000
+where he lived.
+
+1158
+01:26:48,000 --> 01:26:50,000
+It was an apartment up here
+
+1159
+01:26:50,000 --> 01:26:51,000
+on this hill
+
+1160
+01:26:51,000 --> 01:26:53,000
+when the tram came down like this.
+
+1161
+01:26:53,000 --> 01:26:58,000
+One of these brand new Swiss trams,
+
+1162
+01:26:58,000 --> 01:26:59,000
+you know,
+
+1163
+01:26:59,000 --> 01:27:02,000
+that have all sorts of safety features on it.
+
+1164
+01:27:02,000 --> 01:27:05,000
+He was standing waiting for the tram
+
+1165
+01:27:05,000 --> 01:27:07,000
+after having run upstairs
+
+1166
+01:27:07,000 --> 01:27:09,000
+to see whether the article he had been
+
+1167
+01:27:09,000 --> 01:27:11,000
+had been accepted had been published
+
+1168
+01:27:11,000 --> 01:27:13,000
+and he was looking at a journal, you see.
+
+1169
+01:27:13,000 --> 01:27:14,000
+It had not been
+
+1170
+01:27:14,000 --> 01:27:15,000
+and he came back down
+
+1171
+01:27:15,000 --> 01:27:17,000
+and he was standing on the platform
+
+1172
+01:27:17,000 --> 01:27:19,000
+with his then girlfriend.
+
+1173
+01:27:19,000 --> 01:27:21,000
+And this tram came down the hill
+
+1174
+01:27:21,000 --> 01:27:24,000
+of the high rate of speed out of control
+
+1175
+01:27:24,000 --> 01:27:28,000
+and tipped over like this.
+
+1176
+01:27:28,000 --> 01:27:34,000
+I don't know whether his companion survived that
+
+1177
+01:27:34,000 --> 01:27:38,000
+and Ruth was not she.
+
+1178
+01:27:38,000 --> 01:27:39,000
+I think that's true.
+
+1179
+01:27:39,000 --> 01:27:41,000
+I think she was killed.
+
+1180
+01:27:41,000 --> 01:27:42,000
+But at any rate,
+
+1181
+01:27:42,000 --> 01:27:45,000
+his body went through a window of the tram
+
+1182
+01:27:45,000 --> 01:27:47,000
+but one leg was trapped underneath
+
+1183
+01:27:47,000 --> 01:27:50,000
+and they had to amputate it.
+
+1184
+01:27:50,000 --> 01:27:51,000
+So when I met him,
+
+1185
+01:27:51,000 --> 01:27:53,000
+he was using a cane
+
+1186
+01:27:53,000 --> 01:27:54,000
+in the antipocytic device.
+
+1187
+01:27:54,000 --> 01:27:58,000
+He didn't use crutches.
+
+1188
+01:27:58,000 --> 01:28:01,000
+But he was brilliant
+
+1189
+01:28:01,000 --> 01:28:04,000
+at all sorts of alerts in Switzerland
+
+1190
+01:28:04,000 --> 01:28:08,000
+for his science later on.
+
+1191
+01:28:08,000 --> 01:28:10,000
+It's hard for me to think about these people
+
+1192
+01:28:10,000 --> 01:28:13,000
+and knowing them as I did
+
+1193
+01:28:13,000 --> 01:28:15,000
+and then thinking about
+
+1194
+01:28:15,000 --> 01:28:18,000
+what would have happened to them
+
+1195
+01:28:18,000 --> 01:28:21,000
+bad.
+
+1196
+01:28:21,000 --> 01:28:26,000
+So that's about all I can tell you
+
+1197
+01:28:26,000 --> 01:28:28,000
+there are many, many minor details
+
+1198
+01:28:28,000 --> 01:28:32,000
+but those are the highlights.
+
+1199
+01:28:32,000 --> 01:28:34,000
+Not at all.
+
+1200
+01:28:34,000 --> 01:28:35,000
+Okay.
+
+1201
+01:28:35,000 --> 01:28:40,000
+Well, we will go ahead for today.
+
+1202
+01:28:40,000 --> 01:28:42,000
+Okay, you want to do more of this?
+
+1203
+01:28:42,000 --> 01:28:43,000
+Yes.
+
+1204
+01:28:43,000 --> 01:28:46,000
+Okay.
+

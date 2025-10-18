@@ -1,0 +1,3324 @@
+1
+00:00:00,000 --> 00:00:11,359
+Good. Okay. Okay. Okay. So if you would just we'll start by having you state your name and
+
+2
+00:00:11,359 --> 00:00:20,080
+state and location. My name is Steve Lawson. Today is August 26th, 2011 and we're in a conference
+
+3
+00:00:20,080 --> 00:00:26,960
+room at the Valley Library. Okay. Today we'll be talking primarily about your interactions with
+
+4
+00:00:26,960 --> 00:00:33,120
+one is calling specifically trying to get a better sense of calling sort of personal character
+
+5
+00:00:33,120 --> 00:00:39,600
+at this. But before we get into that, two people you have like you talked a little bit about your life
+
+6
+00:00:40,399 --> 00:00:47,519
+starting out with sort of a thumbnail sketch of your biography before you into the LCI 1977.
+
+7
+00:00:48,320 --> 00:00:53,920
+I was born in Pennsylvania in 1951 and lived there for the first few years of life. I remember
+
+8
+00:00:53,920 --> 00:00:58,800
+collecting donations for the Little League. World Championship is typically held in Williamsport,
+
+9
+00:00:58,800 --> 00:01:04,159
+Pennsylvania and Little League is big activity in that area of North Central, Pennsylvania.
+
+10
+00:01:04,960 --> 00:01:12,240
+We moved to Massachusetts along the coast north of Boston in the mid to late 1950s. I'm not
+
+11
+00:01:12,240 --> 00:01:17,439
+exactly sure of the date. But I went through elementary school and high school in Totsfield,
+
+12
+00:01:17,439 --> 00:01:23,439
+Massachusetts, which is a town in Essex County very close to the sea coast. We lived in Ipswich,
+
+13
+00:01:23,439 --> 00:01:31,439
+originally, which is a coastal town in Essex County. After graduation from high school,
+
+14
+00:01:31,439 --> 00:01:39,120
+I went to Stanford University and I was there in Palo Alto from 1969 to 1973. I started work at the
+
+15
+00:01:39,120 --> 00:01:46,560
+Linus Poly Institute of Science and Medicine in 1977 and took a full-time job there in February of 1978
+
+16
+00:01:47,519 --> 00:01:52,640
+and had a number of different job titles there through the years. Eventually, we'd be coming chief
+
+17
+00:01:52,640 --> 00:01:59,760
+executive officer in 1993 about a year before Linus Poly died and have worked at the institute
+
+18
+00:01:59,760 --> 00:02:06,640
+for most of my career. What led you to develop your interest in science or
+
+19
+00:02:06,640 --> 00:02:12,560
+the university member of the career? Well, that's an interesting question. I was a little
+
+20
+00:02:12,560 --> 00:02:17,920
+rudderless, I would say, in college. It was very difficult for me to focus on a career. Some of my
+
+21
+00:02:17,919 --> 00:02:23,679
+friends were very career-oriented and became physicians and lawyers, went on to business school,
+
+22
+00:02:23,679 --> 00:02:29,679
+and so forth. That's pretty typical for an environment of academic excellence like Stanford
+
+23
+00:02:29,679 --> 00:02:35,119
+University. There were a lot of high achievers there. And I myself was a high achiever, of course,
+
+24
+00:02:35,119 --> 00:02:41,759
+in high school. California was a big adventure for me coming from the relatively state and
+
+25
+00:02:41,759 --> 00:02:48,239
+conventional East Coast. And it was very wild time to be in California in 1969 through 1973,
+
+26
+00:02:48,239 --> 00:02:52,879
+both culturally and politically. It was a lot of anti-war activity and sentiments. And, of
+
+27
+00:02:52,879 --> 00:02:59,359
+course, the counter-culture was really thriving in California at that time. In high school, I was
+
+28
+00:02:59,359 --> 00:03:05,039
+very interested in science and took advanced calculus and physics and chemistry and biology.
+
+29
+00:03:05,199 --> 00:03:12,239
+With the idea of perhaps becoming an architect, which led me to apply to Rensselaer Polytechnic
+
+30
+00:03:12,239 --> 00:03:17,759
+Institute as one of my college choices because they had a very strong department of architecture.
+
+31
+00:03:18,719 --> 00:03:24,399
+Stanford, at the time, had a department of architecture as well. And I decided ultimately to go
+
+32
+00:03:24,399 --> 00:03:30,079
+to Stanford. And after I got there within a year, they had completely dismantled the department
+
+33
+00:03:30,080 --> 00:03:35,200
+of architecture. So that pretty much pulled the rug out from under me with respect to that
+
+34
+00:03:35,200 --> 00:03:40,800
+initial potential career choice. I like science very much. I've always liked science very much.
+
+35
+00:03:40,800 --> 00:03:46,960
+I've always been very curious about nature and how things work. And I think with respect to
+
+36
+00:03:46,960 --> 00:03:53,520
+a career in the Linus Poly Institute, although I was relatively naive about Linus Poly in high
+
+37
+00:03:53,520 --> 00:04:00,320
+school and even in my early years in college, I had been taking vitamin supplements beginning in
+
+38
+00:04:00,960 --> 00:04:08,000
+high school. Actually, my mom gave me one a day multivitamin supplements beginning probably when
+
+39
+00:04:08,000 --> 00:04:14,400
+I was just a kid. But then in the high school years, my friends and I got very interested in
+
+40
+00:04:15,360 --> 00:04:19,840
+supplements. And we're taking vitamin E and vitamin C and things like that. So the whole
+
+41
+00:04:20,479 --> 00:04:28,479
+mission of the Linus Poly Institute really resonated with me. And that led me to a position there
+
+42
+00:04:28,479 --> 00:04:35,599
+in 1977 that really was not science oriented at that time. It was more related to analysis of
+
+43
+00:04:35,599 --> 00:04:40,959
+the direct male program, which had been implemented within a few years before I joined the institute.
+
+44
+00:04:41,919 --> 00:04:47,439
+And it provided a relatively steady income for a lot of the non-grant supported research that
+
+45
+00:04:47,439 --> 00:04:51,519
+was going on at the institute, which of course in those days was most of the institute's research.
+
+46
+00:04:58,319 --> 00:05:08,560
+So between my graduation from Stanford and the time I joined the institute, it was a fairly
+
+47
+00:05:08,560 --> 00:05:13,439
+carefree and adventurous time. I spent a year after graduation traveling around the country
+
+48
+00:05:13,439 --> 00:05:19,519
+visiting family and friends in Florida and Georgia and Maine and New England. I wanted to see
+
+49
+00:05:19,519 --> 00:05:24,000
+the country. I'd been very impressed with John Steinbeck's books, travels with Charlie and others.
+
+50
+00:05:25,120 --> 00:05:31,680
+And also Jack Kerawak, who grew up and is now buried in the same area in which I grew up in Massachusetts.
+
+51
+00:05:32,560 --> 00:05:38,000
+So both of those writers had a very strong influence, I think, on me and my desires for
+
+52
+00:05:38,800 --> 00:05:44,879
+experience and adventure in the United States. When I returned to California, after traveling around
+
+53
+00:05:44,879 --> 00:05:51,519
+for a year or so, I took a series of jobs that really were not technical in nature at all.
+
+54
+00:05:51,519 --> 00:05:57,439
+Cost of living in those days was very low. I think for $100 a month, I could cover my living expenses
+
+55
+00:05:57,439 --> 00:06:02,480
+quite easily. And I was not, as I said, career oriented at the time. So I did not feel compelled
+
+56
+00:06:03,280 --> 00:06:08,000
+to go to graduate school or begin a career in earnest at that time and I didn't.
+
+57
+00:06:08,879 --> 00:06:15,040
+It wasn't until I joined the institute that I really started to focus more specifically on science,
+
+58
+00:06:15,040 --> 00:06:16,879
+which at that time really thrilled me.
+
+59
+00:06:18,160 --> 00:06:22,400
+Were there any, you mentioned your interest in supplements when you were in college and I
+
+60
+00:06:22,400 --> 00:06:26,240
+assumed that pollen was probably something you were aware of at least by the time you had
+
+61
+00:06:26,240 --> 00:06:31,280
+graduated? Was that true? And were there any other signs of their role models or mentors you had
+
+62
+00:06:31,279 --> 00:06:38,319
+during that time, dearly, from the money? Well, I began taking vitamins probably in an irregular way
+
+63
+00:06:39,279 --> 00:06:42,959
+when I was in high school, probably a senior in high school. And that continued on into my
+
+64
+00:06:42,959 --> 00:06:48,319
+early years in college. Of course, pollen had written vitamins in the common cold in 1970,
+
+65
+00:06:48,959 --> 00:06:53,439
+and friends of mine had open health food stores and had supplement products as part of their
+
+66
+00:06:54,079 --> 00:06:59,759
+merchandise or sales. So I was aware of this whole field, early on, without really knowing
+
+67
+00:06:59,759 --> 00:07:04,719
+specifically much about Linus Pauley. As a matter of fact, I knew very little of Linus Pauley,
+
+68
+00:07:05,439 --> 00:07:08,959
+even when I went to Stanford as a freshman. It wasn't until
+
+69
+00:07:10,560 --> 00:07:17,360
+probably about 1972 that I became more aware of him and it didn't have anything to do with science.
+
+70
+00:07:17,360 --> 00:07:22,000
+At the time, I don't believe he was teaching undergraduate courses in chemistry at Stanford,
+
+71
+00:07:22,719 --> 00:07:27,839
+which would have been my possible exposure to him. I don't think he was teaching graduate level
+
+72
+00:07:27,839 --> 00:07:34,000
+courses at Stanford either. But he was very politically active. And of course, this was during a lot
+
+73
+00:07:34,000 --> 00:07:39,599
+of pretty vehement anti-war protests around the country. Stanford was no exception to that kind of
+
+74
+00:07:39,599 --> 00:07:46,239
+activity. And in particular, there was a tenured professor of English, H. Bruce Franklin,
+
+75
+00:07:46,239 --> 00:07:51,519
+who was a Melville scholar, one of the world's foremost authorities on Melville, and has subsequently
+
+76
+00:07:51,519 --> 00:07:58,240
+done a lot of work in recognizing science fiction as an appropriate academic discipline for study.
+
+77
+00:07:59,519 --> 00:08:06,639
+And he had joined the Revolutionary Union and also Vence Aramos, which was an organization I believe
+
+78
+00:08:06,639 --> 00:08:11,680
+based in Redwood City, California. There were very politically active. They were kind of
+
+79
+00:08:11,680 --> 00:08:18,240
+Maoist organizations, and they really wanted not only an end to the Vietnam War, but I think more
+
+80
+00:08:18,240 --> 00:08:24,000
+dramatic upheaval in the federal government at that time. And Stanford eventually had had
+
+81
+00:08:24,000 --> 00:08:29,680
+enough of H. Bruce Franklin and considered, I think, some of his activities borderline legal,
+
+82
+00:08:29,680 --> 00:08:35,039
+and Franklin was getting in a lot of trouble. And they decided to fire him. And of course, he was
+
+83
+00:08:35,039 --> 00:08:40,240
+a tenured professor. So that was a big ordeal in protocol that they had to work through in order to
+
+84
+00:08:40,240 --> 00:08:46,480
+fire him. Stanford trustees at the time were quite conservative. And I remember walking to class
+
+85
+00:08:47,440 --> 00:08:55,279
+down at the Quadrangle at Stanford, and I saw a protest outside the president's office.
+
+86
+00:08:55,279 --> 00:09:00,080
+And there were a group of undergraduates and other people assembled around a couple of people
+
+87
+00:09:00,080 --> 00:09:06,960
+waving protest signs. And the signs had something to do with the university had no right to fire,
+
+88
+00:09:06,960 --> 00:09:13,680
+a tenured professor for his political activity. And I saw these two fellows holding these signs,
+
+89
+00:09:13,679 --> 00:09:18,159
+and they looked grandfatherly to me at the time. And one was Linus Pauling, and the other one I
+
+90
+00:09:18,159 --> 00:09:23,439
+believe was Hal Holman, who was chairman of the Department of Medicine at Stanford University
+
+91
+00:09:23,439 --> 00:09:29,439
+Medical Center, who was a liberal and a good friend of Linus Pauling's at the time. And I remember
+
+92
+00:09:29,439 --> 00:09:36,639
+being very impressed with the fact that these two elderly gentlemen were taking the time out
+
+93
+00:09:36,639 --> 00:09:40,719
+from their busy schedules to go and actually protesting in front of the president's office. I
+
+94
+00:09:40,720 --> 00:09:45,920
+thought that was quite remarkable because at that time most of the political activity was
+
+95
+00:09:45,920 --> 00:09:51,120
+concentrated among very young people. Sometimes it was very random and chaotic and
+
+96
+00:09:51,759 --> 00:09:56,560
+encoed as well, but I thought it was quite remarkable that there were older people who were also
+
+97
+00:09:56,560 --> 00:10:02,399
+interested in demonstrating for the rights of people to express their political opinions. So that
+
+98
+00:10:02,399 --> 00:10:11,039
+was my first, that was really my first awareness of Linus Pauling was from the political perspective,
+
+99
+00:10:11,039 --> 00:10:16,480
+and not really from the scientific angle. It wasn't until I joined the Linus Pauling Institute that
+
+100
+00:10:16,480 --> 00:10:22,559
+I really became much more familiar with Linus Pauling's work in chemistry and in biology.
+
+101
+00:10:24,399 --> 00:10:26,319
+What was your area of study?
+
+102
+00:10:27,439 --> 00:10:31,360
+Well, when I joined, when I went to Stanford, as I mentioned, I was very interested in
+
+103
+00:10:31,360 --> 00:10:36,800
+architecture as a potential career. So I was taking engineering and architecture while that
+
+104
+00:10:36,800 --> 00:10:44,320
+department lasted. And I also had kind of a renaissance concept of undergraduate education at the time.
+
+105
+00:10:44,320 --> 00:10:49,279
+I thought it was very important to take as many courses and different subjects as possible. So I
+
+106
+00:10:49,279 --> 00:10:55,920
+was taking calculus and biology and art history and literature and poetry and just everything that I
+
+107
+00:10:55,919 --> 00:11:02,799
+thought I should be exposed to as an undergraduate. I graduated with degree in anthropology in 1973,
+
+108
+00:11:02,799 --> 00:11:08,799
+but I probably had almost enough credits and biology for a degree in biology or at least a minor in
+
+109
+00:11:08,799 --> 00:11:17,199
+biology. And at the time, there were a couple of pretty notorious professors at Stanford who made
+
+110
+00:11:17,199 --> 00:11:23,599
+a big impression on me. One was Colin Pitendrig in the biology department. He, I believe, also was
+
+111
+00:11:23,600 --> 00:11:31,120
+director of the Hopkins Marine Station in Monterey, taught a terrific course in biology and also
+
+112
+00:11:31,120 --> 00:11:37,360
+Cachadorian. William DeMent taught a very popular course in sleep and dreams that was very popular
+
+113
+00:11:37,360 --> 00:11:47,519
+among undergraduates. Phil Pzenbardo, of course, was teaching very popular psychology course at the time.
+
+114
+00:11:48,160 --> 00:11:52,720
+And he went on to some famous, the leader of the Stanford Prison Experiment, which was quite
+
+115
+00:11:54,240 --> 00:12:02,320
+influential at the time. How did you come to know about the landfilling institute and the job
+
+116
+00:12:02,320 --> 00:12:11,120
+you were doing in life for? Well, I had lived in Memel Park, Palo Alto for many years. The institute
+
+117
+00:12:11,120 --> 00:12:18,320
+was founded in 1973 on Sandhill Road, opposite the Stanford linear accelerator. And at that time,
+
+118
+00:12:18,320 --> 00:12:28,720
+that part of Sandhill Road, primarily the northern side of Sandhill Road, headed west, was a
+
+119
+00:12:28,720 --> 00:12:33,600
+series of relatively new buildings on Tom Ford property. He was a trustee of Stanford University.
+
+120
+00:12:34,400 --> 00:12:39,840
+And there were publishing companies and real estate companies and insurance companies.
+
+121
+00:12:40,480 --> 00:12:48,320
+Now that area is a high of venture capitalist activity. But the institute, in those days,
+
+122
+00:12:48,320 --> 00:12:56,480
+I believe the 2700 Sandhill Road shared relatively modern office building with Kemper Insurance Company.
+
+123
+00:12:56,480 --> 00:13:02,240
+And I was aware of the sign out on the street. So I'd driven by there many times on my way to the
+
+124
+00:13:02,399 --> 00:13:12,480
+coastal range or to the beach. And I think that if I remember correctly, I saw an advertisement in
+
+125
+00:13:12,480 --> 00:13:18,080
+the paper specifically for a job without a lot of detailed description about the nature of the job.
+
+126
+00:13:18,639 --> 00:13:23,919
+And I went to interview at the Linus Plain Institute of Science and Medicine and interviewed with
+
+127
+00:13:23,919 --> 00:13:28,799
+Art Robinson, who was then the president and director of the institute. And he hired me.
+
+128
+00:13:28,799 --> 00:13:33,839
+Do you recall the first time that you met Linus Plain?
+
+129
+00:13:36,079 --> 00:13:41,599
+Well, the first time I saw him, of course, was, as I said back in about probably 1972 when he was
+
+130
+00:13:41,599 --> 00:13:51,199
+demonstrating against the firing of H. Bruce Franklin. I met him in 1977 because my office was
+
+131
+00:13:51,199 --> 00:13:57,199
+just off the hallway that Pauling took to get to his office, which was adjacent to Art Robinson's
+
+132
+00:13:57,200 --> 00:14:01,920
+office, and also the accountant and controller were down at the end of that office as well.
+
+133
+00:14:02,720 --> 00:14:06,800
+And he was very aware of who was working at the institute and what all the activities were.
+
+134
+00:14:06,800 --> 00:14:12,080
+And he stopped in to introduce himself to me when I was sitting in my office one day. And of course,
+
+135
+00:14:12,080 --> 00:14:19,440
+I was, I had remembered him from Stanford and I had become more aware of his scientific legend,
+
+136
+00:14:19,440 --> 00:14:24,640
+of course, by then by working at the Linus Plain Institute. And I was also aware of the fact that
+
+137
+00:14:24,639 --> 00:14:29,199
+this was his institute and it was named after him. So of course, I had, I had high regard for him
+
+138
+00:14:29,199 --> 00:14:35,039
+as being the founder of this organization that I was now working for. But he impressed me as a very
+
+139
+00:14:35,039 --> 00:14:41,840
+warm, charming, very friendly person. He was not cerebral or distant at all, not a luth. He was very
+
+140
+00:14:43,439 --> 00:14:44,159
+very welcoming.
+
+141
+00:14:46,159 --> 00:14:51,120
+What he frequently around the institute, I mean, I know he traveled a lot, but we recall him being
+
+142
+00:14:51,919 --> 00:14:54,720
+of regular presence on a really nice day.
+
+143
+00:14:54,720 --> 00:14:59,440
+He did travel quite a lot, but I do remember him being a regular presence. Certainly when he was
+
+144
+00:14:59,440 --> 00:15:04,399
+in town, he would come by the institute that was his office and his main base of operations.
+
+145
+00:15:05,120 --> 00:15:11,440
+And if he had to do interviews or see guests, it was typically at the Linus Plain Institute in his office.
+
+146
+00:15:12,720 --> 00:15:18,000
+And I remember meeting many of his friends at that time, including an emissary from St. George's
+
+147
+00:15:18,000 --> 00:15:26,399
+lab at Woods Hole. I believe his name was. I can't think of his name right now. It started with a P.
+
+148
+00:15:28,399 --> 00:15:33,759
+It was very interesting in telling us about St. George's new theories regarding vitamin C and
+
+149
+00:15:33,759 --> 00:15:40,639
+the electronic basis of life. Vitamin C is an electron donor being very essential to life far
+
+150
+00:15:40,639 --> 00:15:47,600
+above its role in preventing scurvy or as an antioxidant. Dorothy Hodgkin also came through the
+
+151
+00:15:47,600 --> 00:15:54,000
+institute at that time and it was fairly soon after I arrived at the institute that I also met
+
+152
+00:15:54,000 --> 00:15:59,759
+you in Cameron, who of course was a Scottish surgeon who was collaborating intensively with
+
+153
+00:15:59,759 --> 00:16:07,200
+Linus Pauling on vitamin C and cancer work. Did you meet Dorothy Hodgkin? I did. I met Dorothy Hodgkin.
+
+154
+00:16:07,200 --> 00:16:15,200
+At that time, I believe I was working in the laboratory. I had begun a friendship with a
+
+155
+00:16:15,200 --> 00:16:20,480
+biochemist named Alan Sheetz at the institute as well as Dick Willoughby who was a biologist working
+
+156
+00:16:20,480 --> 00:16:25,920
+on the skin cancer and vitamin C experiments that Pauling had designed and were being carried out
+
+157
+00:16:25,920 --> 00:16:34,560
+by Art Robinson at the time. And as arts influence in the institute started to wane, people responsible
+
+158
+00:16:34,560 --> 00:16:41,440
+for a lot of the biological and biochemical work were encouraging me to get more involved in that work.
+
+159
+00:16:42,160 --> 00:16:47,520
+I seemed to have the aptitude for it. I was quite interested in it. So I moved out of the role
+
+160
+00:16:47,520 --> 00:16:52,560
+that I was originally hired to perform at the institute, which was this direct male solicitation
+
+161
+00:16:52,560 --> 00:17:01,600
+work and analysis into kind of a research assistant position in the labs. And that led me to come
+
+162
+00:17:01,600 --> 00:17:06,720
+in contact with people that Pauling would bring through the laboratory to show them the work that
+
+163
+00:17:06,720 --> 00:17:13,759
+we were doing. Bill Abarth at the time was running a volcano source field ionization mass spectrometer,
+
+164
+00:17:13,759 --> 00:17:18,559
+which was used for metabolite profiling, which was a big chunk of the institute's research at the time.
+
+165
+00:17:19,120 --> 00:17:23,200
+So people were always interested in coming down to the first floor and seeing that
+
+166
+00:17:23,200 --> 00:17:28,319
+rubbed goldberg contraption, which was always undergoing tinkering. Never seemed to be quite ready
+
+167
+00:17:28,319 --> 00:17:34,000
+for routine biological experimentation. And since I was working in the laboratory at that time,
+
+168
+00:17:34,000 --> 00:17:38,319
+I would meet people that Pauling would bring through the laboratory. And one of them with Dorothy Hodgkin.
+
+169
+00:17:41,119 --> 00:17:50,400
+So Pauling, you were hired in 1977 at LPI and have built a career there. Pauling lived until 1994.
+
+170
+00:17:50,400 --> 00:17:56,480
+So that's a 17-year period. And one of you can just generally characterize your relationship with Pauling.
+
+171
+00:17:56,480 --> 00:18:02,400
+How did you evolve over those 17 years? Sure. Well, originally I saw
+
+172
+00:18:03,839 --> 00:18:09,599
+little of him because my work did really not overlap with his research interests. I mean, of course,
+
+173
+00:18:09,599 --> 00:18:15,920
+he was heavily involved in the financial status of the institute. And Art Robinson was the main force
+
+174
+00:18:15,920 --> 00:18:21,279
+behind the Direct Mail solicitation program. But Pauling was certainly aware of that. And
+
+175
+00:18:21,599 --> 00:18:32,160
+once I started working in the laboratory more, we had more to talk about. And I became heavily involved
+
+176
+00:18:32,160 --> 00:18:38,960
+in the skin cancer and hairless mice program, which was testing the effect of different levels
+
+177
+00:18:38,960 --> 00:18:45,920
+of vitamin C in a mouse-chow diet on the development of skin cancer in hairless mice exposed to
+
+178
+00:18:45,920 --> 00:18:52,880
+ultraviolet light. And other arms of those experiments. And there were a number of experiments that
+
+179
+00:18:52,880 --> 00:19:00,720
+took place over a number of years. Some of the other arms of that project involved feeding raw food
+
+180
+00:19:00,720 --> 00:19:07,840
+and nuts to mice to see whether that also inhibited the development of skin cancer when the mice
+
+181
+00:19:07,840 --> 00:19:13,680
+were exposed to ultraviolet light. So the mice were given things like carrots and pears and sunflower
+
+182
+00:19:13,680 --> 00:19:21,519
+seeds and tomatoes and other raw food to find out what effect that would have. And when Art
+
+183
+00:19:21,519 --> 00:19:28,560
+Robinson left, Pauling, of course, was interested in finding out how this work was going. And he asked
+
+184
+00:19:28,560 --> 00:19:35,920
+me to, I believe the first project that he asked me specifically to get involved in was to calculate
+
+185
+00:19:35,920 --> 00:19:42,799
+the amount of certain micronutrients in the food that these mice were fed. Because as scientists,
+
+186
+00:19:42,799 --> 00:19:46,799
+we tend to be a little reductionist, we want to find out if there is an effect with the whole
+
+187
+00:19:46,799 --> 00:19:53,519
+food, then what is it in the food that might be protective? So that was a very challenging
+
+188
+00:19:56,000 --> 00:20:03,919
+project that Pauling gave to me. And I was a bit frustrated because the way that the food had been
+
+189
+00:20:03,919 --> 00:20:09,759
+provided to the mice made it very difficult to determine how much an individual mouse consumed
+
+190
+00:20:09,759 --> 00:20:17,440
+of any particular food stuff. The mice were also caged five to a cage. And there were social
+
+191
+00:20:17,440 --> 00:20:22,400
+patterns that developed of hierarchy that developed within the cage. So there were dominant mice
+
+192
+00:20:22,960 --> 00:20:29,359
+who would eat the preferred food and then the less dominant mice would get what was left. So
+
+193
+00:20:29,359 --> 00:20:33,839
+there was some competition for the best food, the most flavorful food for the mice.
+
+194
+00:20:34,240 --> 00:20:42,159
+The way the food was provided to them was sometimes as a mush ground up or blended food and
+
+195
+00:20:42,159 --> 00:20:48,240
+sometimes as chunks of carrots and pears and so forth. The sunflower seeds were given to them
+
+196
+00:20:48,240 --> 00:20:54,240
+in small glass containers with metal lids that had a hole in them. And the mice would spray the
+
+197
+00:20:54,240 --> 00:21:00,799
+sunflower seeds out all over the place. And it was really impossible to determine the intake of
+
+198
+00:21:00,799 --> 00:21:06,319
+any of these foods for specific animal. And even for a cage of animals divided by five was really
+
+199
+00:21:06,319 --> 00:21:12,879
+not appropriate calculation. There was a lot of waste so a lot of the food would fall through the
+
+200
+00:21:14,319 --> 00:21:22,000
+mesh to the floor to the cage rack. And sometimes they would defecate and urinate in the sunflower
+
+201
+00:21:22,000 --> 00:21:28,720
+seed container as well and then wouldn't continue to eat once they'd already defecated or urinated
+
+202
+00:21:28,799 --> 00:21:37,600
+in that container. There were other issues as well. For instance the vitamin A content of carrots
+
+203
+00:21:37,600 --> 00:21:42,960
+can differ appreciably depending upon how long the carrots are stored after they've been picked.
+
+204
+00:21:43,680 --> 00:21:47,440
+And that was something that was not measured at the time. So there was no analysis,
+
+205
+00:21:47,440 --> 00:21:53,039
+biochemical analysis of the food that was provided to the animals. And depending upon the variety,
+
+206
+00:21:54,000 --> 00:22:00,079
+ripeness, length of time something had been stored whether it was refrigerated or stored at room
+
+207
+00:22:00,079 --> 00:22:05,279
+temperature. The micronutrient content of the food stuffs provided to the mice could very
+
+208
+00:22:06,159 --> 00:22:15,440
+appreciably. So I made the calculations and I sat down with Linus Pauling and told him that in my
+
+209
+00:22:15,440 --> 00:22:21,839
+estimation it was really impossible to glean any really useful detailed information about the
+
+210
+00:22:21,839 --> 00:22:26,559
+micronutrient intake of these animals and that the best we could do was say that the raw food
+
+211
+00:22:26,559 --> 00:22:32,720
+diet seemed to be protective but it was it was just too difficult to determine what constituents in
+
+212
+00:22:32,720 --> 00:22:38,480
+the raw food diet conferred that protection. So it was a little bit, I was a little bit ambivalent
+
+213
+00:22:38,480 --> 00:22:45,279
+about that. I think I did a very thorough and good job in making these determinations but ultimately
+
+214
+00:22:46,079 --> 00:22:48,879
+what I had to say was a little bit disappointing I think.
+
+215
+00:22:51,839 --> 00:22:56,639
+Oh he didn't react with disappointment. He reacted as I was presenting him with facts and
+
+216
+00:22:56,639 --> 00:23:03,519
+calculations and he was very seemed very pleased to get the information. It was not long after that
+
+217
+00:23:03,519 --> 00:23:08,959
+that you and Cameron began spending quite a lot more time at the institute and I believe they'd
+
+218
+00:23:08,959 --> 00:23:16,399
+taken an apartment nearby maybe Redwood City and Cameron of course was very interested in
+
+219
+00:23:16,480 --> 00:23:22,160
+high dose vitamin C as a junk to therapy and cancer as was Pauling and they had done some clinical
+
+220
+00:23:22,160 --> 00:23:29,600
+work together over the years beginning probably in 1971-1972 so it even preceded the founding
+
+221
+00:23:29,600 --> 00:23:36,400
+of the Linus Pauling Institute of Science and Medicine. And Cameron was concerned with some of the
+
+222
+00:23:36,400 --> 00:23:44,800
+practical issues about the administration of high dose vitamin C to cancer patients who might
+
+223
+00:23:44,799 --> 00:23:52,399
+also be taking chemotherapy drugs and we know that vitamin C has some general detoxification
+
+224
+00:23:52,399 --> 00:23:59,599
+properties and Cameron specifically was concerned that if people were taking chemotherapy drugs
+
+225
+00:24:00,319 --> 00:24:05,359
+then should they take high dose vitamin C at the same time which might have an effect on the
+
+226
+00:24:05,839 --> 00:24:11,119
+efficacy of the chemotherapy drugs. So he didn't want to recommend to people that they take
+
+227
+00:24:11,119 --> 00:24:18,959
+high dose vitamin C while taking chemotherapy if the vitamin C was going to somehow adversely affect
+
+228
+00:24:18,959 --> 00:24:26,399
+these drugs. So he wanted to find a way to study this and in association with Linus Pauling and
+
+229
+00:24:26,399 --> 00:24:34,079
+Alan Sheetz we came up with the idea of using fish toxicology experiments which is a pretty well
+
+230
+00:24:34,079 --> 00:24:40,319
+established model for studying pollution in streams and lakes and bodies of water and things
+
+231
+00:24:40,319 --> 00:24:48,559
+like that. So we read a lot about fish toxicology Alan and I figured out how to reconstitute water
+
+232
+00:24:48,559 --> 00:24:57,119
+from distilled water by adding back certain salts to provide the proper habitat for fingerling trout.
+
+233
+00:24:57,679 --> 00:25:05,359
+And the idea was that we would have fingerling trout that would be exposed to vitamin C and
+
+234
+00:25:05,839 --> 00:25:12,479
+chemotherapy drugs dissolved in their water that they were living in and we would monitor any
+
+235
+00:25:12,479 --> 00:25:19,759
+observable effects in the fish and we hypothesized that they would be detected by abnormal behavior
+
+236
+00:25:19,759 --> 00:25:24,959
+in the fish which would have to do with the way they swim the distance that they cover in a certain
+
+237
+00:25:24,959 --> 00:25:29,839
+period of time and so forth. So there was some technology that was also developed to make these
+
+238
+00:25:29,919 --> 00:25:35,599
+kinds of measurements. So that was another project that I worked with you and Cameron Inline
+
+239
+00:25:35,599 --> 00:25:43,359
+as Pauling. Unfortunately we had to vacate the building at 2700 Sandhill Road in Menlo Park
+
+240
+00:25:44,639 --> 00:25:52,000
+ostensibly because there had been cracks in the building due to small earthquakes over time.
+
+241
+00:25:52,000 --> 00:25:58,879
+It wasn't a building that was set on bedrock it was on loose soil and the landlord wanted to
+
+242
+00:25:58,960 --> 00:26:04,800
+get the tenants out make some structural corrections in the building and I don't think the landlord
+
+243
+00:26:04,800 --> 00:26:09,120
+was overly excited by a laboratory in the building anyway. We were sharing the building with
+
+244
+00:26:09,120 --> 00:26:14,960
+Kemper insurance company and I think he was more happy with having nice dry insurance company
+
+245
+00:26:14,960 --> 00:26:19,120
+and having wet labs there with animal experiments and physics experiments and so forth.
+
+246
+00:26:20,960 --> 00:26:27,840
+So those experiments had to be wrapped up before we really brought them to fruition before we move
+
+247
+00:26:27,839 --> 00:26:31,119
+to the facility at 440 Page Mill Road in Palo Alto.
+
+248
+00:26:33,119 --> 00:26:37,679
+Were there other scientific collaborations with Pauling and over the course of your relationship?
+
+249
+00:26:38,720 --> 00:26:44,079
+There were. He would come into my office from time to time and we would talk about
+
+250
+00:26:45,439 --> 00:26:50,639
+ideas he had different projects that he was interested in. Occasionally he would ask me if I
+
+251
+00:26:50,639 --> 00:26:55,599
+would be interested in doing something like writing a book review which was a little surprising but
+
+252
+00:26:56,559 --> 00:27:03,039
+when Evelyn Richards book of Vitamin C in Cancer Medicine or Politics was published I believe in 1991
+
+253
+00:27:03,039 --> 00:27:08,559
+or 1992 Linus Pauling came into my office with a copy of the book and asked me if I would be
+
+254
+00:27:08,559 --> 00:27:13,679
+interested in writing a book review to be submitted to a nutrition journal and I of course said yes
+
+255
+00:27:13,679 --> 00:27:20,480
+and wrote the review which was subsequently published in a nutrition journal. Later
+
+256
+00:27:21,440 --> 00:27:26,000
+and of course I would go into his office from time to time and talk with him about different things.
+
+257
+00:27:26,720 --> 00:27:31,120
+The quantum chemist by the name of Zele Kermit who was collaborating with Pauling and
+
+258
+00:27:31,120 --> 00:27:38,319
+Problems in Theoretical Chemistry and Physics over the whole period in the late 1970s through Pauling's
+
+259
+00:27:38,319 --> 00:27:44,319
+death. Zele Kermit and I were both rock hounds. We had collected rocks and minerals when we were
+
+260
+00:27:44,319 --> 00:27:49,440
+kids and we knew that Pauling was was a great mineralologist and understood a lot about the
+
+261
+00:27:49,440 --> 00:27:55,200
+silicate minerals which are quite interesting so the three of us would amuse ourselves occasionally by
+
+262
+00:27:56,880 --> 00:28:01,279
+Zele Kermit and I would bring in some of our mineral specimens and we would sit in Pauling's office
+
+263
+00:28:01,279 --> 00:28:07,120
+and try to stump the expert essentially. Sometimes Zele Kermit and I would have forgotten the
+
+264
+00:28:07,120 --> 00:28:12,080
+identifications of some of the minerals we had so they would be presented to Dr. Pauling to see if
+
+265
+00:28:12,080 --> 00:28:18,080
+he could identify them and it was astonishing because even though he had probably not thought about
+
+266
+00:28:18,079 --> 00:28:24,399
+some of these things in many many years or even decades he infallibly was able to identify the
+
+267
+00:28:24,399 --> 00:28:30,480
+mineral and make a fairly quick identification so that was fun. It didn't have anything to do with
+
+268
+00:28:30,480 --> 00:28:36,879
+any of the research going on at the institute but it was it was very fun to to sit and talk with him
+
+269
+00:28:36,879 --> 00:28:47,599
+in that way. Later in the late 1980s and I'm going to say probably around 1988 Pauling came into my
+
+270
+00:28:47,599 --> 00:28:54,319
+office with an idea for a new technique to fabricate superconductive material and this was
+
+271
+00:28:54,319 --> 00:29:01,439
+during kind of a heyday of resurgence of interest in ceramic superconductors but Pauling had a
+
+272
+00:29:01,439 --> 00:29:07,119
+vastly different idea which had to do with the way a material could be fabricated and perhaps
+
+273
+00:29:07,119 --> 00:29:12,879
+that would raise the temperature which would be superconductive and it had to do with
+
+274
+00:29:12,960 --> 00:29:19,360
+excuse me phone on dampening and his idea was that if you could have a conductive metal
+
+275
+00:29:20,480 --> 00:29:30,080
+like tin drawn to an incredibly fine fibrill as he called it maybe 10 or 20 angstroms in diameter
+
+276
+00:29:30,080 --> 00:29:37,520
+surrounded by insulating material like glass then the superconductive temperature of the tin
+
+277
+00:29:37,519 --> 00:29:43,359
+would be increased the TC of the tin would be raised and he talked with me about some ideas
+
+278
+00:29:43,359 --> 00:29:48,720
+that he had and how to make this material which he believed would be important in supporting a
+
+279
+00:29:48,720 --> 00:29:55,359
+patent application that he wanted to file and his goal I think in filing this patent application
+
+280
+00:29:55,359 --> 00:30:02,879
+as he described it to me and others was to generate a stable revenue source for the institute
+
+281
+00:30:02,880 --> 00:30:09,840
+so he wasn't interested in acquiring wealth on his own but he was interested in looking for
+
+282
+00:30:09,840 --> 00:30:14,720
+revenue sources for the institute which had lurched from one financial crisis to another
+
+283
+00:30:15,200 --> 00:30:20,000
+throughout my whole tenure at the Oinas Bong Institute of Science and Medicine and he thought
+
+284
+00:30:20,000 --> 00:30:25,680
+that this might be something that could be licensed and would generate lots of income so Zella
+
+285
+00:30:25,680 --> 00:30:31,920
+Kermann and I set up a laboratory Stanford industrial park at a least facility that the institute
+
+286
+00:30:32,480 --> 00:30:40,080
+had on Porter Drive which also has the Susakawa aging research facility and some storage area
+
+287
+00:30:40,960 --> 00:30:51,120
+and we set up a laboratory bought an oven some torches blow torches compress gas borosilicate glass
+
+288
+00:30:51,120 --> 00:30:56,800
+tin and Zee could develop a very interesting way to collect the material that we were going to
+
+289
+00:30:56,799 --> 00:31:03,919
+produce which was a bicycle inverted on a block of wood and we had taken the rubber tire off
+
+290
+00:31:03,919 --> 00:31:10,079
+the bike rim and we wanted to collect this glass clad fibrill of tin that we would generate
+
+291
+00:31:10,639 --> 00:31:16,159
+with torches above the furnace and then connect it to the bicycle wheel and then
+
+292
+00:31:17,039 --> 00:31:22,399
+use the pedals or a crank to turn the bicycle rim and then we would collect in a circular
+
+293
+00:31:22,400 --> 00:31:31,040
+fashion this long piece of glass that was filled with tin. So there was a lot of trial and error
+
+294
+00:31:31,040 --> 00:31:36,320
+involved in that and you and Kermann was aware of what we were doing as well and he developed
+
+295
+00:31:36,320 --> 00:31:40,960
+kind of a special interest in this as well so you and Kermann and Zella Kermann and I spent
+
+296
+00:31:40,960 --> 00:31:48,160
+quite a lot of time in this laboratory at Porter Drive trying to produce this material and it was
+
+297
+00:31:48,240 --> 00:31:54,720
+interesting in another way as well in that Pauline was very interested in seeing the laboratory
+
+298
+00:31:54,720 --> 00:32:01,200
+notebooks and wanted to be sure that we were taking copious and meticulous notes on what we were
+
+299
+00:32:01,200 --> 00:32:06,960
+doing and the laboratory notebook page for instance had to be signed and dated and then periodically
+
+300
+00:32:06,960 --> 00:32:12,640
+I believe once a week or once every two weeks someone who was not associated with the project was
+
+301
+00:32:12,640 --> 00:32:18,400
+asked to read what had been put in the laboratory notebook and countersign it so typically we asked
+
+302
+00:32:18,400 --> 00:32:23,680
+Emil Zucacamba who was the president of the institute at that time to read what we'd written in
+
+303
+00:32:23,680 --> 00:32:30,160
+the lab notebook and then he would countersign it and dated as well which was when I was working
+
+304
+00:32:30,160 --> 00:32:36,960
+as a scientist at the institute I think I was aware of how important it is to maintain good
+
+305
+00:32:36,960 --> 00:32:41,600
+protocol and filling out data and laboratory notebooks you don't erase things you cross them out
+
+306
+00:32:42,559 --> 00:32:48,959
+glue or tape things and use pen date and so forth so that in the future people who are unfamiliar
+
+307
+00:32:48,959 --> 00:32:54,639
+with your work could theoretically be able to go back and repeat what you'd done based only on
+
+308
+00:32:54,639 --> 00:33:01,199
+the information provided in the lab notebook and that was that concept was really driven home
+
+309
+00:33:01,199 --> 00:33:05,519
+through this work for Linus Pauline because he was very interested in us maintaining
+
+310
+00:33:06,000 --> 00:33:12,400
+very meticulous laboratory notebook which we did he was quite happy with it and after many months
+
+311
+00:33:12,400 --> 00:33:20,240
+of trial and error and kind of a sophisticated development of this technique and examination of
+
+312
+00:33:20,240 --> 00:33:26,639
+the product through high power magnification we were able to come up with material that we thought
+
+313
+00:33:26,639 --> 00:33:33,119
+would be suitable needed to be tested of course to see whether or not the superconductive temperature
+
+314
+00:33:33,199 --> 00:33:40,319
+had changed but Pauline was just ecstatic at that time he was in an apartment in Stanford and
+
+315
+00:33:40,319 --> 00:33:46,319
+we Zeke and I were very excited and we brought a sample of this down to his apartment and
+
+316
+00:33:47,039 --> 00:33:54,319
+he himself was very excited it was it was I can imagine that he exhibited this kind of
+
+317
+00:33:55,519 --> 00:34:00,719
+emotion many times throughout his life whenever he made an important scientific discovery or
+
+318
+00:34:00,720 --> 00:34:06,400
+became aware of an important discovery that influenced his own work but he just looked joyful
+
+319
+00:34:06,400 --> 00:34:14,960
+and he immediately went over to the mantle on fireplace and got a big cubic pyrate crystal and
+
+320
+00:34:14,960 --> 00:34:19,199
+gave one to me and gave something to Zeke and then said be sure to bring your copies of General
+
+321
+00:34:19,199 --> 00:34:26,320
+Chemistry in and unscribed them on the occasion of this happy discovery and invention that we've
+
+322
+00:34:26,320 --> 00:34:33,440
+made and that work formed the basis for his patent application and I believe his patent for
+
+323
+00:34:33,440 --> 00:34:41,440
+novel technique for fabricating superconductive material was awarded in perhaps 1991 I think
+
+324
+00:34:41,440 --> 00:34:48,080
+to where initial applications submitted as early as 1988-1989 but I think that the final application
+
+325
+00:34:48,880 --> 00:34:55,440
+was the final patent was granted in 1991. Was that technique ever employed on any of them?
+
+326
+00:34:56,559 --> 00:35:01,360
+Well it would turn out to be very difficult to measure changes in superconductivity
+
+327
+00:35:01,360 --> 00:35:06,960
+in this material because if you can imagine getting an appropriate contact between
+
+328
+00:35:07,920 --> 00:35:14,239
+the end of this tin fibro that was maybe 10 to 20 angstroms in diameter was extremely difficult.
+
+329
+00:35:14,959 --> 00:35:18,719
+We sent the material off to General Electric and connected he Pauling had
+
+330
+00:35:19,279 --> 00:35:23,519
+contacted a number of his friends in industry to find out if they had equipment that might be
+
+331
+00:35:24,319 --> 00:35:29,759
+capable of measuring making these measurements for us so there were problems in actually making
+
+332
+00:35:29,759 --> 00:35:35,439
+the measurements but the vice president of the institute Rick Hicks at the time felt that since
+
+333
+00:35:35,439 --> 00:35:42,399
+we had the patent in hand we should try to license it so he embarked on a process of
+
+334
+00:35:43,039 --> 00:35:46,960
+trying to identify companies in the United States that might be interested in licensing
+
+335
+00:35:46,960 --> 00:35:53,360
+this technology and he wasn't having much success in this country he went to Japan I believe in
+
+336
+00:35:53,360 --> 00:36:00,800
+probably about 1991 or 1992 and tried to shop it around there also without I'm sure there was
+
+337
+00:36:00,800 --> 00:36:08,559
+interest expressed but there was nothing that was really consummated at the time and it led to
+
+338
+00:36:09,519 --> 00:36:18,719
+kind of an interesting exchange sometime later when Rick had returned from Asia some months had
+
+339
+00:36:18,719 --> 00:36:24,960
+gone by Emil Zucacondo called me on the intercom if I would come down to his office because we had
+
+340
+00:36:24,960 --> 00:36:31,679
+a visitor and I went down to his office and we had someone there from the Central Intelligence
+
+341
+00:36:31,759 --> 00:36:39,119
+Agency who was very interested in this particular invention and wanted to know why we were
+
+342
+00:36:39,839 --> 00:36:45,119
+shopping this around in Japan and in other countries rather than the United States and I explained
+
+343
+00:36:45,119 --> 00:36:50,239
+to him that well the reason was we hadn't been able to find anyone in the United States who was
+
+344
+00:36:50,239 --> 00:36:54,639
+interested I thought it was quite interesting that the CIA seemed to know about this
+
+345
+00:36:55,599 --> 00:37:02,559
+and that was the end of that that was pretty much the end of that I think there was a misq
+
+346
+00:37:02,559 --> 00:37:11,359
+later that had to do with the turmoil surrounding Pauling's death and succession of people in
+
+347
+00:37:11,359 --> 00:37:17,359
+charge of the institute and files being shifted around and so forth and somehow the application to
+
+348
+00:37:17,359 --> 00:37:22,079
+continue the maintenance fee on that particular patent fell through the cracks so I think that
+
+349
+00:37:22,880 --> 00:37:28,719
+I think the reason that it died effectively was because the maintenance fee was not paid
+
+350
+00:37:29,279 --> 00:37:30,960
+unfortunately.
+
+351
+00:37:38,239 --> 00:37:43,840
+Not really I think that the vitamin C and skin cancer experiments of course I was co-author of
+
+352
+00:37:43,840 --> 00:37:50,400
+one of the papers that resulted from that work and in the superconductive material were
+
+353
+00:37:50,480 --> 00:37:58,160
+two major collaborations. How do you describe Coins' style of the scientists and what do you
+
+354
+00:37:58,160 --> 00:38:03,920
+observe where I think the greatest strengths of the scientists? Well he as many people have
+
+355
+00:38:03,920 --> 00:38:10,880
+remarked had an encyclopedic knowledge of physics chemistry biology perhaps medicine
+
+356
+00:38:13,440 --> 00:38:20,000
+mathematics statistics had an incredibly good grasp of statistics and that served
+
+357
+00:38:20,159 --> 00:38:25,599
+him very well I think as a scientist because he was as I like to say perhaps the best embodiment
+
+358
+00:38:25,599 --> 00:38:32,320
+of the multidisciplinary or interdisciplinary attack on scientific problems and of course that's
+
+359
+00:38:33,360 --> 00:38:38,079
+a buzz word in science today and that's what the NIH and funding agencies encourage is kind of
+
+360
+00:38:38,079 --> 00:38:44,480
+team activity but it was remarkable that this kind of knowledge expansive and encyclopedic
+
+361
+00:38:44,480 --> 00:38:50,480
+knowledge was exhibited in one particular person in the in Linus Pauling which I think was quite
+
+362
+00:38:50,480 --> 00:38:59,039
+remarkable. So his memory as well his ability to extract references and facts and material from
+
+363
+00:38:59,039 --> 00:39:04,000
+other papers and so forth that span most of his life was quite remarkable so I think those two
+
+364
+00:39:04,000 --> 00:39:10,240
+things served him incredibly well as a scientist and I saw that in action many times when he could
+
+365
+00:39:10,239 --> 00:39:16,319
+cite other literature and talk about what other people had found and so forth so I was very
+
+366
+00:39:16,319 --> 00:39:25,199
+impressed by his grasp of science and his memory and he also struck me as being very courageous.
+
+367
+00:39:26,319 --> 00:39:31,519
+As I said earlier my first exposure to him in the political arena I thought he was quite courageous
+
+368
+00:39:31,519 --> 00:39:37,839
+at that time later I became aware of just how courageous he was when he was facing the US Senate
+
+369
+00:39:37,840 --> 00:39:44,000
+with respect to allegations of his lack of patriotism or something like that and he basically
+
+370
+00:39:44,960 --> 00:39:51,680
+stood them down which I thought was incredibly courageous and in another sense he was a very courageous
+
+371
+00:39:51,680 --> 00:39:59,200
+scientist when Zullic and I were working with this furnace in the late 1980s at Porter Drive. Pauling
+
+372
+00:39:59,200 --> 00:40:04,880
+would come up from time to time and one time in particular he put on a lab coat and put on gloves
+
+373
+00:40:04,880 --> 00:40:12,559
+and goggles and was wielding the torch above the 800 degree furnace as well so he was actively
+
+374
+00:40:12,559 --> 00:40:17,360
+engaged in this experimental project which I thought was quite extraordinary so he didn't
+
+375
+00:40:18,400 --> 00:40:23,840
+really prefer to just sit at his desk and think about things he also wanted to get hands on when
+
+376
+00:40:23,840 --> 00:40:29,519
+something really intrigued him or interested him and during the mouse skin cancer experiments as
+
+377
+00:40:29,519 --> 00:40:34,160
+well he would often come through the laboratory just to check on things see how things were going
+
+378
+00:40:34,159 --> 00:40:39,359
+asked people questions about the work that was underway and so forth so he was not removed from
+
+379
+00:40:39,359 --> 00:40:45,440
+the experimental side of things although clearly he was involved in a lot of other things and didn't
+
+380
+00:40:45,440 --> 00:40:50,960
+actually participate physically in a lot of the experimental work in those days he he didn't
+
+381
+00:40:50,960 --> 00:40:55,519
+he wasn't a stranger in the laboratory and I witnessed that first hand with the work on
+
+382
+00:40:55,519 --> 00:41:01,679
+superconductivity where he actually was engaged experimentally and I think that was probably the last
+
+383
+00:41:01,679 --> 00:41:06,799
+experimental work that he was engaged in because at that time he probably would have been in his
+
+384
+00:41:06,799 --> 00:41:11,359
+late 1980 this was the late 1980s so he was in his late 80s as well.
+
+385
+00:41:14,639 --> 00:41:21,199
+Over time you your role leads to change from that of scientific researcher to more of
+
+386
+00:41:21,199 --> 00:41:25,679
+the administrator and I'm wondering if you engage in other different kinds of work with Pauling
+
+387
+00:41:26,000 --> 00:41:35,039
+in that context that was demonstrated. Very much so I had asked I had been asked to become
+
+388
+00:41:35,039 --> 00:41:41,119
+an assistant to the president when he meals at the was president of the institute. At the time I
+
+389
+00:41:41,119 --> 00:41:45,679
+was co-director with a meal of the laboratory for research and gene regulation and we had a small
+
+390
+00:41:45,679 --> 00:41:51,759
+research group we were looking at problems and cancer metastasis using protein profiling techniques
+
+391
+00:41:51,760 --> 00:41:56,880
+which had just recently been developed and we were developing instrumentation that would allow us
+
+392
+00:41:56,880 --> 00:42:03,680
+to increase reproducibility and reduce noise in the experimental procedure and we were very
+
+393
+00:42:03,680 --> 00:42:09,440
+interested in discovering genes and proteins that might correlate with the metastatic the
+
+394
+00:42:09,440 --> 00:42:15,360
+development of the metastatic phenotype in both marine and human cancer cells. Excuse me
+
+395
+00:42:15,519 --> 00:42:26,320
+so I was also working a bit administratively with a meal of zucocondle at that time and then when
+
+396
+00:42:27,519 --> 00:42:33,280
+a meal retired from the institute on the occasion of his birthday there was quite a lot of
+
+397
+00:42:34,320 --> 00:42:41,280
+turmoil at the institute because there are a number of problems one problem was the institute as I
+
+398
+00:42:41,280 --> 00:42:48,000
+mentioned earlier had a history of financial instability and over the years under e-mails direction
+
+399
+00:42:48,000 --> 00:42:53,280
+the institute expanded quite significantly to include some projects that probably would not be
+
+400
+00:42:53,280 --> 00:42:59,760
+considered strictly in the realm of orthomolecular medicine of course which was Paulings most
+
+401
+00:43:00,560 --> 00:43:06,240
+I think the reason he set up the institute to begin with and something that he felt strongest about
+
+402
+00:43:06,799 --> 00:43:15,279
+so I think a meal may have had a desire for the institute to become a more comprehensive
+
+403
+00:43:15,919 --> 00:43:21,279
+institute of molecular biological and chemical and biological sciences similar to the
+
+404
+00:43:21,279 --> 00:43:27,359
+Salkins institute down in southern California which is a fine template but there weren't
+
+405
+00:43:28,320 --> 00:43:36,800
+enough grants one by institute staff to support all the varied activities that were going on
+
+406
+00:43:37,920 --> 00:43:43,120
+so concomitant with e-mails retirement and retirement of Rick Hicks from the institute there was
+
+407
+00:43:43,120 --> 00:43:49,200
+a shift in focus in the institute and the board of trustees decided that there really weren't
+
+408
+00:43:49,200 --> 00:43:55,039
+enough funds to sustain all the varied programs underway at the institute so the idea was to
+
+409
+00:43:55,039 --> 00:44:02,159
+pair back some of the strictly molecular biological work that wasn't funded extramarially by government
+
+410
+00:44:02,159 --> 00:44:09,840
+grants from DOE or NIH or NCI or whatever and refocus specifically on orthomolecular medicine
+
+411
+00:44:10,960 --> 00:44:15,759
+and at about that time Linus Pauling had begun a friendship and scientific collaboration
+
+412
+00:44:16,559 --> 00:44:23,360
+with a German cardiologist Matthias Rat who together with Pauling had developed some interesting
+
+413
+00:44:23,360 --> 00:44:30,079
+hypotheses about the relationship of lipoprotein A which is a risk factor for atherosclerosis
+
+414
+00:44:30,079 --> 00:44:36,240
+and a major constitutive atherosclerotic plaque and vitamin C and they published a number of
+
+415
+00:44:36,240 --> 00:44:44,720
+hypothesis papers a very famous one being in PNAS and developed decided to set up a laboratory for
+
+416
+00:44:44,720 --> 00:44:50,880
+cardiovascular disease research that was directed by Dr. Rat and Pauling was very excited about this
+
+417
+00:44:50,880 --> 00:45:00,400
+work when and at some point and I don't remember the exact time but it was after a meal had retired
+
+418
+00:45:01,440 --> 00:45:06,000
+and Pauling became for short time the president and director of the institute after a meal
+
+419
+00:45:07,840 --> 00:45:15,360
+he asked me to become his assistant and I wasn't quite sure what that meant so I had written him
+
+420
+00:45:16,320 --> 00:45:25,599
+note or memo asking him what he wanted me to do and I had some ideas mainly of administrative nature
+
+421
+00:45:25,599 --> 00:45:31,680
+as to things that I thought could result in in big improvements in the way the institute was
+
+422
+00:45:31,680 --> 00:45:39,760
+was run and our status financial status and other issues but he disappeared to Big Sur to his
+
+423
+00:45:39,760 --> 00:45:46,800
+ranch down on the coast of California for some time and I felt a little adrift and at by this
+
+424
+00:45:46,800 --> 00:45:51,600
+time I had gotten to know Linus Plain Jr fairly well because he was I think in the process of
+
+425
+00:45:53,280 --> 00:45:57,840
+getting more actively involved in the administration and the institute because he recognized his
+
+426
+00:45:57,840 --> 00:46:02,800
+father was ill and there were a lot of problems at the institute and he felt he should step in
+
+427
+00:46:02,800 --> 00:46:10,400
+to help his father which I thought was very commendable and eventually I became the executive officer
+
+428
+00:46:10,400 --> 00:46:16,320
+at the institute which was similar in function to being president of the institute and then later
+
+429
+00:46:16,320 --> 00:46:22,400
+the board appointed me chief executive officer I think in about 1993 technically I became chief
+
+430
+00:46:22,400 --> 00:46:28,320
+executive officer so throughout this period where I functioned in different administrative roles
+
+431
+00:46:28,880 --> 00:46:35,360
+I worked very closely with Linus Plain Jr the Board of Trustees and of course by that time
+
+432
+00:46:36,320 --> 00:46:41,120
+Linus Plain had become chairman of the Board of Trustees and director of research at the institute
+
+433
+00:46:41,120 --> 00:46:45,840
+but didn't really have an administrative role any longer in the Linus Plain Institute of Science and
+
+434
+00:46:45,840 --> 00:46:53,840
+Medicine because I think everyone felt that it would be best if he were spared the problems that
+
+435
+00:46:53,920 --> 00:47:01,039
+we had to resolve and there were problems concerning relocation it was a zoning issue where the
+
+436
+00:47:01,039 --> 00:47:07,600
+least property on which our building was situated at 440 page mill road in Palo Alto was scheduled to
+
+437
+00:47:08,720 --> 00:47:16,320
+change from commercial to residential zoning quite quickly and no long range plans had really
+
+438
+00:47:16,320 --> 00:47:20,720
+been developed to deal with that zoning change and we didn't have an endowment had very little money
+
+439
+00:47:21,679 --> 00:47:26,799
+so the prospect of moving the institute trying to keep it intact in the mid peninsula but paying
+
+440
+00:47:26,799 --> 00:47:35,919
+maybe 10 or 20 times more in rent was not very encouraging and Linus Plain himself of course had
+
+441
+00:47:35,919 --> 00:47:41,119
+been diagnosed with prostate cancer and although he was undergoing a number of different experimental
+
+442
+00:47:41,119 --> 00:47:46,480
+therapies it was not believed that he would survive his illness and we were very concerned about
+
+443
+00:47:46,480 --> 00:47:52,079
+what would happen to the institute after his death would we be able to continue to raise money
+
+444
+00:47:52,079 --> 00:47:57,679
+to support the institute as a viable research organization and then of course there were lawsuits
+
+445
+00:47:57,679 --> 00:48:02,240
+and there was quite a lot of litigation at that time Matthias Rat had left the institute and it
+
+446
+00:48:02,240 --> 00:48:07,920
+sued the institute for infringement in his business activities and also sued Linus Pauling so I
+
+447
+00:48:07,920 --> 00:48:17,360
+had to manage a lot of our litigation at that time as well so my role at the time the big
+
+448
+00:48:17,360 --> 00:48:22,000
+challenges were finding a future home or at least the disposition of the Linus Plain is to do
+
+449
+00:48:22,000 --> 00:48:30,480
+the science and medicine keeping it intact and reputable and also managing our litigation which
+
+450
+00:48:30,480 --> 00:48:37,200
+was very burdensome and took absorbed a lot of my time and a lot of the boards time as well
+
+451
+00:48:38,079 --> 00:48:44,240
+but Pauling was largely spared from that I mean he was deposed of course a number of times but
+
+452
+00:48:45,360 --> 00:48:50,720
+I managed a lot of our legal affairs at that time in close association when Linus Plain
+
+453
+00:48:50,720 --> 00:48:55,920
+Jr was the chairman of the board and at that time we had very regular board meetings as well so
+
+454
+00:48:55,920 --> 00:49:01,039
+the board of trustees was kept well-apprised of all the activities and their opinions were
+
+455
+00:49:01,039 --> 00:49:08,000
+solicited in many of these activities as well so it was a very challenging time for me I was
+
+456
+00:49:08,000 --> 00:49:14,000
+surprised to be honest when the board asked me to become chief executive officer because it kind
+
+457
+00:49:14,000 --> 00:49:19,360
+of came out of the blue the work that I was doing with a musica condo was not really related to
+
+458
+00:49:19,360 --> 00:49:24,639
+orthomolecular medicine wasn't related to vitamin C at the time as I said we were looking at
+
+459
+00:49:24,639 --> 00:49:30,400
+metastatic cancer which really had nothing to do with orthomolecular medicine so I was concerned
+
+460
+00:49:30,960 --> 00:49:36,240
+my group and my job were in jeopardy as well because there were rumors circulating that
+
+461
+00:49:37,680 --> 00:49:42,400
+the board wanted to refocus on orthomolecular medicine and since my work wasn't involved in
+
+462
+00:49:42,400 --> 00:49:47,519
+orthomolecular medicine I thought perhaps I might be laid off from the institute as well
+
+463
+00:49:48,720 --> 00:49:55,360
+at about the same time a musica condo wanted to collect some of the people who were doing
+
+464
+00:49:55,360 --> 00:50:01,280
+molecular biological work in a new institute called the Institute of Molecular Medical Sciences
+
+465
+00:50:02,079 --> 00:50:08,960
+which he hoped to rent space from the Linus-Planning Institute of Science and Medicine in the same
+
+466
+00:50:08,960 --> 00:50:15,760
+building so I spent quite a lot of time as executive officer with Zele Kerman analyzing that
+
+467
+00:50:15,760 --> 00:50:23,039
+proposition trying to figure out whether it was practical and if so how building expenses should
+
+468
+00:50:23,519 --> 00:50:28,719
+be shared between the two groups and so forth so I spent quite a lot of time in those kinds of
+
+469
+00:50:28,719 --> 00:50:33,440
+deliberations at that time too and eventually we came up with a recommendation to Linus-Planning
+
+470
+00:50:33,440 --> 00:50:43,920
+in the board. One of Pauline's some calling cards of Caltech anyway then the Golden Year
+
+471
+00:50:43,920 --> 00:50:53,360
+and Caltech was his ability to collect and marshal and oversee tremendous talent of scientific
+
+472
+00:50:53,360 --> 00:50:58,720
+researches or the graduate students or postdocs and I'm wondering if you have there this and one sort of
+
+473
+00:50:59,760 --> 00:51:05,680
+dynamic going on and over the course of the time I don't get it with his ability to collect talent and
+
+474
+00:51:06,800 --> 00:51:13,760
+make it efficient productive. Well I think our Robinson is a terrific scientist and art of course
+
+475
+00:51:13,760 --> 00:51:17,680
+was working very closely with Linus-Planning at the University of California San Diego and then
+
+476
+00:51:17,680 --> 00:51:24,080
+came up to run his lab and collaborate with research at Stanford and there's no question that
+
+477
+00:51:24,080 --> 00:51:29,360
+Dr. Robinson was an extraordinarily capable scientist and with Pauline developed lots of very
+
+478
+00:51:29,360 --> 00:51:37,280
+interesting ideas so that was one person that he worked with over that period of time that I had
+
+479
+00:51:37,280 --> 00:51:41,760
+a lot of respect for and I think Pauline had a lot of respect for at least until there was a
+
+480
+00:51:41,760 --> 00:51:47,440
+big schism that developed between them which was very painful to watch especially at that time I
+
+481
+00:51:47,440 --> 00:51:52,960
+was not really privy to a lot of the major administrative decisions at the institute so it was a
+
+482
+00:51:52,960 --> 00:51:59,440
+little unclear as to why this conflict had developed but it was very difficult an uncomfortable time
+
+483
+00:51:59,440 --> 00:52:10,560
+for everyone I think at the institute. Excuse me. Bill Aberg, I'm Bill Aberg, physicist was also
+
+484
+00:52:10,559 --> 00:52:17,759
+very extraordinarily talented individual who was developing the mass spectrometer for
+
+485
+00:52:17,759 --> 00:52:25,199
+metabolite profiling. Emil Zucacondle who had developed the idea of chemical paleogenetics or
+
+486
+00:52:25,199 --> 00:52:31,199
+molecular evolution with Pauline earlier in the 1960s was an extraordinarily bright capable scientist.
+
+487
+00:52:31,840 --> 00:52:38,559
+He was also the founding editor of the journal of molecular evolution and was
+
+488
+00:52:39,119 --> 00:52:46,799
+one of those rare individuals who's capable of sustaining simultaneously many complex thoughts and I
+
+489
+00:52:46,799 --> 00:52:52,719
+saw this in action many times I have tremendous respect and admiration for Emil Zucacondle he's
+
+490
+00:52:52,719 --> 00:53:00,400
+really an extraordinary scientist and theorist so yes there were people of extraordinarily high
+
+491
+00:53:00,400 --> 00:53:06,239
+caliber that were involved with the institute and of course there were collaborations as well
+
+492
+00:53:07,039 --> 00:53:10,399
+in some of Pauline's collaborators who would visit the institute from time to time.
+
+493
+00:53:11,439 --> 00:53:20,559
+There were a few problems in that since the institute did not have stable financial resources
+
+494
+00:53:20,559 --> 00:53:30,479
+or an endowment it was difficult to attract high caliber scientists. There were high caliber
+
+495
+00:53:30,480 --> 00:53:36,240
+scientists who were employed at the institute John Levit, Jim Fleming, Greg Spicer,
+
+496
+00:53:37,599 --> 00:53:43,440
+there were a number of people that were very very good you and Cameron as a medical director
+
+497
+00:53:44,400 --> 00:53:50,639
+but it was difficult because not much could be offered to people other than at will contract which
+
+498
+00:53:50,639 --> 00:53:59,280
+was the way that most contract most employment is handled in California unless you have an employment
+
+499
+00:53:59,280 --> 00:54:07,120
+contract and it was imprudent to offer employment contracts to people so initially it was kind
+
+500
+00:54:07,120 --> 00:54:13,760
+of an implied at will employment arrangement with people and then later in the early 1990s it
+
+501
+00:54:13,760 --> 00:54:20,480
+became very explicit at will employment relationship with employees but nevertheless there were people
+
+502
+00:54:20,480 --> 00:54:25,680
+who were attracted to the institute because of Linus Pong because of his interest in vitamin C
+
+503
+00:54:25,839 --> 00:54:32,159
+Dr. Connie Chow and others who did a lot of really terrific work Wulcott.com just to mention
+
+504
+00:54:32,159 --> 00:54:37,199
+a few but there were a number of really excellent people there physicians and scientists who did a
+
+505
+00:54:37,199 --> 00:54:46,159
+lot of very good work over the years and in those days it was also very difficult to get expect and
+
+506
+00:54:46,159 --> 00:54:51,679
+get funding from the National Institutes of Health or the National Cancer Institute for the kind
+
+507
+00:54:51,679 --> 00:54:56,399
+of work that Pauline was especially interested in which had to do with vitamin C in cancer so I'm
+
+508
+00:54:56,399 --> 00:55:07,199
+sure you're aware of his difficulty in getting grants to carry out this kind of research with the
+
+509
+00:55:07,199 --> 00:55:11,919
+very promising clinical work that Cameron had been doing in Scotland Pauline and Cameron went to
+
+510
+00:55:11,919 --> 00:55:17,919
+the NCI with that work repeatedly and they suggested that he applied for funds to do animal work
+
+511
+00:55:17,920 --> 00:55:23,119
+and soul culture work and he applied for those funds and was turned down repeatedly over seven
+
+512
+00:55:23,119 --> 00:55:30,000
+or eight consecutive years so the money that was supported that kind of work at the institute was
+
+513
+00:55:30,000 --> 00:55:35,200
+sought from the public through this direct mail solicitation campaign and that was the money that
+
+514
+00:55:35,200 --> 00:55:38,559
+was available to pay the researchers who were doing that work.
+
+515
+00:55:38,559 --> 00:55:44,880
+We'll close it now in an hour if you didn't do it okay.
+
+516
+00:55:44,880 --> 00:55:45,920
+Yeah.
+
+517
+00:55:45,920 --> 00:55:54,559
+Pauline is remembering to also famously being a terrific lecture and I wonder if you could come in on that
+
+518
+00:55:54,559 --> 00:55:59,360
+your experience and see him in lecture and his facility in that regard.
+
+519
+00:55:59,360 --> 00:56:00,400
+Yes.
+
+520
+00:56:00,400 --> 00:56:04,960
+I didn't see him lecture very often.
+
+521
+00:56:04,960 --> 00:56:12,079
+I saw him give lectures at Stanford University and of course he would give the famous vitamin C
+
+522
+00:56:12,079 --> 00:56:15,440
+lecture where he would stand on stage and pull from his...
+
+523
+00:56:15,440 --> 00:56:21,360
+He typically wore a three-piece suit when he was giving a lecture, a dark suit, sometimes
+
+524
+00:56:21,360 --> 00:56:28,000
+he would wear his beret and he would invariably begin his lectures on vitamin C by pulling out
+
+525
+00:56:28,800 --> 00:56:35,440
+a vial, a test tube and holding it up with his fingers with a very small amount of a white
+
+526
+00:56:35,440 --> 00:56:41,360
+powder at the bottom that was barely detectable from the audience perspective and you would say
+
+527
+00:56:41,360 --> 00:56:46,960
+this represents the RDA for vitamin C. This is the amount of vitamin C that the food nutrition
+
+528
+00:56:46,960 --> 00:56:52,800
+board believes that people should get every day and he would follow that by pulling
+
+529
+00:56:52,880 --> 00:56:59,840
+out a large test tube with 13 grams of vitamin C in it and you could obviously see all this white
+
+530
+00:56:59,840 --> 00:57:04,160
+powder and the vial from across the auditorium and he would say this is the amount of vitamin C
+
+531
+00:57:04,800 --> 00:57:10,160
+that a goat synthesizes on average every day. I think goats know more about nutrition than the
+
+532
+00:57:10,160 --> 00:57:16,960
+food nutrition board and of course that always got a big round of applause and chuckles from the
+
+533
+00:57:17,039 --> 00:57:25,519
+audience. One lecture I saw him give which really stood out in my mind was a lecture,
+
+534
+00:57:26,800 --> 00:57:33,760
+departmental lecture to biostatistics at Stanford and that department was chaired by Byron Brown
+
+535
+00:57:33,760 --> 00:57:38,559
+who was a leading biostatistician and the Stanford Department of Biostatistics is World
+
+536
+00:57:38,559 --> 00:57:44,240
+Renown. They've been World Renown for many decades and Byron Brown was the father of a classmate
+
+537
+00:57:44,239 --> 00:57:52,719
+in mind from Stanford so I knew him and he had become aware of Pauling's work with Abraham
+
+538
+00:57:52,719 --> 00:57:59,679
+Hofer on a regiment provided adjunctively to cancer patients which included not only vitamin C
+
+539
+00:57:59,679 --> 00:58:06,399
+but also B vitamins, vitamin E zinc and some other things and Pauling and Hofer had published two
+
+540
+00:58:06,399 --> 00:58:12,719
+papers on this regiment and Pauling believed that it was even more effective than the sole use of
+
+541
+00:58:12,719 --> 00:58:19,519
+vitamin C which was given either intravenously or orally sometimes both by Ewing Kermit and Scotland.
+
+542
+00:58:20,879 --> 00:58:27,039
+And they had and Pauling had developed a statistical analysis of this data based on work done by an
+
+543
+00:58:27,039 --> 00:58:32,799
+old friend of his from UC Berkeley by the name of Harden Jones and Pauling believed that this
+
+544
+00:58:32,799 --> 00:58:40,959
+statistical analysis was better than the standard Kaplan Meyer mortality analysis because by using
+
+545
+00:58:40,960 --> 00:58:49,440
+Harden Jones analysis you could actually resolve sub cohorts that had similar death rates
+
+546
+00:58:50,800 --> 00:58:55,679
+and you might be able to learn more about these sub cohorts with with similar death rates.
+
+547
+00:58:56,400 --> 00:59:03,360
+So he thought that this was was a better way to analyze mortality data from from clinical studies
+
+548
+00:59:04,320 --> 00:59:10,480
+and he published also I think was Ella Kermann and perhaps it was PNAS on this Harden Jones
+
+549
+00:59:10,480 --> 00:59:15,360
+analysis of mortality data and he was invited by Byron Brown to give a lecture to the
+
+550
+00:59:15,360 --> 00:59:21,679
+biostatisticians at Stanford on this Harden Jones mortality data and of course at the time everybody
+
+551
+00:59:21,679 --> 00:59:28,240
+was using Kaplan Meyer which is the standard step staircase type curve that you see published in
+
+552
+00:59:28,240 --> 00:59:34,800
+papers and I went with Pauling and Herman to that lecture which was in a large conference
+
+553
+00:59:35,200 --> 00:59:43,200
+in Harvard Stanford and it was astonishing how little criticism he got from this analysis.
+
+554
+00:59:43,920 --> 00:59:49,120
+I think he was prepared to be well he was never really defensive about anything because he was
+
+555
+00:59:49,120 --> 00:59:56,080
+very sure was on intelligence and his own analysis but no one had any serious criticisms of his
+
+556
+00:59:56,080 --> 01:00:01,840
+analysis and people were saying that well perhaps we should we should look at this more carefully
+
+557
+01:00:01,840 --> 01:00:08,079
+and perhaps this does offer a better alternative to Kaplan Meyer analysis in some circumstances.
+
+558
+01:00:08,079 --> 01:00:13,280
+It was quite extraordinarily quite extraordinary to see some of the world's leading biostatisticians
+
+559
+01:00:14,160 --> 01:00:19,519
+react that way to something that was fairly novel and and something that was certainly not
+
+560
+01:00:19,519 --> 01:00:26,240
+standardly employed in in this kind of analysis and it was quite interesting to see him present
+
+561
+01:00:26,240 --> 01:00:27,680
+present that analysis.
+
+562
+01:00:27,679 --> 01:00:36,000
+I wonder if you could speak a little bit more about Pauling in the mentor as well as your
+
+563
+01:00:36,000 --> 01:00:37,679
+software and others as well.
+
+564
+01:00:40,559 --> 01:00:46,480
+He was very encouraging and as I said he was not a Louvre so he was very easy person to speak with.
+
+565
+01:00:48,000 --> 01:00:55,599
+I think at the time that I got to know him of course he was in his 80s and at that time he was
+
+566
+01:00:56,480 --> 01:01:03,279
+considered kind of an icon in science and everyone was extraordinarily respectful to Linus Pauling.
+
+567
+01:01:04,799 --> 01:01:09,119
+No one at the institute called him by his first name for instance it was always Professor Pauling
+
+568
+01:01:09,119 --> 01:01:15,279
+or Dr. Pauling even Dorothy Monroe the secretary and assistant called him Dr. Pauling and
+
+569
+01:01:15,279 --> 01:01:20,960
+typically Zele Kerman would call him Professor Pauling. Emile Zucacondo typically called him Dr. Pauling
+
+570
+01:01:20,960 --> 01:01:28,000
+as did Rick Hickson. So there I think that was a measure of respect that all the people at the
+
+571
+01:01:28,000 --> 01:01:39,280
+institute had for him. He was also very interested in people on a personal basis as well and
+
+572
+01:01:40,800 --> 01:01:49,519
+I remember when he had decided not to drive so much himself anymore from his apartment on
+
+573
+01:01:49,519 --> 01:01:55,599
+Stanford campus to the institute which was just a a mile or two away. People would volunteer to
+
+574
+01:01:55,599 --> 01:02:00,239
+drive him from his apartment to the institute and then take him back to his apartment at the end of
+
+575
+01:02:00,239 --> 01:02:04,800
+the day and I did that quite often because I enjoyed talking with him and I also enjoyed to have
+
+576
+01:02:05,360 --> 01:02:09,840
+an uninterrupted period with him where he was free from telephone calls and appointments and
+
+577
+01:02:10,400 --> 01:02:15,280
+other distractions because there were a lot of demands on his time throughout his career I imagine
+
+578
+01:02:16,000 --> 01:02:21,120
+and at the institute there were always people calling wanting to interview him wanting him to give
+
+579
+01:02:21,120 --> 01:02:26,960
+lectures and so forth and wanting to visit him so it was rare to have an occasion to actually
+
+580
+01:02:28,160 --> 01:02:33,840
+talk with him one-on-one with no distractions and he would occasionally ask me about my long-term
+
+581
+01:02:33,840 --> 01:02:40,000
+aspirations and make suggestions and he would often tell me stories. He loved to tell stories
+
+582
+01:02:40,000 --> 01:02:45,760
+about things that had happened to him that were based on work that we were doing at the institute
+
+583
+01:02:45,760 --> 01:02:51,440
+or that might have been stimulated by a comment I would make to him and I remember one time
+
+584
+01:02:52,000 --> 01:02:55,760
+this is a little off topic because it doesn't have anything to do with mentorship but I think it
+
+585
+01:02:55,760 --> 01:03:03,599
+gives you some insight into his sense of humor during one of these trips where I was taking him to
+
+586
+01:03:03,599 --> 01:03:09,920
+the institute. He told me that he had been over at the Stanford Library to look at an old issue
+
+587
+01:03:09,920 --> 01:03:16,960
+of nature or science from close to the early part of the 20th century close to the turn of the
+
+588
+01:03:16,960 --> 01:03:23,920
+century and this was when David Star Jordan was president of Stanford University, Leland Stanford
+
+589
+01:03:23,920 --> 01:03:29,360
+who was chairman of the board, David Star Jordan was an ornithologist excuse me Iqtheologist
+
+590
+01:03:30,159 --> 01:03:36,960
+who had written books on academic books on fish and he was president of the university at that time
+
+591
+01:03:36,960 --> 01:03:41,119
+as well as being a scholar and Pauling had been looking through an old issue of nature and
+
+592
+01:03:42,159 --> 01:03:47,599
+for a specific article but this other story caught his eye and it had to do with a controversy that
+
+593
+01:03:47,599 --> 01:03:54,320
+had developed at Stanford between David Star Jordan and Leland Stanford and Leland Stanford apparently
+
+594
+01:03:54,320 --> 01:04:01,280
+had become unhappy with David Star Jordan because during trustees meetings Jordan did not refer
+
+595
+01:04:01,360 --> 01:04:08,480
+the trustees by name and Stanford thought that this was not civil and perhaps even borderline
+
+596
+01:04:08,480 --> 01:04:15,519
+rude not to refer to them by name and he had implored Jordan to learn the names of the trustees
+
+597
+01:04:15,519 --> 01:04:22,240
+and in subsequent meetings to refer to them by name and Jordan's retort apparently to Stanford
+
+598
+01:04:22,240 --> 01:04:27,120
+was well I'm afraid if I enforce to memorize the name of a trustee I'll forget the name of a fish
+
+599
+01:04:28,000 --> 01:04:32,719
+and Pauling thought that was hilarious and it gives you an idea of what he valued
+
+600
+01:04:33,599 --> 01:04:37,039
+because I think he was definitely on the side of Jordan in that argument
+
+601
+01:04:46,159 --> 01:04:50,880
+oh there were lots of other stories one time it wasn't during a drive but it was when
+
+602
+01:04:51,200 --> 01:04:59,760
+I was negotiating in contract with Unilever and Elizabeth Arden who had decided to develop a line
+
+603
+01:04:59,760 --> 01:05:05,119
+of cosmetics that included some antioxidants and wanted to get the institute involved in this
+
+604
+01:05:05,119 --> 01:05:09,920
+not in a research and development capacity but they wanted to support some research at the institute
+
+605
+01:05:09,920 --> 01:05:16,320
+and provide us with a lot of money and I've been talking many times with Linus Pauling about
+
+606
+01:05:16,400 --> 01:05:21,360
+this prospect and went in to talk with him in his office about it and he said oh he remembered
+
+607
+01:05:21,360 --> 01:05:27,519
+one time that he and Abe Helen had gone to visit Lord Leaver in England and had brought along
+
+608
+01:05:28,160 --> 01:05:35,760
+a bottle of scotch whiskey as a present and it was in their bag and they got to Lord Leaver's
+
+609
+01:05:36,559 --> 01:05:42,480
+castle or home and they were met by servants who immediately took their bags and they were
+
+610
+01:05:42,480 --> 01:05:47,280
+ushered in to see Lord Leaver and Pauling and his wife were chatting with him and Pauling
+
+611
+01:05:47,280 --> 01:05:52,480
+remembered that he had a gift so he wanted to excuse himself and go to his room and get the gift
+
+612
+01:05:52,480 --> 01:05:57,599
+for Lord Leaver and he went up to his room and the servants had already unpacked their bags
+
+613
+01:05:58,719 --> 01:06:04,800
+put clothes in the drawers or hanging in the closet and they'd also taken out the bottle of whiskey
+
+614
+01:06:04,800 --> 01:06:09,360
+and uncapped it and had two jiggers there ready for Pauling and his wife
+
+615
+01:06:09,599 --> 01:06:13,760
+because they believed that Pauling had brought this along to serve himself
+
+616
+01:06:15,360 --> 01:06:19,360
+so he thought it was very funny that he had to present Lord Leaver with a bottle of whiskey
+
+617
+01:06:19,360 --> 01:06:28,000
+that had already been opened but he explained to him why it had been open and one other story
+
+618
+01:06:28,000 --> 01:06:33,519
+that I thought was quite indicative of Pauling's character was told to me by you and Cameron
+
+619
+01:06:34,480 --> 01:06:42,000
+and Cameron of course had been collaborating very closely with Pauling and Pauling had decided to
+
+620
+01:06:42,000 --> 01:06:50,880
+visit Cameron as home and walk one inside on a trip that he was making to England and Cameron
+
+621
+01:06:50,880 --> 01:06:54,880
+told me that he was a little bit ambivalent about this visit by the great man of science
+
+622
+01:06:54,880 --> 01:07:00,480
+to his humble home in Scotland and he was worried that it wouldn't be presentable enough so he and
+
+623
+01:07:00,480 --> 01:07:05,519
+his wife made elaborate preparations to welcome Linus Pauling and his wife to their their humble
+
+624
+01:07:05,519 --> 01:07:13,840
+home in Scotland and the day that Pauling arrived Pauling arrived and within half an hour before
+
+625
+01:07:13,840 --> 01:07:21,119
+Pauling had arrived the toilet stopped up and Cameron hadn't had time to do anything about it before
+
+626
+01:07:21,119 --> 01:07:26,800
+the arrival of Linus Pauling and his wife so Pauling and his wife arrived and they came in and
+
+627
+01:07:26,800 --> 01:07:31,600
+the pleasantries were exchanged and Cameron showed them around the home and the view and so forth
+
+628
+01:07:31,600 --> 01:07:38,480
+and Pauling asked to use the bathroom and Cameron said which I'm very very sorry it's characteristic
+
+629
+01:07:38,480 --> 01:07:43,600
+way but there seems to be a problem with the toilet and Pauling so what's the problem and Cameron
+
+630
+01:07:43,600 --> 01:07:48,240
+explained to him the toilet had just gotten stopped up and hadn't had time to do anything and Pauling
+
+631
+01:07:48,240 --> 01:07:54,560
+said well let's go in and fix it so Cameron was a bit of gasp but said okay so the two of them went
+
+632
+01:07:54,559 --> 01:08:00,559
+into the bathroom and Pauling cut down with a with a wrench and Cameron had the plumbers helper
+
+633
+01:08:00,559 --> 01:08:06,000
+and Pauling had a wrench and he was lying on the floor with working on the plumbing fixing
+
+634
+01:08:06,639 --> 01:08:12,239
+Cameron's toilet so Cameron realized that he didn't really need to be too careful about what he
+
+635
+01:08:12,239 --> 01:08:17,680
+said or how Pauling was treated after that because he recognized that Pauling was was not a
+
+636
+01:08:17,760 --> 01:08:22,079
+and a luke cerebral sort of person who didn't get his hand dirty so to speak so
+
+637
+01:08:26,000 --> 01:08:33,680
+he mentioned one year maybe the first experience upon you had was of him doing it
+
+638
+01:08:33,680 --> 01:08:40,720
+that operated in DC politics and I'm wondering if you could put a little bit more on what you saw it
+
+639
+01:08:40,720 --> 01:08:44,960
+and then you said that it was a piece of activism and a political thought of it and of course the ending year
+
+640
+01:08:44,960 --> 01:08:50,159
+well of course I myself was very much opposed to the Vietnam War my brother was killed there
+
+641
+01:08:50,159 --> 01:08:55,840
+as a fighter pilot in 1970 which really almost interfered with me resuming my studies at Stanford
+
+642
+01:08:55,840 --> 01:09:02,400
+because it was emotionally very difficult time and I had never understood the logic of the war
+
+643
+01:09:02,399 --> 01:09:08,159
+I didn't buy that domino theory that the administration time was was promoting with respect to
+
+644
+01:09:08,159 --> 01:09:14,479
+we need stock communism Vietnam because then all all the countries in southeast Asia will become
+
+645
+01:09:14,479 --> 01:09:20,319
+communist and Indonesian and Japan might be attacked and so forth I didn't buy that explanation
+
+646
+01:09:20,319 --> 01:09:25,519
+and it seemed to me that the war had been going on for a very long time and was resulting in a lot
+
+647
+01:09:25,520 --> 01:09:33,040
+of misery and I couldn't see how it was constructive I couldn't see a good outcome so I I think had
+
+648
+01:09:34,320 --> 01:09:38,480
+sentiments that were very similar to those espoused by the line is Pauling at the time
+
+649
+01:09:39,280 --> 01:09:45,200
+and Pauling of course as I learned had been an old hand in political activism originally
+
+650
+01:09:45,200 --> 01:09:51,760
+stimulated by his concern about proliferation of nuclear weapons and medical concerns about
+
+651
+01:09:51,760 --> 01:09:57,119
+the effect of widespread fallout from atomic bomb testing in the atmosphere so that that really
+
+652
+01:09:57,119 --> 01:10:03,360
+resonated very strongly with me there were some people at the institute who were even further left
+
+653
+01:10:04,400 --> 01:10:09,199
+and I would consider myself in some ways conservative in many ways liberal as well but there were some
+
+654
+01:10:09,199 --> 01:10:15,760
+people at the institute who were I would say probably extreme leftist and I remember in particular
+
+655
+01:10:16,400 --> 01:10:22,000
+after one of Pauling's talks at Stanford that was peace related there was quite a lot of
+
+656
+01:10:23,520 --> 01:10:28,640
+unhappiness among some people because Pauling had made the statement during this talk that
+
+657
+01:10:29,280 --> 01:10:35,520
+he believed that the retention of some nuclear weapons by both the Soviet Union and the United
+
+658
+01:10:35,520 --> 01:10:45,039
+States and the so-called mutually assured destruction principle had actually resulted perhaps in
+
+659
+01:10:46,400 --> 01:10:54,400
+deterrent from having a nuclear war conflagration so they were they were surprised to hear him say
+
+660
+01:10:54,400 --> 01:10:59,920
+that because I think some people had hoped that he would espouse the opinion that we should destroy
+
+661
+01:10:59,920 --> 01:11:05,360
+all weapons you know laterally and so forth but that's not what he said in his lecture he said
+
+662
+01:11:05,360 --> 01:11:10,880
+that he believed that having some of these weapons by opposing forces would have probably resulted
+
+663
+01:11:10,880 --> 01:11:16,880
+in the satisfactory stalemate because either side was inhibited from using them knowing what
+
+664
+01:11:16,880 --> 01:11:26,000
+would result from that first use of an atomic weapon. That was a independent method that you
+
+665
+01:11:26,000 --> 01:11:33,520
+developed pretty early on in the 60s like the 60s in Paul? Yeah and I heard him say that several times
+
+666
+01:11:33,520 --> 01:11:41,440
+so he definitely was not I would say he wasn't a pacifist because he said many times the World
+
+667
+01:11:41,440 --> 01:11:50,720
+War II was well justified and he as you know worked closely with the military to develop armaments
+
+668
+01:11:50,720 --> 01:11:56,320
+and instruments that helped the Allied effort during World War II and he was certainly opposed to
+
+669
+01:11:56,399 --> 01:12:02,319
+Hitler and Nazism and I always saw him as a great patriot and it never occurred to me that
+
+670
+01:12:03,840 --> 01:12:08,319
+great patriotism and opposition to the Vietnam War or opposition to
+
+671
+01:12:08,960 --> 01:12:15,359
+atmospheric testing of nuclear weapons was somehow couldn't be reconciled and some people
+
+672
+01:12:16,799 --> 01:12:19,920
+they didn't seem to be to be mutually exclusive characteristics.
+
+673
+01:12:26,399 --> 01:12:39,119
+Pauline was not someone who engaged often in small talk? So even in the many discussions that I
+
+674
+01:12:39,119 --> 01:12:46,479
+had with him he wasn't someone who liked to talk about pop culture or movies or music or literature
+
+675
+01:12:47,359 --> 01:12:53,599
+or anything of that nature. He loved to talk about science and especially about things that he
+
+676
+01:12:53,600 --> 01:12:58,960
+was interested in and he loved to tell stories and most of the stories were related to things that
+
+677
+01:12:58,960 --> 01:13:10,160
+interested him from a scientific basis. So I don't recall ever talking with him specifically
+
+678
+01:13:10,160 --> 01:13:17,200
+about any political activities and unfortunately I never thought to ask him more closely about
+
+679
+01:13:17,200 --> 01:13:21,200
+some of his political activities because there were always other things to talk about and
+
+680
+01:13:21,840 --> 01:13:26,239
+I didn't really query him much about his personal history when I knew him we were always talking
+
+681
+01:13:26,239 --> 01:13:30,639
+about current things or things that we were going to be doing in the future and not so much
+
+682
+01:13:30,639 --> 01:13:36,639
+retrospective issues except when he would tell me stories based on a current stimulating
+
+683
+01:13:36,639 --> 01:13:42,720
+conversation that we might be having but no he didn't generally talk about political issues with
+
+684
+01:13:42,720 --> 01:13:46,559
+staff. It was mainly related to administrative issues and scientific issues.
+
+685
+01:13:46,560 --> 01:13:52,160
+What was he like in larger social settings?
+
+686
+01:13:52,160 --> 01:14:02,000
+Well in larger social settings he was often the person that people gravitated to. He had a
+
+687
+01:14:02,000 --> 01:14:09,840
+real charismatic personality kind of a magnetic personality. He always had a big smile. He was very
+
+688
+01:14:09,840 --> 01:14:17,680
+engaging, very warmly greeted people in a social setting, was physical, shook hands, put his arm
+
+689
+01:14:17,680 --> 01:14:25,520
+around people. So he was very engaging and people responded to that and that's why so many people
+
+690
+01:14:25,520 --> 01:14:32,239
+loved him over the years and when he died in 1994 the institute collected hundreds and hundreds
+
+691
+01:14:32,239 --> 01:14:38,319
+of cards from people that didn't know Linus playing personally but had been deeply affected by
+
+692
+01:14:38,319 --> 01:14:44,719
+his death and were grieving and sharing their grief with us at the time and everyone at the
+
+693
+01:14:44,719 --> 01:14:49,359
+institute felt the same way as well. I mean it was a really when he died in 1994 it was a very
+
+694
+01:14:49,359 --> 01:14:56,079
+emotional moment for all of us because he just he had a way of generating a lot of positive
+
+695
+01:14:56,079 --> 01:15:01,599
+emotion about him and a lot of people loved him and respected him for different reasons but
+
+696
+01:15:02,480 --> 01:15:10,160
+he was a very jovial person. As I said he treated everyone fairly and equally. I remember one time
+
+697
+01:15:12,240 --> 01:15:20,800
+when I was in the back parking lot of the institute, Pauling was leaving the back door
+
+698
+01:15:20,800 --> 01:15:26,160
+and the janitor was arriving so it was after hours it was maybe 530 or 6 in the afternoon and the
+
+699
+01:15:26,160 --> 01:15:31,200
+janitor was quite away from the door. I'd say maybe a hundred feet from the door because janitor
+
+700
+01:15:31,199 --> 01:15:37,519
+tended to park at the far end of the parking lot and Pauling stood there holding the door open
+
+701
+01:15:37,519 --> 01:15:42,880
+for probably three or four minutes while the janitor navigated this distance and came into the
+
+702
+01:15:42,880 --> 01:15:48,159
+building and then Pauling greeted him and then left the door and he was also holding a box because
+
+703
+01:15:48,159 --> 01:15:53,679
+he often used a box to ferry books and papers back and forth from the institute to his apartment
+
+704
+01:15:53,679 --> 01:15:58,880
+or ranch so he had something in his arm as well and stood there holding the door for the janitor
+
+705
+01:15:59,840 --> 01:16:07,199
+and I think that was kind of symbolic in a way of the way he treated people. He was just very
+
+706
+01:16:07,199 --> 01:16:18,159
+fair to everyone. Sometimes I think his excitement about scientific ideas that he would generate
+
+707
+01:16:18,159 --> 01:16:26,560
+an association with particular people caused him perhaps to overlook what some other people might
+
+708
+01:16:26,560 --> 01:16:33,840
+consider problematic issues and personalities and I think that this happened to him at least twice
+
+709
+01:16:33,840 --> 01:16:40,800
+in his later years at the institute and both times it resulted in personal clashes, very
+
+710
+01:16:42,400 --> 01:16:49,039
+unamicable departures of personnel from the institute and litigation which was very difficult,
+
+711
+01:16:49,039 --> 01:16:55,200
+expensive and painful for everyone involved but I think he was so excited by scientific talent that
+
+712
+01:16:55,199 --> 01:17:00,800
+he tended to overlook some personality characteristics from time to time but as I said he was a very
+
+713
+01:17:00,800 --> 01:17:08,720
+warm engaging person. I would go to birthday celebrations which occurred I think every five years
+
+714
+01:17:10,159 --> 01:17:16,800
+typically at hotel in San Francisco and there were other occasions at which visitors were
+
+715
+01:17:18,399 --> 01:17:23,599
+honored or the humanitarian award was given out or other awards were given out or Pauling was
+
+716
+01:17:23,600 --> 01:17:32,960
+an attendance for an award and he was always very charming and people were very happy to see him
+
+717
+01:17:32,960 --> 01:17:42,960
+and he always had a big smile and greeting for everyone. Well the birthday celebrations were
+
+718
+01:17:42,960 --> 01:17:50,320
+terrific. The last one I remember was at Stanford Court Hotel in San Francisco the Mistress of
+
+719
+01:17:50,319 --> 01:17:58,880
+Ceremonies was Rita Moreno and I believe she was approached by Rick Hicks to host that party because
+
+720
+01:17:58,880 --> 01:18:06,319
+she had gotten an Emmy, an OB, a Tony and an Academy Award so Rick thought it was
+
+721
+01:18:07,039 --> 01:18:12,559
+appropriate that someone who had been so honored in so many of the performing fields was hosting
+
+722
+01:18:12,559 --> 01:18:17,039
+an event for someone who had been so honored in so many medical and scientific and social fields
+
+723
+01:18:17,039 --> 01:18:22,079
+like Linus Pauling and she was a real firecracker and I think Linus Pauling really enjoyed listening
+
+724
+01:18:22,079 --> 01:18:30,880
+to her talk and he had a lot of his old friends there and it was it was always he always really enjoyed
+
+725
+01:18:30,880 --> 01:18:37,680
+interacting with old colleagues. We also had a 20th anniversary celebration of the Linus Pauling
+
+726
+01:18:37,680 --> 01:18:43,199
+Institute in 1993 at the Ringgstorf House which was a Victorian house that had been renovated
+
+727
+01:18:43,840 --> 01:18:49,840
+in the Saltmarsh area of Mountain View, California, adjacent to Palo Alto and that was an
+
+728
+01:18:49,840 --> 01:18:55,760
+opportunity to put on display a lot of Pauling's awards, medals, honorary degrees and also invite
+
+729
+01:18:56,720 --> 01:19:03,119
+supporters of the institute, institute staff and friends and some of Pauling's colleagues and
+
+730
+01:19:03,119 --> 01:19:07,760
+friends who were still in the Bay Area to come and see him and as it turned out it was probably
+
+731
+01:19:07,760 --> 01:19:12,159
+the last time that some of these people had an opportunity to meet him to see him again.
+
+732
+01:19:12,720 --> 01:19:17,359
+Owen Chamberlin was there, Harden McConnell from Stanford, chemistry department had been a long
+
+733
+01:19:17,359 --> 01:19:21,920
+friend of Pauling's and I think instrumental in bringing Pauling to Stanford back in 1969
+
+734
+01:19:22,720 --> 01:19:27,840
+was there Byron Brown from Biosatistics was there and there were a number of people that Pauling
+
+735
+01:19:27,840 --> 01:19:33,279
+had liked and associated with over the years that were there and it provided him an opportunity
+
+736
+01:19:33,279 --> 01:19:40,000
+to see them and greet them. He always had a lot of energy to meet people as well and
+
+737
+01:19:40,239 --> 01:19:46,560
+it a very interesting way of speaking. It was very characteristic and a very characteristic way
+
+738
+01:19:46,560 --> 01:19:53,600
+of moving as well both of which were captured quite realistically by John Aston when he performed
+
+739
+01:19:53,600 --> 01:19:59,920
+the part of Linus Pauling in the nature of the Marital Bond which was a play put on in association
+
+740
+01:19:59,920 --> 01:20:03,359
+when the Linus Pauling exhibition years ago.
+
+741
+01:20:03,920 --> 01:20:12,239
+What about that note? Outside of Boyd De�s and May the Hall we don't really have a good sense of
+
+742
+01:20:12,239 --> 01:20:19,039
+who Pauling's friends really were. He was calling on that on the tagging of the movies they were his friends.
+
+743
+01:20:20,559 --> 01:20:26,159
+Well he spent quite a lot of time of course with Rick Hicks and Emilsu Kukandall and I think
+
+744
+01:20:26,800 --> 01:20:34,159
+Rick really went out of his way to try to take care of Linus Pauling as well especially after
+
+745
+01:20:34,159 --> 01:20:40,880
+A. Valindyde really looked after his welfare and was interested in his personal health as well and
+
+746
+01:20:40,880 --> 01:20:45,840
+I think even tried to get Linus Pauling to exercise which is something that Pauling refused to do.
+
+747
+01:20:48,159 --> 01:20:54,399
+He talked quite often with Emilsu Kukandall mainly about administrative issues so with Rick Hicks
+
+748
+01:20:54,399 --> 01:21:01,759
+and Emilsu Kukandall there was a lot of talk about administrative issues and these kinds of
+
+749
+01:21:01,759 --> 01:21:09,279
+conversations went on for a decade or longer. He saw quite a lot of hardened McConnell who was someone
+
+750
+01:21:09,279 --> 01:21:16,159
+he could talk about chemistry with and Henry Talby as well at Stanford and Zellik Herman was
+
+751
+01:21:16,159 --> 01:21:22,159
+another person that was a colleague and an employee of the institute but someone that Pauling could talk
+
+752
+01:21:23,039 --> 01:21:28,880
+in a very meaningful detailed way in depth about theoretical chemistry and structural chemistry
+
+753
+01:21:28,880 --> 01:21:36,639
+and physics so Herman and Pauling co-authored quite a few papers during this period in 1970s through
+
+754
+01:21:36,639 --> 01:21:44,319
+the 1980s and up to the 1990s and I think Pauling relied on him to do a lot of the sort of the
+
+755
+01:21:46,159 --> 01:21:51,599
+heavy work in many of those papers so we spent a lot of time with Zellik Herman as well
+
+756
+01:21:52,559 --> 01:21:57,279
+and there were a lot of people that visited him who he'd known throughout his life
+
+757
+01:21:58,720 --> 01:22:08,079
+but he didn't really seem to have what I would call a strong social life. Of course if he was
+
+758
+01:22:08,079 --> 01:22:13,519
+entertaining people at his home in Porto Avali or at his apartment in Stanford I wouldn't necessarily
+
+759
+01:22:13,519 --> 01:22:19,439
+have known about that. I mean I went to his home in Porto Avali a number of times he and his wife
+
+760
+01:22:19,439 --> 01:22:27,199
+used to host Christmas parties there and one of the last Christmas parties I went to there I think
+
+761
+01:22:27,199 --> 01:22:36,639
+was probably 1979. Avali and died in 1980 or 1981? 1981 so I believe that this was probably about
+
+762
+01:22:36,639 --> 01:22:43,359
+1979 and I remember thinking about the egg nod that Pauling made which was really extraordinary
+
+763
+01:22:43,439 --> 01:22:52,399
+good. He wasn't a chef but having a Nobel Prize winning chemist Nobel Prize winning chemist
+
+764
+01:22:53,119 --> 01:22:59,039
+make the egg nod and spike it with with a vodka was pretty extraordinary it was a really terrific
+
+765
+01:22:59,039 --> 01:23:06,799
+treat and he when he was with his wife was also very affectionate and I think people picked up on
+
+766
+01:23:06,800 --> 01:23:14,720
+that affection and responded to that as well. After his wife died of course there was no one
+
+767
+01:23:14,720 --> 01:23:20,960
+for him to be that affectionate with so he was a bit different in in social situations because he
+
+768
+01:23:20,960 --> 01:23:25,279
+didn't really have someone to to be affectionate with in those circumstances.
+
+769
+01:23:28,239 --> 01:23:34,640
+Do you have any other recollections that they'd at home? She was a really diminutive person she was
+
+770
+01:23:34,640 --> 01:23:42,560
+short she was very well spoken very articulate and I enjoyed speaking with her when I talked to her
+
+771
+01:23:42,560 --> 01:23:48,800
+several times she and I did not talk about science so much as we talked about other issues and
+
+772
+01:23:49,520 --> 01:23:57,039
+she as I found out later was particularly fond of their association with some of the celebrities
+
+773
+01:23:57,039 --> 01:24:02,000
+in in Los Angeles and Hollywood during the era in which Pauling was trying to educate them about
+
+774
+01:24:02,000 --> 01:24:10,159
+radioactive isotopes and nuclear weapons and so forth and engaged in peace activities as well
+
+775
+01:24:11,279 --> 01:24:17,199
+and we talked I think gave a hell and I talked about those things sometimes but typically she was
+
+776
+01:24:17,199 --> 01:24:21,760
+very close to her husband physically whenever they were in a social environment and he always
+
+777
+01:24:21,760 --> 01:24:27,840
+liked to steer the conversation to science so the conversation typically would would end up being
+
+778
+01:24:27,840 --> 01:24:33,440
+about science and not so much about some of the other activities. One other thing about Pauling
+
+779
+01:24:36,720 --> 01:24:45,360
+that I enjoyed was when I found out that he enjoyed reading mystery novels I also was a big fan
+
+780
+01:24:45,360 --> 01:24:51,840
+of Sherlock Holmes and not so much Agatha Christie but particularly Rex Stout and I asked him if he had
+
+781
+01:24:51,840 --> 01:24:57,039
+read all of Sherlock Holmes and Rex Stout and of course he had so there wasn't anything I could
+
+782
+01:24:57,039 --> 01:25:02,079
+loan him but there were other books that I was reading he was not familiar with one was called
+
+783
+01:25:02,079 --> 01:25:08,960
+the Red Right Hand by Joel Townsley Rogers which I think was written in 1939 or 1940 and it's a
+
+784
+01:25:08,960 --> 01:25:15,279
+real hard boiled great detective story and I loaned that to him and he really he loved that book very
+
+785
+01:25:15,279 --> 01:25:21,199
+much and he consequently loaned me books I would loan him books and he would he would loan me mystery
+
+786
+01:25:21,199 --> 01:25:27,439
+books as well that that he had finished reading it was very interesting and in one time he broke
+
+787
+01:25:27,439 --> 01:25:34,079
+from that orthodoxy and loaning me mystery novels and loaned me a book called Good Night Ava by Richard
+
+788
+01:25:34,079 --> 01:25:42,079
+Bissell and this was a 1950s pulp paperback with a painted cover and he said I think you'll enjoy this
+
+789
+01:25:42,079 --> 01:25:47,599
+and I got the book and I read it and it reminded me a little bit of Verscan Caldwell even Mark Twain
+
+790
+01:25:47,680 --> 01:25:59,200
+maybe and the cover of the book showed kind of a the sultry group sitting on a on a porch of a kind
+
+791
+01:25:59,200 --> 01:26:03,600
+of a ram shackle cabin probably in the banks of the Mississippi River and there were a couple of
+
+792
+01:26:03,600 --> 01:26:11,920
+guys lounging around looked like near-do wells and there was a woman's trimming guitar in not much
+
+793
+01:26:12,399 --> 01:26:18,640
+and she had her foot up on a pickle barrel or something and I thought it was amusing that he'd
+
+794
+01:26:18,640 --> 01:26:24,880
+loaned me this book and it was actually an amusing entertaining read as well and I gave it back to him
+
+795
+01:26:24,880 --> 01:26:29,520
+and when he when I gave it back to him his eyes kind of sparkled a bit and he said did you
+
+796
+01:26:29,520 --> 01:26:35,600
+notice anything particularly funny about the book and I said yes and both of us burst out laughing
+
+797
+01:26:35,680 --> 01:26:44,160
+he had taken a photograph of his wife and cut out her face and pasted it over the face of the
+
+798
+01:26:44,160 --> 01:26:50,240
+woman playing guitar on the cover of the book and I thought that was very funny very appropriate
+
+799
+01:26:50,240 --> 01:26:57,200
+since the book had Eva in the title as well you have that book I'm sure you do yeah
+
+800
+01:26:59,520 --> 01:27:05,280
+and he had a terrific sense of humor Zella Kerman likes to tell the story of the time that
+
+801
+01:27:05,600 --> 01:27:10,560
+he was standing at the urinal in the men's room at the Linus Pine Institute Science Medicine and
+
+802
+01:27:11,600 --> 01:27:16,240
+Linus Pine came in and stood next to him and looked over and said ah we meet his peers
+
+803
+01:27:20,800 --> 01:27:26,400
+so he was not prudish and of course Ken Hedberg has a very famous story of
+
+804
+01:27:27,600 --> 01:27:32,160
+when Ken was a graduate student Caltech and was looking through one of those little plastic
+
+805
+01:27:32,159 --> 01:27:39,840
+viewfinders of the woman O'Neal Turell in a stream standing on a rock or a boulder
+
+806
+01:27:40,880 --> 01:27:45,519
+he was holding this viewfinder up to the light and he heard Pauling's footsteps outside his
+
+807
+01:27:45,519 --> 01:27:52,559
+office and thought oh and Pauling came in and of course wanted to see what the viewfinder picture
+
+808
+01:27:52,559 --> 01:27:58,800
+was and he held the viewfinder up to the light and said ah the salt he identified the rock that
+
+809
+01:27:58,800 --> 01:28:03,760
+she was standing on so he had a great sense of humor and it would definitely was not prudish
+
+810
+01:28:06,000 --> 01:28:11,440
+just that I can briefly you mentioned me that Hela is talking about the connections that they
+
+811
+01:28:11,440 --> 01:28:17,680
+have with some of the Hollywood types do you call any individual which was particularly fun about
+
+812
+01:28:17,680 --> 01:28:22,640
+the women and stuff that no I don't but I remember there were a number of people who came to
+
+813
+01:28:22,640 --> 01:28:31,440
+the institute and also to some of Pauling's birthday events and other events such as Eddie
+
+814
+01:28:31,440 --> 01:28:37,680
+Albert I remember giving a tour to Eddie Albert and son Eddie Albert Jr. one time at the institute
+
+815
+01:28:37,680 --> 01:28:47,760
+and Carl Sagan came by one time for an event and there were a number of other
+
+816
+01:28:47,840 --> 01:28:52,159
+number of other people who escaped me right now who came through the institute one reason or another
+
+817
+01:28:53,760 --> 01:29:02,000
+but those were I believe after Avalon had died so those were people who had continued to have
+
+818
+01:29:02,000 --> 01:29:07,600
+some title on his pond or the one's point institute but I don't recollect talking with her about
+
+819
+01:29:07,600 --> 01:29:13,840
+specific people Pauling by all it comes out of very difficult times feeling a bit of a homestead
+
+820
+01:29:14,000 --> 01:29:18,480
+wondering if you have memories of that time period and how that fit in itself
+
+821
+01:29:19,760 --> 01:29:26,800
+well as Erick Hall he was gone quite a lot after her death I think he took a trip to Oregon
+
+822
+01:29:26,800 --> 01:29:34,079
+and visited some of his old boyhood haunts his home maybe the semi-family cemetery maybe
+
+823
+01:29:34,079 --> 01:29:42,560
+went to Condon came here to Oregon State University he was perhaps didn't exhibit the same sort
+
+824
+01:29:42,560 --> 01:29:47,680
+of levity that that I was accustomed to seeing in him in other words he was spontaneously happy
+
+825
+01:29:49,600 --> 01:29:57,360
+in the late 1970s when I saw him he always seemed to be very happy and very carefree I think there
+
+826
+01:29:57,360 --> 01:30:06,240
+was a more somber demeanor that he exhibited after her death and a lot of the sort of levity
+
+827
+01:30:06,239 --> 01:30:14,079
+seemed to evaporate from his countenance at that time now that slowly returned over the course
+
+828
+01:30:14,079 --> 01:30:21,840
+of the 1980s and I'd say by the mid to late 1980s he seemed to be pretty much his old self in
+
+829
+01:30:21,840 --> 01:30:26,559
+terms of a good sense of humor but there was a period there when he didn't seem to be very happy
+
+830
+01:30:26,560 --> 01:30:33,760
+okay well we are at an hour and a half and another about half way through my questions
+
+831
+01:30:33,760 --> 01:30:37,280
+so I don't see a whole day through that yeah that's fine
+

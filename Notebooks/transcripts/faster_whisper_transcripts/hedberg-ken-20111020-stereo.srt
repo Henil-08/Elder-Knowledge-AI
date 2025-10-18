@@ -1,0 +1,10684 @@
+1
+00:00:00,000 --> 00:00:06,400
+Okay, so we are doing so, as in the past, we've learned to introduce the self-purgant
+
+2
+00:00:06,400 --> 00:00:07,400
+day's name.
+
+3
+00:00:07,400 --> 00:00:17,839
+My name is Kenneth Hedberg, and this is the 20th of October 19th, 2011.
+
+4
+00:00:17,839 --> 00:00:24,519
+Okay, so today, I would like to start with you telling us about the role that you played
+
+5
+00:00:24,519 --> 00:00:28,080
+in the following papers, telling you what it is today.
+
+6
+00:00:28,080 --> 00:00:31,480
+Yeah, well, we talked about that last time, I guess.
+
+7
+00:00:31,480 --> 00:00:35,480
+Did we or did we not?
+
+8
+00:00:35,480 --> 00:00:47,960
+Well, I had a uncomfortable feeling I'm repeating myself here, but maybe not.
+
+9
+00:00:47,960 --> 00:00:57,640
+The effort to bring the papers here began when I sat at the head table with the Helen
+
+10
+00:00:57,640 --> 00:01:06,040
+Pauline during a meeting, short, in celebration of the awardee of the Pauline award, which
+
+11
+00:01:06,040 --> 00:01:12,879
+had been newly set up by three sections of the American Chemical Society, and she told
+
+12
+00:01:12,879 --> 00:01:22,040
+me at that time that people, several universities and other institutions were after Linus'
+
+13
+00:01:22,040 --> 00:01:27,120
+papers, but she said he didn't want them to go to these
+
+14
+00:01:27,120 --> 00:01:28,120
+institutions.
+
+15
+00:01:28,120 --> 00:01:35,200
+She said they didn't want all of his papers, and the University of Pennsylvania, I've seen
+
+16
+00:01:35,200 --> 00:01:39,760
+you remember, it was one of them, as well as Caltech and Stanford.
+
+17
+00:01:39,760 --> 00:01:44,400
+They only wanted slick proportions, but they wanted them all together, and so she said
+
+18
+00:01:44,400 --> 00:01:51,600
+to me that she had felt for a long time that the papers ought to come to Oregon State.
+
+19
+00:01:52,600 --> 00:01:58,600
+Now this was before Pauline's relations with Oregon State had been repaired, and she
+
+20
+00:01:58,600 --> 00:02:03,000
+went on to remark that she'd been talking to him, and she was trying to persuade him
+
+21
+00:02:03,000 --> 00:02:06,000
+that he should let bygones be bygones.
+
+22
+00:02:06,000 --> 00:02:11,000
+So that was Linus' late year?
+
+23
+00:02:11,000 --> 00:02:14,800
+Oh, gosh, that was the early 60s.
+
+24
+00:02:14,800 --> 00:02:20,600
+I'm sorry, my memory was hazy on these exact dates, but anyway, sometime now.
+
+25
+00:02:20,599 --> 00:02:31,400
+So I conveyed this information when I got back to the institution to President of the University
+
+26
+00:02:31,400 --> 00:02:43,959
+who at that time was Professor Johnson, and he called me and asked me if I thought that
+
+27
+00:02:43,960 --> 00:02:53,120
+Pauline would accept an invitation to come to the University and speak.
+
+28
+00:02:53,120 --> 00:02:59,480
+And I said, well, it could well be the case, it doesn't do any harm to try.
+
+29
+00:02:59,480 --> 00:03:06,719
+Now have I outlined the reasons before that Pauline did not want to come to the institution?
+
+30
+00:03:06,719 --> 00:03:13,240
+I don't know, I thought we talked about that.
+
+31
+00:03:13,240 --> 00:03:24,040
+It's odd because, well, never mind, in the late 40s, there was a faculty member at Oregon
+
+32
+00:03:24,040 --> 00:03:29,840
+State named Ralph Spitzer, who was denied tenure in the Department of Chemistry.
+
+33
+00:03:29,840 --> 00:03:36,640
+He was an excellent physical chemist, and he raised the issue that he was being fired
+
+34
+00:03:36,640 --> 00:03:47,640
+for his political beliefs, found that partly on the, on a letter that he had written,
+
+35
+00:03:47,640 --> 00:03:54,240
+that was published in Chemical and Engineering News, not supporting, but at least saying
+
+36
+00:03:54,240 --> 00:04:01,080
+that people ought to at least think about what this fellow, the sinko, and at that time
+
+37
+00:04:01,080 --> 00:04:09,680
+the Soviet Union was saying about the effect of environment on inheritance, and of course
+
+38
+00:04:09,680 --> 00:04:17,639
+this flew in the face of conventional wisdom of the time that everything was inherited.
+
+39
+00:04:17,639 --> 00:04:31,199
+So at any rate, the faculty at the chemistry department decided that they would not offer
+
+40
+00:04:31,199 --> 00:04:37,319
+him permanent tenure, which meant, of course, that he had to leave.
+
+41
+00:04:37,319 --> 00:04:42,199
+Now I knew all the members of the chemistry department having been an undergraduate here,
+
+42
+00:04:43,199 --> 00:04:49,199
+a consequence of this was that Ralph Spitzer asked the American Chemical Society for a hearing
+
+43
+00:04:49,199 --> 00:04:57,800
+on the issue of, I forgot what the ACS committee was, but anyway, the idea is that you're not
+
+44
+00:04:57,800 --> 00:05:05,800
+supposed to be discharged from a teaching position on grounds of your political beliefs.
+
+45
+00:05:06,800 --> 00:05:13,800
+And at the 1948 meeting of the American Chemical Society in San Francisco, which I attended,
+
+46
+00:05:14,800 --> 00:05:19,800
+Ralph made his case, and he was strongly supported by Linus Pauling.
+
+47
+00:05:21,800 --> 00:05:27,800
+The upside of all this was that I don't think the ACS committee wanted to get its hands
+
+48
+00:05:27,800 --> 00:05:34,800
+too deeply involved in this thing and not much ever came of it, but Pauling was rather
+
+49
+00:05:34,800 --> 00:05:41,800
+actively pursuing an ocean that Spitzer was a fine scientist and there could be no reason
+
+50
+00:05:41,800 --> 00:05:47,800
+that he shouldn't be kept on for professional reasons.
+
+51
+00:05:48,800 --> 00:05:58,800
+Well, AL Strand was president of Oregon State at that time and the news media or somebody
+
+52
+00:05:58,800 --> 00:06:07,800
+had made it brought up his knowledge of what Pauling had said and Strand got properly angry
+
+53
+00:06:07,800 --> 00:06:12,800
+and said, well, Oregon State can get along without Linus Pauling.
+
+54
+00:06:12,800 --> 00:06:18,800
+And Linus Pauling then said to the media, when this was reported to him, if they can get along
+
+55
+00:06:18,800 --> 00:06:21,800
+without Linus Pauling, they will.
+
+56
+00:06:21,800 --> 00:06:30,800
+So, from 1948 to all through the 50s, and of course, he won his Nobel Prize in 1954
+
+57
+00:06:30,800 --> 00:06:37,800
+and he spies later on, he had nothing to do with Oregon State.
+
+58
+00:06:37,800 --> 00:06:43,800
+But after Mrs. Pauling's comment to me and my relay of this information to Johnson, he
+
+59
+00:06:43,800 --> 00:06:49,800
+called me and said, as I said before, I would Pauling accept an invitation.
+
+60
+00:06:49,800 --> 00:06:56,800
+And Duke Orssis was tendered to him and he agreed, but he was going to come here
+
+61
+00:06:56,800 --> 00:07:03,800
+and he was not going to speak to the university as a whole, not going to speak
+
+62
+00:07:03,800 --> 00:07:09,800
+to the chemistry department on scientific subject.
+
+63
+00:07:09,800 --> 00:07:16,800
+So, there was a huge meeting held in the present, Gilt Orssian.
+
+64
+00:07:16,800 --> 00:07:26,800
+And there was a podium set up on one side of the floor and Stands were filled on the opposite side
+
+65
+00:07:26,800 --> 00:07:29,800
+as his kind of a stage.
+
+66
+00:07:29,800 --> 00:07:38,800
+And the head of time, Johnson, excuse me, asked me if I would introduce Pauling.
+
+67
+00:07:38,800 --> 00:07:47,800
+Well, as you think about that, here is a distinguished scientist coming to speak to the university
+
+68
+00:07:47,800 --> 00:07:51,800
+and the present university is not introducing him.
+
+69
+00:07:51,800 --> 00:07:56,800
+An ordinary faculty member like me was asked to do so.
+
+70
+00:07:56,800 --> 00:08:05,800
+But in my presence, Pauling and I, and Johnson and maybe some other people were there,
+
+71
+00:08:05,800 --> 00:08:10,800
+Johnson and Barney, that I was going to introduce him and he turned to me and said,
+
+72
+00:08:10,800 --> 00:08:14,800
+you're going to introduce me, Ken, and I said, yes, he's asked me to do that.
+
+73
+00:08:14,800 --> 00:08:19,800
+Pauling didn't say a word, but it was perfectly clear that he felt that it was appropriate
+
+74
+00:08:19,800 --> 00:08:23,800
+for the university president to do the introduction.
+
+75
+00:08:23,800 --> 00:08:32,799
+Well, so anyway, all of Mrs. Johnson and President Johnson and either Helen Pauling and Linus and Lisa
+
+76
+00:08:32,799 --> 00:08:37,799
+and I got in the limo and we were chauffeur over to the hall of Sam.
+
+77
+00:08:37,799 --> 00:08:39,799
+And everybody was sitting there waiting.
+
+78
+00:08:39,799 --> 00:08:43,799
+We filed in and went up on the stage and a few things were said.
+
+79
+00:08:43,799 --> 00:08:49,799
+And then I was supposed to give my introduction, which I did in a few minutes.
+
+80
+00:08:49,799 --> 00:08:55,799
+And about this time, Mrs. Pauling was about to speak and filed a group of students.
+
+81
+00:08:55,799 --> 00:09:03,799
+They were all black and many prominent among them were many members of the football team.
+
+82
+00:09:03,799 --> 00:09:10,799
+And this was at the time when the great punk and the decree that football players were not going to be able to wear beers.
+
+83
+00:09:10,800 --> 00:09:18,800
+And at that point, all hell broke loose and there were meetings on the campus regarding free speech
+
+84
+00:09:18,800 --> 00:09:26,800
+and the ability of the students to football team to have a personal appearance as they wished.
+
+85
+00:09:26,800 --> 00:09:32,800
+And the great punk and insisted that he finally resulted.
+
+86
+00:09:32,800 --> 00:09:38,800
+I think to saying that the beers didn't fit very well with the helmets and so on.
+
+87
+00:09:38,800 --> 00:09:48,800
+At any rate, in due course, these people, they said a few words and then they turned and abruptly filed out.
+
+88
+00:09:48,800 --> 00:09:58,800
+And very well behaved and so Pauling gave his speech, which was on peace and very well received and so on.
+
+89
+00:09:58,800 --> 00:10:04,800
+And then at the dinner of that evening, Helen Pauling said to me, she said,
+
+90
+00:10:04,800 --> 00:10:18,800
+oh, I was so surprised. She said, I thought all these flocks that had filed in were there were going to sing.
+
+91
+00:10:18,800 --> 00:10:25,800
+Well, that was the beginning of several overtures of Pauling.
+
+92
+00:10:25,800 --> 00:10:30,800
+He came back succeeding occasions but in the middle of all this.
+
+93
+00:10:30,800 --> 00:10:38,800
+Well, none in the middle, but I think at the beginning of all this, I had reported to Jensen that Pauling,
+
+94
+00:10:38,800 --> 00:10:43,800
+that Mrs. Pauling thought that Melinas' papers should come to Oregon State.
+
+95
+00:10:43,800 --> 00:10:45,800
+And of course, that would have been a great coup.
+
+96
+00:10:45,800 --> 00:10:49,800
+And so he gingerly broached the subject to Pauling.
+
+97
+00:10:49,800 --> 00:10:53,800
+I wrote him a letter about this, actually.
+
+98
+00:10:53,800 --> 00:11:10,800
+And Pauling in due course responded and saying that he would give it some thought that he was not yet prepared to give up his papers because he was still actively using the materials that were in.
+
+99
+00:11:10,800 --> 00:11:20,800
+And after Jensen retired, he was succeeded by the victor.
+
+100
+00:11:21,800 --> 00:11:29,800
+And I didn't think a great deal about this. Pauling was now coming and doing occasions.
+
+101
+00:11:29,800 --> 00:11:36,800
+And it suddenly occurred to me that I should forward the information that I had given to Jensen to him as well.
+
+102
+00:11:36,800 --> 00:11:41,800
+So I dug out the correspondence letter that I had written.
+
+103
+00:11:41,800 --> 00:11:49,800
+And President Jensen's response to it and typed another letter and sent it off to Dr. McPickery.
+
+104
+00:11:49,800 --> 00:11:56,800
+Jensen Ariel was repeated, and he again, queried Pauling on his papers.
+
+105
+00:11:56,800 --> 00:12:02,800
+This was now some several years later after the first overture, but he got the same response back.
+
+106
+00:12:02,800 --> 00:12:08,800
+Pauling wasn't yet ready to park through these papers.
+
+107
+00:12:08,800 --> 00:12:16,800
+And time went on, and John Byrne became president.
+
+108
+00:12:16,800 --> 00:12:24,800
+And once again, I hold out these papers. Now I've had two sets of correspondence and wrote to John, sent it off to him.
+
+109
+00:12:24,800 --> 00:12:33,800
+And his response was a little bit different. He immediately set up a committee on which I served.
+
+110
+00:12:33,800 --> 00:12:39,800
+And he made a concrete offer to Linus Pauling at the others' hand.
+
+111
+00:12:39,800 --> 00:12:46,800
+He said, we are very unparaphrasing him. Now you could talk to John and find out exactly how this went.
+
+112
+00:12:46,800 --> 00:12:55,800
+But the gist of it was that he said that they would create a, or they would not just set up a room or something.
+
+113
+00:12:55,800 --> 00:13:01,800
+They would create a special collections in which you could, you know, all of these papers could be housed.
+
+114
+00:13:01,800 --> 00:13:05,800
+They would build this for him, for him.
+
+115
+00:13:05,800 --> 00:13:12,800
+I think you see, I only see these facts from what I remember of our contacts.
+
+116
+00:13:12,800 --> 00:13:18,800
+But I should be checked with John.
+
+117
+00:13:18,800 --> 00:13:26,800
+The member of the committee was Rob Phillips, and some others who I can't remember now.
+
+118
+00:13:26,800 --> 00:13:34,800
+But anyway, this went on. And this time Pauling agreed. This is what would transpire.
+
+119
+00:13:34,800 --> 00:13:38,800
+But he wanted also the home papers to come as well.
+
+120
+00:13:38,800 --> 00:13:48,800
+He strongly felt all his life that after he had won the Peace Prize that she should have shared in it, because she was the one that actually stimulated his activity in that area.
+
+121
+00:13:48,800 --> 00:13:56,800
+Well, there was a huge, and he agreed to do this.
+
+122
+00:13:56,800 --> 00:14:04,800
+The first thing that he did was supply to the University, and you'll know all this in the records of the special collections.
+
+123
+00:14:04,800 --> 00:14:16,800
+You sent copies of the signatories to the proposal for the way of holding the petition for banning,
+
+124
+00:14:16,800 --> 00:14:22,800
+exploding explosion of nuclear weapons in the atmosphere, atmospheric test bands.
+
+125
+00:14:22,800 --> 00:14:27,800
+And that was the first thing I'd believed that came to Oregon State.
+
+126
+00:14:27,800 --> 00:14:32,800
+And only gradually did the other materials appear still because, of course,
+
+127
+00:14:32,800 --> 00:14:40,800
+when I was Pauling was acting until shortly before it was just a short time before it was done.
+
+128
+00:14:40,800 --> 00:14:53,800
+And I remember, excuse me, people here were not clear about how big this collection of Pauling was.
+
+129
+00:14:53,800 --> 00:15:04,800
+And so the Duke course, the University suggested that Pauling suggested that they come down and take a look at what he had.
+
+130
+00:15:04,800 --> 00:15:13,800
+And Krishnamurthy was sent down.
+
+131
+00:15:13,800 --> 00:15:17,800
+And he came back and told me I'd kind of crosses where his eyes should be.
+
+132
+00:15:17,800 --> 00:15:24,800
+He says there were over 90 filing cases down at Big Sur, where Pauling had his ranch.
+
+133
+00:15:24,800 --> 00:15:26,800
+You see, all the stuff had been moved down there.
+
+134
+00:15:26,800 --> 00:15:34,800
+And he said, Krishnamurthy was, of Lamesh, was just totally blown away by all of this.
+
+135
+00:15:34,800 --> 00:15:43,800
+Well, in Duke course, oh, after Pauling had agreed to give his papers,
+
+136
+00:15:43,800 --> 00:15:55,800
+there was a very, very elegant reception in Portland with several speakers and lavish dinner.
+
+137
+00:15:55,800 --> 00:16:01,800
+I was really a very, very nice affair and Pauling spoke.
+
+138
+00:16:01,800 --> 00:16:13,800
+And at that stage, somehow the question came up about all of his materials coming here.
+
+139
+00:16:13,800 --> 00:16:20,800
+And there had been some feelings.
+
+140
+00:16:20,800 --> 00:16:28,800
+Some of the family members, particularly Linda, I think, who felt that the family should have held control over some of these.
+
+141
+00:16:28,800 --> 00:16:32,800
+Pauling was asked, well, what does your family think about all of this?
+
+142
+00:16:32,800 --> 00:16:35,800
+And he says, well, Linda's here, why don't you ask her?
+
+143
+00:16:35,800 --> 00:16:42,800
+I don't remember what a response was, but I do remember Pauling's statement very clearly.
+
+144
+00:16:42,800 --> 00:16:49,800
+Well, as time went on, these things began to arrive.
+
+145
+00:16:49,800 --> 00:16:56,800
+So to arrive, these filing cases, now remember, well, I'm just describing to me a truck and pull up
+
+146
+00:16:56,800 --> 00:17:00,800
+and discourage a few of these filing cases and so on.
+
+147
+00:17:00,800 --> 00:17:09,800
+And that was a start, and that saw the project through to completion.
+
+148
+00:17:09,800 --> 00:17:13,800
+I don't know when the last of these materials actually arrived here at special collections,
+
+149
+00:17:13,800 --> 00:17:17,800
+but that's kind of the history of how they came here.
+
+150
+00:17:17,799 --> 00:17:28,799
+At least of the role that I played in it, doing nothing but reminding one president after another of what Pauling had,
+
+151
+00:17:28,799 --> 00:17:33,799
+what Mrs. Pauling had urged him to do in the fact that the relations had been repaired,
+
+152
+00:17:33,799 --> 00:17:42,799
+seemed between the university and Linus Pauling, seemed to suggest that things might go smoothly forward from there.
+
+153
+00:17:42,799 --> 00:17:49,799
+I do know that he was actually very fond of the university,
+
+154
+00:17:49,799 --> 00:17:52,799
+but he came on visits which he did not in frequently.
+
+155
+00:17:52,799 --> 00:18:01,799
+I usually was somehow involved in escorting him around,
+
+156
+00:18:01,799 --> 00:18:05,799
+walking the campus with him in a number of occasions.
+
+157
+00:18:05,799 --> 00:18:07,799
+We walked around the campus for one time.
+
+158
+00:18:07,799 --> 00:18:12,799
+We walked up in the old, who was in those days known as a chem-shack,
+
+159
+00:18:12,799 --> 00:18:16,799
+and didn't quite seriously remodel from Pauling's time,
+
+160
+00:18:16,799 --> 00:18:20,799
+but he seemed to be able to pick out the room in which he had been lecturing
+
+161
+00:18:20,799 --> 00:18:26,799
+when they either held on Pauling and appeared in his life.
+
+162
+00:18:26,799 --> 00:18:35,799
+And we walked down 15th Street and he showed me a house there that he had lived in as a student.
+
+163
+00:18:35,799 --> 00:18:40,799
+And I said to him, it's rather surprising,
+
+164
+00:18:40,799 --> 00:18:44,799
+because there's a certain parallelism in our experience here,
+
+165
+00:18:44,799 --> 00:18:48,799
+because I lived on 15th Street also, on the other side of the street,
+
+166
+00:18:48,799 --> 00:18:53,799
+just to have a block down, and I was an undergraduate student.
+
+167
+00:18:53,799 --> 00:18:57,799
+So I took a picture of him in Linda on the steps of the house.
+
+168
+00:18:57,799 --> 00:19:02,799
+I have it somewhere in my materials at home.
+
+169
+00:19:02,799 --> 00:19:11,799
+So the other thing I would say is that,
+
+170
+00:19:11,799 --> 00:19:22,799
+when Pauling began to come back to Oregon State on occasions,
+
+171
+00:19:22,799 --> 00:19:28,799
+we saw him and his wife as long as she was living quite frequently at home,
+
+172
+00:19:28,799 --> 00:19:32,799
+for dinner and places and things like that.
+
+173
+00:19:32,799 --> 00:19:36,799
+So we got to know them pretty well, better than when I was a student.
+
+174
+00:19:36,799 --> 00:19:41,799
+Of course, when I was a Kel Tech as a student, I was a student.
+
+175
+00:19:41,799 --> 00:19:48,799
+So it's been, for me, a wonderful, exhilarating experience.
+
+176
+00:19:48,799 --> 00:19:52,799
+So does that answer your query?
+
+177
+00:19:52,799 --> 00:19:55,799
+I've spent 20 minutes describing it.
+
+178
+00:19:55,799 --> 00:20:01,799
+Well, I'm interested in getting the memories of the times
+
+179
+00:20:01,799 --> 00:20:06,799
+that even on the minus can come up frequently in your house.
+
+180
+00:20:06,799 --> 00:20:13,799
+Oh, yeah, sure.
+
+181
+00:20:13,799 --> 00:20:20,799
+I have, I keep thinking that I have said some of this to you before,
+
+182
+00:20:20,799 --> 00:20:24,799
+but it may have been to somebody else.
+
+183
+00:20:24,799 --> 00:20:34,799
+But let me think just a moment.
+
+184
+00:20:34,799 --> 00:20:38,799
+One time, this was in the music anecdote,
+
+185
+00:20:38,799 --> 00:20:41,799
+and I don't know whether it involved well,
+
+186
+00:20:41,799 --> 00:20:46,799
+but I don't remember the whole clause for a dinner party
+
+187
+00:20:46,799 --> 00:20:50,799
+that the Paulings and we were invited to along with Dave Shoemaker,
+
+188
+00:20:50,799 --> 00:20:52,799
+who was chairman of our department,
+
+189
+00:20:52,799 --> 00:20:55,799
+who, by the way, knew Pauling very well.
+
+190
+00:20:55,799 --> 00:20:58,799
+He was a student at Kel Tech when I was.
+
+191
+00:20:58,799 --> 00:21:04,799
+And we all knew that Pauling,
+
+192
+00:21:04,799 --> 00:21:08,799
+he didn't shy away from alcohol.
+
+193
+00:21:08,799 --> 00:21:12,799
+He liked the vodka.
+
+194
+00:21:12,799 --> 00:21:17,799
+And on the evening of the dinner party,
+
+195
+00:21:17,799 --> 00:21:19,799
+just before about four o'clock,
+
+196
+00:21:19,799 --> 00:21:23,799
+I got a call from the host.
+
+197
+00:21:23,799 --> 00:21:28,799
+Sorry about my throat.
+
+198
+00:21:28,799 --> 00:21:31,799
+Asking me, I know that Dr. Pauling likes vodka,
+
+199
+00:21:31,799 --> 00:21:34,799
+says, I looked at my cupboard and I don't have any,
+
+200
+00:21:34,799 --> 00:21:36,799
+and I don't have any way of getting it.
+
+201
+00:21:36,799 --> 00:21:38,799
+Do you happen to have any vodka?
+
+202
+00:21:38,799 --> 00:21:42,799
+And I said, well, as a matter of fact, I do.
+
+203
+00:21:42,799 --> 00:21:43,799
+Am I told this story?
+
+204
+00:21:43,799 --> 00:21:44,799
+No.
+
+205
+00:21:44,799 --> 00:21:46,799
+Well, as a matter of fact, I do.
+
+206
+00:21:46,799 --> 00:21:48,799
+When I went into my cupboard,
+
+207
+00:21:48,799 --> 00:21:51,799
+I had maybe two thirds of a bottle there.
+
+208
+00:21:51,799 --> 00:21:53,799
+And so I got a brown paper bag,
+
+209
+00:21:53,799 --> 00:21:56,799
+and put the bottle in it.
+
+210
+00:21:56,799 --> 00:21:59,799
+And then we were picked up,
+
+211
+00:21:59,799 --> 00:22:01,799
+and the Paulings were picked up.
+
+212
+00:22:01,799 --> 00:22:05,799
+And we were driven up to the whole house,
+
+213
+00:22:05,799 --> 00:22:08,799
+running a doorbell, and he appeared.
+
+214
+00:22:08,799 --> 00:22:11,799
+And everybody shook hands,
+
+215
+00:22:11,799 --> 00:22:14,799
+and it is why I greeted everyone,
+
+216
+00:22:14,799 --> 00:22:16,799
+most pleasantly, and as I walked in,
+
+217
+00:22:16,799 --> 00:22:20,799
+I handed him my paper bag with a bottle in it.
+
+218
+00:22:20,799 --> 00:22:24,799
+And then every minute settled down for a bit,
+
+219
+00:22:24,799 --> 00:22:27,799
+and the living room before dinner was served.
+
+220
+00:22:27,799 --> 00:22:30,799
+The host said, well, would anybody like a drink?
+
+221
+00:22:30,799 --> 00:22:32,799
+And Dr. Pauling said, well,
+
+222
+00:22:32,799 --> 00:22:35,799
+you don't happen to have any vodka to you.
+
+223
+00:22:35,799 --> 00:22:41,799
+And the host said, well, as a matter of fact, I do.
+
+224
+00:22:41,799 --> 00:22:44,799
+So I thought that story, I think,
+
+225
+00:22:44,799 --> 00:22:46,799
+is very funny on retrospect,
+
+226
+00:22:46,799 --> 00:22:48,799
+but at any rate,
+
+227
+00:22:48,799 --> 00:22:55,799
+I never told Pauling this history at all.
+
+228
+00:22:55,799 --> 00:22:59,799
+So,
+
+229
+00:22:59,799 --> 00:23:03,799
+after either Helen died,
+
+230
+00:23:03,799 --> 00:23:06,799
+he continued to come to Oregon State,
+
+231
+00:23:06,799 --> 00:23:08,799
+often with Linda,
+
+232
+00:23:08,799 --> 00:23:11,799
+who accompanied him.
+
+233
+00:23:11,799 --> 00:23:13,799
+And they would come.
+
+234
+00:23:13,799 --> 00:23:17,799
+There were lots of things set up at the University of Receptions here.
+
+235
+00:23:17,799 --> 00:23:20,799
+There was a big library reception one time,
+
+236
+00:23:20,799 --> 00:23:23,799
+and there were seminars and chemistry,
+
+237
+00:23:23,799 --> 00:23:25,799
+and even in physics.
+
+238
+00:23:25,799 --> 00:23:28,799
+And then, usually, after these affairs,
+
+239
+00:23:28,799 --> 00:23:32,799
+and before dinner,
+
+240
+00:23:32,799 --> 00:23:35,799
+well, I say usually that,
+
+241
+00:23:35,799 --> 00:23:37,799
+often at any rate,
+
+242
+00:23:37,799 --> 00:23:40,799
+he and Linda would come to the house.
+
+243
+00:23:40,799 --> 00:23:44,799
+And on one occasion,
+
+244
+00:23:44,799 --> 00:23:48,799
+I'm referring still now
+
+245
+00:23:48,799 --> 00:23:54,799
+to his enjoyment of a drink before dinner.
+
+246
+00:23:54,799 --> 00:23:58,799
+We were on the campus walking around.
+
+247
+00:23:58,799 --> 00:24:01,799
+I said, what would you like to do now before the next reception,
+
+248
+00:24:01,799 --> 00:24:03,799
+which was an hour and a half?
+
+249
+00:24:03,799 --> 00:24:06,799
+I said, well, can we go to your house for a drink?
+
+250
+00:24:06,799 --> 00:24:08,799
+Yes, we could.
+
+251
+00:24:08,799 --> 00:24:10,799
+So, he went over to my house,
+
+252
+00:24:10,799 --> 00:24:13,799
+and he said, you don't have any vodka.
+
+253
+00:24:13,799 --> 00:24:16,799
+And he said, yeah, I thought, I know you like that.
+
+254
+00:24:16,799 --> 00:24:18,799
+And so, I got a glass,
+
+255
+00:24:18,799 --> 00:24:20,799
+a small tumbler,
+
+256
+00:24:20,799 --> 00:24:22,799
+like it puts a nice in it.
+
+257
+00:24:22,799 --> 00:24:25,799
+And he drank straight vodka.
+
+258
+00:24:25,799 --> 00:24:27,799
+It's essentially pure alcohol.
+
+259
+00:24:27,799 --> 00:24:30,799
+He told me at one other occasion.
+
+260
+00:24:30,799 --> 00:24:33,799
+Before dinner, he always had one of these cocktails,
+
+261
+00:24:33,799 --> 00:24:35,799
+but that was about it.
+
+262
+00:24:35,799 --> 00:24:38,799
+I started to pour, and I said, say, when?
+
+263
+00:24:38,799 --> 00:24:39,799
+He didn't say when.
+
+264
+00:24:39,799 --> 00:24:41,799
+When the thing was full, I stopped,
+
+265
+00:24:41,799 --> 00:24:44,799
+and he looked out and he looked at me with a smile.
+
+266
+00:24:44,799 --> 00:24:46,799
+There was a lot of ice in it,
+
+267
+00:24:46,799 --> 00:24:50,799
+so it really wasn't an awful lot of vodka, I think.
+
+268
+00:24:50,799 --> 00:24:52,799
+Anyway, we chatted a while,
+
+269
+00:24:52,799 --> 00:24:55,799
+and then he said to me, can I have another?
+
+270
+00:24:55,799 --> 00:24:56,799
+And Linda was sitting there,
+
+271
+00:24:56,799 --> 00:24:59,799
+and they had to go, this is the time we had to go to reception
+
+272
+00:24:59,799 --> 00:25:00,799
+over here in the library,
+
+273
+00:25:00,799 --> 00:25:03,799
+some place or another.
+
+274
+00:25:03,799 --> 00:25:05,799
+It was a library reception,
+
+275
+00:25:05,799 --> 00:25:07,799
+but it was held in the M.U.
+
+276
+00:25:07,799 --> 00:25:10,799
+and one of the rooms at the M.U.
+
+277
+00:25:10,799 --> 00:25:13,799
+And anyway, he says, can I have another vodka?
+
+278
+00:25:13,799 --> 00:25:16,799
+I put some more ice in it and pour it again.
+
+279
+00:25:16,799 --> 00:25:19,799
+And once again, I stopped when it was full,
+
+280
+00:25:19,799 --> 00:25:20,799
+and Linda was over there,
+
+281
+00:25:20,799 --> 00:25:22,799
+and said, daddy, daddy, you shouldn't do that.
+
+282
+00:25:22,799 --> 00:25:24,799
+You've got to go to a reception today.
+
+283
+00:25:24,799 --> 00:25:26,799
+Well, he just smiled at her,
+
+284
+00:25:26,799 --> 00:25:28,799
+and then we got up and walked out,
+
+285
+00:25:28,799 --> 00:25:31,799
+and he walked straight as a rod.
+
+286
+00:25:31,799 --> 00:25:33,799
+He didn't waiver at all.
+
+287
+00:25:33,799 --> 00:25:35,799
+We got in a car, went over there,
+
+288
+00:25:35,799 --> 00:25:36,799
+and he walked in,
+
+289
+00:25:36,799 --> 00:25:37,799
+and he shook hands with people.
+
+290
+00:25:37,799 --> 00:25:39,799
+You couldn't tell.
+
+291
+00:25:39,799 --> 00:25:42,799
+And, you know, he didn't weigh an awful lot.
+
+292
+00:25:42,799 --> 00:25:45,799
+He probably weighed 165 pounds, or 60 pounds,
+
+293
+00:25:45,799 --> 00:25:48,799
+or something.
+
+294
+00:25:48,799 --> 00:25:50,799
+A tall man and loose-jointed,
+
+295
+00:25:50,799 --> 00:25:52,799
+if everybody knows it.
+
+296
+00:25:52,799 --> 00:26:00,799
+And the reception went off just fine.
+
+297
+00:26:00,799 --> 00:26:02,799
+At one dinner party,
+
+298
+00:26:02,799 --> 00:26:07,799
+when this appalling was still alive,
+
+299
+00:26:07,799 --> 00:26:10,799
+we had tried to set it up in a nice fashion.
+
+300
+00:26:10,799 --> 00:26:15,799
+We had another pair of the Paulings,
+
+301
+00:26:15,799 --> 00:26:18,799
+and Lisa and me, and another couple of them,
+
+302
+00:26:18,799 --> 00:26:21,799
+and I'd been two more, maybe eight people.
+
+303
+00:26:21,799 --> 00:26:26,799
+But we had a first course with some white wine,
+
+304
+00:26:26,799 --> 00:26:29,799
+and I brought out the bottle,
+
+305
+00:26:29,799 --> 00:26:31,799
+and poured the white wine,
+
+306
+00:26:31,799 --> 00:26:33,799
+and the wine was picked up the bottle,
+
+307
+00:26:33,799 --> 00:26:35,799
+and it says, aw, he says, yeah,
+
+308
+00:26:35,799 --> 00:26:37,799
+this is my camp pronounces,
+
+309
+00:26:37,799 --> 00:26:40,799
+well, to eat, we say.
+
+310
+00:26:40,799 --> 00:26:43,799
+And he says, that's the same wine you served us last year.
+
+311
+00:26:43,799 --> 00:26:48,799
+Which, why he would remember,
+
+312
+00:26:48,799 --> 00:26:50,799
+of all of the dinner parties,
+
+313
+00:26:50,799 --> 00:26:52,799
+it'd been to what wine we had saved him
+
+314
+00:26:52,799 --> 00:26:54,799
+at the dinner party a year before,
+
+315
+00:26:54,799 --> 00:26:56,799
+it beats me.
+
+316
+00:26:56,799 --> 00:26:58,799
+But anyway, that was his remark.
+
+317
+00:26:58,799 --> 00:27:02,799
+It's been great fun knowing,
+
+318
+00:27:02,799 --> 00:27:04,799
+and so does that answer your question
+
+319
+00:27:04,799 --> 00:27:07,799
+about the papers and so on?
+
+320
+00:27:07,799 --> 00:27:09,799
+I want to ask you about the shoemakers.
+
+321
+00:27:09,799 --> 00:27:10,799
+We have their questions.
+
+322
+00:27:10,799 --> 00:27:11,799
+Yes.
+
+323
+00:27:11,799 --> 00:27:12,799
+That's a question.
+
+324
+00:27:12,799 --> 00:27:14,799
+You've ever seen in a vlog,
+
+325
+00:27:14,799 --> 00:27:16,799
+what do you call it on what they're like?
+
+326
+00:27:16,799 --> 00:27:17,799
+Is there people in there saying that?
+
+327
+00:27:17,799 --> 00:27:19,799
+Oh, well.
+
+328
+00:27:19,799 --> 00:27:21,799
+Dave's shoemaker and I were close friends,
+
+329
+00:27:21,799 --> 00:27:25,799
+and when they,
+
+330
+00:27:25,799 --> 00:27:27,799
+we served on a national committee together,
+
+331
+00:27:27,799 --> 00:27:31,799
+the United States,
+
+332
+00:27:31,799 --> 00:27:34,799
+the American Crystalographic Association,
+
+333
+00:27:34,799 --> 00:27:40,799
+has a committee on which, well,
+
+334
+00:27:40,799 --> 00:27:44,799
+at any rate, we had a meeting
+
+335
+00:27:44,799 --> 00:27:46,799
+to which I traveled in Washington, D.C.,
+
+336
+00:27:46,799 --> 00:27:49,799
+and Dave's shoemaker was the chairman of this committee.
+
+337
+00:27:49,799 --> 00:27:51,799
+Well, he and I had been students at Caltech,
+
+338
+00:27:51,799 --> 00:27:53,799
+and I knew him very well.
+
+339
+00:27:53,799 --> 00:27:56,799
+And at the end,
+
+340
+00:27:56,799 --> 00:27:58,799
+before I left,
+
+341
+00:27:58,799 --> 00:28:00,799
+we were looking for a replacement
+
+342
+00:28:00,799 --> 00:28:04,799
+for Bert Christensen, who was retiring.
+
+343
+00:28:04,799 --> 00:28:07,799
+And there was some talk,
+
+344
+00:28:07,799 --> 00:28:10,799
+given about bringing in, in fact,
+
+345
+00:28:10,799 --> 00:28:14,799
+it was preferred to bring in an outside person.
+
+346
+00:28:14,799 --> 00:28:17,799
+And I was impressed with how Dave,
+
+347
+00:28:17,799 --> 00:28:18,799
+who was then at MIT,
+
+348
+00:28:18,799 --> 00:28:20,799
+as professor of chemistry,
+
+349
+00:28:20,799 --> 00:28:23,799
+and a crystallographer,
+
+350
+00:28:23,799 --> 00:28:24,799
+ran this meeting,
+
+351
+00:28:24,799 --> 00:28:26,799
+he was very efficient.
+
+352
+00:28:26,799 --> 00:28:28,799
+I thought, gee, he'd be a good chairman.
+
+353
+00:28:28,799 --> 00:28:31,799
+And so, the meeting was,
+
+354
+00:28:31,799 --> 00:28:35,799
+one under a very, very tight schedule we had.
+
+355
+00:28:35,799 --> 00:28:37,799
+We worked furiously for several hours,
+
+356
+00:28:37,799 --> 00:28:39,799
+and then people had to disband,
+
+357
+00:28:39,799 --> 00:28:41,799
+and they were not having a dinner.
+
+358
+00:28:41,799 --> 00:28:42,799
+They were going to go home.
+
+359
+00:28:42,799 --> 00:28:45,799
+So I had almost, I said, Dave, I want to talk to you.
+
+360
+00:28:45,799 --> 00:28:47,799
+And he said, well, he says, you know,
+
+361
+00:28:47,799 --> 00:28:48,799
+I've got to catch a train.
+
+362
+00:28:48,799 --> 00:28:49,799
+I saw some such a time,
+
+363
+00:28:49,799 --> 00:28:51,799
+but he says, I'm on the way to the restroom.
+
+364
+00:28:51,799 --> 00:28:53,799
+Let's go to the restroom.
+
+365
+00:28:54,799 --> 00:28:57,799
+Well, this may sound indelicate,
+
+366
+00:28:57,799 --> 00:28:59,799
+and when you play it back again,
+
+367
+00:28:59,799 --> 00:29:01,799
+but there we were on a pair of urinals,
+
+368
+00:29:01,799 --> 00:29:03,799
+which were at an angle to each other.
+
+369
+00:29:03,799 --> 00:29:05,799
+So we were somewhere facing each other,
+
+370
+00:29:05,799 --> 00:29:07,799
+and I outlined this situation to him,
+
+371
+00:29:07,799 --> 00:29:11,799
+and asked him if he would consider,
+
+372
+00:29:11,799 --> 00:29:15,799
+think about being considered as department chairman.
+
+373
+00:29:15,799 --> 00:29:17,799
+Of course, Dave grew up in Idaho,
+
+374
+00:29:17,799 --> 00:29:20,799
+went to recall it, so he loved the West.
+
+375
+00:29:20,799 --> 00:29:24,799
+And although MIT was a very prestigious institution,
+
+376
+00:29:24,799 --> 00:29:26,799
+and they had a summer house,
+
+377
+00:29:26,799 --> 00:29:30,799
+he and Clara up in the mountains.
+
+378
+00:29:30,799 --> 00:29:33,799
+He said, yes, he would think about it.
+
+379
+00:29:33,799 --> 00:29:35,799
+So he came out,
+
+380
+00:29:35,799 --> 00:29:40,799
+and people liked him,
+
+381
+00:29:40,799 --> 00:29:43,799
+and he was off of the job.
+
+382
+00:29:43,799 --> 00:29:45,799
+Well, one of the conditions for the job
+
+383
+00:29:45,799 --> 00:29:49,799
+from his point of view was that his wife, Clara Brink,
+
+384
+00:29:49,799 --> 00:29:52,799
+was also a distinguished crystallographer,
+
+385
+00:29:52,799 --> 00:29:54,799
+and she wanted to be able to work
+
+386
+00:29:54,799 --> 00:29:56,799
+and to have an appointment.
+
+387
+00:29:56,799 --> 00:29:58,799
+At that time, there was a law.
+
+388
+00:29:58,799 --> 00:30:00,799
+In fact, it may still exist,
+
+389
+00:30:00,799 --> 00:30:04,799
+that came into being during the Depression.
+
+390
+00:30:04,799 --> 00:30:07,799
+It was an anti-nepotism law,
+
+391
+00:30:07,799 --> 00:30:13,799
+and it decreed that no members of the same family,
+
+392
+00:30:13,799 --> 00:30:16,799
+I don't remember how that was defined,
+
+393
+00:30:16,799 --> 00:30:18,799
+could work in the same department
+
+394
+00:30:18,799 --> 00:30:21,799
+or in fact in the same institution,
+
+395
+00:30:21,799 --> 00:30:25,799
+but even further in the state system of higher education,
+
+396
+00:30:25,799 --> 00:30:29,799
+except under unusual circumstances.
+
+397
+00:30:29,799 --> 00:30:31,799
+Well, about this time,
+
+398
+00:30:31,799 --> 00:30:34,799
+my wife was also a scientist.
+
+399
+00:30:34,799 --> 00:30:37,799
+We've been working together for years,
+
+400
+00:30:37,799 --> 00:30:39,799
+and we had a joint grant together,
+
+401
+00:30:39,799 --> 00:30:41,799
+and previous to that,
+
+402
+00:30:41,799 --> 00:30:45,799
+she had had appointments in the computer center
+
+403
+00:30:45,799 --> 00:30:48,799
+as an associate professor,
+
+404
+00:30:48,799 --> 00:30:49,799
+and so on.
+
+405
+00:30:49,799 --> 00:30:51,799
+So she was a professional,
+
+406
+00:30:51,799 --> 00:30:54,799
+but then it was determined,
+
+407
+00:30:54,799 --> 00:30:57,799
+that by a Bert Christensen,
+
+408
+00:30:57,799 --> 00:31:00,799
+that he wasn't going to allow her to work any longer
+
+409
+00:31:00,799 --> 00:31:02,799
+and be paid.
+
+410
+00:31:02,799 --> 00:31:04,799
+And so I went to him and said,
+
+411
+00:31:04,799 --> 00:31:06,799
+look, we've got this grant here,
+
+412
+00:31:06,799 --> 00:31:09,799
+and then you've signed it on the bottom,
+
+413
+00:31:09,799 --> 00:31:11,799
+the line item on the budget,
+
+414
+00:31:11,799 --> 00:31:14,799
+and Lisa has to be able to work.
+
+415
+00:31:14,799 --> 00:31:17,799
+She says, I'm not going to approve it.
+
+416
+00:31:17,799 --> 00:31:19,799
+So we took it over to Vern Shell,
+
+417
+00:31:19,799 --> 00:31:22,799
+a woman who was being a science at that time,
+
+418
+00:31:22,799 --> 00:31:24,799
+and brought it in, I showed him this,
+
+419
+00:31:24,799 --> 00:31:25,799
+and he says, well,
+
+420
+00:31:25,799 --> 00:31:27,799
+what didn't she tell me this sooner?
+
+421
+00:31:27,799 --> 00:31:29,799
+And I said, well, Bert Christensen,
+
+422
+00:31:29,799 --> 00:31:30,799
+and he were very close friends,
+
+423
+00:31:30,799 --> 00:31:35,799
+and I thought we should be talking to the chain of command here,
+
+424
+00:31:35,799 --> 00:31:36,799
+and he says, well,
+
+425
+00:31:36,799 --> 00:31:39,799
+here is a document that's legal.
+
+426
+00:31:39,799 --> 00:31:43,799
+He says she's going to be able to work on this grant
+
+427
+00:31:43,799 --> 00:31:44,799
+until it expires,
+
+428
+00:31:44,799 --> 00:31:45,799
+but after that,
+
+429
+00:31:45,799 --> 00:31:47,799
+if she wants to continue to be paid,
+
+430
+00:31:47,799 --> 00:31:48,799
+she'll have to be,
+
+431
+00:31:48,799 --> 00:31:50,799
+get a grant of her own.
+
+432
+00:31:50,799 --> 00:31:51,799
+Well, all this, a privilege,
+
+433
+00:31:51,799 --> 00:31:52,799
+a day of coming,
+
+434
+00:31:52,799 --> 00:31:53,799
+and one of his conditions,
+
+435
+00:31:53,799 --> 00:31:54,799
+as I say,
+
+436
+00:31:54,799 --> 00:31:57,799
+was his wife be allowed to work.
+
+437
+00:31:57,799 --> 00:32:00,799
+And Lisa's heart,
+
+438
+00:32:00,799 --> 00:32:02,799
+Mick Victor, came around,
+
+439
+00:32:02,799 --> 00:32:04,799
+and he looked at this,
+
+440
+00:32:04,799 --> 00:32:06,799
+and he says, okay.
+
+441
+00:32:06,799 --> 00:32:09,799
+He says, it says that you cannot have members
+
+442
+00:32:09,799 --> 00:32:11,799
+of the same family working in this institution
+
+443
+00:32:11,799 --> 00:32:13,799
+at the same time,
+
+444
+00:32:13,799 --> 00:32:16,799
+and being paid except under unusual circumstances.
+
+445
+00:32:16,799 --> 00:32:19,799
+He says, it's clear that a husband and wife's scientific
+
+446
+00:32:19,799 --> 00:32:22,799
+team is an unusual circumstance.
+
+447
+00:32:22,799 --> 00:32:25,799
+So he says, I am going to approve this.
+
+448
+00:32:25,799 --> 00:32:27,799
+And then Dave said, yeah,
+
+449
+00:32:27,799 --> 00:32:30,799
+but Ken Hedberg and his wife are exactly the same situation,
+
+450
+00:32:30,799 --> 00:32:33,799
+and Mick Victor says the same rule of applied on them.
+
+451
+00:32:33,799 --> 00:32:35,799
+Then Mick Victor said,
+
+452
+00:32:35,799 --> 00:32:37,799
+and this is very funny,
+
+453
+00:32:37,799 --> 00:32:39,799
+or Dave and I are close friends,
+
+454
+00:32:40,799 --> 00:32:42,799
+and our wives are friends.
+
+455
+00:32:42,799 --> 00:32:45,799
+And Mick Victor says,
+
+456
+00:32:45,799 --> 00:32:47,799
+the only thing I'm going to ask is that
+
+457
+00:32:47,799 --> 00:32:50,799
+you be responsible for Lisa, my wife,
+
+458
+00:32:50,799 --> 00:32:54,799
+and Ken would be responsible for Clara.
+
+459
+00:32:54,799 --> 00:32:56,799
+So once a term,
+
+460
+00:32:56,799 --> 00:32:59,799
+Dave would call me in these offices,
+
+461
+00:32:59,799 --> 00:33:01,799
+okay, Ken, how is Clara doing?
+
+462
+00:33:01,799 --> 00:33:03,799
+And we would have a big laugh,
+
+463
+00:33:03,799 --> 00:33:04,799
+but when I said, fine,
+
+464
+00:33:04,799 --> 00:33:05,799
+I said, how's Lucy doing fine?
+
+465
+00:33:05,799 --> 00:33:07,799
+He says, that's it.
+
+466
+00:33:08,799 --> 00:33:10,799
+So that's the history of,
+
+467
+00:33:10,799 --> 00:33:12,799
+with that condition,
+
+468
+00:33:12,799 --> 00:33:15,799
+Dave accepted the job,
+
+469
+00:33:15,799 --> 00:33:17,799
+and was here,
+
+470
+00:33:17,799 --> 00:33:20,799
+certain at capacity for several years,
+
+471
+00:33:20,799 --> 00:33:21,799
+until he retired,
+
+472
+00:33:21,799 --> 00:33:25,799
+and then he and Clara had an office in chemistry.
+
+473
+00:33:25,799 --> 00:33:28,799
+But he became ill with kidney disease.
+
+474
+00:33:28,799 --> 00:33:30,799
+Funny was on dialysis,
+
+475
+00:33:30,799 --> 00:33:33,799
+and died of a heart attack on time
+
+476
+00:33:33,799 --> 00:33:36,799
+during dialysis over an Albany.
+
+477
+00:33:37,799 --> 00:33:40,799
+Clara lived for several years after that,
+
+478
+00:33:40,799 --> 00:33:42,799
+and they set up a fund,
+
+479
+00:33:44,799 --> 00:33:47,799
+anchored with $100,000 to begin with
+
+480
+00:33:47,799 --> 00:33:51,799
+for the support of students in chemistry.
+
+481
+00:33:51,799 --> 00:33:54,799
+So that's Dave Shoemaker.
+
+482
+00:33:56,799 --> 00:33:59,799
+Dave and I shared an office at Caltech.
+
+483
+00:33:59,799 --> 00:34:02,799
+It's another interesting thing about him.
+
+484
+00:34:02,799 --> 00:34:04,799
+I have never been a smoker,
+
+485
+00:34:04,799 --> 00:34:06,799
+but he was.
+
+486
+00:34:06,799 --> 00:34:10,800
+And I told this story at meetings
+
+487
+00:34:10,800 --> 00:34:12,800
+when people will ask me about Dave.
+
+488
+00:34:12,800 --> 00:34:14,800
+I said, well, you know,
+
+489
+00:34:14,800 --> 00:34:16,800
+he didn't have an astray
+
+490
+00:34:16,800 --> 00:34:18,800
+because that wouldn't have lasted long.
+
+491
+00:34:18,800 --> 00:34:20,800
+He had a,
+
+492
+00:34:20,800 --> 00:34:23,800
+a French 75,
+
+493
+00:34:23,800 --> 00:34:25,800
+how it's so showcasing,
+
+494
+00:34:25,800 --> 00:34:27,800
+which is a brass thing,
+
+495
+00:34:27,800 --> 00:34:29,800
+with a rim on the bottom,
+
+496
+00:34:29,800 --> 00:34:31,800
+and still about two and a half feet high,
+
+497
+00:34:31,800 --> 00:34:33,800
+and I had a notch cut on the top
+
+498
+00:34:33,800 --> 00:34:35,800
+and he'd stick his cigarette in that,
+
+499
+00:34:35,800 --> 00:34:38,800
+flip it and the ashes would come down.
+
+500
+00:34:38,800 --> 00:34:39,800
+When he left,
+
+501
+00:34:39,800 --> 00:34:41,800
+that thing was folded a rim with ashes
+
+502
+00:34:41,800 --> 00:34:43,800
+in my office.
+
+503
+00:34:43,800 --> 00:34:46,800
+I threw it out, of course.
+
+504
+00:34:46,800 --> 00:34:51,800
+But he gave up smoking right after that
+
+505
+00:34:51,800 --> 00:34:53,800
+when he went to MIT.
+
+506
+00:34:53,800 --> 00:34:55,800
+And Clara never smoked,
+
+507
+00:34:55,800 --> 00:34:59,800
+and she had some respiratory problems
+
+508
+00:34:59,800 --> 00:35:02,800
+asthma and so on in her late years.
+
+509
+00:35:02,800 --> 00:35:06,800
+So that might have been part of the cause.
+
+510
+00:35:06,800 --> 00:35:09,800
+They have a distinguished son,
+
+511
+00:35:09,800 --> 00:35:11,800
+a Bobby Schumacher,
+
+512
+00:35:11,800 --> 00:35:14,800
+who went off to Britain,
+
+513
+00:35:14,800 --> 00:35:18,800
+and he's an historian.
+
+514
+00:35:18,800 --> 00:35:21,800
+And he's at one of the
+
+515
+00:35:21,800 --> 00:35:25,800
+Southwestern British universities,
+
+516
+00:35:25,800 --> 00:35:29,800
+and he, believe it or not,
+
+517
+00:35:29,800 --> 00:35:31,800
+has a position
+
+518
+00:35:31,800 --> 00:35:35,800
+as a professor of English history.
+
+519
+00:35:35,800 --> 00:35:37,800
+This is an American.
+
+520
+00:35:37,800 --> 00:35:40,800
+He's still an American citizen.
+
+521
+00:35:40,800 --> 00:35:43,800
+And he's written,
+
+522
+00:35:43,800 --> 00:35:46,800
+his thesis was a penetrating book,
+
+523
+00:35:46,800 --> 00:35:48,800
+a penetrating document,
+
+524
+00:35:48,800 --> 00:35:50,800
+which was published in book form,
+
+525
+00:35:50,800 --> 00:35:53,800
+and got very, very good reviews.
+
+526
+00:35:53,800 --> 00:35:57,800
+So I think that's an interesting sideline
+
+527
+00:35:57,800 --> 00:35:59,800
+to the Schumacher's.
+
+528
+00:35:59,800 --> 00:36:00,800
+Both scientists,
+
+529
+00:36:00,800 --> 00:36:02,800
+the son of historian,
+
+530
+00:36:02,800 --> 00:36:06,800
+lecturing on any English history to Brits,
+
+531
+00:36:06,800 --> 00:36:11,800
+and being academically rewarded for it.
+
+532
+00:36:11,800 --> 00:36:14,800
+We talked a little bit about your early trips
+
+533
+00:36:14,800 --> 00:36:16,800
+to Norway and your associations
+
+534
+00:36:16,800 --> 00:36:17,800
+with Norwegians,
+
+535
+00:36:17,800 --> 00:36:18,800
+and I wanted to talk a little bit more
+
+536
+00:36:18,800 --> 00:36:19,800
+about how that has continued
+
+537
+00:36:19,800 --> 00:36:22,800
+every time you mentioned Norway and Norwegians.
+
+538
+00:36:22,800 --> 00:36:24,800
+Oh, well.
+
+539
+00:36:24,800 --> 00:36:25,800
+Let's see.
+
+540
+00:36:25,800 --> 00:36:27,800
+I want to make sure that,
+
+541
+00:36:27,800 --> 00:36:30,800
+I'm talking about the things you would want me to.
+
+542
+00:36:30,800 --> 00:36:32,800
+How I went to Norway,
+
+543
+00:36:32,800 --> 00:36:34,800
+and how my relationship
+
+544
+00:36:34,800 --> 00:36:36,800
+with Norway and Norwegians
+
+545
+00:36:36,800 --> 00:36:39,800
+continued professionally through the years, is that?
+
+546
+00:36:39,800 --> 00:36:41,800
+We talked about the initial trip.
+
+547
+00:36:41,800 --> 00:36:42,800
+How about what?
+
+548
+00:36:42,800 --> 00:36:44,800
+We talked about your initial trip to Norway
+
+549
+00:36:44,800 --> 00:36:46,800
+and meeting you once, of course,
+
+550
+00:36:46,800 --> 00:36:48,800
+and then your early associations
+
+551
+00:36:48,800 --> 00:36:49,800
+with other baskets,
+
+552
+00:36:49,800 --> 00:36:50,800
+and then you know how to hassle
+
+553
+00:36:50,800 --> 00:36:52,800
+and you think that's true.
+
+554
+00:36:52,800 --> 00:36:55,800
+Yes, well.
+
+555
+00:36:55,800 --> 00:36:59,800
+And my professional associations
+
+556
+00:36:59,800 --> 00:37:02,800
+with Norway developed
+
+557
+00:37:02,800 --> 00:37:04,800
+as a consequence of knowing
+
+558
+00:37:04,800 --> 00:37:07,800
+Professor Oltowolstjonsen.
+
+559
+00:37:07,800 --> 00:37:09,800
+The later became richer of the university.
+
+560
+00:37:09,800 --> 00:37:12,800
+I don't remember whether I've mentioned that or not.
+
+561
+00:37:12,800 --> 00:37:16,800
+But when I was there,
+
+562
+00:37:16,800 --> 00:37:18,800
+I spent,
+
+563
+00:37:18,800 --> 00:37:20,800
+oh, I've lived in Norway probably
+
+564
+00:37:20,800 --> 00:37:23,800
+about five years or so old,
+
+565
+00:37:23,800 --> 00:37:26,800
+mostly on one year's stance.
+
+566
+00:37:26,800 --> 00:37:28,800
+And by the way,
+
+567
+00:37:28,800 --> 00:37:31,800
+Pauling has often come when I've been there,
+
+568
+00:37:31,800 --> 00:37:33,800
+and we've escorted him around
+
+569
+00:37:33,800 --> 00:37:35,800
+Bosjonsen and I,
+
+570
+00:37:35,800 --> 00:37:38,800
+the various places in Norway
+
+571
+00:37:38,800 --> 00:37:40,800
+and gone to meetings and talks
+
+572
+00:37:40,800 --> 00:37:42,800
+that he's held,
+
+573
+00:37:42,800 --> 00:37:44,800
+that he held.
+
+574
+00:37:44,800 --> 00:37:47,800
+At any rate,
+
+575
+00:37:47,800 --> 00:37:50,800
+at least his family connections
+
+576
+00:37:50,800 --> 00:37:52,800
+still, you know,
+
+577
+00:37:52,800 --> 00:37:53,800
+early years of our marriage
+
+578
+00:37:53,800 --> 00:37:55,800
+were pretty strong
+
+579
+00:37:55,800 --> 00:37:58,800
+and she liked to go back to Norway.
+
+580
+00:37:58,800 --> 00:38:02,800
+So, on my first sabbatical leave,
+
+581
+00:38:02,800 --> 00:38:05,800
+at Oregon State,
+
+582
+00:38:05,800 --> 00:38:08,800
+I decided I would go back to Norway.
+
+583
+00:38:08,800 --> 00:38:12,800
+We had some big projects going on
+
+584
+00:38:12,800 --> 00:38:16,800
+that we could share Norway
+
+585
+00:38:16,800 --> 00:38:18,800
+with our Norwegian colleagues.
+
+586
+00:38:18,800 --> 00:38:21,800
+So, I spent a year at the University of Oslo,
+
+587
+00:38:21,800 --> 00:38:23,800
+then again, in sabbatical,
+
+588
+00:38:23,800 --> 00:38:26,800
+and Lisa worked also as she came in.
+
+589
+00:38:26,800 --> 00:38:30,800
+And we had a nice house
+
+590
+00:38:30,800 --> 00:38:33,800
+arranged for us by the university.
+
+591
+00:38:33,800 --> 00:38:35,800
+Actually, it's an,
+
+592
+00:38:35,800 --> 00:38:36,800
+you know, an apartment.
+
+593
+00:38:36,800 --> 00:38:38,800
+They don't have houses there
+
+594
+00:38:38,800 --> 00:38:42,800
+by and large for younger people.
+
+595
+00:38:42,800 --> 00:38:44,800
+So,
+
+596
+00:38:44,800 --> 00:38:46,800
+during this time,
+
+597
+00:38:46,800 --> 00:38:49,800
+I met a number of people
+
+598
+00:38:49,800 --> 00:38:51,800
+that were essentially two laboratories
+
+599
+00:38:51,800 --> 00:38:53,800
+doing my kind of work.
+
+600
+00:38:53,800 --> 00:38:55,800
+One at the University of Oslo
+
+601
+00:38:55,800 --> 00:39:00,800
+and the other at the University of Trondheim,
+
+602
+00:39:00,800 --> 00:39:04,800
+which didn't have that name at the time.
+
+603
+00:39:04,800 --> 00:39:07,800
+And one of the,
+
+604
+00:39:07,800 --> 00:39:10,800
+Lisa got her training
+
+605
+00:39:10,800 --> 00:39:13,800
+in Boston's laboratory
+
+606
+00:39:13,800 --> 00:39:15,800
+in a number of other people
+
+607
+00:39:15,800 --> 00:39:16,800
+did.
+
+608
+00:39:16,800 --> 00:39:18,800
+Also, one of whom was a lady named
+
+609
+00:39:18,800 --> 00:39:20,800
+Maudet,
+
+610
+00:39:20,800 --> 00:39:23,800
+who went to Trondheim,
+
+611
+00:39:23,800 --> 00:39:25,800
+became professor there.
+
+612
+00:39:25,800 --> 00:39:27,800
+And I was invited up there
+
+613
+00:39:27,800 --> 00:39:28,800
+and gave a lecture,
+
+614
+00:39:28,800 --> 00:39:30,800
+and she introduced me to a student of hers
+
+615
+00:39:30,800 --> 00:39:32,800
+named Koldjörn Hagen.
+
+616
+00:39:32,800 --> 00:39:34,800
+And Koldjörn Hagen,
+
+617
+00:39:34,800 --> 00:39:35,800
+the question was,
+
+618
+00:39:35,800 --> 00:39:36,800
+he was just finishing his degree
+
+619
+00:39:36,800 --> 00:39:39,800
+and I was looking for a postdoctoral associate.
+
+620
+00:39:39,800 --> 00:39:41,800
+So, I said to Maudet,
+
+621
+00:39:41,800 --> 00:39:42,800
+I said,
+
+622
+00:39:42,800 --> 00:39:43,800
+well, is he pretty good?
+
+623
+00:39:43,800 --> 00:39:45,800
+And she said, yes, he's very good.
+
+624
+00:39:45,800 --> 00:39:48,800
+So, Koldjörn came to the United States.
+
+625
+00:39:48,800 --> 00:39:49,800
+That was the beginning
+
+626
+00:39:49,800 --> 00:39:52,800
+of a professional relationship.
+
+627
+00:39:52,800 --> 00:39:54,800
+I think that,
+
+628
+00:39:54,800 --> 00:39:59,800
+probably my strongest professional relationship,
+
+629
+00:39:59,800 --> 00:40:00,800
+apart from that,
+
+630
+00:40:00,800 --> 00:40:01,800
+of course,
+
+631
+00:40:01,800 --> 00:40:02,800
+is my wife and the work
+
+632
+00:40:02,800 --> 00:40:04,800
+that she does in the laboratory
+
+633
+00:40:04,800 --> 00:40:05,800
+of anyone.
+
+634
+00:40:05,800 --> 00:40:07,800
+And he has spent a total of six years
+
+635
+00:40:07,800 --> 00:40:08,800
+in Koldjörn Hagen,
+
+636
+00:40:08,800 --> 00:40:09,800
+coming at various times
+
+637
+00:40:09,800 --> 00:40:10,800
+for years,
+
+638
+00:40:10,800 --> 00:40:12,800
+and once, twice,
+
+639
+00:40:12,800 --> 00:40:13,800
+two-year leave,
+
+640
+00:40:13,800 --> 00:40:15,800
+and so on.
+
+641
+00:40:15,800 --> 00:40:16,800
+And...
+
+642
+00:40:16,800 --> 00:40:17,800
+Sorry, man.
+
+643
+00:40:17,800 --> 00:40:18,800
+How did he spell his name?
+
+644
+00:40:18,800 --> 00:40:19,800
+Just to make sure he...
+
+645
+00:40:19,800 --> 00:40:20,800
+Hagen,
+
+646
+00:40:20,800 --> 00:40:22,800
+H-H-A-G-E-M,
+
+647
+00:40:22,800 --> 00:40:24,800
+and the first name is Koldjörn.
+
+648
+00:40:24,800 --> 00:40:26,800
+Koldjörn is,
+
+649
+00:40:26,800 --> 00:40:27,800
+it's K-O-L,
+
+650
+00:40:27,800 --> 00:40:29,800
+and then B-J,
+
+651
+00:40:29,800 --> 00:40:31,800
+Umblaut-O-R-M.
+
+652
+00:40:31,800 --> 00:40:34,800
+That means bear in the origin.
+
+653
+00:40:34,800 --> 00:40:36,800
+So, anyway,
+
+654
+00:40:36,800 --> 00:40:38,800
+this relationship
+
+655
+00:40:38,800 --> 00:40:40,800
+went on through the years,
+
+656
+00:40:40,800 --> 00:40:42,800
+and then one time,
+
+657
+00:40:42,800 --> 00:40:45,800
+I received an invitation,
+
+658
+00:40:45,800 --> 00:40:47,800
+oh, I was asked several times
+
+659
+00:40:47,800 --> 00:40:51,800
+to serve on doctoral committees.
+
+660
+00:40:51,800 --> 00:40:53,800
+And one of them was
+
+661
+00:40:53,800 --> 00:40:55,800
+Maudet's committee,
+
+662
+00:40:55,800 --> 00:40:57,800
+when she obtained her doctorate,
+
+663
+00:40:57,800 --> 00:40:59,800
+that was quite early in my career,
+
+664
+00:40:59,800 --> 00:41:00,800
+and that was lots of fun,
+
+665
+00:41:00,800 --> 00:41:02,800
+because it was all done very formally, you know,
+
+666
+00:41:02,800 --> 00:41:04,800
+there's a first opponent,
+
+667
+00:41:04,800 --> 00:41:05,800
+a second opponent,
+
+668
+00:41:05,800 --> 00:41:06,800
+and then a third one
+
+669
+00:41:06,800 --> 00:41:08,800
+was kind of a humorous opponent.
+
+670
+00:41:08,800 --> 00:41:10,800
+So, I was the first opponent.
+
+671
+00:41:10,800 --> 00:41:12,800
+And in these formal things,
+
+672
+00:41:12,800 --> 00:41:14,800
+you're dressed very formally
+
+673
+00:41:14,800 --> 00:41:15,800
+on the old days,
+
+674
+00:41:15,800 --> 00:41:16,800
+you used to wear tuxedos.
+
+675
+00:41:16,800 --> 00:41:18,800
+The candidate was a man,
+
+676
+00:41:18,800 --> 00:41:19,800
+a tuxedo.
+
+677
+00:41:19,800 --> 00:41:21,800
+But we had a podium,
+
+678
+00:41:21,800 --> 00:41:22,800
+and the candidate was over here,
+
+679
+00:41:22,800 --> 00:41:23,800
+Maudet,
+
+680
+00:41:23,800 --> 00:41:24,800
+and I was here,
+
+681
+00:41:24,800 --> 00:41:26,800
+and there was an auditorium for people,
+
+682
+00:41:26,800 --> 00:41:28,800
+and I had been given her thesis,
+
+683
+00:41:28,800 --> 00:41:30,800
+and I would ask her questions,
+
+684
+00:41:30,800 --> 00:41:31,800
+and she would answer,
+
+685
+00:41:31,800 --> 00:41:32,800
+and so on.
+
+686
+00:41:32,800 --> 00:41:35,800
+And at the end,
+
+687
+00:41:35,800 --> 00:41:36,800
+by the way,
+
+688
+00:41:36,800 --> 00:41:38,800
+I was paid a substantial amount of money for this,
+
+689
+00:41:38,800 --> 00:41:42,800
+and that was a norm for the time.
+
+690
+00:41:42,800 --> 00:41:44,800
+So, we had a tremendous,
+
+691
+00:41:44,800 --> 00:41:46,800
+the tradition is that
+
+692
+00:41:46,800 --> 00:41:48,800
+a successful candidate throws a party,
+
+693
+00:41:48,800 --> 00:41:50,800
+and we had a wonderful,
+
+694
+00:41:50,800 --> 00:41:52,800
+absolutely wonderful dinner party
+
+695
+00:41:52,800 --> 00:41:53,800
+at her house,
+
+696
+00:41:53,800 --> 00:41:55,800
+that's not formed in association,
+
+697
+00:41:55,800 --> 00:41:58,800
+that continued until her death years later,
+
+698
+00:41:58,800 --> 00:42:01,800
+but she's spent time in Cornalos also.
+
+699
+00:42:01,800 --> 00:42:03,800
+At any rate,
+
+700
+00:42:04,800 --> 00:42:07,800
+so after in my mid-career,
+
+701
+00:42:07,800 --> 00:42:10,800
+when Collegor and Gropian informed me
+
+702
+00:42:10,800 --> 00:42:15,800
+that the university had elected
+
+703
+00:42:15,800 --> 00:42:18,800
+to give me an honorary degree,
+
+704
+00:42:18,800 --> 00:42:21,800
+so I could come up there,
+
+705
+00:42:21,800 --> 00:42:27,800
+and that was a tremendous fun also.
+
+706
+00:42:27,800 --> 00:42:29,800
+There were three of us
+
+707
+00:42:29,800 --> 00:42:32,800
+who were awarded an honorary degree,
+
+708
+00:42:33,800 --> 00:42:36,800
+and one of the guys was a fellow
+
+709
+00:42:36,800 --> 00:42:38,800
+from Germany,
+
+710
+00:42:38,800 --> 00:42:40,800
+who had just won the Nobel Prize,
+
+711
+00:42:40,800 --> 00:42:44,800
+so I felt myself in distinguished companies.
+
+712
+00:42:44,800 --> 00:42:46,800
+And there was a big party,
+
+713
+00:42:46,800 --> 00:42:50,800
+I still think of that great funness.
+
+714
+00:42:50,800 --> 00:42:53,800
+And then, I think sometime before this,
+
+715
+00:42:53,800 --> 00:42:55,800
+I was elected to membership
+
+716
+00:42:55,800 --> 00:42:59,800
+in the Origin Academy of Sciences,
+
+717
+00:43:00,800 --> 00:43:02,800
+and a bit later,
+
+718
+00:43:02,800 --> 00:43:04,800
+on another occasion,
+
+719
+00:43:04,800 --> 00:43:05,800
+a few years later,
+
+720
+00:43:05,800 --> 00:43:09,800
+these are the American Equivalents.
+
+721
+00:43:09,800 --> 00:43:14,800
+The actual Norwegian name is,
+
+722
+00:43:14,800 --> 00:43:16,800
+well, I don't have to describe it,
+
+723
+00:43:16,800 --> 00:43:17,800
+but anyway,
+
+724
+00:43:17,800 --> 00:43:21,800
+let's say one of them is an origin counter-part
+
+725
+00:43:21,800 --> 00:43:25,800
+of the National Academy of Sciences here,
+
+726
+00:43:25,800 --> 00:43:28,800
+and the other one is an origin counter-part
+
+727
+00:43:28,800 --> 00:43:31,800
+of the American Academy of Arts and Sciences,
+
+728
+00:43:31,800 --> 00:43:33,800
+and I've been asked,
+
+729
+00:43:33,800 --> 00:43:36,800
+I've been awarded a membership in each one of these.
+
+730
+00:43:36,800 --> 00:43:38,800
+So all of this is a consequence
+
+731
+00:43:38,800 --> 00:43:41,800
+of this long stretch of professional affiliation
+
+732
+00:43:41,800 --> 00:43:44,800
+I've had with people in Norway.
+
+733
+00:43:44,800 --> 00:43:47,800
+I think the laboratory
+
+734
+00:43:47,800 --> 00:43:51,800
+that does my kind of work in Oslo is now extinct,
+
+735
+00:43:51,800 --> 00:43:54,800
+and the one in the Trondheim is also,
+
+736
+00:43:54,800 --> 00:43:57,800
+everybody who is involved in my day,
+
+737
+00:43:57,800 --> 00:44:00,800
+just as I am, is retired.
+
+738
+00:44:00,800 --> 00:44:04,800
+And so, the University
+
+739
+00:44:04,800 --> 00:44:07,800
+efforts have gone off in different directions,
+
+740
+00:44:07,800 --> 00:44:11,800
+but everyone that belongs to this laboratory,
+
+741
+00:44:11,800 --> 00:44:14,800
+almost every single person in Oslo,
+
+742
+00:44:14,800 --> 00:44:16,800
+I think barring one,
+
+743
+00:44:16,800 --> 00:44:19,800
+has been sometime in my laboratory,
+
+744
+00:44:19,800 --> 00:44:22,800
+and almost everyone in Trondheim
+
+745
+00:44:22,800 --> 00:44:24,800
+spent time in my laboratory.
+
+746
+00:44:24,800 --> 00:44:26,800
+So there's a,
+
+747
+00:44:26,800 --> 00:44:28,800
+and that number is,
+
+748
+00:44:28,800 --> 00:44:30,800
+oh, maybe
+
+749
+00:44:30,800 --> 00:44:33,800
+10 or 15 people all together
+
+750
+00:44:33,800 --> 00:44:36,800
+who spent as long as two years
+
+751
+00:44:36,800 --> 00:44:38,800
+in my laboratory.
+
+752
+00:44:38,800 --> 00:44:41,800
+I have a book in my office,
+
+753
+00:44:41,800 --> 00:44:43,800
+in which I formed the early habit
+
+754
+00:44:43,800 --> 00:44:46,800
+of taking a photo and picture
+
+755
+00:44:46,800 --> 00:44:47,800
+and pasting the book
+
+756
+00:44:47,800 --> 00:44:49,800
+and asking them to sign the name to it,
+
+757
+00:44:49,800 --> 00:44:52,800
+and all of these people are there.
+
+758
+00:44:52,800 --> 00:44:54,800
+And on one occasion,
+
+759
+00:44:54,800 --> 00:44:57,800
+when I was going to go to Norway,
+
+760
+00:44:57,800 --> 00:45:00,800
+I was asked if I would give a talk in Trondheim.
+
+761
+00:45:00,800 --> 00:45:01,800
+And I said, yes,
+
+762
+00:45:01,800 --> 00:45:03,800
+and I got to thinking about this.
+
+763
+00:45:03,800 --> 00:45:04,800
+So, cold and hot,
+
+764
+00:45:04,800 --> 00:45:05,800
+and by this time,
+
+765
+00:45:05,800 --> 00:45:07,800
+I'd become a professor in Trondheim.
+
+766
+00:45:07,800 --> 00:45:09,800
+So I fished out all the pictures
+
+767
+00:45:09,800 --> 00:45:10,800
+that I had
+
+768
+00:45:10,800 --> 00:45:12,800
+and arranged them in sequence
+
+769
+00:45:12,800 --> 00:45:14,800
+from the time he first came,
+
+770
+00:45:14,800 --> 00:45:15,800
+the time he last came,
+
+771
+00:45:15,800 --> 00:45:17,800
+and there were about eight of them.
+
+772
+00:45:17,800 --> 00:45:20,800
+And I had a series of slides
+
+773
+00:45:20,800 --> 00:45:22,800
+made of these.
+
+774
+00:45:22,800 --> 00:45:23,800
+When I came to talk,
+
+775
+00:45:23,800 --> 00:45:25,800
+I said, I want to show you the history of one
+
+776
+00:45:25,800 --> 00:45:26,800
+of our good friends.
+
+777
+00:45:26,800 --> 00:45:27,800
+And so,
+
+778
+00:45:27,800 --> 00:45:29,800
+I put these up there
+
+779
+00:45:29,800 --> 00:45:31,800
+and to the immense hilarity
+
+780
+00:45:31,800 --> 00:45:32,800
+of the audience
+
+781
+00:45:32,800 --> 00:45:34,800
+because they'd never seen Hogan
+
+782
+00:45:34,800 --> 00:45:35,800
+as a young man.
+
+783
+00:45:35,800 --> 00:45:36,800
+They'd only seen it
+
+784
+00:45:36,800 --> 00:45:38,800
+and I could show his development
+
+785
+00:45:38,800 --> 00:45:40,800
+with dates underneath it.
+
+786
+00:45:40,800 --> 00:45:42,800
+Well, that made quite a hit
+
+787
+00:45:42,800 --> 00:45:43,800
+in that talk.
+
+788
+00:45:43,800 --> 00:45:45,800
+He's never let me forget about that,
+
+789
+00:45:45,800 --> 00:45:47,800
+even.
+
+790
+00:45:47,800 --> 00:45:49,800
+So, it's been a great
+
+791
+00:45:49,800 --> 00:45:54,800
+boon and fun for me.
+
+792
+00:45:54,800 --> 00:45:57,800
+So, I have also formed
+
+793
+00:45:57,800 --> 00:46:00,800
+professional attachments
+
+794
+00:46:00,800 --> 00:46:01,800
+and friends with people
+
+795
+00:46:01,800 --> 00:46:03,800
+at the University of Trondheim,
+
+796
+00:46:03,800 --> 00:46:05,800
+which is in the Northern Norway,
+
+797
+00:46:05,800 --> 00:46:07,800
+and at the University of Oregon,
+
+798
+00:46:07,800 --> 00:46:10,800
+in the West Coast.
+
+799
+00:46:10,800 --> 00:46:14,800
+So, it's been a very fine thing
+
+800
+00:46:14,800 --> 00:46:16,800
+for me.
+
+801
+00:46:16,800 --> 00:46:18,800
+I have a list of names
+
+802
+00:46:18,800 --> 00:46:20,800
+of people from the
+
+803
+00:46:20,800 --> 00:46:22,800
+OSU Chemistry Department
+
+804
+00:46:22,800 --> 00:46:24,800
+over the years.
+
+805
+00:46:24,800 --> 00:46:26,800
+I'm going to share any
+
+806
+00:46:26,800 --> 00:46:28,800
+recollections that you have
+
+807
+00:46:28,800 --> 00:46:30,800
+about some of these folks.
+
+808
+00:46:30,800 --> 00:46:32,800
+John Fulton.
+
+809
+00:46:32,800 --> 00:46:34,800
+John Fulton was the only
+
+810
+00:46:34,800 --> 00:46:35,800
+one that I never met
+
+811
+00:46:35,800 --> 00:46:37,800
+in person.
+
+812
+00:46:37,800 --> 00:46:39,800
+When I came to Oregon State
+
+813
+00:46:39,800 --> 00:46:41,800
+in 1939, Gilbert
+
+814
+00:46:41,800 --> 00:46:42,800
+was chair.
+
+815
+00:46:42,800 --> 00:46:44,800
+And I don't know how long
+
+816
+00:46:44,800 --> 00:46:46,800
+he had been chairman at that point.
+
+817
+00:46:46,800 --> 00:46:50,800
+But he certainly was still
+
+818
+00:46:50,800 --> 00:46:55,800
+chairman in 1956,
+
+819
+00:46:55,800 --> 00:46:58,800
+when I returned.
+
+820
+00:46:58,800 --> 00:47:00,800
+And I think he actually
+
+821
+00:47:00,800 --> 00:47:03,800
+retired from the
+
+822
+00:47:03,800 --> 00:47:05,800
+chairmanship in 1957,
+
+823
+00:47:05,800 --> 00:47:07,800
+wanting to spend the last
+
+824
+00:47:07,800 --> 00:47:09,800
+two years of his life
+
+825
+00:47:09,800 --> 00:47:11,800
+doing teaching and research
+
+826
+00:47:11,800 --> 00:47:12,800
+again.
+
+827
+00:47:12,800 --> 00:47:14,800
+That's when Christensen succeeded
+
+828
+00:47:14,800 --> 00:47:18,800
+in.
+
+829
+00:47:18,800 --> 00:47:22,800
+So, every, I don't know
+
+830
+00:47:22,800 --> 00:47:24,800
+the Christmas, whether you've
+
+831
+00:47:24,800 --> 00:47:25,800
+seen all the pictures
+
+832
+00:47:25,800 --> 00:47:27,800
+in chemistry, have you?
+
+833
+00:47:27,800 --> 00:47:28,800
+If you go into the main
+
+834
+00:47:28,800 --> 00:47:30,800
+hall, Gilbert Hall,
+
+835
+00:47:30,800 --> 00:47:32,800
+on the end, nearest
+
+836
+00:47:32,800 --> 00:47:35,800
+here, the library,
+
+837
+00:47:35,800 --> 00:47:37,800
+and walk down on the left-hand
+
+838
+00:47:37,800 --> 00:47:40,800
+side, high up is a chronological
+
+839
+00:47:40,800 --> 00:47:44,800
+arrangement of all professors
+
+840
+00:47:44,800 --> 00:47:49,800
+that have been present at this
+
+841
+00:47:49,800 --> 00:47:52,800
+in that department and retired.
+
+842
+00:47:52,800 --> 00:47:54,800
+John Fulton was the first
+
+843
+00:47:54,800 --> 00:47:55,800
+one in the list.
+
+844
+00:47:55,800 --> 00:47:58,800
+Every single person I have known
+
+845
+00:47:58,800 --> 00:48:00,800
+of a succeeding 20 or 30
+
+846
+00:48:00,800 --> 00:48:03,800
+that belonged down the hall.
+
+847
+00:48:03,800 --> 00:48:06,800
+Of course, the last,
+
+848
+00:48:06,800 --> 00:48:08,800
+I've been retired long enough,
+
+849
+00:48:08,800 --> 00:48:10,800
+so I'm quite a long ways
+
+850
+00:48:10,800 --> 00:48:12,800
+from the end now.
+
+851
+00:48:12,800 --> 00:48:14,800
+But everybody on to the
+
+852
+00:48:14,800 --> 00:48:16,800
+present I've known them all,
+
+853
+00:48:16,800 --> 00:48:17,800
+except Fulton.
+
+854
+00:48:17,800 --> 00:48:19,800
+That's what kind of we
+
+855
+00:48:19,800 --> 00:48:20,800
+got that.
+
+856
+00:48:20,800 --> 00:48:21,800
+How about thanks for
+
+857
+00:48:21,800 --> 00:48:23,800
+going through it?
+
+858
+00:48:23,800 --> 00:48:24,800
+Sorry.
+
+859
+00:48:24,800 --> 00:48:25,800
+Thanks for going through it.
+
+860
+00:48:25,800 --> 00:48:26,800
+Go through it?
+
+861
+00:48:26,800 --> 00:48:27,800
+Go through it.
+
+862
+00:48:27,800 --> 00:48:28,800
+Oh yes.
+
+863
+00:48:28,800 --> 00:48:29,800
+Yeah.
+
+864
+00:48:29,800 --> 00:48:33,800
+He didn't have an active
+
+865
+00:48:33,800 --> 00:48:35,800
+role in the chemistry department.
+
+866
+00:48:35,800 --> 00:48:37,800
+He was Dean of the College of
+
+867
+00:48:37,800 --> 00:48:39,800
+Science, and during the war,
+
+868
+00:48:39,800 --> 00:48:42,800
+for a short time, he was
+
+869
+00:48:42,800 --> 00:48:44,800
+acting president of the
+
+870
+00:48:44,800 --> 00:48:46,800
+University, if I remember this
+
+871
+00:48:46,800 --> 00:48:47,800
+correctly.
+
+872
+00:48:47,800 --> 00:48:49,800
+But he was a very
+
+873
+00:48:49,800 --> 00:48:52,800
+erudite man,
+
+874
+00:48:52,800 --> 00:48:56,800
+and a wonderful personality.
+
+875
+00:48:56,800 --> 00:48:58,800
+I didn't know him well.
+
+876
+00:48:58,800 --> 00:49:00,800
+I met him on a number of
+
+877
+00:49:00,800 --> 00:49:02,800
+occasions, and he was still
+
+878
+00:49:02,800 --> 00:49:04,800
+alive when I returned to
+
+879
+00:49:04,800 --> 00:49:05,800
+the University.
+
+880
+00:49:05,800 --> 00:49:08,800
+But he suffered from,
+
+881
+00:49:08,800 --> 00:49:10,800
+I don't remember whether it was
+
+882
+00:49:10,800 --> 00:49:11,800
+Parkinson's or all.
+
+883
+00:49:11,800 --> 00:49:12,800
+I think it was all
+
+884
+00:49:12,800 --> 00:49:13,800
+some of the species that he
+
+885
+00:49:13,800 --> 00:49:15,800
+finally succumbed to.
+
+886
+00:49:15,800 --> 00:49:17,800
+But he was just a wonderful
+
+887
+00:49:17,800 --> 00:49:19,800
+guy.
+
+888
+00:49:19,800 --> 00:49:24,800
+His family has set up a
+
+889
+00:49:24,800 --> 00:49:26,800
+researcher ward in his name,
+
+890
+00:49:26,800 --> 00:49:28,800
+called a girlfriend,
+
+891
+00:49:28,800 --> 00:49:32,800
+and that's given every
+
+892
+00:49:32,800 --> 00:49:36,800
+year to a faculty member.
+
+893
+00:49:36,800 --> 00:49:39,800
+Errol Gilbert.
+
+894
+00:49:39,800 --> 00:49:43,800
+Errol Gilbert.
+
+895
+00:49:43,800 --> 00:49:46,800
+The hall was not named
+
+896
+00:49:46,800 --> 00:49:47,800
+Gilbert Hall until after he
+
+897
+00:49:47,800 --> 00:49:49,800
+died, because there was at
+
+898
+00:49:49,800 --> 00:49:51,800
+that time a rule against
+
+899
+00:49:51,800 --> 00:49:52,800
+naming buildings after
+
+900
+00:49:52,800 --> 00:49:54,800
+living people.
+
+901
+00:49:54,800 --> 00:49:59,800
+Gilbert was a big guy.
+
+902
+00:49:59,800 --> 00:50:01,800
+He walked with a kind of
+
+903
+00:50:01,800 --> 00:50:02,800
+shuffle.
+
+904
+00:50:02,800 --> 00:50:05,800
+He was a physical chemist.
+
+905
+00:50:05,800 --> 00:50:08,800
+He had two sons, Henry
+
+906
+00:50:08,800 --> 00:50:11,800
+and Allen.
+
+907
+00:50:11,800 --> 00:50:15,800
+Henry was a classmate of
+
+908
+00:50:15,800 --> 00:50:17,800
+mine as an undergraduate,
+
+909
+00:50:17,800 --> 00:50:20,800
+and in the war broke out he
+
+910
+00:50:20,800 --> 00:50:22,800
+was involved in war work or
+
+911
+00:50:22,800 --> 00:50:25,800
+over in Albany at the,
+
+912
+00:50:25,800 --> 00:50:26,800
+I don't know, there was a
+
+913
+00:50:26,800 --> 00:50:27,800
+bureau of mines in there,
+
+914
+00:50:27,800 --> 00:50:28,800
+whether he was working with
+
+915
+00:50:28,800 --> 00:50:30,800
+watching or whatever on
+
+916
+00:50:30,800 --> 00:50:32,800
+war work.
+
+917
+00:50:32,800 --> 00:50:35,800
+But he died of a,
+
+918
+00:50:35,800 --> 00:50:40,800
+of a malignancy.
+
+919
+00:50:40,800 --> 00:50:44,800
+People think it was related
+
+920
+00:50:44,800 --> 00:50:46,800
+to ingestion or inhalation
+
+921
+00:50:46,800 --> 00:50:48,800
+of burilia, which was
+
+922
+00:50:48,800 --> 00:50:50,800
+extremely toxic.
+
+923
+00:50:50,800 --> 00:50:52,800
+His son, Allen Gilbert,
+
+924
+00:50:52,800 --> 00:50:54,800
+I mean his brother,
+
+925
+00:50:54,800 --> 00:50:56,800
+Allen Gilbert, Errol Gilbert
+
+926
+00:50:56,800 --> 00:50:58,800
+was a surgeon at the
+
+927
+00:50:58,800 --> 00:51:00,800
+Kolaula's clinic for many
+
+928
+00:51:00,800 --> 00:51:02,800
+years.
+
+929
+00:51:02,800 --> 00:51:05,800
+He retired as I understand
+
+930
+00:51:05,800 --> 00:51:07,800
+it because he developed
+
+931
+00:51:07,800 --> 00:51:11,800
+severe arthritis in his hands.
+
+932
+00:51:11,800 --> 00:51:14,800
+He was a very nice guy.
+
+933
+00:51:14,800 --> 00:51:16,800
+Well, Gilbert, I had only one
+
+934
+00:51:16,800 --> 00:51:18,800
+course from him when I was an
+
+935
+00:51:18,800 --> 00:51:20,800
+undergraduate.
+
+936
+00:51:20,800 --> 00:51:21,800
+The department chairman
+
+937
+00:51:21,800 --> 00:51:24,800
+actually taught them.
+
+938
+00:51:24,800 --> 00:51:26,800
+And he taught physical
+
+939
+00:51:26,800 --> 00:51:32,800
+chemistry.
+
+940
+00:51:32,800 --> 00:51:36,800
+I recall one kind of
+
+941
+00:51:36,800 --> 00:51:40,800
+plungent experience with
+
+942
+00:51:40,800 --> 00:51:41,800
+Errol Gilbert when I was an
+
+943
+00:51:41,800 --> 00:51:43,800
+undergraduate.
+
+944
+00:51:43,800 --> 00:51:44,800
+There was a chemistry
+
+945
+00:51:44,800 --> 00:51:45,800
+honor society called
+
+946
+00:51:45,800 --> 00:51:49,800
+Philanboopsalon.
+
+947
+00:51:49,800 --> 00:51:50,800
+And I was elected
+
+948
+00:51:50,800 --> 00:51:51,800
+membership in this.
+
+949
+00:51:51,800 --> 00:51:53,800
+And Henry Gilbert, who was a
+
+950
+00:51:53,800 --> 00:51:56,800
+chemistry major, was not.
+
+951
+00:51:56,800 --> 00:52:01,800
+Now, Henry Gilbert was a,
+
+952
+00:52:01,800 --> 00:52:05,800
+I want to say, a very
+
+953
+00:52:05,800 --> 00:52:09,800
+outspoken, outgoing guy.
+
+954
+00:52:09,800 --> 00:52:14,800
+And he was not elected
+
+955
+00:52:14,800 --> 00:52:17,800
+to, when you're elected to
+
+956
+00:52:17,800 --> 00:52:19,800
+membership of voters taken.
+
+957
+00:52:19,800 --> 00:52:21,800
+And if there is any, I don't
+
+958
+00:52:21,800 --> 00:52:23,800
+recall what the circumstances of
+
+959
+00:52:23,800 --> 00:52:26,800
+the election, what the rules
+
+960
+00:52:26,800 --> 00:52:30,800
+are, or were at that time.
+
+961
+00:52:30,800 --> 00:52:32,800
+But he was not elected.
+
+962
+00:52:32,800 --> 00:52:34,800
+And Errol Gilbert, his father
+
+963
+00:52:34,800 --> 00:52:37,800
+was very upset at this.
+
+964
+00:52:37,800 --> 00:52:40,800
+And he called me into his
+
+965
+00:52:40,800 --> 00:52:41,800
+office.
+
+966
+00:52:41,800 --> 00:52:43,800
+And he says, I cannot ask you
+
+967
+00:52:43,800 --> 00:52:46,800
+who he, in a very
+
+968
+00:52:46,800 --> 00:52:48,800
+different way, let me know he was
+
+969
+00:52:48,800 --> 00:52:50,800
+very disappointed that Henry had
+
+970
+00:52:50,800 --> 00:52:52,800
+not been elected.
+
+971
+00:52:52,800 --> 00:52:58,800
+At that time, the chemistry,
+
+972
+00:52:58,800 --> 00:53:00,800
+the Philanboopsalon had members
+
+973
+00:53:00,800 --> 00:53:03,800
+comprising majors in chemistry
+
+974
+00:53:03,800 --> 00:53:08,800
+and chemical engineers largely.
+
+975
+00:53:08,800 --> 00:53:10,800
+And he says, I can't ask you,
+
+976
+00:53:10,800 --> 00:53:13,800
+of course, about the vote.
+
+977
+00:53:13,800 --> 00:53:17,800
+But he said, can you tell me this?
+
+978
+00:53:17,800 --> 00:53:19,800
+I suspect, was it mostly the
+
+979
+00:53:19,800 --> 00:53:21,800
+engineers that were involved in
+
+980
+00:53:21,800 --> 00:53:23,800
+this negative vote.
+
+981
+00:53:23,800 --> 00:53:25,800
+And I hesitated a long time
+
+982
+00:53:25,800 --> 00:53:27,800
+and I said, well, you know, I
+
+983
+00:53:27,800 --> 00:53:29,800
+felt I had to answer it.
+
+984
+00:53:29,800 --> 00:53:31,800
+And I said, yes, it was.
+
+985
+00:53:31,800 --> 00:53:34,800
+And he just shrugged his shoulders.
+
+986
+00:53:34,800 --> 00:53:38,800
+I know he deplored it.
+
+987
+00:53:38,800 --> 00:53:41,800
+There was a strong Greek
+
+988
+00:53:41,800 --> 00:53:43,800
+community on the campus at the
+
+989
+00:53:43,800 --> 00:53:46,800
+time that I was here.
+
+990
+00:53:46,800 --> 00:53:48,800
+And there was a kind of a social
+
+991
+00:53:48,800 --> 00:53:50,800
+division between the independence
+
+992
+00:53:50,800 --> 00:53:52,800
+and the Greeks.
+
+993
+00:53:52,800 --> 00:53:58,800
+And that division seemed to
+
+994
+00:53:58,800 --> 00:54:02,800
+extend into honor societies as
+
+995
+00:54:02,800 --> 00:54:03,800
+well.
+
+996
+00:54:03,800 --> 00:54:05,800
+People were voted for membership.
+
+997
+00:54:05,800 --> 00:54:08,800
+And you know, in retrospect,
+
+998
+00:54:08,800 --> 00:54:10,800
+it's utterly ridiculous to think
+
+999
+00:54:10,800 --> 00:54:12,800
+that somebody who is academically
+
+1000
+00:54:12,800 --> 00:54:15,800
+well qualified would be
+
+1001
+00:54:15,800 --> 00:54:17,800
+not voted into an organization for
+
+1002
+00:54:17,800 --> 00:54:19,800
+personality reasons.
+
+1003
+00:54:19,800 --> 00:54:21,800
+I like Henry Gilbert.
+
+1004
+00:54:21,800 --> 00:54:23,800
+We got along just fine.
+
+1005
+00:54:23,800 --> 00:54:25,800
+And he didn't have the shy,
+
+1006
+00:54:25,800 --> 00:54:27,800
+respectful attitude that maybe
+
+1007
+00:54:27,800 --> 00:54:29,800
+these people expected he should have.
+
+1008
+00:54:29,800 --> 00:54:32,800
+But that was very upsetting to
+
+1009
+00:54:32,800 --> 00:54:34,800
+Earl Gilbert.
+
+1010
+00:54:34,800 --> 00:54:35,800
+Another thing about the
+
+1011
+00:54:35,800 --> 00:54:39,800
+Gilberts, once a year,
+
+1012
+00:54:39,800 --> 00:54:41,800
+they invited the chemistry department
+
+1013
+00:54:41,800 --> 00:54:43,800
+to dinner at their house.
+
+1014
+00:54:43,800 --> 00:54:45,800
+But there's the faculty and
+
+1015
+00:54:45,800 --> 00:54:47,800
+there's spouses.
+
+1016
+00:54:47,800 --> 00:54:49,800
+And there was always a very nice
+
+1017
+00:54:49,800 --> 00:54:50,800
+dinner.
+
+1018
+00:54:50,800 --> 00:54:51,800
+Now, the Gilberts were tea
+
+1019
+00:54:51,800 --> 00:54:53,800
+totalers.
+
+1020
+00:54:53,800 --> 00:54:57,800
+No alcohol was served.
+
+1021
+00:54:57,800 --> 00:55:00,800
+Tomatoes were served instead.
+
+1022
+00:55:00,800 --> 00:55:02,800
+And that was all well and good.
+
+1023
+00:55:02,800 --> 00:55:04,800
+Everybody understood this.
+
+1024
+00:55:04,800 --> 00:55:07,800
+Then the Gilberts went off.
+
+1025
+00:55:07,800 --> 00:55:11,800
+I think that may have been one
+
+1026
+00:55:11,800 --> 00:55:12,800
+summer.
+
+1027
+00:55:12,800 --> 00:55:15,800
+They took a trip to France.
+
+1028
+00:55:15,800 --> 00:55:17,800
+And they came back.
+
+1029
+00:55:17,800 --> 00:55:20,800
+And Wendell's label,
+
+1030
+00:55:20,800 --> 00:55:22,800
+a good friend of mine,
+
+1031
+00:55:22,800 --> 00:55:24,800
+was hosting a dinner party.
+
+1032
+00:55:24,800 --> 00:55:27,800
+And he asked, Elise and I were
+
+1033
+00:55:27,800 --> 00:55:29,800
+invited as were the Gilberts and
+
+1034
+00:55:29,800 --> 00:55:32,800
+some other people in physical chemistry.
+
+1035
+00:55:32,800 --> 00:55:35,800
+And it was a very nice dinner.
+
+1036
+00:55:35,800 --> 00:55:37,800
+And Wendell asked me ahead of time.
+
+1037
+00:55:37,800 --> 00:55:40,800
+He says, do you think I should
+
+1038
+00:55:40,800 --> 00:55:44,800
+offer people a
+
+1039
+00:55:44,800 --> 00:55:48,800
+cherry or a drink or a wine
+
+1040
+00:55:48,800 --> 00:55:49,800
+with dinner?
+
+1041
+00:55:49,800 --> 00:55:50,800
+And I said, well,
+
+1042
+00:55:50,800 --> 00:55:51,800
+it's your party.
+
+1043
+00:55:51,800 --> 00:55:52,800
+Why not?
+
+1044
+00:55:52,800 --> 00:55:53,800
+And the Gilberts, as I say,
+
+1045
+00:55:53,800 --> 00:55:55,800
+just come back from this trip in France.
+
+1046
+00:55:55,800 --> 00:55:57,800
+So Wendell and Duke,
+
+1047
+00:55:57,800 --> 00:55:59,800
+of course, asked everybody what they
+
+1048
+00:55:59,800 --> 00:56:01,800
+did for her and Earl Gilbert said,
+
+1049
+00:56:01,800 --> 00:56:03,800
+well, I'll have a glass of
+
+1050
+00:56:03,800 --> 00:56:05,800
+tomato juice.
+
+1051
+00:56:05,800 --> 00:56:09,800
+And his wife,
+
+1052
+00:56:10,800 --> 00:56:12,800
+said, I think I'd like some
+
+1053
+00:56:12,800 --> 00:56:14,800
+cherry.
+
+1054
+00:56:14,800 --> 00:56:18,800
+I thought, Gilbert wins.
+
+1055
+00:56:18,800 --> 00:56:21,800
+And she had a glass of
+
+1056
+00:56:21,800 --> 00:56:23,800
+cherry on the conversation and
+
+1057
+00:56:23,800 --> 00:56:25,800
+she said, my that was nice,
+
+1058
+00:56:25,800 --> 00:56:26,800
+cherry.
+
+1059
+00:56:26,800 --> 00:56:28,800
+I liked that very much.
+
+1060
+00:56:28,800 --> 00:56:29,800
+And Gilbert modeled,
+
+1061
+00:56:29,800 --> 00:56:35,800
+and I liked my tomato juice too.
+
+1062
+00:56:35,800 --> 00:56:38,800
+I understood that I don't
+
+1063
+00:56:38,800 --> 00:56:40,800
+know where I got this information,
+
+1064
+00:56:40,800 --> 00:56:42,800
+but I understood that as they
+
+1065
+00:56:42,800 --> 00:56:43,800
+traveled through France,
+
+1066
+00:56:43,800 --> 00:56:44,800
+they did drink wine,
+
+1067
+00:56:44,800 --> 00:56:46,800
+because that's about the only
+
+1068
+00:56:46,800 --> 00:56:47,800
+thing that you would be
+
+1069
+00:56:47,800 --> 00:56:49,800
+served at a meal.
+
+1070
+00:56:49,800 --> 00:56:52,800
+And maybe that's how Mrs.
+
+1071
+00:56:52,800 --> 00:56:54,800
+Gilbert, just for the moment,
+
+1072
+00:56:54,800 --> 00:56:55,800
+I can't remember her name,
+
+1073
+00:56:55,800 --> 00:57:02,800
+but it'll come to me.
+
+1074
+00:57:02,800 --> 00:57:03,800
+They were nice people.
+
+1075
+00:57:03,800 --> 00:57:05,800
+I liked them.
+
+1076
+00:57:05,800 --> 00:57:06,800
+Well, the next person on my
+
+1077
+00:57:06,800 --> 00:57:08,800
+list is Linda Slavo.
+
+1078
+00:57:08,800 --> 00:57:10,800
+Oh.
+
+1079
+00:57:10,800 --> 00:57:16,800
+Linda was a remarkable person.
+
+1080
+00:57:16,800 --> 00:57:19,800
+I held him in the highest regard,
+
+1081
+00:57:19,800 --> 00:57:21,800
+not when I first came,
+
+1082
+00:57:21,800 --> 00:57:24,800
+but later on.
+
+1083
+00:57:24,800 --> 00:57:29,800
+When I first came,
+
+1084
+00:57:29,800 --> 00:57:33,800
+did I mention that there was
+
+1085
+00:57:33,800 --> 00:57:35,800
+Christensen became chairman after
+
+1086
+00:57:35,800 --> 00:57:37,800
+Gilbert, but that was not
+
+1087
+00:57:37,800 --> 00:57:38,800
+without a hitch in the
+
+1088
+00:57:38,800 --> 00:57:40,800
+proceedings.
+
+1089
+00:57:40,800 --> 00:57:42,800
+Have I ever mentioned that?
+
+1090
+00:57:42,800 --> 00:57:43,800
+Well, for some gone for
+
+1091
+00:57:43,800 --> 00:57:44,800
+sake and reason,
+
+1092
+00:57:44,800 --> 00:57:45,800
+it was determined that the
+
+1093
+00:57:45,800 --> 00:57:48,800
+department should not only
+
+1094
+00:57:48,800 --> 00:57:50,800
+elect, which was reasonable
+
+1095
+00:57:50,800 --> 00:57:53,800
+enough that should vote for who
+
+1096
+00:57:53,800 --> 00:57:55,800
+they would propose the department
+
+1097
+00:57:55,800 --> 00:57:56,800
+chairman.
+
+1098
+00:57:56,800 --> 00:57:57,800
+Of course, that was non-binding
+
+1099
+00:57:57,800 --> 00:57:58,800
+because the dean is the one
+
+1100
+00:57:58,800 --> 00:58:01,800
+who makes a decision.
+
+1101
+00:58:01,800 --> 00:58:03,800
+But one of the things for some
+
+1102
+00:58:03,800 --> 00:58:05,800
+reason, nobody seems to remember
+
+1103
+00:58:05,800 --> 00:58:07,800
+this, but me, I'll have to dig
+
+1104
+00:58:07,800 --> 00:58:08,800
+out my records.
+
+1105
+00:58:08,800 --> 00:58:11,800
+The department decided it was
+
+1106
+00:58:11,800 --> 00:58:13,800
+going to have a constitution.
+
+1107
+00:58:13,800 --> 00:58:15,800
+Democracy was going to rule.
+
+1108
+00:58:15,800 --> 00:58:17,800
+Now, if you think about that,
+
+1109
+00:58:17,800 --> 00:58:19,800
+how ridiculous can you imagine
+
+1110
+00:58:19,800 --> 00:58:22,800
+you can't run a department
+
+1111
+00:58:22,800 --> 00:58:24,800
+as a democracy with a
+
+1112
+00:58:24,800 --> 00:58:26,800
+legislation that determines things.
+
+1113
+00:58:26,800 --> 00:58:27,800
+You've got to have a department
+
+1114
+00:58:27,800 --> 00:58:29,800
+chairman that makes things happen.
+
+1115
+00:58:29,800 --> 00:58:31,800
+You know, that was at me.
+
+1116
+00:58:31,800 --> 00:58:34,800
+Slayball ran for he came
+
+1117
+00:58:34,800 --> 00:58:36,800
+around, and I was new at this
+
+1118
+00:58:36,800 --> 00:58:39,800
+time, a longer Tom Parsons,
+
+1119
+00:58:39,800 --> 00:58:41,800
+and I knew that he was a
+
+1120
+00:58:41,800 --> 00:58:43,800
+candidate. He came around,
+
+1121
+00:58:43,800 --> 00:58:46,800
+and very subtle way was
+
+1122
+00:58:46,800 --> 00:58:48,800
+discussing this.
+
+1123
+00:58:48,800 --> 00:58:51,800
+And Christensen was the
+
+1124
+00:58:51,800 --> 00:58:53,800
+heir apparent.
+
+1125
+00:58:53,800 --> 00:58:55,800
+As I explained, Berncello
+
+1126
+00:58:55,800 --> 00:58:57,800
+then was the dean, and they
+
+1127
+00:58:57,800 --> 00:58:58,800
+were good friends.
+
+1128
+00:58:58,800 --> 00:59:00,800
+And everybody expected that
+
+1129
+00:59:00,800 --> 00:59:04,800
+Christensen, as the oldest
+
+1130
+00:59:04,800 --> 00:59:06,800
+and most experienced and
+
+1131
+00:59:06,800 --> 00:59:08,800
+longest serving department
+
+1132
+00:59:08,800 --> 00:59:10,800
+member, would become chairman.
+
+1133
+00:59:10,800 --> 00:59:12,800
+He was a good scientist.
+
+1134
+00:59:12,800 --> 00:59:14,800
+He did hard work, and he's one
+
+1135
+00:59:14,800 --> 00:59:16,800
+of the few people who were
+
+1136
+00:59:16,800 --> 00:59:17,800
+regularly publishing at Oregon
+
+1137
+00:59:17,800 --> 00:59:19,800
+state at that time.
+
+1138
+00:59:19,800 --> 00:59:21,800
+Well, Slayball was running
+
+1139
+00:59:21,800 --> 00:59:25,800
+also, and it was determined that
+
+1140
+00:59:25,800 --> 00:59:27,800
+the person who won the elections
+
+1141
+00:59:27,800 --> 00:59:31,800
+name would go forward.
+
+1142
+00:59:31,800 --> 00:59:34,800
+Now, I don't remember whether
+
+1143
+00:59:34,800 --> 00:59:37,800
+Slayball won this election.
+
+1144
+00:59:37,800 --> 00:59:39,800
+I don't know how many votes were
+
+1145
+00:59:39,800 --> 00:59:42,800
+cast, maybe 20, all told, or
+
+1146
+00:59:42,800 --> 00:59:46,800
+30, won the election by one vote.
+
+1147
+00:59:46,800 --> 00:59:50,800
+And all hell broke loose.
+
+1148
+00:59:50,800 --> 00:59:52,800
+You know, Christensen was
+
+1149
+00:59:52,800 --> 00:59:54,800
+terribly upset.
+
+1150
+00:59:55,800 --> 00:59:58,800
+And as Slayball told me
+
+1151
+00:59:58,800 --> 01:00:03,800
+later, he was invited over
+
+1152
+01:00:03,800 --> 01:00:08,800
+to a dean's office.
+
+1153
+01:00:08,800 --> 01:00:10,800
+I don't know whether it was
+
+1154
+01:00:10,800 --> 01:00:12,800
+Shullam and there's someone else.
+
+1155
+01:00:12,800 --> 01:00:14,800
+And sat down and talked to
+
+1156
+01:00:14,800 --> 01:00:16,800
+in a friendly manner by this
+
+1157
+01:00:16,800 --> 01:00:19,800
+official to point it out that
+
+1158
+01:00:19,800 --> 01:00:22,800
+he was a young man and that
+
+1159
+01:00:22,800 --> 01:00:26,800
+the department would undoubtedly
+
+1160
+01:00:26,800 --> 01:00:30,800
+run better if somebody
+
+1161
+01:00:30,800 --> 01:00:32,800
+with long experience was
+
+1162
+01:00:32,800 --> 01:00:33,800
+chairman.
+
+1163
+01:00:33,800 --> 01:00:35,800
+And as a young man, he would have
+
+1164
+01:00:35,800 --> 01:00:37,800
+plenty of chances to rise through
+
+1165
+01:00:37,800 --> 01:00:41,800
+the hierarchy into administrative
+
+1166
+01:00:41,800 --> 01:00:43,800
+position.
+
+1167
+01:00:43,800 --> 01:00:44,800
+And Slayball, reading the handwriting
+
+1168
+01:00:44,800 --> 01:00:47,800
+on the wall, just then announced
+
+1169
+01:00:47,800 --> 01:00:49,800
+that he was withdrawing his name
+
+1170
+01:00:49,800 --> 01:00:51,800
+from consideration.
+
+1171
+01:00:51,800 --> 01:00:53,800
+That was his public statement,
+
+1172
+01:00:53,800 --> 01:00:55,800
+but his private feelings I
+
+1173
+01:00:55,800 --> 01:00:58,800
+have relayed to you.
+
+1174
+01:00:58,800 --> 01:01:01,800
+So, Christensen became chairman.
+
+1175
+01:01:01,800 --> 01:01:06,800
+And I think he always had that
+
+1176
+01:01:06,800 --> 01:01:09,800
+what do I want to call it,
+
+1177
+01:01:09,800 --> 01:01:12,800
+feeling of having been rejected
+
+1178
+01:01:12,800 --> 01:01:14,800
+hanging over him for a long time
+
+1179
+01:01:14,800 --> 01:01:17,800
+so he stole very hard to be
+
+1180
+01:01:17,800 --> 01:01:19,800
+what he thought would be a good
+
+1181
+01:01:19,800 --> 01:01:20,800
+chairman.
+
+1182
+01:01:20,800 --> 01:01:21,800
+And I could tell you about that
+
+1183
+01:01:21,800 --> 01:01:22,800
+also.
+
+1184
+01:01:22,800 --> 01:01:25,800
+But Slayball was a distinguished
+
+1185
+01:01:25,800 --> 01:01:26,800
+teacher.
+
+1186
+01:01:26,800 --> 01:01:29,800
+His lectures were very popular.
+
+1187
+01:01:29,800 --> 01:01:33,800
+And he had a most original mind.
+
+1188
+01:01:33,800 --> 01:01:37,800
+He did unusual things.
+
+1189
+01:01:37,800 --> 01:01:39,800
+He built himself a,
+
+1190
+01:01:39,800 --> 01:01:41,800
+it was rare at that time.
+
+1191
+01:01:41,800 --> 01:01:43,800
+A three-wheeled bicycle
+
+1192
+01:01:43,800 --> 01:01:46,800
+with enclosed and
+
+1193
+01:01:47,800 --> 01:01:49,800
+a canopy over the top,
+
+1194
+01:01:49,800 --> 01:01:52,800
+which had plastic windows
+
+1195
+01:01:52,800 --> 01:01:53,800
+in front, so he was shielded
+
+1196
+01:01:53,800 --> 01:01:54,800
+from the wind.
+
+1197
+01:01:54,800 --> 01:01:55,800
+And he would pedal this thing
+
+1198
+01:01:55,800 --> 01:01:56,800
+to work and add a little flag
+
+1199
+01:01:56,800 --> 01:01:57,800
+up the back,
+
+1200
+01:01:57,800 --> 01:01:59,800
+just as if you see some
+
+1201
+01:01:59,800 --> 01:02:00,800
+of the handicapped people
+
+1202
+01:02:00,800 --> 01:02:01,800
+using these today.
+
+1203
+01:02:01,800 --> 01:02:02,800
+Not him.
+
+1204
+01:02:02,800 --> 01:02:03,800
+He had this.
+
+1205
+01:02:03,800 --> 01:02:05,800
+Later on, he built something
+
+1206
+01:02:05,800 --> 01:02:06,800
+similar.
+
+1207
+01:02:06,800 --> 01:02:07,800
+And he put a motor on it.
+
+1208
+01:02:07,800 --> 01:02:08,800
+It was an electric motor
+
+1209
+01:02:08,800 --> 01:02:09,800
+and operated by a battery.
+
+1210
+01:02:09,800 --> 01:02:12,800
+He billed all himself.
+
+1211
+01:02:12,800 --> 01:02:14,800
+He lived on,
+
+1212
+01:02:14,800 --> 01:02:17,800
+on Grant's street,
+
+1213
+01:02:17,800 --> 01:02:22,800
+up about
+
+1214
+01:02:22,800 --> 01:02:25,800
+thirty-fourth street
+
+1215
+01:02:25,800 --> 01:02:28,800
+on the right-hand side.
+
+1216
+01:02:28,800 --> 01:02:30,800
+And he had hedges there.
+
+1217
+01:02:30,800 --> 01:02:32,800
+And he trimmed these hedges.
+
+1218
+01:02:32,800 --> 01:02:35,800
+So what is the
+
+1219
+01:02:35,800 --> 01:02:37,800
+art form known when you cut
+
+1220
+01:02:37,800 --> 01:02:38,800
+these in the form of shapes
+
+1221
+01:02:38,800 --> 01:02:39,800
+and animals?
+
+1222
+01:02:39,800 --> 01:02:41,800
+He meticulously groomed
+
+1223
+01:02:41,800 --> 01:02:43,800
+these plants and he had one
+
+1224
+01:02:43,800 --> 01:02:45,800
+sitting there that had wheels
+
+1225
+01:02:45,800 --> 01:02:47,800
+on it and a canopy
+
+1226
+01:02:47,800 --> 01:02:48,800
+and a steering wheel.
+
+1227
+01:02:48,800 --> 01:02:50,800
+Just one bush that had been
+
+1228
+01:02:50,800 --> 01:02:52,800
+sculpted into that shape.
+
+1229
+01:02:52,800 --> 01:02:53,800
+Others he sculpted
+
+1230
+01:02:53,800 --> 01:02:55,800
+into animal shapes.
+
+1231
+01:02:55,800 --> 01:02:56,800
+And then in his driveway
+
+1232
+01:02:56,800 --> 01:02:58,800
+which slipped down to the street,
+
+1233
+01:02:58,800 --> 01:03:00,800
+he painted one
+
+1234
+01:03:00,800 --> 01:03:04,800
+of the very famous
+
+1235
+01:03:04,800 --> 01:03:07,800
+what's the guy's name
+
+1236
+01:03:07,800 --> 01:03:09,800
+who does these peculiar
+
+1237
+01:03:09,800 --> 01:03:10,800
+drawings
+
+1238
+01:03:10,800 --> 01:03:15,800
+they're famous now.
+
+1239
+01:03:15,800 --> 01:03:16,800
+He's a famous artist.
+
+1240
+01:03:16,800 --> 01:03:17,800
+The water that runs up
+
+1241
+01:03:17,800 --> 01:03:18,800
+pill without seeming to do
+
+1242
+01:03:18,800 --> 01:03:19,800
+some.
+
+1243
+01:03:19,800 --> 01:03:20,800
+Yes, sir.
+
+1244
+01:03:20,800 --> 01:03:22,800
+Yes, sir.
+
+1245
+01:03:22,800 --> 01:03:24,800
+He painted the black
+
+1246
+01:03:24,800 --> 01:03:25,800
+and white doves
+
+1247
+01:03:25,800 --> 01:03:27,800
+that meshed together
+
+1248
+01:03:27,800 --> 01:03:29,800
+and are going down to the sidewalk.
+
+1249
+01:03:29,800 --> 01:03:32,800
+He billed outside a bench
+
+1250
+01:03:32,800 --> 01:03:33,800
+into the wall.
+
+1251
+01:03:33,800 --> 01:03:35,800
+His yard sloped down
+
+1252
+01:03:35,800 --> 01:03:37,800
+to a concrete area there.
+
+1253
+01:03:37,800 --> 01:03:38,800
+And he billed a bench
+
+1254
+01:03:38,800 --> 01:03:40,800
+in there, a wood.
+
+1255
+01:03:40,800 --> 01:03:42,800
+And it says,
+
+1256
+01:03:42,800 --> 01:03:44,800
+I don't remember the Italian
+
+1257
+01:03:44,800 --> 01:03:45,800
+words exactly
+
+1258
+01:03:45,800 --> 01:03:46,800
+or the pronunciation,
+
+1259
+01:03:46,800 --> 01:03:49,800
+but it's in a sense
+
+1260
+01:03:49,800 --> 01:03:51,800
+that something
+
+1261
+01:03:51,800 --> 01:03:53,800
+came out of their public
+
+1262
+01:03:53,800 --> 01:03:54,800
+or for the convenience
+
+1263
+01:03:54,800 --> 01:03:57,800
+of the public.
+
+1264
+01:03:57,800 --> 01:03:59,800
+We got to know him
+
+1265
+01:03:59,800 --> 01:04:00,800
+and his wife
+
+1266
+01:04:00,800 --> 01:04:02,800
+very well.
+
+1267
+01:04:02,800 --> 01:04:04,800
+Later on,
+
+1268
+01:04:04,800 --> 01:04:05,800
+we saw them socially
+
+1269
+01:04:05,800 --> 01:04:08,800
+a good deal.
+
+1270
+01:04:08,800 --> 01:04:09,800
+And Louis,
+
+1271
+01:04:09,800 --> 01:04:10,800
+his wife, was a very
+
+1272
+01:04:10,800 --> 01:04:12,800
+nice lady.
+
+1273
+01:04:12,800 --> 01:04:15,800
+Wendell,
+
+1274
+01:04:15,800 --> 01:04:18,800
+he had this nice house.
+
+1275
+01:04:18,800 --> 01:04:19,800
+He had an idea.
+
+1276
+01:04:19,800 --> 01:04:20,800
+He went down to the GT
+
+1277
+01:04:20,800 --> 01:04:21,800
+one time.
+
+1278
+01:04:21,800 --> 01:04:23,800
+And he bought
+
+1279
+01:04:23,800 --> 01:04:24,800
+or brought.
+
+1280
+01:04:24,800 --> 01:04:25,800
+I think he was
+
+1281
+01:04:25,800 --> 01:04:26,800
+they were given
+
+1282
+01:04:26,800 --> 01:04:28,800
+to him a number
+
+1283
+01:04:28,800 --> 01:04:29,800
+of plates
+
+1284
+01:04:29,800 --> 01:04:30,800
+which were used
+
+1285
+01:04:30,800 --> 01:04:31,800
+in printing,
+
+1286
+01:04:31,800 --> 01:04:32,800
+which were all black
+
+1287
+01:04:32,800 --> 01:04:33,800
+on the top.
+
+1288
+01:04:33,800 --> 01:04:35,800
+Perhaps a glass
+
+1289
+01:04:35,800 --> 01:04:36,800
+or something.
+
+1290
+01:04:36,800 --> 01:04:37,800
+I don't know.
+
+1291
+01:04:37,800 --> 01:04:38,800
+But he bought a whole bunch
+
+1292
+01:04:38,800 --> 01:04:39,800
+of these
+
+1293
+01:04:39,800 --> 01:04:40,800
+and he billed himself a box
+
+1294
+01:04:40,800 --> 01:04:41,800
+on his roof.
+
+1295
+01:04:41,800 --> 01:04:42,800
+And he bought
+
+1296
+01:04:42,800 --> 01:04:43,800
+of these things
+
+1297
+01:04:43,800 --> 01:04:44,800
+so the sun would hit it.
+
+1298
+01:04:44,800 --> 01:04:45,800
+And he slowly circulated
+
+1299
+01:04:45,800 --> 01:04:46,800
+air through this,
+
+1300
+01:04:46,800 --> 01:04:47,800
+which he then arranged
+
+1301
+01:04:47,800 --> 01:04:48,800
+to be pumped down
+
+1302
+01:04:48,800 --> 01:04:51,800
+into his house.
+
+1303
+01:04:51,800 --> 01:04:53,800
+And he still had
+
+1304
+01:04:53,800 --> 01:04:54,800
+to have a furnace,
+
+1305
+01:04:54,800 --> 01:04:55,800
+of course.
+
+1306
+01:04:55,800 --> 01:04:56,800
+But he said,
+
+1307
+01:04:56,800 --> 01:04:57,800
+this noticeably
+
+1308
+01:04:57,800 --> 01:05:00,800
+reduced his heating costs.
+
+1309
+01:05:00,800 --> 01:05:01,800
+Then in later years,
+
+1310
+01:05:01,800 --> 01:05:02,800
+he would quit early
+
+1311
+01:05:02,800 --> 01:05:03,800
+and he said,
+
+1312
+01:05:03,800 --> 01:05:04,800
+I need some exercise
+
+1313
+01:05:04,800 --> 01:05:05,800
+and we'd go home.
+
+1314
+01:05:05,800 --> 01:05:06,800
+And I discovered
+
+1315
+01:05:06,800 --> 01:05:07,800
+he was digging a huge
+
+1316
+01:05:07,800 --> 01:05:10,800
+sister in his yard.
+
+1317
+01:05:10,800 --> 01:05:12,800
+And I saw this thing
+
+1318
+01:05:12,800 --> 01:05:13,800
+being constructed
+
+1319
+01:05:13,800 --> 01:05:14,800
+and he had great lines
+
+1320
+01:05:14,800 --> 01:05:15,800
+and back too.
+
+1321
+01:05:15,800 --> 01:05:16,800
+It wasn't a big yard,
+
+1322
+01:05:16,800 --> 01:05:18,800
+but he had great lines as well.
+
+1323
+01:05:18,800 --> 01:05:20,800
+And when this was completed,
+
+1324
+01:05:20,800 --> 01:05:21,800
+you know,
+
+1325
+01:05:21,800 --> 01:05:22,800
+we were up there a dinner
+
+1326
+01:05:22,800 --> 01:05:23,800
+one time.
+
+1327
+01:05:23,800 --> 01:05:24,800
+She says, come and see my sister
+
+1328
+01:05:24,800 --> 01:05:25,800
+and it was just completed.
+
+1329
+01:05:25,800 --> 01:05:26,800
+And I looked down
+
+1330
+01:05:26,800 --> 01:05:27,800
+and this down thing.
+
+1331
+01:05:27,800 --> 01:05:28,800
+It was about eight feet
+
+1332
+01:05:28,800 --> 01:05:29,800
+across and it was
+
+1333
+01:05:29,800 --> 01:05:31,800
+at least eight feet tall.
+
+1334
+01:05:31,800 --> 01:05:32,800
+It was a huge thing
+
+1335
+01:05:32,800 --> 01:05:33,800
+and he dug it all
+
+1336
+01:05:33,800 --> 01:05:34,800
+by hand,
+
+1337
+01:05:34,800 --> 01:05:35,800
+made the lining
+
+1338
+01:05:35,800 --> 01:05:36,800
+and everything in it.
+
+1339
+01:05:36,800 --> 01:05:37,800
+Concrete it
+
+1340
+01:05:37,800 --> 01:05:38,800
+all up
+
+1341
+01:05:38,800 --> 01:05:39,800
+and so on.
+
+1342
+01:05:39,800 --> 01:05:43,800
+And he said, there it is.
+
+1343
+01:05:43,800 --> 01:05:44,800
+He says, he's going
+
+1344
+01:05:44,800 --> 01:05:45,800
+to start filling it.
+
+1345
+01:05:45,800 --> 01:05:46,800
+He says, let's go down
+
+1346
+01:05:46,800 --> 01:05:47,800
+and he had a ladder
+
+1347
+01:05:47,800 --> 01:05:48,800
+built on the side.
+
+1348
+01:05:48,800 --> 01:05:49,800
+So we went down.
+
+1349
+01:05:49,800 --> 01:05:50,800
+We sat down
+
+1350
+01:05:50,800 --> 01:05:51,800
+and a couple chairs
+
+1351
+01:05:51,800 --> 01:05:52,800
+in the bottom,
+
+1352
+01:05:52,800 --> 01:05:53,800
+while he described this sister
+
+1353
+01:05:53,800 --> 01:05:54,800
+into me.
+
+1354
+01:05:54,800 --> 01:05:56,800
+So then we went upstairs
+
+1355
+01:05:56,800 --> 01:05:57,800
+and he covered it
+
+1356
+01:05:57,800 --> 01:05:59,800
+and he piped all the water
+
+1357
+01:05:59,800 --> 01:06:01,800
+that fell on his roof.
+
+1358
+01:06:01,800 --> 01:06:02,800
+All of that went
+
+1359
+01:06:02,800 --> 01:06:03,800
+into the sister
+
+1360
+01:06:03,800 --> 01:06:04,800
+and which he then
+
+1361
+01:06:04,800 --> 01:06:05,800
+pumped out to water
+
+1362
+01:06:05,800 --> 01:06:06,800
+his garden.
+
+1363
+01:06:06,800 --> 01:06:07,800
+The front lawn
+
+1364
+01:06:07,800 --> 01:06:09,800
+and the vines
+
+1365
+01:06:09,800 --> 01:06:11,800
+and back, everything.
+
+1366
+01:06:11,800 --> 01:06:14,800
+And then the city then
+
+1367
+01:06:14,800 --> 01:06:18,800
+had an assessment
+
+1368
+01:06:18,800 --> 01:06:20,800
+for storm for drainage.
+
+1369
+01:06:20,800 --> 01:06:22,800
+So he went down to the city
+
+1370
+01:06:22,800 --> 01:06:23,800
+and said he wanted to have
+
+1371
+01:06:23,800 --> 01:06:24,800
+his drainage reduced
+
+1372
+01:06:24,800 --> 01:06:25,800
+because the property
+
+1373
+01:06:25,800 --> 01:06:26,800
+was not as big
+
+1374
+01:06:26,800 --> 01:06:27,800
+as they said it was
+
+1375
+01:06:27,800 --> 01:06:29,800
+and he gave him an estimate
+
+1376
+01:06:29,800 --> 01:06:30,800
+of the square footage
+
+1377
+01:06:30,800 --> 01:06:31,800
+of the roof on his house
+
+1378
+01:06:31,800 --> 01:06:32,800
+and he wanted
+
+1379
+01:06:32,800 --> 01:06:33,800
+his proportional reduction
+
+1380
+01:06:33,800 --> 01:06:35,800
+in his drainage sheet.
+
+1381
+01:06:35,800 --> 01:06:37,800
+The city would have no
+
+1382
+01:06:37,800 --> 01:06:39,800
+nothing to do with this.
+
+1383
+01:06:39,800 --> 01:06:40,800
+At which point he realized
+
+1384
+01:06:40,800 --> 01:06:42,800
+that this drainage
+
+1385
+01:06:42,800 --> 01:06:44,800
+was really a tax
+
+1386
+01:06:44,800 --> 01:06:46,800
+on the amount of land
+
+1387
+01:06:46,800 --> 01:06:47,800
+that you had,
+
+1388
+01:06:47,800 --> 01:06:48,800
+not really on.
+
+1389
+01:06:48,800 --> 01:06:50,800
+It disguised the way he
+
+1390
+01:06:50,800 --> 01:06:52,800
+put it to me.
+
+1391
+01:06:52,800 --> 01:06:54,800
+So that was Wendell.
+
+1392
+01:06:54,800 --> 01:06:56,800
+He died of a heart attack
+
+1393
+01:06:56,800 --> 01:06:58,800
+in his sleep.
+
+1394
+01:06:58,800 --> 01:07:00,800
+And it was a tragic thing.
+
+1395
+01:07:00,800 --> 01:07:02,800
+Lois was very upset
+
+1396
+01:07:02,800 --> 01:07:04,800
+and she continued
+
+1397
+01:07:04,800 --> 01:07:06,800
+to live in the house
+
+1398
+01:07:06,800 --> 01:07:08,800
+for quite a while.
+
+1399
+01:07:08,800 --> 01:07:10,800
+And she would come
+
+1400
+01:07:10,800 --> 01:07:11,800
+to our house regularly
+
+1401
+01:07:11,800 --> 01:07:13,800
+and we would go
+
+1402
+01:07:13,800 --> 01:07:14,800
+up there to dinner
+
+1403
+01:07:14,800 --> 01:07:16,800
+and she came to us
+
+1404
+01:07:16,800 --> 01:07:18,800
+for dinner.
+
+1405
+01:07:18,800 --> 01:07:20,800
+And I did some work
+
+1406
+01:07:20,800 --> 01:07:21,800
+a little work
+
+1407
+01:07:21,800 --> 01:07:22,800
+in our house
+
+1408
+01:07:22,800 --> 01:07:24,800
+for her.
+
+1409
+01:07:24,800 --> 01:07:26,800
+I repaired the toilet
+
+1410
+01:07:26,800 --> 01:07:28,800
+that was leaking
+
+1411
+01:07:28,800 --> 01:07:30,800
+around the seam at the bottom.
+
+1412
+01:07:30,800 --> 01:07:32,800
+I put a new boot in it
+
+1413
+01:07:32,800 --> 01:07:34,800
+and I drilled a hole in the door
+
+1414
+01:07:34,800 --> 01:07:36,800
+and put one of these viewports
+
+1415
+01:07:36,800 --> 01:07:38,800
+in it for a few things
+
+1416
+01:07:38,800 --> 01:07:40,800
+like that.
+
+1417
+01:07:40,800 --> 01:07:42,800
+And she developed an infection
+
+1418
+01:07:42,800 --> 01:07:44,800
+that by the time it was diagnosed,
+
+1419
+01:07:44,800 --> 01:07:48,800
+her condition was so poor
+
+1420
+01:07:48,800 --> 01:07:50,800
+that she even had to treatment
+
+1421
+01:07:50,800 --> 01:07:52,800
+that she couldn't recover
+
+1422
+01:07:52,800 --> 01:07:54,800
+and she eventually died
+
+1423
+01:07:54,800 --> 01:07:56,800
+from it.
+
+1424
+01:07:56,800 --> 01:07:58,800
+Not the infection,
+
+1425
+01:07:58,800 --> 01:08:00,800
+but the fact that she had no
+
+1426
+01:08:00,800 --> 01:08:02,800
+reserves left.
+
+1427
+01:08:02,800 --> 01:08:04,800
+So I was,
+
+1428
+01:08:04,800 --> 01:08:06,800
+that's the story
+
+1429
+01:08:06,800 --> 01:08:08,800
+of the labels that I know.
+
+1430
+01:08:08,800 --> 01:08:10,800
+They had one son
+
+1431
+01:08:10,800 --> 01:08:12,800
+who is in California still.
+
+1432
+01:08:12,800 --> 01:08:14,800
+He has no children
+
+1433
+01:08:14,800 --> 01:08:16,800
+and he is an orthopedic surgeon.
+
+1434
+01:08:16,800 --> 01:08:18,800
+He had a daughter named Jane
+
+1435
+01:08:18,800 --> 01:08:20,800
+who babysits our kids
+
+1436
+01:08:20,800 --> 01:08:22,800
+when they were small.
+
+1437
+01:08:22,800 --> 01:08:24,800
+And she became for reasons
+
+1438
+01:08:24,800 --> 01:08:26,800
+that were never entirely
+
+1439
+01:08:26,800 --> 01:08:28,800
+clear to me as strange
+
+1440
+01:08:28,800 --> 01:08:30,800
+from her mother.
+
+1441
+01:08:30,800 --> 01:08:32,800
+And she lives in Seattle.
+
+1442
+01:08:32,800 --> 01:08:34,800
+She was married
+
+1443
+01:08:34,800 --> 01:08:36,800
+and then divorced.
+
+1444
+01:08:36,800 --> 01:08:38,800
+And I think I've seen her once
+
+1445
+01:08:38,800 --> 01:08:40,800
+up there, but I don't know
+
+1446
+01:08:40,800 --> 01:08:42,800
+what's become of her since then.
+
+1447
+01:08:42,800 --> 01:08:44,800
+That's about what I know
+
+1448
+01:08:44,800 --> 01:08:46,800
+of the labels.
+
+1449
+01:08:46,800 --> 01:08:48,800
+Oh yes.
+
+1450
+01:08:48,800 --> 01:08:50,800
+Well,
+
+1451
+01:08:50,800 --> 01:08:52,800
+Bert very much wanted people
+
+1452
+01:08:52,800 --> 01:08:54,800
+to realize that
+
+1453
+01:08:54,800 --> 01:08:56,800
+convinced people he was
+
+1454
+01:08:56,800 --> 01:08:58,800
+a very good department chairman
+
+1455
+01:08:58,800 --> 01:09:00,800
+and we have in the chemistry department
+
+1456
+01:09:00,800 --> 01:09:02,800
+at that time we have a
+
+1457
+01:09:02,800 --> 01:09:04,800
+source of chemicals.
+
+1458
+01:09:04,800 --> 01:09:06,800
+Let's call it a storeroom.
+
+1459
+01:09:06,800 --> 01:09:08,800
+There's a lot of chemicals used
+
+1460
+01:09:08,800 --> 01:09:10,800
+and that time an organic chemistry
+
+1461
+01:09:10,800 --> 01:09:12,800
+and so on was a big supply
+
+1462
+01:09:12,800 --> 01:09:14,800
+and he would buy these
+
+1463
+01:09:14,800 --> 01:09:16,800
+milk and they would be
+
+1464
+01:09:16,800 --> 01:09:18,800
+repackaged in jars
+
+1465
+01:09:18,800 --> 01:09:20,800
+and labeled with a number
+
+1466
+01:09:20,800 --> 01:09:22,800
+and so on on them.
+
+1467
+01:09:22,800 --> 01:09:24,800
+And other departments
+
+1468
+01:09:24,800 --> 01:09:26,800
+that couldn't afford a
+
+1469
+01:09:26,800 --> 01:09:28,800
+storeroom like this,
+
+1470
+01:09:28,800 --> 01:09:30,800
+this would be sold to them.
+
+1471
+01:09:30,800 --> 01:09:32,800
+At the price
+
+1472
+01:09:32,800 --> 01:09:34,800
+that was listed or maybe
+
+1473
+01:09:34,800 --> 01:09:36,800
+just a trifle less of the price
+
+1474
+01:09:36,800 --> 01:09:38,800
+listed for the same
+
+1475
+01:09:38,800 --> 01:09:40,800
+size container
+
+1476
+01:09:40,800 --> 01:09:42,800
+of the same material
+
+1477
+01:09:42,800 --> 01:09:44,800
+and chemicals catalog.
+
+1478
+01:09:44,800 --> 01:09:46,800
+And by buying it both
+
+1479
+01:09:46,800 --> 01:09:48,800
+and repackaging it,
+
+1480
+01:09:48,800 --> 01:09:50,800
+we saved money.
+
+1481
+01:09:50,800 --> 01:09:52,800
+He made money.
+
+1482
+01:09:52,800 --> 01:09:54,800
+And that money was used
+
+1483
+01:09:54,800 --> 01:09:56,800
+to support various things
+
+1484
+01:09:56,800 --> 01:09:58,800
+to realize on those days
+
+1485
+01:09:58,800 --> 01:10:00,800
+there was almost no money
+
+1486
+01:10:00,800 --> 01:10:02,800
+for anything.
+
+1487
+01:10:02,800 --> 01:10:04,800
+If you wanted to replace
+
+1488
+01:10:04,800 --> 01:10:06,800
+the equipment,
+
+1489
+01:10:06,800 --> 01:10:08,800
+you know, it was like pulling
+
+1490
+01:10:08,800 --> 01:10:10,800
+teats to get any money
+
+1491
+01:10:10,800 --> 01:10:11,800
+from the university for that.
+
+1492
+01:10:11,800 --> 01:10:13,800
+He would proceed
+
+1493
+01:10:13,800 --> 01:10:15,800
+in the department
+
+1494
+01:10:15,800 --> 01:10:17,800
+and to keep us just
+
+1495
+01:10:17,800 --> 01:10:19,800
+at least hanging on.
+
+1496
+01:10:19,800 --> 01:10:21,800
+The trouble with this was
+
+1497
+01:10:21,800 --> 01:10:23,800
+that this money which
+
+1498
+01:10:23,800 --> 01:10:25,800
+went into a car
+
+1499
+01:10:25,800 --> 01:10:27,800
+had to be spent
+
+1500
+01:10:27,800 --> 01:10:29,800
+by the 30th of June.
+
+1501
+01:10:29,800 --> 01:10:33,800
+And sometimes
+
+1502
+01:10:33,800 --> 01:10:35,800
+Christmas was very frugal.
+
+1503
+01:10:35,800 --> 01:10:37,800
+He would get all this stuff
+
+1504
+01:10:37,800 --> 01:10:39,800
+piled up there and then
+
+1505
+01:10:39,800 --> 01:10:41,800
+he didn't have a way
+
+1506
+01:10:41,800 --> 01:10:43,800
+of spending it before the end.
+
+1507
+01:10:43,800 --> 01:10:45,800
+So all sorts of peculiar
+
+1508
+01:10:45,800 --> 01:10:47,800
+things happened.
+
+1509
+01:10:47,800 --> 01:10:49,800
+He came down to me one time
+
+1510
+01:10:49,800 --> 01:10:51,800
+and says, can how do you like
+
+1511
+01:10:51,800 --> 01:10:53,800
+to have your office painted?
+
+1512
+01:10:53,800 --> 01:10:55,800
+I said, my office painted.
+
+1513
+01:10:55,800 --> 01:10:57,800
+I don't need my office painted.
+
+1514
+01:10:57,800 --> 01:10:59,800
+And he said, well, you know,
+
+1515
+01:10:59,800 --> 01:11:01,800
+it looks a little dingy in here.
+
+1516
+01:11:01,800 --> 01:11:03,800
+We should paint a few of these offices
+
+1517
+01:11:03,800 --> 01:11:05,800
+and just shrugged
+
+1518
+01:11:05,800 --> 01:11:07,800
+and so my office was painted.
+
+1519
+01:11:07,800 --> 01:11:08,800
+And that used up some of the money.
+
+1520
+01:11:08,800 --> 01:11:10,800
+He says, you know, I don't like to look
+
+1521
+01:11:10,800 --> 01:11:12,800
+at all these pipes overhead.
+
+1522
+01:11:12,800 --> 01:11:14,800
+In the basement, everything was open.
+
+1523
+01:11:14,800 --> 01:11:16,800
+All sorts of vents and pipes
+
+1524
+01:11:16,800 --> 01:11:18,800
+that looked terrible.
+
+1525
+01:11:18,800 --> 01:11:20,800
+He says, I think, well, how would you
+
+1526
+01:11:20,800 --> 01:11:22,800
+react to the idea
+
+1527
+01:11:22,800 --> 01:11:24,800
+that we put a false ceiling
+
+1528
+01:11:24,800 --> 01:11:26,800
+in a masculine stuff?
+
+1529
+01:11:26,800 --> 01:11:28,800
+I said, well, can do it if you want.
+
+1530
+01:11:28,800 --> 01:11:30,800
+I don't see the need for it.
+
+1531
+01:11:30,800 --> 01:11:32,800
+In fact, it improves
+
+1532
+01:11:32,800 --> 01:11:34,800
+the appearance of things,
+
+1533
+01:11:34,800 --> 01:11:36,800
+but it also makes it
+
+1534
+01:11:36,800 --> 01:11:38,800
+more difficult to locate the source of problems.
+
+1535
+01:11:38,800 --> 01:11:40,800
+So a new course,
+
+1536
+01:11:40,800 --> 01:11:42,800
+we have that false ceiling,
+
+1537
+01:11:42,800 --> 01:11:44,800
+which if you go into the basement of Gilbert,
+
+1538
+01:11:44,800 --> 01:11:46,800
+you can see it's still there.
+
+1539
+01:11:46,800 --> 01:11:48,800
+It's got holes punched in it.
+
+1540
+01:11:48,800 --> 01:11:50,800
+It's white panels suspended
+
+1541
+01:11:50,800 --> 01:11:52,800
+from the ceiling.
+
+1542
+01:11:52,800 --> 01:11:54,800
+So,
+
+1543
+01:11:54,800 --> 01:11:56,800
+Burke was very,
+
+1544
+01:11:56,800 --> 01:12:00,800
+very conscious of
+
+1545
+01:12:00,800 --> 01:12:04,800
+how I want to say.
+
+1546
+01:12:04,800 --> 01:12:06,800
+He was recovering his tracks all the time.
+
+1547
+01:12:06,800 --> 01:12:08,800
+And one of the reasons
+
+1548
+01:12:08,800 --> 01:12:10,800
+that he refused to renew,
+
+1549
+01:12:10,800 --> 01:12:12,800
+my wife's appointment,
+
+1550
+01:12:12,800 --> 01:12:14,800
+had nothing at all to do with science,
+
+1551
+01:12:14,800 --> 01:12:16,800
+anything like that.
+
+1552
+01:12:16,800 --> 01:12:18,800
+She was paid very modestly
+
+1553
+01:12:18,800 --> 01:12:20,800
+on any event.
+
+1554
+01:12:20,800 --> 01:12:24,800
+But, for the first time in history,
+
+1555
+01:12:24,800 --> 01:12:26,800
+just before he took this action,
+
+1556
+01:12:26,800 --> 01:12:28,800
+the city of Corvallis
+
+1557
+01:12:28,800 --> 01:12:30,800
+defeated a bond measure
+
+1558
+01:12:30,800 --> 01:12:32,800
+designed to support schools.
+
+1559
+01:12:32,800 --> 01:12:34,800
+And he thought,
+
+1560
+01:12:34,800 --> 01:12:36,800
+boy,
+
+1561
+01:12:36,800 --> 01:12:38,800
+people are looking at what
+
+1562
+01:12:38,800 --> 01:12:40,800
+the education system is doing
+
+1563
+01:12:40,800 --> 01:12:42,800
+and here they're going to see
+
+1564
+01:12:42,800 --> 01:12:44,800
+if there's a faculty member's wife
+
+1565
+01:12:44,800 --> 01:12:46,800
+who's being paid on a faculty member,
+
+1566
+01:12:46,800 --> 01:12:48,800
+being paid through the system.
+
+1567
+01:12:48,800 --> 01:12:50,800
+Of course, my grants were
+
+1568
+01:12:50,800 --> 01:12:52,800
+to the university and they were paid.
+
+1569
+01:12:52,800 --> 01:12:54,800
+And he decided he couldn't tolerate
+
+1570
+01:12:54,800 --> 01:12:56,800
+the possibility
+
+1571
+01:12:56,800 --> 01:13:00,800
+of somebody objecting to this.
+
+1572
+01:13:00,800 --> 01:13:02,800
+And that was the reason
+
+1573
+01:13:02,800 --> 01:13:04,800
+that he advanced
+
+1574
+01:13:04,800 --> 01:13:06,800
+to me. He says,
+
+1575
+01:13:06,800 --> 01:13:08,800
+we have to be very careful
+
+1576
+01:13:08,800 --> 01:13:10,800
+of our image.
+
+1577
+01:13:10,800 --> 01:13:12,800
+He advanced to Lisa.
+
+1578
+01:13:12,800 --> 01:13:14,800
+I didn't have anything to do with it.
+
+1579
+01:13:14,800 --> 01:13:16,800
+She wrote him a letter,
+
+1580
+01:13:16,800 --> 01:13:18,800
+went to see him, wrote him another letter,
+
+1581
+01:13:18,800 --> 01:13:20,800
+and nothing happened.
+
+1582
+01:13:20,800 --> 01:13:22,800
+Finally, he refused to answer her letters
+
+1583
+01:13:22,800 --> 01:13:24,800
+and that's when we went
+
+1584
+01:13:24,800 --> 01:13:26,800
+over to the dean.
+
+1585
+01:13:26,800 --> 01:13:28,800
+But I remember a remark,
+
+1586
+01:13:28,800 --> 01:13:30,800
+he was a gruffle guy
+
+1587
+01:13:30,800 --> 01:13:32,800
+and he spoke
+
+1588
+01:13:32,800 --> 01:13:34,800
+down like this. He says,
+
+1589
+01:13:34,800 --> 01:13:36,800
+he says, bird is sort of
+
+1590
+01:13:36,800 --> 01:13:38,800
+like a country horse.
+
+1591
+01:13:38,800 --> 01:13:40,800
+He shies it a paper
+
+1592
+01:13:40,800 --> 01:13:42,800
+in the road.
+
+1593
+01:13:42,800 --> 01:13:46,800
+So that's bird.
+
+1594
+01:13:46,800 --> 01:13:50,800
+He contributed
+
+1595
+01:13:50,800 --> 01:13:52,800
+after he retired.
+
+1596
+01:13:52,800 --> 01:13:54,800
+He sent up a fund
+
+1597
+01:13:54,800 --> 01:13:56,800
+designed to help graduate students
+
+1598
+01:13:56,800 --> 01:13:58,800
+meetings
+
+1599
+01:13:58,800 --> 01:14:00,800
+when they were working in research
+
+1600
+01:14:00,800 --> 01:14:02,800
+with research groups for which
+
+1601
+01:14:02,800 --> 01:14:04,800
+there was no money.
+
+1602
+01:14:04,800 --> 01:14:06,800
+And that was used quite a lot
+
+1603
+01:14:06,800 --> 01:14:08,800
+and I
+
+1604
+01:14:08,800 --> 01:14:10,800
+thanked him a couple of times
+
+1605
+01:14:10,800 --> 01:14:12,800
+when I saw him on the streets
+
+1606
+01:14:12,800 --> 01:14:14,800
+and he says, oh, well,
+
+1607
+01:14:14,800 --> 01:14:16,800
+please, he says, if he need
+
+1608
+01:14:16,800 --> 01:14:18,800
+more money, let me know.
+
+1609
+01:14:18,800 --> 01:14:20,800
+And I don't know whether he put
+
+1610
+01:14:20,800 --> 01:14:22,800
+more money up or not.
+
+1611
+01:14:22,800 --> 01:14:24,800
+I was not the department gentleman.
+
+1612
+01:14:24,800 --> 01:14:26,800
+So that's a brilliant gentleman.
+
+1613
+01:14:26,800 --> 01:14:30,800
+I don't
+
+1614
+01:14:30,800 --> 01:14:34,800
+remember much about
+
+1615
+01:14:34,800 --> 01:14:36,800
+WERN
+
+1616
+01:14:36,800 --> 01:14:40,800
+on the same
+
+1617
+01:14:40,800 --> 01:14:42,800
+personal or intimate basis
+
+1618
+01:14:42,800 --> 01:14:44,800
+that I mentioned to these other people
+
+1619
+01:14:44,800 --> 01:14:46,800
+because he was sitting in the dean's office
+
+1620
+01:14:46,800 --> 01:14:48,800
+at the time.
+
+1621
+01:14:48,800 --> 01:14:50,800
+Well, when I first came here,
+
+1622
+01:14:50,800 --> 01:14:52,800
+he was said of something
+
+1623
+01:14:52,800 --> 01:14:54,800
+like the research institute.
+
+1624
+01:14:54,800 --> 01:14:56,800
+And it turned out
+
+1625
+01:14:56,800 --> 01:14:58,800
+in the early days
+
+1626
+01:14:58,800 --> 01:15:00,800
+there was a group of biochemists
+
+1627
+01:15:00,800 --> 01:15:02,800
+associated with chemistry
+
+1628
+01:15:02,800 --> 01:15:04,800
+among who
+
+1629
+01:15:04,800 --> 01:15:06,800
+was
+
+1630
+01:15:06,800 --> 01:15:08,800
+Sheldon.
+
+1631
+01:15:08,800 --> 01:15:10,800
+And he decided
+
+1632
+01:15:10,800 --> 01:15:12,800
+that he would like to
+
+1633
+01:15:12,800 --> 01:15:16,800
+set up this independent entity.
+
+1634
+01:15:16,800 --> 01:15:18,800
+There are lots of reasons for it
+
+1635
+01:15:18,800 --> 01:15:20,800
+because overhead that was returned
+
+1636
+01:15:20,800 --> 01:15:22,800
+to these
+
+1637
+01:15:22,800 --> 01:15:24,800
+agencies.
+
+1638
+01:15:24,800 --> 01:15:26,800
+At that time, the university returned
+
+1639
+01:15:26,800 --> 01:15:28,800
+part of the overhead to the departments.
+
+1640
+01:15:28,800 --> 01:15:30,800
+And the departments then could
+
+1641
+01:15:30,800 --> 01:15:32,800
+determine how they were going to use this
+
+1642
+01:15:32,800 --> 01:15:34,800
+returned overhead.
+
+1643
+01:15:34,800 --> 01:15:36,800
+Well, I think WERN had some
+
+1644
+01:15:36,800 --> 01:15:38,800
+conditions.
+
+1645
+01:15:38,800 --> 01:15:40,800
+Clearly, he did.
+
+1646
+01:15:40,800 --> 01:15:42,800
+He was a nice guy, by the way.
+
+1647
+01:15:42,800 --> 01:15:46,800
+He arranged,
+
+1648
+01:15:46,800 --> 01:15:48,800
+I'm sure, with the support of
+
+1649
+01:15:48,800 --> 01:15:50,800
+Chris and Sun,
+
+1650
+01:15:50,800 --> 01:15:52,800
+to take these biochemists
+
+1651
+01:15:52,800 --> 01:15:54,800
+and to set up what they call
+
+1652
+01:15:54,800 --> 01:15:56,800
+the Science Research Institute,
+
+1653
+01:15:56,800 --> 01:15:58,800
+which was largely biochemistry.
+
+1654
+01:15:58,800 --> 01:16:00,800
+And then later on,
+
+1655
+01:16:00,800 --> 01:16:02,800
+that became,
+
+1656
+01:16:02,800 --> 01:16:04,800
+I think,
+
+1657
+01:16:04,800 --> 01:16:08,800
+kind of morphed
+
+1658
+01:16:08,800 --> 01:16:10,800
+into,
+
+1659
+01:16:10,800 --> 01:16:12,800
+along with perhaps
+
+1660
+01:16:12,800 --> 01:16:14,800
+other departments.
+
+1661
+01:16:14,800 --> 01:16:16,800
+I'm not quite sure
+
+1662
+01:16:16,800 --> 01:16:18,800
+about chemistry and bio physics.
+
+1663
+01:16:18,800 --> 01:16:20,800
+And then WERN became
+
+1664
+01:16:20,800 --> 01:16:22,800
+department chef,
+
+1665
+01:16:22,800 --> 01:16:24,800
+and became D.
+
+1666
+01:16:24,800 --> 01:16:26,800
+Pardon me.
+
+1667
+01:16:26,800 --> 01:16:28,800
+He suffered from health problems,
+
+1668
+01:16:28,800 --> 01:16:30,800
+serious ones.
+
+1669
+01:16:30,800 --> 01:16:32,800
+He had very high blood pressure
+
+1670
+01:16:32,800 --> 01:16:34,800
+at one stage,
+
+1671
+01:16:34,800 --> 01:16:36,800
+and he died really rather young.
+
+1672
+01:16:36,800 --> 01:16:38,800
+His life was
+
+1673
+01:16:38,800 --> 01:16:40,800
+very well known,
+
+1674
+01:16:40,800 --> 01:16:42,800
+also,
+
+1675
+01:16:42,800 --> 01:16:44,800
+because I range, her name was
+
+1676
+01:16:44,800 --> 01:16:46,800
+I range,
+
+1677
+01:16:46,800 --> 01:16:50,800
+but I think she served
+
+1678
+01:16:50,800 --> 01:16:52,800
+she was certainly involved
+
+1679
+01:16:52,800 --> 01:16:54,800
+in local politics.
+
+1680
+01:16:54,800 --> 01:16:58,800
+And I don't know whether
+
+1681
+01:16:58,800 --> 01:17:00,800
+she'll in the middle school
+
+1682
+01:17:00,800 --> 01:17:02,800
+is, they were philanthropic,
+
+1683
+01:17:02,800 --> 01:17:04,800
+also.
+
+1684
+01:17:04,800 --> 01:17:06,800
+Whether that followed
+
+1685
+01:17:06,800 --> 01:17:08,800
+mostly from her work,
+
+1686
+01:17:08,800 --> 01:17:10,800
+or from them jointly as
+
+1687
+01:17:10,800 --> 01:17:12,800
+they were.
+
+1688
+01:17:12,800 --> 01:17:14,800
+So that's about as much as I
+
+1689
+01:17:14,800 --> 01:17:16,800
+know, WERN.
+
+1690
+01:17:16,800 --> 01:17:18,800
+I'd see him on the street
+
+1691
+01:17:18,800 --> 01:17:20,800
+when she had cans
+
+1692
+01:17:20,800 --> 01:17:22,800
+and chat a bit,
+
+1693
+01:17:22,800 --> 01:17:24,800
+and then I had this,
+
+1694
+01:17:24,800 --> 01:17:26,800
+at least, and I had this
+
+1695
+01:17:26,800 --> 01:17:28,800
+contact with him in occasion
+
+1696
+01:17:28,800 --> 01:17:30,800
+of her appointment.
+
+1697
+01:17:30,800 --> 01:17:32,800
+And that's about all I had to do
+
+1698
+01:17:32,800 --> 01:17:34,800
+with him.
+
+1699
+01:17:34,800 --> 01:17:36,800
+Well, Carol is
+
+1700
+01:17:36,800 --> 01:17:38,800
+a wonderful guy.
+
+1701
+01:17:38,800 --> 01:17:40,800
+And I think he's
+
+1702
+01:17:40,800 --> 01:17:42,800
+very proud of him as one of the,
+
+1703
+01:17:42,800 --> 01:17:44,800
+certainly one of the better
+
+1704
+01:17:44,800 --> 01:17:46,800
+chairman's that I have
+
+1705
+01:17:46,800 --> 01:17:48,800
+experienced here.
+
+1706
+01:17:48,800 --> 01:17:50,800
+Carol had a research program
+
+1707
+01:17:50,800 --> 01:17:52,800
+in inorganic chemistry
+
+1708
+01:17:52,800 --> 01:17:54,800
+when I first came.
+
+1709
+01:17:54,800 --> 01:17:58,800
+And he decided he would
+
+1710
+01:17:58,800 --> 01:18:00,800
+whatever reason.
+
+1711
+01:18:00,800 --> 01:18:02,800
+I think his research was
+
+1712
+01:18:02,800 --> 01:18:04,800
+slowing down that he would
+
+1713
+01:18:04,800 --> 01:18:06,800
+run for department chairman.
+
+1714
+01:18:06,800 --> 01:18:08,800
+And I think that there were
+
+1715
+01:18:08,800 --> 01:18:10,800
+two choices.
+
+1716
+01:18:10,800 --> 01:18:12,800
+One of them was
+
+1717
+01:18:12,800 --> 01:18:14,800
+Dara Thomas.
+
+1718
+01:18:14,800 --> 01:18:16,800
+And the other was
+
+1719
+01:18:16,800 --> 01:18:18,800
+Carol.
+
+1720
+01:18:18,800 --> 01:18:20,800
+And I think the ultimate decision
+
+1721
+01:18:20,800 --> 01:18:22,800
+was made by the dean
+
+1722
+01:18:22,800 --> 01:18:24,800
+that it would be Dara Thomas.
+
+1723
+01:18:24,800 --> 01:18:26,800
+And after he served for
+
+1724
+01:18:26,800 --> 01:18:28,800
+a term, Carol became
+
+1725
+01:18:28,800 --> 01:18:30,800
+department chairman.
+
+1726
+01:18:30,800 --> 01:18:32,800
+Now,
+
+1727
+01:18:32,800 --> 01:18:34,800
+Carol,
+
+1728
+01:18:34,800 --> 01:18:38,800
+he really ran the department
+
+1729
+01:18:38,800 --> 01:18:40,800
+the way that a lot of us
+
+1730
+01:18:40,800 --> 01:18:42,800
+would like to see it done.
+
+1731
+01:18:42,800 --> 01:18:44,800
+He once professed to me,
+
+1732
+01:18:44,800 --> 01:18:46,800
+he says, look, he says, my research
+
+1733
+01:18:46,800 --> 01:18:48,800
+days are over. I view
+
+1734
+01:18:48,800 --> 01:18:50,800
+my role in this department
+
+1735
+01:18:50,800 --> 01:18:52,800
+as to expedite the research
+
+1736
+01:18:52,800 --> 01:18:54,800
+and teaching potential
+
+1737
+01:18:54,800 --> 01:18:56,800
+of the department to the
+
+1738
+01:18:56,800 --> 01:19:00,800
+maximum possible.
+
+1739
+01:19:00,800 --> 01:19:02,800
+And so he was
+
+1740
+01:19:02,800 --> 01:19:04,800
+the difference between him
+
+1741
+01:19:04,800 --> 01:19:06,800
+and Christensen's
+
+1742
+01:19:06,800 --> 01:19:08,800
+and say to choose an example.
+
+1743
+01:19:08,800 --> 01:19:10,800
+Christensen, you couldn't
+
+1744
+01:19:10,800 --> 01:19:12,800
+pry a dime out of it.
+
+1745
+01:19:12,800 --> 01:19:14,800
+Until the end,
+
+1746
+01:19:14,800 --> 01:19:16,800
+when you saw this
+
+1747
+01:19:16,800 --> 01:19:18,800
+flamboyant expenditures being
+
+1748
+01:19:18,800 --> 01:19:20,800
+made, I'd go to Carol
+
+1749
+01:19:20,800 --> 01:19:22,800
+and I'd say, look, I need some
+
+1750
+01:19:22,800 --> 01:19:24,800
+money from my returned overhead
+
+1751
+01:19:24,800 --> 01:19:26,800
+by the way.
+
+1752
+01:19:26,800 --> 01:19:28,800
+In those days, the department
+
+1753
+01:19:28,800 --> 01:19:30,800
+received returned overhead
+
+1754
+01:19:30,800 --> 01:19:32,800
+but the department
+
+1755
+01:19:32,800 --> 01:19:34,800
+to determine what they did
+
+1756
+01:19:34,800 --> 01:19:36,800
+with the overhead. And our department had a practice
+
+1757
+01:19:36,800 --> 01:19:38,800
+of returning about
+
+1758
+01:19:38,800 --> 01:19:40,800
+80% of the overhead
+
+1759
+01:19:40,800 --> 01:19:42,800
+that was derived from
+
+1760
+01:19:42,800 --> 01:19:46,800
+the research grant of an individual
+
+1761
+01:19:46,800 --> 01:19:48,800
+to that individual.
+
+1762
+01:19:48,800 --> 01:19:50,800
+So if you had a big research
+
+1763
+01:19:50,800 --> 01:19:52,800
+grant of which a
+
+1764
+01:19:52,800 --> 01:19:54,800
+lot of overhead was
+
+1765
+01:19:54,800 --> 01:19:56,800
+extracted, returned to the department,
+
+1766
+01:19:56,800 --> 01:19:58,800
+then you would have a chunk of money
+
+1767
+01:19:58,800 --> 01:20:00,800
+to deal with because I think
+
+1768
+01:20:00,800 --> 01:20:02,800
+they returned 80% or so
+
+1769
+01:20:02,800 --> 01:20:04,800
+and you could use that any way you
+
+1770
+01:20:04,800 --> 01:20:06,800
+want. Now,
+
+1771
+01:20:06,800 --> 01:20:08,800
+what happened was that
+
+1772
+01:20:08,800 --> 01:20:10,800
+a notice would be sent about
+
+1773
+01:20:10,800 --> 01:20:12,800
+that returned overhead was now
+
+1774
+01:20:12,800 --> 01:20:14,800
+available and you should
+
+1775
+01:20:14,800 --> 01:20:16,800
+write down what your needs are.
+
+1776
+01:20:16,800 --> 01:20:18,800
+Now, it wasn't that
+
+1777
+01:20:18,800 --> 01:20:20,800
+the overhead was
+
+1778
+01:20:20,800 --> 01:20:22,800
+directed specifically to the
+
+1779
+01:20:22,800 --> 01:20:24,800
+individual who had earned it.
+
+1780
+01:20:24,800 --> 01:20:26,800
+But that would
+
+1781
+01:20:26,800 --> 01:20:28,800
+receive some priority.
+
+1782
+01:20:28,800 --> 01:20:30,800
+But a lot of us didn't need
+
+1783
+01:20:30,800 --> 01:20:32,800
+all of our overhead and so we
+
+1784
+01:20:32,800 --> 01:20:34,800
+build up formally speaking
+
+1785
+01:20:34,800 --> 01:20:36,800
+an account.
+
+1786
+01:20:36,800 --> 01:20:38,800
+Other people who needed
+
+1787
+01:20:38,800 --> 01:20:40,800
+equipment that exceeded the
+
+1788
+01:20:40,800 --> 01:20:42,800
+returned overhead could use the
+
+1789
+01:20:42,800 --> 01:20:44,800
+returned overhead and then
+
+1790
+01:20:44,800 --> 01:20:46,800
+you would have a credit so to speak.
+
+1791
+01:20:46,800 --> 01:20:48,800
+Well, of course, it's not a
+
+1792
+01:20:48,800 --> 01:20:50,800
+business and
+
+1793
+01:20:50,800 --> 01:20:52,800
+looking back, a
+
+1794
+01:20:52,800 --> 01:20:54,800
+perspicacious individual would have
+
+1795
+01:20:54,800 --> 01:20:56,800
+seen that this can't
+
+1796
+01:20:56,800 --> 01:20:58,800
+persist and the guys who
+
+1797
+01:20:58,800 --> 01:21:00,800
+have the credits are probably
+
+1798
+01:21:00,800 --> 01:21:02,800
+never going to realize there
+
+1799
+01:21:02,800 --> 01:21:04,800
+are money back again.
+
+1800
+01:21:04,800 --> 01:21:06,800
+Whereas those guys who are in
+
+1801
+01:21:06,800 --> 01:21:08,800
+debt, you know, the department is
+
+1802
+01:21:08,800 --> 01:21:10,800
+going to decide they're not going to
+
+1803
+01:21:10,800 --> 01:21:12,800
+distribute overhead anymore.
+
+1804
+01:21:12,800 --> 01:21:14,800
+And so they come out and
+
+1805
+01:21:14,800 --> 01:21:16,800
+swim like a rose.
+
+1806
+01:21:16,800 --> 01:21:18,800
+Well, I didn't need all of my money
+
+1807
+01:21:18,800 --> 01:21:20,800
+because I had equipment budgets
+
+1808
+01:21:20,800 --> 01:21:22,800
+and I could buy an
+
+1809
+01:21:22,800 --> 01:21:24,800
+account.
+
+1810
+01:21:24,800 --> 01:21:26,800
+Well, I went to him on a couple
+
+1811
+01:21:26,800 --> 01:21:28,800
+of occasions saying, I need
+
+1812
+01:21:28,800 --> 01:21:30,800
+this or I need that carol and I
+
+1813
+01:21:30,800 --> 01:21:32,800
+don't have the money and my budget
+
+1814
+01:21:32,800 --> 01:21:34,800
+for it. He says, how much is
+
+1815
+01:21:34,800 --> 01:21:36,800
+it? I'd tell him.
+
+1816
+01:21:36,800 --> 01:21:38,800
+He'd look at this and he'd say,
+
+1817
+01:21:38,800 --> 01:21:40,800
+okay, go ahead, buy it.
+
+1818
+01:21:40,800 --> 01:21:44,800
+And he was very effective in
+
+1819
+01:21:44,800 --> 01:21:46,800
+this way and I think people
+
+1820
+01:21:46,800 --> 01:21:48,800
+respected him for that because
+
+1821
+01:21:48,800 --> 01:21:50,800
+people didn't go to him to try
+
+1822
+01:21:50,800 --> 01:21:52,800
+things they really didn't need.
+
+1823
+01:21:52,800 --> 01:21:54,800
+And this isn't keeping with his
+
+1824
+01:21:54,800 --> 01:21:58,800
+professed remark to me.
+
+1825
+01:21:58,800 --> 01:22:00,800
+It's remarked to me that he
+
+1826
+01:22:00,800 --> 01:22:02,800
+was going to do what he could to
+
+1827
+01:22:02,800 --> 01:22:04,800
+expedite the teaching and
+
+1828
+01:22:04,800 --> 01:22:06,800
+research activities of the
+
+1829
+01:22:06,800 --> 01:22:08,800
+department. If you needed money for
+
+1830
+01:22:08,800 --> 01:22:10,800
+your research and you didn't have it,
+
+1831
+01:22:10,800 --> 01:22:12,800
+he tried to get it for you.
+
+1832
+01:22:12,800 --> 01:22:14,800
+He was very good.
+
+1833
+01:22:14,800 --> 01:22:16,800
+You know, he's still around.
+
+1834
+01:22:16,800 --> 01:22:18,800
+We have an old man's lunch
+
+1835
+01:22:18,800 --> 01:22:20,800
+once a month.
+
+1836
+01:22:20,800 --> 01:22:22,800
+Did you know that?
+
+1837
+01:22:22,800 --> 01:22:24,800
+The old man's lunch started
+
+1838
+01:22:24,800 --> 01:22:26,800
+way, way back
+
+1839
+01:22:26,800 --> 01:22:30,800
+in 1986.
+
+1840
+01:22:30,800 --> 01:22:32,800
+And it started
+
+1841
+01:22:32,800 --> 01:22:36,800
+with bus marvel,
+
+1842
+01:22:36,800 --> 01:22:38,800
+Elliott Marvel, a professor of
+
+1843
+01:22:38,800 --> 01:22:40,800
+organic chemistry who retired
+
+1844
+01:22:40,800 --> 01:22:44,800
+and
+
+1845
+01:22:44,800 --> 01:22:46,800
+he was very ambitious.
+
+1846
+01:22:46,800 --> 01:22:48,800
+And it may have been Harry
+
+1847
+01:22:48,800 --> 01:22:50,800
+Frand also decided they would
+
+1848
+01:22:50,800 --> 01:22:52,800
+meet for lunch.
+
+1849
+01:22:52,800 --> 01:22:54,800
+And then there were probably
+
+1850
+01:22:54,800 --> 01:22:56,800
+four of them all told.
+
+1851
+01:22:56,800 --> 01:22:58,800
+And then when I retired,
+
+1852
+01:22:58,800 --> 01:23:00,800
+they decided that I would be
+
+1853
+01:23:00,800 --> 01:23:02,800
+invited to this and then
+
+1854
+01:23:02,800 --> 01:23:04,800
+it became a kind of a monthly
+
+1855
+01:23:04,800 --> 01:23:06,800
+affair.
+
+1856
+01:23:06,800 --> 01:23:08,800
+And as people have retired,
+
+1857
+01:23:08,800 --> 01:23:10,800
+that has kept going.
+
+1858
+01:23:10,800 --> 01:23:12,800
+So every retiree in
+
+1859
+01:23:12,800 --> 01:23:14,800
+chemistry,
+
+1860
+01:23:14,800 --> 01:23:16,800
+and two or three in biochemistry
+
+1861
+01:23:16,800 --> 01:23:18,800
+in bio physics,
+
+1862
+01:23:18,800 --> 01:23:20,800
+Chris Matthews comes,
+
+1863
+01:23:20,800 --> 01:23:22,800
+Ken Van Holt is a part of it.
+
+1864
+01:23:22,800 --> 01:23:26,800
+Bob Becker comes,
+
+1865
+01:23:26,800 --> 01:23:28,800
+then several chemists come.
+
+1866
+01:23:28,800 --> 01:23:30,800
+Several chemists who could
+
+1867
+01:23:30,800 --> 01:23:32,800
+come don't because their active
+
+1868
+01:23:32,800 --> 01:23:34,800
+tennis player is still,
+
+1869
+01:23:34,800 --> 01:23:36,800
+and they have matches Wednesday
+
+1870
+01:23:36,800 --> 01:23:38,800
+at noon when we have our meetings
+
+1871
+01:23:38,800 --> 01:23:40,800
+once a month.
+
+1872
+01:23:40,800 --> 01:23:42,800
+And he's a very
+
+1873
+01:23:42,800 --> 01:23:44,800
+lively guy.
+
+1874
+01:23:44,800 --> 01:23:46,800
+He's been very active.
+
+1875
+01:23:46,800 --> 01:23:48,800
+He bought a house
+
+1876
+01:23:48,800 --> 01:23:50,800
+on the area road.
+
+1877
+01:23:50,800 --> 01:23:52,800
+He's been an active
+
+1878
+01:23:52,800 --> 01:23:54,800
+kayaker for years.
+
+1879
+01:23:54,800 --> 01:23:56,800
+And finally, he decided
+
+1880
+01:23:56,800 --> 01:23:58,800
+that the commute
+
+1881
+01:23:58,800 --> 01:24:00,800
+for him and his wife was
+
+1882
+01:24:00,800 --> 01:24:02,800
+just too much.
+
+1883
+01:24:02,800 --> 01:24:04,800
+So they sold that property
+
+1884
+01:24:04,800 --> 01:24:06,800
+to him.
+
+1885
+01:24:06,800 --> 01:24:08,800
+At least in the process of selling it
+
+1886
+01:24:08,800 --> 01:24:10,800
+and bought some last year here
+
+1887
+01:24:10,800 --> 01:24:12,800
+in town where he's now living.
+
+1888
+01:24:12,800 --> 01:24:14,800
+But he's still kayaks.
+
+1889
+01:24:14,800 --> 01:24:16,800
+In fact, they went down the
+
+1890
+01:24:16,800 --> 01:24:18,800
+road recently.
+
+1891
+01:24:18,800 --> 01:24:20,800
+And he's been on the Grand Canyon
+
+1892
+01:24:20,800 --> 01:24:22,800
+more than once in his own
+
+1893
+01:24:22,800 --> 01:24:24,800
+kayak.
+
+1894
+01:24:24,800 --> 01:24:26,800
+So he's very active,
+
+1895
+01:24:26,800 --> 01:24:28,800
+physically.
+
+1896
+01:24:28,800 --> 01:24:30,800
+Wonderful guy.
+
+1897
+01:24:30,800 --> 01:24:34,800
+What are some of the
+
+1898
+01:24:34,800 --> 01:24:36,800
+more critical or memorable
+
+1899
+01:24:36,800 --> 01:24:38,800
+things that you think
+
+1900
+01:24:38,800 --> 01:24:40,800
+about in 10 years?
+
+1901
+01:24:40,800 --> 01:24:42,800
+What were the status
+
+1902
+01:24:42,800 --> 01:24:44,800
+teams?
+
+1903
+01:24:44,800 --> 01:24:46,800
+A memorable experience is
+
+1904
+01:24:46,800 --> 01:24:48,800
+working with graduate students.
+
+1905
+01:24:48,800 --> 01:24:50,800
+Well,
+
+1906
+01:24:50,800 --> 01:24:54,800
+I'm thinking here as
+
+1907
+01:24:54,800 --> 01:24:56,800
+I'm sitting.
+
+1908
+01:24:56,800 --> 01:25:00,800
+I've had
+
+1909
+01:25:00,800 --> 01:25:02,800
+some very good graduate students
+
+1910
+01:25:02,800 --> 01:25:04,800
+and some that were
+
+1911
+01:25:04,800 --> 01:25:06,800
+not so good.
+
+1912
+01:25:06,800 --> 01:25:08,800
+Almost all of whom
+
+1913
+01:25:08,800 --> 01:25:10,800
+have finished and gotten
+
+1914
+01:25:10,800 --> 01:25:12,800
+a degree.
+
+1915
+01:25:12,800 --> 01:25:14,800
+Let me name one
+
+1916
+01:25:14,800 --> 01:25:16,800
+who came along fairly late.
+
+1917
+01:25:16,800 --> 01:25:18,800
+His name was
+
+1918
+01:25:18,800 --> 01:25:20,800
+Chin-Fan Huang.
+
+1919
+01:25:20,800 --> 01:25:22,800
+And he was a Chinese
+
+1920
+01:25:22,800 --> 01:25:24,800
+national.
+
+1921
+01:25:24,800 --> 01:25:26,800
+And he came here
+
+1922
+01:25:26,800 --> 01:25:28,800
+when, oh,
+
+1923
+01:25:28,800 --> 01:25:30,800
+I'd have to look to see,
+
+1924
+01:25:30,800 --> 01:25:34,800
+he's been almost 20 years
+
+1925
+01:25:34,800 --> 01:25:36,800
+now.
+
+1926
+01:25:36,800 --> 01:25:38,800
+Well, perhaps even more
+
+1927
+01:25:38,800 --> 01:25:40,800
+than that.
+
+1928
+01:25:40,800 --> 01:25:42,800
+From China,
+
+1929
+01:25:42,800 --> 01:25:44,800
+when it was still a highly
+
+1930
+01:25:44,800 --> 01:25:46,800
+restricted place.
+
+1931
+01:25:46,800 --> 01:25:48,800
+And he grew up in time
+
+1932
+01:25:48,800 --> 01:25:50,800
+of the cultural revolution.
+
+1933
+01:25:50,800 --> 01:25:52,800
+And by his own
+
+1934
+01:25:52,800 --> 01:25:54,800
+bootstrapped,
+
+1935
+01:25:54,800 --> 01:25:56,800
+lifted himself up.
+
+1936
+01:25:56,800 --> 01:25:58,800
+And he
+
+1937
+01:25:58,800 --> 01:26:00,800
+became aware of a position
+
+1938
+01:26:00,800 --> 01:26:02,800
+I had.
+
+1939
+01:26:02,800 --> 01:26:06,800
+And I don't remember
+
+1940
+01:26:06,800 --> 01:26:08,800
+the details, but I decided he
+
+1941
+01:26:08,800 --> 01:26:10,800
+would be a good addition.
+
+1942
+01:26:10,800 --> 01:26:12,800
+And I think he was coming
+
+1943
+01:26:12,800 --> 01:26:14,800
+at the beginning with his own
+
+1944
+01:26:14,800 --> 01:26:16,800
+money.
+
+1945
+01:26:16,800 --> 01:26:18,800
+So he arrived.
+
+1946
+01:26:18,800 --> 01:26:20,800
+And I had several students
+
+1947
+01:26:20,800 --> 01:26:22,800
+working with me
+
+1948
+01:26:22,800 --> 01:26:24,800
+at that time.
+
+1949
+01:26:24,800 --> 01:26:26,800
+And one of these
+
+1950
+01:26:26,800 --> 01:26:30,800
+was a
+
+1951
+01:26:30,800 --> 01:26:34,800
+young woman that
+
+1952
+01:26:34,800 --> 01:26:36,800
+was working away when he showed
+
+1953
+01:26:36,800 --> 01:26:38,800
+up. And I happened to be
+
+1954
+01:26:38,800 --> 01:26:40,800
+away the day he arrived.
+
+1955
+01:26:40,800 --> 01:26:44,800
+He came into the laboratory.
+
+1956
+01:26:44,800 --> 01:26:46,800
+This young woman was trying to
+
+1957
+01:26:46,800 --> 01:26:48,800
+do some work on her
+
+1958
+01:26:48,800 --> 01:26:50,800
+computer.
+
+1959
+01:26:50,800 --> 01:26:52,800
+And he spoke
+
+1960
+01:26:52,800 --> 01:26:54,800
+rather poor English
+
+1961
+01:26:54,800 --> 01:26:56,800
+language.
+
+1962
+01:26:56,800 --> 01:26:58,800
+But he was
+
+1963
+01:26:58,800 --> 01:27:00,800
+as gong-hole as
+
+1964
+01:27:00,800 --> 01:27:02,800
+they could come.
+
+1965
+01:27:02,800 --> 01:27:04,800
+And after a while,
+
+1966
+01:27:04,800 --> 01:27:06,800
+I think a day or two later
+
+1967
+01:27:06,800 --> 01:27:08,800
+this girl came to me
+
+1968
+01:27:08,800 --> 01:27:10,800
+and said, I can't stand this
+
+1969
+01:27:10,800 --> 01:27:12,800
+guy. She says, over my shoulder
+
+1970
+01:27:12,800 --> 01:27:14,800
+all the time. That's me.
+
+1971
+01:27:14,800 --> 01:27:16,800
+Also, it's a question.
+
+1972
+01:27:16,800 --> 01:27:18,800
+He was so eager.
+
+1973
+01:27:18,800 --> 01:27:20,800
+Well,
+
+1974
+01:27:20,800 --> 01:27:22,800
+by this time I was taking him
+
+1975
+01:27:22,800 --> 01:27:24,800
+to enrollment courses.
+
+1976
+01:27:24,800 --> 01:27:26,800
+And he was a very
+
+1977
+01:27:26,800 --> 01:27:28,800
+anxious to start research.
+
+1978
+01:27:28,800 --> 01:27:30,800
+And he was dynamic.
+
+1979
+01:27:30,800 --> 01:27:32,800
+He was a tremendous
+
+1980
+01:27:32,800 --> 01:27:36,800
+researcher.
+
+1981
+01:27:36,800 --> 01:27:40,800
+And he was an older man.
+
+1982
+01:27:40,800 --> 01:27:42,800
+And he had had a lot of work
+
+1983
+01:27:42,800 --> 01:27:44,800
+in chemistry,
+
+1984
+01:27:44,800 --> 01:27:46,800
+even at the theoretical
+
+1985
+01:27:46,800 --> 01:27:48,800
+that was very knowledgeable.
+
+1986
+01:27:48,800 --> 01:27:50,800
+But he was required
+
+1987
+01:27:50,800 --> 01:27:51,800
+to fulfill our department
+
+1988
+01:27:51,800 --> 01:27:53,800
+requirements, of course, for course
+
+1989
+01:27:53,800 --> 01:27:55,800
+work. And he enrolled
+
+1990
+01:27:55,800 --> 01:27:57,800
+in theoretical chemistry.
+
+1991
+01:27:57,800 --> 01:28:01,800
+And he got
+
+1992
+01:28:01,800 --> 01:28:03,800
+straight-age, no question about it.
+
+1993
+01:28:03,800 --> 01:28:05,800
+At the end of his
+
+1994
+01:28:05,800 --> 01:28:07,800
+first year, he was
+
+1995
+01:28:07,800 --> 01:28:09,800
+hold of the outstanding
+
+1996
+01:28:09,800 --> 01:28:11,800
+incoming graduate student.
+
+1997
+01:28:11,800 --> 01:28:13,800
+And then a year later he was
+
+1998
+01:28:13,800 --> 01:28:15,800
+hold of the outstanding
+
+1999
+01:28:15,800 --> 01:28:17,800
+graduate student. And each of
+
+2000
+01:28:17,800 --> 01:28:19,800
+these carried financial
+
+2001
+01:28:19,800 --> 01:28:20,800
+stipends, not a great deal, but some.
+
+2002
+01:28:20,800 --> 01:28:22,800
+And one day he came to me
+
+2003
+01:28:22,800 --> 01:28:24,800
+and said, you know,
+
+2004
+01:28:24,800 --> 01:28:26,800
+the Chinese are very
+
+2005
+01:28:26,800 --> 01:28:28,800
+cognizant of,
+
+2006
+01:28:28,800 --> 01:28:30,800
+let's say,
+
+2007
+01:28:30,800 --> 01:28:32,800
+the social hierarchy
+
+2008
+01:28:32,800 --> 01:28:34,800
+and the
+
+2009
+01:28:34,800 --> 01:28:36,800
+deference which should be
+
+2010
+01:28:36,800 --> 01:28:38,800
+paid to people who occupy a
+
+2011
+01:28:38,800 --> 01:28:40,800
+status a little
+
+2012
+01:28:40,800 --> 01:28:42,800
+more elevated than yours.
+
+2013
+01:28:42,800 --> 01:28:44,800
+And so he came to me
+
+2014
+01:28:44,800 --> 01:28:46,800
+having just attended lecture
+
+2015
+01:28:46,800 --> 01:28:48,800
+and quantum mechanics
+
+2016
+01:28:48,800 --> 01:28:49,800
+by one of our faculty members.
+
+2017
+01:28:49,800 --> 01:28:51,800
+And he said to me,
+
+2018
+01:28:51,800 --> 01:28:53,800
+very quietly, he said,
+
+2019
+01:28:53,800 --> 01:28:55,800
+is it all right
+
+2020
+01:28:55,800 --> 01:28:57,800
+to correct a professor when he's
+
+2021
+01:28:57,800 --> 01:28:59,800
+wrong?
+
+2022
+01:28:59,800 --> 01:29:01,800
+And I said,
+
+2023
+01:29:01,800 --> 01:29:05,800
+yes it is.
+
+2024
+01:29:05,800 --> 01:29:07,800
+You should tell him
+
+2025
+01:29:07,800 --> 01:29:09,800
+or raise the issue
+
+2026
+01:29:09,800 --> 01:29:11,800
+and tell him about it and say
+
+2027
+01:29:11,800 --> 01:29:13,800
+that you think this is
+
+2028
+01:29:13,800 --> 01:29:15,800
+the right answer.
+
+2029
+01:29:15,800 --> 01:29:17,800
+But I'm not quite sure
+
+2030
+01:29:17,800 --> 01:29:19,800
+he ever followed through on that.
+
+2031
+01:29:19,800 --> 01:29:21,800
+Well, he did a
+
+2032
+01:29:21,800 --> 01:29:23,800
+lot of work. And then
+
+2033
+01:29:23,800 --> 01:29:25,800
+at the end of his
+
+2034
+01:29:25,800 --> 01:29:27,800
+graduation he got his degree.
+
+2035
+01:29:27,800 --> 01:29:29,800
+He worked for a while with
+
+2036
+01:29:29,800 --> 01:29:31,800
+Doug Kessler in chemistry.
+
+2037
+01:29:31,800 --> 01:29:33,800
+And then
+
+2038
+01:29:33,800 --> 01:29:35,800
+a colleague of mine that
+
+2039
+01:29:35,800 --> 01:29:37,800
+Michigan named Larry Bartel
+
+2040
+01:29:37,800 --> 01:29:39,800
+was looking for somebody and I
+
+2041
+01:29:39,800 --> 01:29:41,800
+recommended him
+
+2042
+01:29:41,800 --> 01:29:43,800
+and of course he shows up
+
+2043
+01:29:43,800 --> 01:29:45,800
+and Larry isn't doing quite the same
+
+2044
+01:29:45,800 --> 01:29:46,800
+kind of work that I am.
+
+2045
+01:29:46,800 --> 01:29:48,800
+And Larry has a very
+
+2046
+01:29:48,800 --> 01:29:50,800
+abrasive, uh,
+
+2047
+01:29:50,800 --> 01:29:52,800
+no nonsense personality.
+
+2048
+01:29:52,800 --> 01:29:54,800
+But I think he met his
+
+2049
+01:29:54,800 --> 01:29:56,800
+match in Geneva and
+
+2050
+01:29:56,800 --> 01:29:58,800
+Juan.
+
+2051
+01:29:58,800 --> 01:30:00,800
+Because he would tell Juan to
+
+2052
+01:30:00,800 --> 01:30:02,800
+do something and Juan would do it.
+
+2053
+01:30:02,800 --> 01:30:04,800
+But then he would point out he could
+
+2054
+01:30:04,800 --> 01:30:06,800
+do it better this way.
+
+2055
+01:30:06,800 --> 01:30:08,800
+And he would do it that way.
+
+2056
+01:30:08,800 --> 01:30:10,800
+So it turns out that
+
+2057
+01:30:10,800 --> 01:30:12,800
+now Juan was married
+
+2058
+01:30:12,800 --> 01:30:14,800
+and he could hardly wait
+
+2059
+01:30:14,800 --> 01:30:16,800
+to come to this country.
+
+2060
+01:30:16,800 --> 01:30:18,800
+And finally he arranged
+
+2061
+01:30:18,800 --> 01:30:20,800
+so that she could come.
+
+2062
+01:30:20,800 --> 01:30:22,800
+And they had two children,
+
+2063
+01:30:22,800 --> 01:30:24,800
+two boys,
+
+2064
+01:30:24,800 --> 01:30:26,800
+which is, of course,
+
+2065
+01:30:26,800 --> 01:30:30,800
+out of the line there.
+
+2066
+01:30:30,800 --> 01:30:32,800
+At any rate, the first thing
+
+2067
+01:30:32,800 --> 01:30:34,800
+that the woman came, he wanted
+
+2068
+01:30:34,800 --> 01:30:36,800
+her here so she could cook
+
+2069
+01:30:36,800 --> 01:30:38,800
+and he could spend more time
+
+2070
+01:30:38,800 --> 01:30:40,800
+doing research.
+
+2071
+01:30:40,800 --> 01:30:42,800
+And he enrolled his son
+
+2072
+01:30:42,800 --> 01:30:44,800
+I guess both kids,
+
+2073
+01:30:44,800 --> 01:30:46,800
+but I don't remember
+
+2074
+01:30:46,800 --> 01:30:48,800
+so much about the younger.
+
+2075
+01:30:48,800 --> 01:30:50,800
+Anyway, he was very distressed
+
+2076
+01:30:50,800 --> 01:30:52,800
+because after a while the
+
+2077
+01:30:52,800 --> 01:30:54,800
+younger son was not
+
+2078
+01:30:54,800 --> 01:30:56,800
+washing home after school
+
+2079
+01:30:56,800 --> 01:30:58,800
+and spending the rest of the
+
+2080
+01:30:58,800 --> 01:31:00,800
+afternoon studying, the son
+
+2081
+01:31:00,800 --> 01:31:02,800
+became quite used to American
+
+2082
+01:31:02,800 --> 01:31:04,800
+manners. And he liked the
+
+2083
+01:31:04,800 --> 01:31:06,800
+social life and so on.
+
+2084
+01:31:06,800 --> 01:31:08,800
+And this distressed his father
+
+2085
+01:31:08,800 --> 01:31:10,800
+immensely, who expected
+
+2086
+01:31:10,800 --> 01:31:12,800
+a problem. And I said,
+
+2087
+01:31:12,800 --> 01:31:14,800
+Jim Phan, I said,
+
+2088
+01:31:14,800 --> 01:31:16,800
+how's your son doing?
+
+2089
+01:31:16,800 --> 01:31:18,800
+Well, he could do better.
+
+2090
+01:31:18,800 --> 01:31:20,800
+He could come home and he could
+
+2091
+01:31:20,800 --> 01:31:22,800
+be studying advanced things.
+
+2092
+01:31:22,800 --> 01:31:24,800
+And I said, well, how are his
+
+2093
+01:31:24,800 --> 01:31:26,800
+grades? He said, what grades?
+
+2094
+01:31:26,800 --> 01:31:28,800
+I said, well, what are the
+
+2095
+01:31:28,800 --> 01:31:30,800
+marks? He gets the courses.
+
+2096
+01:31:30,800 --> 01:31:32,800
+He says, well, he gets all
+
+2097
+01:31:32,800 --> 01:31:34,800
+A's. So it wasn't an
+
+2098
+01:31:34,800 --> 01:31:36,800
+upper Jim Phan that his kid was
+
+2099
+01:31:36,800 --> 01:31:38,800
+excelling by American standards.
+
+2100
+01:31:38,800 --> 01:31:40,800
+He went on. His wife had to
+
+2101
+01:31:40,800 --> 01:31:42,800
+go home or be sex barred.
+
+2102
+01:31:42,800 --> 01:31:46,800
+And then he learned
+
+2103
+01:31:46,800 --> 01:31:48,800
+after she'd been home a long
+
+2104
+01:31:48,800 --> 01:31:52,800
+time that she was pregnant.
+
+2105
+01:31:52,800 --> 01:31:54,800
+At which time he immediately
+
+2106
+01:31:54,800 --> 01:31:56,800
+divorced her.
+
+2107
+01:31:56,800 --> 01:31:58,800
+That's unknown all there you
+
+2108
+01:31:58,800 --> 01:32:02,800
+see. And I think I don't
+
+2109
+01:32:02,800 --> 01:32:04,800
+know whether his sons had gone
+
+2110
+01:32:04,800 --> 01:32:06,800
+back or whether they stayed with
+
+2111
+01:32:06,800 --> 01:32:07,800
+him here or not. I just don't
+
+2112
+01:32:07,800 --> 01:32:13,800
+know that. But then you
+
+2113
+01:32:13,800 --> 01:32:17,800
+began to look for a new wife.
+
+2114
+01:32:17,800 --> 01:32:19,800
+And this is kind of a male
+
+2115
+01:32:19,800 --> 01:32:21,800
+order of proposition. And so I
+
+2116
+01:32:21,800 --> 01:32:23,800
+don't know how the Chinese do
+
+2117
+01:32:23,800 --> 01:32:25,800
+it traditionally. But at any
+
+2118
+01:32:25,800 --> 01:32:27,800
+rate, he found some woman
+
+2119
+01:32:27,800 --> 01:32:29,800
+in Shanghai and he went to
+
+2120
+01:32:29,800 --> 01:32:31,800
+visit her. And I think they
+
+2121
+01:32:31,800 --> 01:32:33,800
+eventually married.
+
+2122
+01:32:33,800 --> 01:32:35,800
+And she's a little more modern
+
+2123
+01:32:35,800 --> 01:32:37,800
+life than he was. And she
+
+2124
+01:32:37,800 --> 01:32:39,800
+joined even Minnesota. And I
+
+2125
+01:32:39,800 --> 01:32:41,800
+think they're still there.
+
+2126
+01:32:41,800 --> 01:32:43,800
+I don't know whether they
+
+2127
+01:32:43,800 --> 01:32:45,800
+have any children together or
+
+2128
+01:32:45,800 --> 01:32:47,800
+not. But he found a job in
+
+2129
+01:32:47,800 --> 01:32:49,800
+an industry and an
+
+2130
+01:32:49,800 --> 01:32:51,800
+arbor. But he still works
+
+2131
+01:32:51,800 --> 01:32:53,800
+weekends in Larry Bartel's
+
+2132
+01:32:53,800 --> 01:32:57,800
+laboratory. So he's the most
+
+2133
+01:32:57,800 --> 01:33:01,800
+notable graduate student from
+
+2134
+01:33:01,800 --> 01:33:03,800
+several points of view that I've
+
+2135
+01:33:03,800 --> 01:33:05,800
+had postdocs that are even
+
+2136
+01:33:05,800 --> 01:33:09,800
+just as remarkable, one from
+
+2137
+01:33:09,800 --> 01:33:11,800
+Japan in particular. We're
+
+2138
+01:33:11,800 --> 01:33:13,800
+getting on here. How long do you
+
+2139
+01:33:13,800 --> 01:33:15,800
+want to go? I can go a
+
+2140
+01:33:15,800 --> 01:33:19,800
+lot longer if you'd like.
+
+2141
+01:33:19,800 --> 01:33:23,800
+Well, let me talk about one of
+
+2142
+01:33:23,800 --> 01:33:27,800
+my postdocs. I mean, I have a
+
+2143
+01:33:27,800 --> 01:33:29,800
+host of graduate students and each
+
+2144
+01:33:29,800 --> 01:33:31,800
+one of those has got his own
+
+2145
+01:33:31,800 --> 01:33:33,800
+personalities. And some have been
+
+2146
+01:33:33,800 --> 01:33:35,800
+very productive, some less
+
+2147
+01:33:35,800 --> 01:33:37,800
+productive. But I want to
+
+2148
+01:33:37,800 --> 01:33:41,800
+mention something that I think
+
+2149
+01:33:41,800 --> 01:33:43,800
+is a remarkable
+
+2150
+01:33:43,800 --> 01:33:49,800
+life or parallel lives.
+
+2151
+01:33:49,800 --> 01:33:51,800
+There was a distinguished
+
+2152
+01:33:51,800 --> 01:33:53,800
+professor named Yoneso Morino
+
+2153
+01:33:53,800 --> 01:33:55,800
+in Japan at the
+
+2154
+01:33:55,800 --> 01:33:59,800
+University of Tokyo. And in
+
+2155
+01:33:59,800 --> 01:34:03,800
+1960, I think it was
+
+2156
+01:34:03,800 --> 01:34:07,800
+1962. But at any
+
+2157
+01:34:07,800 --> 01:34:09,800
+rate, I had a
+
+2158
+01:34:09,800 --> 01:34:11,800
+role letter. I was looking
+
+2159
+01:34:11,800 --> 01:34:13,800
+for a postdoc role
+
+2160
+01:34:13,800 --> 01:34:17,800
+appointee. Yone
+
+2161
+01:34:17,800 --> 01:34:19,800
+as he was called Morino. We
+
+2162
+01:34:19,800 --> 01:34:21,800
+became friends and I've seen
+
+2163
+01:34:21,800 --> 01:34:23,800
+him all over the world at
+
+2164
+01:34:23,800 --> 01:34:25,800
+meetings in Norway and other
+
+2165
+01:34:25,800 --> 01:34:27,800
+places. He wrote to me about
+
+2166
+01:34:27,800 --> 01:34:31,800
+his student named Machio
+
+2167
+01:34:31,800 --> 01:34:35,800
+Iwasaki, who would like to
+
+2168
+01:34:35,800 --> 01:34:37,800
+study. And he could
+
+2169
+01:34:37,800 --> 01:34:39,800
+recommend him. Well, now
+
+2170
+01:34:39,800 --> 01:34:41,800
+Machio came to the United
+
+2171
+01:34:41,800 --> 01:34:45,800
+States, having gotten his
+
+2172
+01:34:45,800 --> 01:34:47,800
+doctorate in Japan. And he
+
+2173
+01:34:47,800 --> 01:34:51,800
+was phenomenal. He was a
+
+2174
+01:34:51,800 --> 01:34:55,800
+superb mathematician, an
+
+2175
+01:34:55,800 --> 01:34:59,800
+excellent experimentalist. He
+
+2176
+01:34:59,800 --> 01:35:03,800
+had only rudimentary
+
+2177
+01:35:03,800 --> 01:35:05,800
+English. But I spoke slowly
+
+2178
+01:35:05,800 --> 01:35:07,800
+and he could understand me, and
+
+2179
+01:35:07,800 --> 01:35:09,800
+I could understand him. Well, it
+
+2180
+01:35:09,800 --> 01:35:11,800
+turned out that when he knew
+
+2181
+01:35:11,800 --> 01:35:13,800
+he would be coming to the United
+
+2182
+01:35:13,800 --> 01:35:15,800
+States in three months, he had
+
+2183
+01:35:15,800 --> 01:35:17,800
+had no English experience at
+
+2184
+01:35:17,800 --> 01:35:19,800
+all. And of course, he had
+
+2185
+01:35:19,800 --> 01:35:21,800
+essentially no money. They
+
+2186
+01:35:21,800 --> 01:35:23,800
+don't have money at his
+
+2187
+01:35:23,800 --> 01:35:27,800
+time. And so he went
+
+2188
+01:35:27,800 --> 01:35:33,800
+in Hawk and enrolled
+
+2189
+01:35:33,800 --> 01:35:35,800
+in a crash course in
+
+2190
+01:35:35,800 --> 01:35:39,800
+English language. And he
+
+2191
+01:35:39,800 --> 01:35:41,800
+managed to get enough English
+
+2192
+01:35:41,800 --> 01:35:43,800
+so that he could speak to me in
+
+2193
+01:35:43,800 --> 01:35:45,800
+English in three months'
+
+2194
+01:35:45,800 --> 01:35:47,800
+time. Now that's very
+
+2195
+01:35:47,800 --> 01:35:49,800
+it's not so hard for a
+
+2196
+01:35:49,800 --> 01:35:51,800
+Western speaking person to do
+
+2197
+01:35:51,800 --> 01:35:53,800
+this. The company uses so
+
+2198
+01:35:53,800 --> 01:35:55,800
+different that it's a tour
+
+2199
+01:35:55,800 --> 01:35:57,800
+to force. He became much
+
+2200
+01:35:57,800 --> 01:35:59,800
+better as time went along. So
+
+2201
+01:35:59,800 --> 01:36:01,800
+he asked me to help him
+
+2202
+01:36:01,800 --> 01:36:03,800
+find a place to live, which I
+
+2203
+01:36:03,800 --> 01:36:05,800
+did. And it was very
+
+2204
+01:36:05,800 --> 01:36:07,800
+satisfactory. It was very
+
+2205
+01:36:07,800 --> 01:36:09,800
+low level. But I mean, after
+
+2206
+01:36:09,800 --> 01:36:11,800
+all, he was here to do research. He
+
+2207
+01:36:11,800 --> 01:36:13,800
+had his wife with him. He had
+
+2208
+01:36:13,800 --> 01:36:17,800
+no children. And a few weeks
+
+2209
+01:36:17,800 --> 01:36:19,800
+later, he came to me, he said,
+
+2210
+01:36:19,800 --> 01:36:23,800
+did I know a doctor? He said, well,
+
+2211
+01:36:23,800 --> 01:36:25,800
+it's probably says my wife has terrible
+
+2212
+01:36:25,800 --> 01:36:27,800
+pains in her legs and so on.
+
+2213
+01:36:27,800 --> 01:36:31,800
+And we'd better see a doctor.
+
+2214
+01:36:31,800 --> 01:36:33,800
+And so I gave him the name of a
+
+2215
+01:36:33,800 --> 01:36:37,800
+doctor that we had used for our kids.
+
+2216
+01:36:37,800 --> 01:36:41,800
+And he came to me the next day and
+
+2217
+01:36:41,800 --> 01:36:43,800
+he said, oh, I didn't need the doctor.
+
+2218
+01:36:43,800 --> 01:36:47,800
+We solved the problem. The problem was
+
+2219
+01:36:47,800 --> 01:36:51,800
+that never in Japan had this woman
+
+2220
+01:36:51,800 --> 01:36:53,800
+been sitting in chairs. She had
+
+2221
+01:36:53,800 --> 01:36:55,800
+always been in the Japanese
+
+2222
+01:36:55,800 --> 01:36:57,800
+traditional position on her
+
+2223
+01:36:57,800 --> 01:36:59,800
+knees and legs with her feet back
+
+2224
+01:36:59,800 --> 01:37:01,800
+like this. The minute she started
+
+2225
+01:37:01,800 --> 01:37:03,800
+to do that, all her pains
+
+2226
+01:37:03,800 --> 01:37:05,800
+disappeared. So she could sit on
+
+2227
+01:37:05,800 --> 01:37:07,800
+the chairs intermittently and sooner
+
+2228
+01:37:07,800 --> 01:37:09,800
+later, the problem vanished.
+
+2229
+01:37:09,800 --> 01:37:11,800
+Another time it came to me and
+
+2230
+01:37:11,800 --> 01:37:13,800
+says, I need to have vitamins,
+
+2231
+01:37:13,800 --> 01:37:15,800
+do you know where I can get vitamins?
+
+2232
+01:37:15,800 --> 01:37:17,800
+I said, oh, yeah, you can find them in any
+
+2233
+01:37:17,800 --> 01:37:19,800
+store. And he then told me, well,
+
+2234
+01:37:19,800 --> 01:37:21,800
+he didn't mean that kind. I said, well,
+
+2235
+01:37:21,800 --> 01:37:23,800
+what kind of vitamins do you mean?
+
+2236
+01:37:23,800 --> 01:37:25,800
+He says, I want the, he says, I take
+
+2237
+01:37:25,800 --> 01:37:27,800
+vitamins, but I inject them.
+
+2238
+01:37:27,800 --> 01:37:29,800
+And I said, well, people don't inject
+
+2239
+01:37:29,800 --> 01:37:31,800
+vitamins here. You can take them orally.
+
+2240
+01:37:31,800 --> 01:37:35,800
+And on another
+
+2241
+01:37:35,800 --> 01:37:39,800
+time he came to me and said that, well,
+
+2242
+01:37:39,800 --> 01:37:41,800
+he spent a year, then he asked me if
+
+2243
+01:37:41,800 --> 01:37:43,800
+he could continue another year and I said,
+
+2244
+01:37:43,800 --> 01:37:45,800
+yes, of course you can't.
+
+2245
+01:37:45,800 --> 01:37:47,800
+So he worked very hard and then he came
+
+2246
+01:37:47,800 --> 01:37:49,800
+to me at that year and he said,
+
+2247
+01:37:49,800 --> 01:37:51,800
+I've been thinking about another
+
+2248
+01:37:51,800 --> 01:37:53,800
+apartment.
+
+2249
+01:37:53,800 --> 01:37:55,800
+I said, and he said, I would like to have
+
+2250
+01:37:55,800 --> 01:37:57,800
+you join me and look at it.
+
+2251
+01:37:57,800 --> 01:37:59,800
+So it was over
+
+2252
+01:37:59,800 --> 01:38:03,800
+on Western Avenue
+
+2253
+01:38:03,800 --> 01:38:05,800
+where he had been living on 11th
+
+2254
+01:38:05,800 --> 01:38:07,800
+Street in an old brick building there
+
+2255
+01:38:07,800 --> 01:38:09,800
+with the apartment building.
+
+2256
+01:38:09,800 --> 01:38:11,800
+And so this place was lighter and more
+
+2257
+01:38:11,800 --> 01:38:13,800
+airy and it seemed to me like a nice
+
+2258
+01:38:13,800 --> 01:38:15,800
+place and it was cheaper.
+
+2259
+01:38:15,800 --> 01:38:17,800
+And he seemed very hesitant about it
+
+2260
+01:38:17,800 --> 01:38:19,800
+and he kept looking at me.
+
+2261
+01:38:19,800 --> 01:38:21,800
+And then sometime later he said,
+
+2262
+01:38:21,800 --> 01:38:23,800
+you wouldn't lose face if I move
+
+2263
+01:38:23,800 --> 01:38:25,800
+here.
+
+2264
+01:38:25,800 --> 01:38:27,800
+Apparently on his mind because it was
+
+2265
+01:38:27,800 --> 01:38:29,800
+cheaper, it was a downgrade and
+
+2266
+01:38:29,800 --> 01:38:31,800
+quiet place.
+
+2267
+01:38:31,800 --> 01:38:33,800
+And he said, you wouldn't lose face if I
+
+2268
+01:38:33,800 --> 01:38:35,800
+moved here.
+
+2269
+01:38:35,800 --> 01:38:37,800
+Apparently on his mind because it was
+
+2270
+01:38:37,800 --> 01:38:39,800
+cheaper, it was a downgrade and
+
+2271
+01:38:39,800 --> 01:38:41,800
+quality.
+
+2272
+01:38:41,800 --> 01:38:43,800
+As a matter of fact, it was an upgrade
+
+2273
+01:38:43,800 --> 01:38:45,800
+and quality.
+
+2274
+01:38:45,800 --> 01:38:47,800
+But what is remarkable about this is
+
+2275
+01:38:47,800 --> 01:38:49,800
+his having been raised in the time
+
+2276
+01:38:49,800 --> 01:38:51,800
+maybe it still was where face is
+
+2277
+01:38:51,800 --> 01:38:55,800
+everything.
+
+2278
+01:38:55,800 --> 01:38:57,800
+Well, the story was incomplete
+
+2279
+01:38:57,800 --> 01:38:59,800
+without my telling you a little
+
+2280
+01:38:59,800 --> 01:39:01,800
+bit about his wife who was
+
+2281
+01:39:01,800 --> 01:39:03,800
+even more remarkable.
+
+2282
+01:39:03,800 --> 01:39:05,800
+She couldn't take English.
+
+2283
+01:39:05,800 --> 01:39:07,800
+She knew no English and she came
+
+2284
+01:39:07,800 --> 01:39:09,800
+here.
+
+2285
+01:39:09,800 --> 01:39:11,800
+She came from a fairly well
+
+2286
+01:39:11,800 --> 01:39:13,800
+off Japanese family.
+
+2287
+01:39:13,800 --> 01:39:15,800
+Very Western whereas
+
+2288
+01:39:15,800 --> 01:39:17,800
+Macho's family was very
+
+2289
+01:39:17,800 --> 01:39:19,800
+traditional. His father was an
+
+2290
+01:39:19,800 --> 01:39:21,800
+old-sea captain.
+
+2291
+01:39:21,800 --> 01:39:23,800
+And the daughter in law was
+
+2292
+01:39:23,800 --> 01:39:25,800
+expected to do everything in the house.
+
+2293
+01:39:25,800 --> 01:39:27,800
+They lived.
+
+2294
+01:39:27,800 --> 01:39:29,800
+Anyway,
+
+2295
+01:39:29,800 --> 01:39:33,800
+she did housework
+
+2296
+01:39:33,800 --> 01:39:35,800
+for no pay with the
+
+2297
+01:39:35,800 --> 01:39:37,800
+stipulation that the person
+
+2298
+01:39:37,800 --> 01:39:39,800
+for whom she worked would
+
+2299
+01:39:39,800 --> 01:39:41,800
+speak only English to her
+
+2300
+01:39:41,800 --> 01:39:43,800
+and try to help her understand
+
+2301
+01:39:43,800 --> 01:39:47,800
+the English language.
+
+2302
+01:39:47,800 --> 01:39:49,800
+And that went on for months
+
+2303
+01:39:49,800 --> 01:39:51,800
+and she became
+
+2304
+01:39:51,800 --> 01:39:53,800
+conversational and
+
+2305
+01:39:53,800 --> 01:39:55,800
+English in a halting way.
+
+2306
+01:39:55,800 --> 01:39:57,800
+Then, Macho said after his
+
+2307
+01:39:57,800 --> 01:39:59,800
+first year he says,
+
+2308
+01:39:59,800 --> 01:40:01,800
+now I want to buy a car,
+
+2309
+01:40:01,800 --> 01:40:03,800
+I want a car.
+
+2310
+01:40:03,800 --> 01:40:07,800
+So, he passed the driver's
+
+2311
+01:40:07,800 --> 01:40:09,800
+license.
+
+2312
+01:40:09,800 --> 01:40:11,800
+I think he failed it once,
+
+2313
+01:40:11,800 --> 01:40:13,800
+then passed it.
+
+2314
+01:40:13,800 --> 01:40:15,800
+Both the written and so on.
+
+2315
+01:40:15,800 --> 01:40:17,800
+Many's wife said she wanted one.
+
+2316
+01:40:17,800 --> 01:40:19,800
+But she couldn't read English.
+
+2317
+01:40:19,800 --> 01:40:21,800
+She could only speak it.
+
+2318
+01:40:21,800 --> 01:40:23,800
+And of course they give you this
+
+2319
+01:40:23,800 --> 01:40:25,800
+manual with all the written
+
+2320
+01:40:25,800 --> 01:40:27,800
+instruction. What the science
+
+2321
+01:40:27,800 --> 01:40:29,800
+made everything.
+
+2322
+01:40:29,800 --> 01:40:31,800
+She looked at the manual
+
+2323
+01:40:31,800 --> 01:40:33,800
+and she went and took the
+
+2324
+01:40:33,800 --> 01:40:35,800
+written exam and got
+
+2325
+01:40:35,800 --> 01:40:37,800
+100 percent on it.
+
+2326
+01:40:37,800 --> 01:40:39,800
+Without being able to read
+
+2327
+01:40:39,800 --> 01:40:41,800
+any words other than stop
+
+2328
+01:40:41,800 --> 01:40:43,800
+and slow and knowing what the
+
+2329
+01:40:43,800 --> 01:40:45,800
+science meant.
+
+2330
+01:40:45,800 --> 01:40:47,800
+The other thing she did
+
+2331
+01:40:47,800 --> 01:40:49,800
+earned money,
+
+2332
+01:40:49,800 --> 01:40:51,800
+they wanted extra money.
+
+2333
+01:40:51,800 --> 01:40:53,800
+So, she heard herself out
+
+2334
+01:40:53,800 --> 01:40:55,800
+when the strawberry season came
+
+2335
+01:40:55,800 --> 01:40:57,800
+around to pick strawberries.
+
+2336
+01:40:57,800 --> 01:40:59,800
+That was a big thing on
+
+2337
+01:40:59,800 --> 01:41:01,800
+the big strawberry,
+
+2338
+01:41:01,800 --> 01:41:03,800
+about twice as fast as anyone
+
+2339
+01:41:03,800 --> 01:41:05,800
+else because she knew how to
+
+2340
+01:41:05,800 --> 01:41:07,800
+sit on her horses.
+
+2341
+01:41:07,800 --> 01:41:09,800
+She could go along like a rabbit
+
+2342
+01:41:09,800 --> 01:41:11,800
+according to my understanding.
+
+2343
+01:41:11,800 --> 01:41:13,800
+She could pick these strawberries
+
+2344
+01:41:13,800 --> 01:41:15,800
+and they were paid
+
+2345
+01:41:15,800 --> 01:41:17,800
+peaceways for it.
+
+2346
+01:41:17,800 --> 01:41:19,800
+She made more money than anyone
+
+2347
+01:41:19,800 --> 01:41:21,800
+else picking strawberries.
+
+2348
+01:41:21,800 --> 01:41:23,800
+Well, they went back to Japan.
+
+2349
+01:41:23,800 --> 01:41:25,800
+I visited them there on a
+
+2350
+01:41:25,800 --> 01:41:27,800
+most remarkable experience one
+
+2351
+01:41:27,800 --> 01:41:29,800
+time.
+
+2352
+01:41:29,800 --> 01:41:33,800
+What happened to her?
+
+2353
+01:41:33,800 --> 01:41:35,800
+They moved in with his
+
+2354
+01:41:35,800 --> 01:41:37,800
+parents and she had to play
+
+2355
+01:41:37,800 --> 01:41:39,800
+the subservient daughter.
+
+2356
+01:41:39,800 --> 01:41:41,800
+When I was there with a friend
+
+2357
+01:41:41,800 --> 01:41:43,800
+and revisited them we were
+
+2358
+01:41:43,800 --> 01:41:45,800
+invited to the old people's
+
+2359
+01:41:45,800 --> 01:41:47,800
+house.
+
+2360
+01:41:47,800 --> 01:41:49,800
+They wore kimonos.
+
+2361
+01:41:49,800 --> 01:41:51,800
+As we came in the door we
+
+2362
+01:41:51,800 --> 01:41:53,800
+were professors, my friend
+
+2363
+01:41:53,800 --> 01:41:55,800
+and I.
+
+2364
+01:41:55,800 --> 01:41:57,800
+We had finished the travel.
+
+2365
+01:41:57,800 --> 01:41:59,800
+That's another story.
+
+2366
+01:41:59,800 --> 01:42:01,800
+They were on their knees with
+
+2367
+01:42:01,800 --> 01:42:03,800
+their heads down like this
+
+2368
+01:42:03,800 --> 01:42:05,800
+because we were professors
+
+2369
+01:42:05,800 --> 01:42:07,800
+and we were assured
+
+2370
+01:42:07,800 --> 01:42:09,800
+in.
+
+2371
+01:42:09,800 --> 01:42:11,800
+But, medical, the wife of
+
+2372
+01:42:11,800 --> 01:42:13,800
+macho did not eat dinner
+
+2373
+01:42:13,800 --> 01:42:15,800
+with us. She served us.
+
+2374
+01:42:15,800 --> 01:42:17,800
+She was in the kitchen all
+
+2375
+01:42:17,800 --> 01:42:19,800
+the time.
+
+2376
+01:42:19,800 --> 01:42:21,800
+After the parents died and
+
+2377
+01:42:21,800 --> 01:42:23,800
+they took over the house
+
+2378
+01:42:23,800 --> 01:42:25,800
+and they were hungry.
+
+2379
+01:42:25,800 --> 01:42:27,800
+And as time went on her
+
+2380
+01:42:27,800 --> 01:42:29,800
+watercolors became very
+
+2381
+01:42:29,800 --> 01:42:31,800
+well known and then
+
+2382
+01:42:31,800 --> 01:42:33,800
+finally she became
+
+2383
+01:42:33,800 --> 01:42:35,800
+famous.
+
+2384
+01:42:35,800 --> 01:42:39,800
+When she died some years
+
+2385
+01:42:39,800 --> 01:42:41,800
+ago now, not many,
+
+2386
+01:42:41,800 --> 01:42:43,800
+maybe five.
+
+2387
+01:42:43,800 --> 01:42:45,800
+She was the most
+
+2388
+01:42:45,800 --> 01:42:47,800
+talked about watercolors
+
+2389
+01:42:47,800 --> 01:42:49,800
+in all of Japan.
+
+2390
+01:42:49,800 --> 01:42:51,800
+There are paintings
+
+2391
+01:42:51,800 --> 01:42:53,800
+and she made lots of money
+
+2392
+01:42:53,800 --> 01:42:55,800
+from her painting.
+
+2393
+01:42:55,800 --> 01:42:57,800
+Just an utterly
+
+2394
+01:42:57,800 --> 01:42:59,800
+remarkable couple.
+
+2395
+01:42:59,800 --> 01:43:01,800
+I feel very fortunate to have
+
+2396
+01:43:01,800 --> 01:43:05,800
+known them.
+
+2397
+01:43:05,800 --> 01:43:07,800
+So he's the most
+
+2398
+01:43:07,800 --> 01:43:09,800
+remarkable postdoctoral
+
+2399
+01:43:09,800 --> 01:43:11,800
+person I've had
+
+2400
+01:43:11,800 --> 01:43:13,800
+from these.
+
+2401
+01:43:13,800 --> 01:43:15,800
+I'm how they're
+
+2402
+01:43:15,800 --> 01:43:17,800
+people of scientifically
+
+2403
+01:43:17,800 --> 01:43:19,800
+excellent. Of course, that's
+
+2404
+01:43:19,800 --> 01:43:20,800
+not really what I'm talking about.
+
+2405
+01:43:20,800 --> 01:43:22,800
+But in addition to the
+
+2406
+01:43:22,800 --> 01:43:24,800
+scientific excellence that
+
+2407
+01:43:24,800 --> 01:43:26,800
+macho had, he had all
+
+2408
+01:43:26,800 --> 01:43:28,800
+of the other things.
+
+2409
+01:43:28,800 --> 01:43:30,800
+They saved money while I
+
+2410
+01:43:30,800 --> 01:43:32,800
+were here so they could buy
+
+2411
+01:43:32,800 --> 01:43:34,800
+an American hot water heater
+
+2412
+01:43:34,800 --> 01:43:36,800
+and send it home
+
+2413
+01:43:36,800 --> 01:43:38,800
+and install in these
+
+2414
+01:43:38,800 --> 01:43:40,800
+parents' house so they
+
+2415
+01:43:40,800 --> 01:43:42,800
+would have hot water.
+
+2416
+01:43:42,800 --> 01:43:44,800
+And when I came to visit
+
+2417
+01:43:44,800 --> 01:43:46,800
+them they were very worried
+
+2418
+01:43:46,800 --> 01:43:48,800
+about the toilet facilities
+
+2419
+01:43:48,800 --> 01:43:49,800
+because they only had the
+
+2420
+01:43:49,800 --> 01:43:51,800
+parents on a hole in the floor
+
+2421
+01:43:51,800 --> 01:43:53,800
+and you had the squat, you see.
+
+2422
+01:43:53,800 --> 01:43:57,800
+So a
+
+2423
+01:43:57,800 --> 01:43:59,800
+remarkable insight into Japanese
+
+2424
+01:43:59,800 --> 01:44:03,800
+living.
+
+2425
+01:44:03,800 --> 01:44:05,800
+The occasion of this,
+
+2426
+01:44:05,800 --> 01:44:07,800
+I can tell you this visit to Japan
+
+2427
+01:44:07,800 --> 01:44:09,800
+with macho,
+
+2428
+01:44:09,800 --> 01:44:11,800
+Autobots Johnson, whom I mentioned
+
+2429
+01:44:11,800 --> 01:44:13,800
+before, and I were in Japan
+
+2430
+01:44:13,800 --> 01:44:15,800
+for a meeting.
+
+2431
+01:44:15,800 --> 01:44:17,800
+And preliminary to that meeting
+
+2432
+01:44:17,800 --> 01:44:19,800
+we were asked by a macho
+
+2433
+01:44:19,800 --> 01:44:21,800
+or by some other
+
+2434
+01:44:21,800 --> 01:44:23,800
+the principal sir.
+
+2435
+01:44:23,800 --> 01:44:25,800
+Would you like to do something
+
+2436
+01:44:25,800 --> 01:44:27,800
+ahead of time? And I wrote
+
+2437
+01:44:27,800 --> 01:44:29,800
+and said, yes, we would like to
+
+2438
+01:44:29,800 --> 01:44:31,800
+look around Japan a bit
+
+2439
+01:44:31,800 --> 01:44:33,800
+a week ahead of time. There was a range
+
+2440
+01:44:33,800 --> 01:44:35,800
+that macho had a car now.
+
+2441
+01:44:35,800 --> 01:44:37,800
+It was employed by an
+
+2442
+01:44:37,800 --> 01:44:39,800
+institute and becoming a very
+
+2443
+01:44:39,800 --> 01:44:41,800
+well-known scientist.
+
+2444
+01:44:41,800 --> 01:44:43,800
+We took this around in this car.
+
+2445
+01:44:43,800 --> 01:44:45,800
+And the one thing I said to
+
+2446
+01:44:45,800 --> 01:44:47,800
+a macho live in any American,
+
+2447
+01:44:47,800 --> 01:44:49,800
+excuse me,
+
+2448
+01:44:49,800 --> 01:44:51,800
+or English style
+
+2449
+01:44:51,800 --> 01:44:53,800
+accommodations. I wanted to see
+
+2450
+01:44:53,800 --> 01:44:55,800
+what Japan and
+
+2451
+01:44:55,800 --> 01:44:57,800
+particularly rural Japan was like.
+
+2452
+01:44:57,800 --> 01:44:59,800
+So as we traveled around for seven days
+
+2453
+01:44:59,800 --> 01:45:01,800
+he had booked ahead of time
+
+2454
+01:45:01,800 --> 01:45:03,800
+accommodations and Japanese
+
+2455
+01:45:03,800 --> 01:45:05,800
+ends. And all the time
+
+2456
+01:45:05,800 --> 01:45:07,800
+we were traveling on this trip,
+
+2457
+01:45:07,800 --> 01:45:09,800
+I never saw another
+
+2458
+01:45:09,800 --> 01:45:11,800
+Caucasian in these ends
+
+2459
+01:45:11,800 --> 01:45:13,800
+in which we stayed.
+
+2460
+01:45:13,800 --> 01:45:15,800
+We would come in. There would be a doorstep.
+
+2461
+01:45:15,800 --> 01:45:17,800
+We would be met with the hostess
+
+2462
+01:45:17,800 --> 01:45:19,800
+who would bow
+
+2463
+01:45:19,800 --> 01:45:21,800
+and give us a kimono
+
+2464
+01:45:21,800 --> 01:45:23,800
+you know.
+
+2465
+01:45:23,800 --> 01:45:25,800
+And take off our shoes.
+
+2466
+01:45:25,800 --> 01:45:27,800
+We would be ushered to our room
+
+2467
+01:45:27,800 --> 01:45:29,800
+and some
+
+2468
+01:45:29,800 --> 01:45:31,800
+old snack bits
+
+2469
+01:45:31,800 --> 01:45:33,800
+after our travel would come.
+
+2470
+01:45:33,800 --> 01:45:35,800
+And then a few minutes later
+
+2471
+01:45:35,800 --> 01:45:37,800
+the person would come in and say,
+
+2472
+01:45:37,800 --> 01:45:39,800
+your bath is ready.
+
+2473
+01:45:39,800 --> 01:45:41,800
+The bath was not a
+
+2474
+01:45:41,800 --> 01:45:43,800
+shower.
+
+2475
+01:45:43,800 --> 01:45:45,800
+It was a huge place.
+
+2476
+01:45:45,800 --> 01:45:47,800
+This is more or less the norm.
+
+2477
+01:45:47,800 --> 01:45:49,800
+And there was a huge tub
+
+2478
+01:45:49,800 --> 01:45:51,800
+was about four feet deep
+
+2479
+01:45:51,800 --> 01:45:55,800
+and it would hold four or five people.
+
+2480
+01:45:55,800 --> 01:45:57,800
+And it was full of
+
+2481
+01:45:57,800 --> 01:45:59,800
+scalding water.
+
+2482
+01:45:59,800 --> 01:46:01,800
+Then there,
+
+2483
+01:46:01,800 --> 01:46:03,800
+away from this tub
+
+2484
+01:46:03,800 --> 01:46:05,800
+is a tiled area
+
+2485
+01:46:05,800 --> 01:46:07,800
+with soap along the wall.
+
+2486
+01:46:07,800 --> 01:46:09,800
+And there is where you
+
+2487
+01:46:09,800 --> 01:46:11,800
+get yourself. Then you got into the tub
+
+2488
+01:46:11,800 --> 01:46:13,800
+to soak.
+
+2489
+01:46:13,800 --> 01:46:15,800
+Then after a while you'd get out again
+
+2490
+01:46:15,800 --> 01:46:17,800
+and repeat the process.
+
+2491
+01:46:17,800 --> 01:46:19,800
+That's what a Japanese
+
+2492
+01:46:19,800 --> 01:46:21,800
+that's what we were treated to.
+
+2493
+01:46:21,800 --> 01:46:23,800
+Well, then we got out
+
+2494
+01:46:23,800 --> 01:46:25,800
+and we were sort of
+
+2495
+01:46:25,800 --> 01:46:27,800
+how do you want to call
+
+2496
+01:46:27,800 --> 01:46:29,800
+totally relaxed with all of this.
+
+2497
+01:46:29,800 --> 01:46:31,800
+We had a kimono we came back in.
+
+2498
+01:46:31,800 --> 01:46:33,800
+This was a Japanese room.
+
+2499
+01:46:33,800 --> 01:46:35,800
+No beds. Nothing.
+
+2500
+01:46:35,800 --> 01:46:37,800
+You know, tatami on the floor.
+
+2501
+01:46:37,800 --> 01:46:38,800
+A rice door.
+
+2502
+01:46:38,800 --> 01:46:40,800
+And then there would be
+
+2503
+01:46:40,800 --> 01:46:42,800
+a discreet knock.
+
+2504
+01:46:42,800 --> 01:46:44,800
+And the horses would come in.
+
+2505
+01:46:44,800 --> 01:46:46,800
+Or one of the serving girls
+
+2506
+01:46:46,800 --> 01:46:48,800
+would come in and her kimono bowing
+
+2507
+01:46:48,800 --> 01:46:50,800
+like this.
+
+2508
+01:46:50,800 --> 01:46:52,800
+Set up a little table,
+
+2509
+01:46:52,800 --> 01:46:54,800
+put the stuff on it,
+
+2510
+01:46:54,800 --> 01:46:56,800
+and sit there.
+
+2511
+01:46:56,800 --> 01:46:58,800
+And serve us.
+
+2512
+01:46:58,800 --> 01:47:00,800
+Pour the sake for us.
+
+2513
+01:47:00,800 --> 01:47:02,800
+And my Japanese, we didn't begin
+
+2514
+01:47:02,800 --> 01:47:04,800
+in Japanese, of course.
+
+2515
+01:47:04,800 --> 01:47:06,800
+But my Japanese friend,
+
+2516
+01:47:06,800 --> 01:47:08,800
+who is a Japanese service,
+
+2517
+01:47:08,800 --> 01:47:10,800
+we are,
+
+2518
+01:47:10,800 --> 01:47:12,800
+it is a part of the process
+
+2519
+01:47:12,800 --> 01:47:14,800
+to offer her a drink of sake.
+
+2520
+01:47:14,800 --> 01:47:16,800
+And so we did that,
+
+2521
+01:47:16,800 --> 01:47:18,800
+and she bowed gracefully
+
+2522
+01:47:18,800 --> 01:47:20,800
+and drank sake very nicely.
+
+2523
+01:47:20,800 --> 01:47:22,800
+And then at the end,
+
+2524
+01:47:22,800 --> 01:47:24,800
+they would plurle us away
+
+2525
+01:47:24,800 --> 01:47:26,800
+and then they would haul out the tatami
+
+2526
+01:47:26,800 --> 01:47:28,800
+that you were going to sleep on,
+
+2527
+01:47:28,800 --> 01:47:30,800
+bed, so to speak, the roll.
+
+2528
+01:47:30,800 --> 01:47:32,800
+And that would be put out on the
+
+2529
+01:47:32,800 --> 01:47:34,800
+mat on the floor.
+
+2530
+01:47:34,800 --> 01:47:35,800
+And then we would sleep.
+
+2531
+01:47:35,800 --> 01:47:37,800
+And every one of these rooms
+
+2532
+01:47:37,800 --> 01:47:39,800
+was a glass partition
+
+2533
+01:47:39,800 --> 01:47:41,800
+that opened on to a private,
+
+2534
+01:47:41,800 --> 01:47:43,800
+very small,
+
+2535
+01:47:43,800 --> 01:47:45,800
+not bigger than this room.
+
+2536
+01:47:45,800 --> 01:47:47,800
+Japanese garden beautifully planted
+
+2537
+01:47:47,800 --> 01:47:49,800
+with plants.
+
+2538
+01:47:49,800 --> 01:47:51,800
+We went around to a number of these places,
+
+2539
+01:47:51,800 --> 01:47:53,800
+and on one occasion
+
+2540
+01:47:53,800 --> 01:47:55,800
+on a Saturday night,
+
+2541
+01:47:55,800 --> 01:47:57,800
+you know, the Japanese,
+
+2542
+01:47:57,800 --> 01:47:59,800
+they're way out on the countryside.
+
+2543
+01:47:59,800 --> 01:48:01,800
+The men leave their family.
+
+2544
+01:48:01,800 --> 01:48:03,800
+They go out there and they have drunken orgies.
+
+2545
+01:48:03,800 --> 01:48:05,800
+And one of these places,
+
+2546
+01:48:05,800 --> 01:48:07,800
+we were on the second floor
+
+2547
+01:48:07,800 --> 01:48:09,800
+and I looked out the window in the morning.
+
+2548
+01:48:09,800 --> 01:48:11,800
+And on this beautiful green lawn,
+
+2549
+01:48:11,800 --> 01:48:13,800
+where a number of recumbent
+
+2550
+01:48:13,800 --> 01:48:15,800
+forms sound asleep,
+
+2551
+01:48:15,800 --> 01:48:17,800
+you know, where they had collapsed
+
+2552
+01:48:17,800 --> 01:48:19,800
+after a night of drinking inside.
+
+2553
+01:48:19,800 --> 01:48:21,800
+The Japanese don't look
+
+2554
+01:48:21,800 --> 01:48:23,800
+at drunkenness
+
+2555
+01:48:23,800 --> 01:48:25,800
+in the same way that we do.
+
+2556
+01:48:25,800 --> 01:48:27,800
+I've walked through Kyoto.
+
+2557
+01:48:27,800 --> 01:48:29,800
+And there will be a guy lying on the sidewalk.
+
+2558
+01:48:29,800 --> 01:48:31,800
+The cops come along and very carefully
+
+2559
+01:48:31,800 --> 01:48:33,800
+picking him up by the armpits,
+
+2560
+01:48:33,800 --> 01:48:35,800
+dragging up to the wall
+
+2561
+01:48:35,800 --> 01:48:37,800
+and propping him up right there
+
+2562
+01:48:37,800 --> 01:48:39,800
+and then walk on.
+
+2563
+01:48:39,800 --> 01:48:43,800
+Well, that's about as much as
+
+2564
+01:48:43,800 --> 01:48:45,800
+I can tell you on that.
+
+2565
+01:48:45,800 --> 01:48:47,800
+But that trip
+
+2566
+01:48:47,800 --> 01:48:49,800
+is something few Americans
+
+2567
+01:48:49,800 --> 01:48:51,800
+have ever experienced.
+
+2568
+01:48:51,800 --> 01:48:55,800
+And when I came back to Tokyo,
+
+2569
+01:48:55,800 --> 01:48:57,800
+Macho said, you know,
+
+2570
+01:48:57,800 --> 01:48:59,800
+if Lisa had come with you,
+
+2571
+01:48:59,800 --> 01:49:01,800
+we would have had none of this service.
+
+2572
+01:49:01,800 --> 01:49:03,800
+Because she would have been expected
+
+2573
+01:49:03,800 --> 01:49:05,800
+to perform it.
+
+2574
+01:49:05,800 --> 01:49:07,800
+I told my wife that.
+
+2575
+01:49:07,800 --> 01:49:09,800
+She said, it's good she didn't come along.
+
+2576
+01:49:09,800 --> 01:49:11,800
+Yeah.
+
+2577
+01:49:11,800 --> 01:49:15,800
+Well, as you look back
+
+2578
+01:49:15,800 --> 01:49:17,800
+on your career in science,
+
+2579
+01:49:17,800 --> 01:49:19,800
+what are some of the things
+
+2580
+01:49:19,800 --> 01:49:21,800
+that you're most proud of?
+
+2581
+01:49:21,800 --> 01:49:23,800
+Well, I think the thing
+
+2582
+01:49:23,800 --> 01:49:25,800
+that I'm most proud
+
+2583
+01:49:25,800 --> 01:49:27,800
+of Chris is that I've had
+
+2584
+01:49:27,800 --> 01:49:29,800
+what I think is a very happy life
+
+2585
+01:49:29,800 --> 01:49:31,800
+and what I've done.
+
+2586
+01:49:31,800 --> 01:49:35,800
+My childhood was,
+
+2587
+01:49:35,800 --> 01:49:37,800
+I won't say actually
+
+2588
+01:49:37,800 --> 01:49:39,800
+impoverished, but we lived
+
+2589
+01:49:39,800 --> 01:49:41,800
+through the depression
+
+2590
+01:49:41,800 --> 01:49:45,800
+portion of which my father was out of work.
+
+2591
+01:49:45,800 --> 01:49:47,800
+And the notion that I would have been able
+
+2592
+01:49:47,800 --> 01:49:49,800
+to do the things
+
+2593
+01:49:49,800 --> 01:49:51,800
+that I have been able to do
+
+2594
+01:49:51,800 --> 01:49:53,800
+would have been
+
+2595
+01:49:53,800 --> 01:49:55,800
+almost unthinkable.
+
+2596
+01:49:55,800 --> 01:49:57,800
+For example, I've traveled
+
+2597
+01:49:57,800 --> 01:49:59,800
+all over the world.
+
+2598
+01:49:59,800 --> 01:50:01,800
+I've made much more money
+
+2599
+01:50:01,800 --> 01:50:03,800
+than my father ever did.
+
+2600
+01:50:03,800 --> 01:50:05,800
+And I have kids
+
+2601
+01:50:05,800 --> 01:50:07,800
+that are successful.
+
+2602
+01:50:07,800 --> 01:50:09,800
+And I've had wonderful colleagues.
+
+2603
+01:50:09,800 --> 01:50:11,800
+And I've had a research career
+
+2604
+01:50:11,800 --> 01:50:13,800
+that has kept me occupied
+
+2605
+01:50:13,800 --> 01:50:15,800
+even to date.
+
+2606
+01:50:15,800 --> 01:50:17,800
+I don't think I could
+
+2607
+01:50:17,800 --> 01:50:19,800
+have
+
+2608
+01:50:19,800 --> 01:50:21,800
+planned it any better, actually,
+
+2609
+01:50:21,800 --> 01:50:23,800
+if I had had to
+
+2610
+01:50:23,800 --> 01:50:25,800
+set out ahead of time.
+
+2611
+01:50:25,800 --> 01:50:27,800
+On the other hand,
+
+2612
+01:50:27,800 --> 01:50:29,800
+when you look back on a long life,
+
+2613
+01:50:29,800 --> 01:50:31,800
+you see that there are certain points
+
+2614
+01:50:31,800 --> 01:50:33,800
+where you've made decisions.
+
+2615
+01:50:33,800 --> 01:50:35,800
+In retrospect,
+
+2616
+01:50:35,800 --> 01:50:37,800
+you're very happy with.
+
+2617
+01:50:37,800 --> 01:50:39,800
+But at the time,
+
+2618
+01:50:39,800 --> 01:50:41,800
+it was almost a flip of the coin.
+
+2619
+01:50:41,800 --> 01:50:43,800
+For example,
+
+2620
+01:50:43,800 --> 01:50:45,800
+I very nearly married somebody
+
+2621
+01:50:45,800 --> 01:50:47,800
+else before I met Lisa
+
+2622
+01:50:47,800 --> 01:50:49,800
+and decided not to.
+
+2623
+01:50:49,800 --> 01:50:51,800
+It was touch and go.
+
+2624
+01:50:51,800 --> 01:50:53,800
+All life would have been different.
+
+2625
+01:50:53,800 --> 01:50:57,800
+I wouldn't have had any of the same connections.
+
+2626
+01:50:57,800 --> 01:51:01,800
+And Lisa is a gifted scientist.
+
+2627
+01:51:01,800 --> 01:51:03,800
+I wouldn't have had anywhere near
+
+2628
+01:51:03,800 --> 01:51:05,800
+the career I've had
+
+2629
+01:51:05,800 --> 01:51:07,800
+were it
+
+2630
+01:51:07,800 --> 01:51:09,800
+not for the many contributions
+
+2631
+01:51:09,800 --> 01:51:11,800
+that she's made to it.
+
+2632
+01:51:11,800 --> 01:51:13,800
+We sat down last night
+
+2633
+01:51:13,800 --> 01:51:15,800
+and had a conversation
+
+2634
+01:51:15,800 --> 01:51:17,800
+about a problem I'm having
+
+2635
+01:51:17,800 --> 01:51:19,800
+and we came to a conclusion about it.
+
+2636
+01:51:19,800 --> 01:51:21,800
+So, you know how it is.
+
+2637
+01:51:21,800 --> 01:51:23,800
+And
+
+2638
+01:51:23,800 --> 01:51:25,800
+if I'd
+
+2639
+01:51:25,800 --> 01:51:27,800
+one of my
+
+2640
+01:51:27,800 --> 01:51:29,800
+I don't know the way I mentioned this,
+
+2641
+01:51:29,800 --> 01:51:31,800
+maybe I did when I got my
+
+2642
+01:51:31,800 --> 01:51:33,800
+full bride and
+
+2643
+01:51:33,800 --> 01:51:35,800
+cooking on fellowships to Norway.
+
+2644
+01:51:35,800 --> 01:51:37,800
+The previous year I had
+
+2645
+01:51:37,800 --> 01:51:39,800
+applied for a full bride fellowship.
+
+2646
+01:51:39,800 --> 01:51:41,800
+The application received,
+
+2647
+01:51:41,800 --> 01:51:43,800
+was received too late.
+
+2648
+01:51:43,800 --> 01:51:45,800
+If I'd gotten it,
+
+2649
+01:51:45,800 --> 01:51:47,800
+which I was led to believe I would have,
+
+2650
+01:51:47,800 --> 01:51:49,800
+if it had been received in time,
+
+2651
+01:51:49,800 --> 01:51:51,800
+I would have gone to Belgium.
+
+2652
+01:51:51,800 --> 01:51:53,800
+I would never have had
+
+2653
+01:51:53,800 --> 01:51:55,800
+any of this Norwegian connection.
+
+2654
+01:51:55,800 --> 01:51:59,800
+My life would have been totally different.
+
+2655
+01:51:59,800 --> 01:52:03,800
+Except for that week or so delay
+
+2656
+01:52:03,800 --> 01:52:05,800
+and getting the application in.
+
+2657
+01:52:05,800 --> 01:52:09,800
+So, when you're an old man like me,
+
+2658
+01:52:09,800 --> 01:52:11,800
+you can think back on these
+
+2659
+01:52:11,800 --> 01:52:15,800
+career changing decisions that you made.
+
+2660
+01:52:15,800 --> 01:52:17,800
+So, all in all,
+
+2661
+01:52:17,800 --> 01:52:19,800
+I would say that
+
+2662
+01:52:19,800 --> 01:52:23,800
+I just had a very happy life.
+
+2663
+01:52:23,800 --> 01:52:25,800
+And it's still happy, except I see
+
+2664
+01:52:25,800 --> 01:52:27,800
+my friends falling one by one
+
+2665
+01:52:27,800 --> 01:52:31,800
+and that's a depressing experience.
+
+2666
+01:52:31,800 --> 01:52:33,800
+But,
+
+2667
+01:52:33,800 --> 01:52:35,800
+comes to us all.
+
+2668
+01:52:35,800 --> 01:52:37,800
+Well, thanks very much
+
+2669
+01:52:37,800 --> 01:52:39,800
+if you've been to a pilot.
+
+2670
+01:52:39,800 --> 01:52:43,800
+Yeah, well, I've enjoyed it.
+
+2671
+01:52:43,800 --> 01:52:45,800
+Thank you.
+

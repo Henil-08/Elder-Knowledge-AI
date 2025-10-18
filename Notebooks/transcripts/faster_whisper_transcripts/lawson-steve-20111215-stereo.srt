@@ -1,0 +1,3088 @@
+1
+00:00:00,000 --> 00:00:07,600
+my throat these days. Okay, so now we are going. All right, so, as with all the others, please introduce yourself.
+
+2
+00:00:08,800 --> 00:00:14,720
+Steve Lawson, today's date is December 15th, 2011, we're in a conference room at the Valley Library.
+
+3
+00:00:15,919 --> 00:00:19,440
+Okay, Steve, so today we're going to do something a little different from past
+
+4
+00:00:20,879 --> 00:00:24,879
+sessions. What we're going to do is essentially, this goes through a list of names of people that
+
+5
+00:00:24,879 --> 00:00:30,079
+either worked at the Institute or were affiliated with some way of asking you to sort of give your
+
+6
+00:00:30,079 --> 00:00:36,640
+recollections as to rules they played an institute and any sorts of memorable interactions you had with them.
+
+7
+00:00:36,640 --> 00:00:40,399
+Okay, and a lot of these folks, if you've always touched on over the course of our talk,
+
+8
+00:00:40,399 --> 00:00:47,759
+are you ready? So the first one is Zelda Herman. Zelda Herman joined the Institute. I believe in the
+
+9
+00:00:47,759 --> 00:00:54,799
+late 1970s he had had an academic position at Stanford University and had come up
+
+10
+00:00:55,040 --> 00:01:00,640
+from New York City prior to that and worked very closely with Linus Pawn on theoretical problems
+
+11
+00:01:00,640 --> 00:01:07,760
+in structural chemistry to the best of my recollection early on. He also had a strong background
+
+12
+00:01:07,760 --> 00:01:14,480
+in statistics so he helped people at the Institute with biostatistical analyses and I believe
+
+13
+00:01:15,920 --> 00:01:20,560
+participated in the analysis of some of the data that you and Cameron was generating
+
+14
+00:01:21,519 --> 00:01:26,400
+cancer mortality data with vitamin C and cancer studies in Scotland.
+
+15
+00:01:28,240 --> 00:01:36,320
+In the mid to late 1980s Linus Pawn came up with an idea for a novel fabrication technique
+
+16
+00:01:36,320 --> 00:01:40,000
+for superconductive material that was different from the prevailing ceramic
+
+17
+00:01:42,879 --> 00:01:48,960
+work that many people were doing and Pawn approached Zellik and myself to set up a laboratory
+
+18
+00:01:48,960 --> 00:01:54,720
+in Stanford Industrial Park to carry out some experiments to confirm his ideas about the
+
+19
+00:01:55,440 --> 00:02:00,400
+way that this material could be fabricated that would be in support of his patent application.
+
+20
+00:02:01,440 --> 00:02:08,159
+So Zellik and I sat about buying a furnace and blowtorch and we had a facility already at
+
+21
+00:02:08,159 --> 00:02:12,960
+Porter Drive and we were just using a few rooms in this facility and Zellik came up with an
+
+22
+00:02:12,960 --> 00:02:18,879
+ingenious way to collect this material which essentially consisted of very thin
+
+23
+00:02:18,960 --> 00:02:25,920
+tin fibrils that were clad in borosilicate glass and the glass surrounded the tin
+
+24
+00:02:26,560 --> 00:02:34,240
+at the point of maximum temperature over a furnace helped a course by a blowtorch so we needed
+
+25
+00:02:34,240 --> 00:02:43,600
+to collect these long strands of tin encased in glass and Zellik came up with a terrific idea which
+
+26
+00:02:43,599 --> 00:02:52,639
+was kind of a bicycle frame upside down mounted on a wood platform and then we could there weren't
+
+27
+00:02:52,639 --> 00:02:59,199
+tires on the rims there were just bare rims and the idea was that we could make this a continuous
+
+28
+00:02:59,199 --> 00:03:05,439
+operation one person would be at the furnace wielding blowtorch melting the glass at a very
+
+29
+00:03:05,439 --> 00:03:13,280
+steady rate very controlled very steady very exact precise operation and then as that glass
+
+30
+00:03:13,280 --> 00:03:19,199
+was melted and the tin was melted it would be collected onto the back tire of this bicycle frame
+
+31
+00:03:19,199 --> 00:03:24,639
+and then somebody the other person Zellik or myself would be there threading the glass onto the
+
+32
+00:03:24,639 --> 00:03:32,000
+wire rim of the bicycle and then engaging the pedal mechanism to collect the glass on the
+
+33
+00:03:32,000 --> 00:03:39,680
+bicycle wire rim and it worked quite well and Zellik and I maintained a notebook according to
+
+34
+00:03:39,680 --> 00:03:44,879
+Linus Plunk standards that was countersigned by a music a Milser Krakhandel either at the end
+
+35
+00:03:44,879 --> 00:03:49,360
+of every day or at the end of every week so that a third party uninvolved with the experimental work
+
+36
+00:03:49,360 --> 00:03:54,960
+could testify that they had read it and understood it and I got to know Zellik pretty well through
+
+37
+00:03:54,960 --> 00:03:59,120
+that whole process and of course he'd been at the institute a very long time his tenure there
+
+38
+00:03:59,920 --> 00:04:05,360
+almost exactly coincided with mine I can't recall if I got there a little before him or
+
+39
+00:04:05,360 --> 00:04:11,680
+will after him but I know that he arrived in the late 1970s mid to late 1970s and I got to know
+
+40
+00:04:11,680 --> 00:04:17,280
+him very well over the years and really respected and admired and liked him as a person I think he had
+
+41
+00:04:19,439 --> 00:04:26,400
+the desire to devote his career to this relationship scientific relationship with Linus Pauling
+
+42
+00:04:26,400 --> 00:04:33,120
+and I think that Linus Pauling dependent on him very greatly for this work that he himself might
+
+43
+00:04:33,120 --> 00:04:38,959
+have not had time to do and Zellik was able to talk with Linus Pauling about some of these
+
+44
+00:04:38,959 --> 00:04:44,480
+more abstract problems and theoretical chemistry that the rest of us at the institute probably
+
+45
+00:04:44,480 --> 00:04:57,360
+were not able to converse easily with Linus Pauling about Zellik when the institute was wrapping
+
+46
+00:04:57,360 --> 00:05:02,480
+up its activities in Palo Alto and I have to say that Zellik was very important in that whole
+
+47
+00:05:02,480 --> 00:05:08,080
+operation he had become the institute's safety officer over time so he worked very carefully
+
+48
+00:05:08,080 --> 00:05:14,319
+and closely with Palo Alto fire department with our hazardous materials plan which we didn't really
+
+49
+00:05:14,319 --> 00:05:21,439
+have prior to Zellik taking that position and he also helped me a lot by kind of serving as my
+
+50
+00:05:21,439 --> 00:05:25,439
+sorry get when I was away from the institute at that time I was chief executive officer and when I
+
+51
+00:05:25,439 --> 00:05:34,399
+was gone Zellik very kindly and effectively offered to stand in for me and solve problems as
+
+52
+00:05:34,399 --> 00:05:38,480
+they arose at the institute in my absence which was he did a terrific job of that as well
+
+53
+00:05:40,079 --> 00:05:47,439
+and Zellik also participated very closely in the analysis of the closure of the institute
+
+54
+00:05:49,279 --> 00:05:54,959
+hiring the moving firm disposal furniture laboratory equipment chemicals and so forth so
+
+55
+00:05:54,959 --> 00:06:00,639
+he was he was involved in that whole process very very thoroughly on a day-to-day basis in
+
+56
+00:06:00,639 --> 00:06:08,479
+the last years of the institute the institute was not in a position to secure employment
+
+57
+00:06:08,479 --> 00:06:17,279
+of LPISM employees at Oregon State University so there have been a number of visits by Oregon State
+
+58
+00:06:17,279 --> 00:06:24,000
+University faculty and administrators to the Palo Alto facility to talk with our scientists there
+
+59
+00:06:24,399 --> 00:06:30,959
+about whether or not they were interested in coming to to Corvallis to become part of Oregon State
+
+60
+00:06:30,959 --> 00:06:36,800
+University and the Linus Plines Institute and whether it would be a good fit for those candidates
+
+61
+00:06:36,800 --> 00:06:45,199
+and Oregon State University academic units so Oregon State University ended up not offering
+
+62
+00:06:45,199 --> 00:06:52,480
+a position to Zellik to the best of my recollection and after that he did some work I believe for
+
+63
+00:06:52,480 --> 00:07:01,439
+Stanford and some other faculty in the Bay area and also did some teaching in the Palo Alto
+
+64
+00:07:01,439 --> 00:07:17,280
+public school system I believe and maybe elsewhere I was I was not involved in compiling or editing
+
+65
+00:07:17,280 --> 00:07:22,640
+or managing that project but they did an outstanding job Zellik is very very meticulous he has a
+
+66
+00:07:22,640 --> 00:07:30,640
+very keen eye for detail he'd make a good editor and he was he was driven to make sure that this
+
+67
+00:07:32,720 --> 00:07:37,920
+collected papers to Linus Paul in the inventory of these papers was as thorough and complete as
+
+68
+00:07:37,920 --> 00:07:43,520
+possible so he worked very closely with Dorothy on that project and of course Linus Pauling as
+
+69
+00:07:43,519 --> 00:07:50,799
+well because Pauling himself had to provide some reprints of some papers that were quite old and
+
+70
+00:07:50,799 --> 00:07:57,680
+and weren't part of the Linus Plines Institute of Science and Medicine inventory or library so that
+
+71
+00:07:57,680 --> 00:08:04,000
+was a really terrific project that Zellik and Dorothy did jointly and then of course that was sort
+
+72
+00:08:04,000 --> 00:08:10,000
+of the nucleus for a project that was then taken up by special collections here at Oregon State
+
+73
+00:08:10,000 --> 00:08:16,000
+University and then expanded to this five volume set that was recently published.
+
+74
+00:08:21,199 --> 00:08:25,839
+Dorothy was a terrific person she had been at the institute I believe nearly from its inception
+
+75
+00:08:27,279 --> 00:08:34,000
+and she worked ostensibly as Linus Pauling secretary but that term doesn't really do justice to
+
+76
+00:08:34,000 --> 00:08:40,399
+the comprehensive nature for duties and responsibilities she assisted Linus Pauling and all his
+
+77
+00:08:40,399 --> 00:08:47,759
+travel arrangements managed his calendar for appearances prepared his manuscripts to be submitted
+
+78
+00:08:47,759 --> 00:08:57,200
+for publication of different journals managed his correspondence and also transcribed his numerous
+
+79
+00:08:57,200 --> 00:09:05,360
+dictaphone dictation belts so she played a very very important role in Linus Pauling's life keeping
+
+80
+00:09:05,360 --> 00:09:12,400
+everything straight and organized and really providing personal and secretary on managerial
+
+81
+00:09:13,600 --> 00:09:19,600
+assistance to him and I think that she was invaluable I don't think he could have managed without
+
+82
+00:09:19,600 --> 00:09:33,680
+Dorothy Monroe Dorothy was an interesting person she was not very extroverted maybe a little skeptical
+
+83
+00:09:35,360 --> 00:09:40,639
+but I really I really enjoyed her we had some good laughs and mainly our humor was based on
+
+84
+00:09:41,840 --> 00:09:49,279
+sort of cynical takes on institute affairs but she when she found something funny she was
+
+85
+00:09:49,600 --> 00:09:59,040
+really prone to some hilarity but it took a bit to get over that threshold sometimes Richard Hicks
+
+86
+00:10:00,639 --> 00:10:06,960
+Richard Hicks had been at the institute when I joined he was a former stockbroker or
+
+87
+00:10:07,600 --> 00:10:16,000
+administrator with I believe Merrill Lynch so correct I have to check on that it was big stock
+
+88
+00:10:16,879 --> 00:10:23,600
+brokerage and they had a big office in San Francisco and Richard Hicks first wife had died of cancer
+
+89
+00:10:23,600 --> 00:10:29,600
+and that had stimulated his interest in what Pauling called orthomolecular medicine the prevention
+
+90
+00:10:29,600 --> 00:10:35,759
+and treatment of disease with micronutrients in particular vitamin C and Rick joined the institute
+
+91
+00:10:35,759 --> 00:10:43,039
+probably in the mid 1970s when art Robinson and Linus Pauling and the board probably became convinced
+
+92
+00:10:43,039 --> 00:10:52,240
+that we needed some managerial experience and direction at the helm of our fundraising efforts
+
+93
+00:10:52,240 --> 00:10:58,799
+which at that time included contact with foundations philanthropists large donors people interested
+
+94
+00:10:58,799 --> 00:11:07,039
+in Linus Pauling's work as well as a mailing list that provided a base for solicitation for
+
+95
+00:11:07,039 --> 00:11:14,240
+the institute so Rick kind of organized and managed all that and also was very engaged in certain
+
+96
+00:11:14,240 --> 00:11:19,679
+travels with Linus Pauling that had a fundraising aspect so he he traveled with Linus Pauling quite
+
+97
+00:11:19,679 --> 00:11:36,399
+often on the 70s and 80s he did you know there have been a couple of conflicts at the institute
+
+98
+00:11:37,199 --> 00:11:45,759
+one involved Pauling Hicks and art Robinson which led to art Robinson's departure and art I believe
+
+99
+00:11:45,759 --> 00:11:50,959
+at some point wanted to fire or tried to fire Rick Hicks and he was prohibited from doing that
+
+100
+00:11:50,959 --> 00:11:56,240
+expressly by the board and Linus Pauling which led of course to this administrative conflict that
+
+101
+00:11:56,240 --> 00:12:02,000
+led to arts departure there are other reasons for that of course but that was one element of that
+
+102
+00:12:02,000 --> 00:12:08,720
+conflict that arose in the late 1970s and then when Emile Zucacondo became president director of
+
+103
+00:12:08,720 --> 00:12:15,919
+the institute after Robinson's departure Rick Hicks worked very very closely with Emile over the
+
+104
+00:12:15,919 --> 00:12:23,840
+years to try to find financial funding for the institute's research activities and our educational
+
+105
+00:12:23,840 --> 00:12:28,720
+activities as well so the two of them worked extremely closely and then of course with Linus Pauling
+
+106
+00:12:29,440 --> 00:12:38,080
+as his schedule permitted to seek out cultivate and find to find and cultivate donors who could
+
+107
+00:12:38,080 --> 00:12:42,960
+support some of our projects at the institute and then when the institute was reorganized
+
+108
+00:12:43,759 --> 00:12:51,600
+after Emile's retirement Rick decided since I think partly I don't want to put words in his
+
+109
+00:12:51,600 --> 00:12:55,519
+mouth but I think he decided partly because of his long close association with Emile
+
+110
+00:12:56,480 --> 00:13:02,000
+that the time had come for him to to resign as well and as he resigned from the Linus Pauling
+
+111
+00:13:02,000 --> 00:13:06,480
+Institute of Science and Medicine he was offered a position on the board so we became a board member
+
+112
+00:13:06,480 --> 00:13:10,879
+of the board of trustees of the Linus Pauling Institute of Science and Medicine and then also had
+
+113
+00:13:10,879 --> 00:13:17,360
+a position with Emile's embryonic institute institute for molecular medical sciences which was as
+
+114
+00:13:17,360 --> 00:13:23,600
+I discussed previously sub leasing space from us in the same facility at 440 page mail road
+
+115
+00:13:25,600 --> 00:13:30,079
+as did he retire after that job? Do you know where you should supply something else?
+
+116
+00:13:30,079 --> 00:13:35,679
+Well institute and molecular medical sciences to the best of my knowledge never really
+
+117
+00:13:36,559 --> 00:13:42,720
+reach critical mass. They had a few employees early on and then when the zoning change finally
+
+118
+00:13:42,720 --> 00:13:47,120
+kicked in and that building that they were located on a schedule for demolition I think that was
+
+119
+00:13:47,120 --> 00:13:55,439
+the effective end of the of that organization so I don't know whether Rick continued any
+
+120
+00:13:55,600 --> 00:14:04,800
+active role with IMMS after it was lost its physical existence there at 440 page mail road
+
+121
+00:14:04,800 --> 00:14:10,560
+but Rick has remained a big advocate and friend of the Linus Pauling Institute over all these
+
+122
+00:14:10,560 --> 00:14:17,360
+years and I talk with him reasonably often on the phone and he comes to visit us in Corvallis
+
+123
+00:14:17,360 --> 00:14:21,920
+during big events like the 10th anniversary party and so forth. He couldn't make it to the grand
+
+124
+00:14:21,920 --> 00:14:26,560
+opening of the Linus Pauling Science Center but he sent flowers and he's always been a good friend
+
+125
+00:14:26,560 --> 00:14:39,040
+of the Linus Pauling Institute. Well Emile is quite elderly now and I think he had
+
+126
+00:14:39,840 --> 00:14:47,040
+some kind of adjunct position at Stanford in one of their academic departments that probably
+
+127
+00:14:47,039 --> 00:14:55,599
+overlapped the existence of IMMS but I don't know if he retains any courtesy or adjunct appointment
+
+128
+00:14:55,599 --> 00:15:02,959
+at Stanford any longer. I think so he's the founding editor of course of the Journal of Molecular
+
+129
+00:15:02,959 --> 00:15:09,839
+Evolution which is one of the leading journals in that field and I think he has retired as editor
+
+130
+00:15:09,839 --> 00:15:15,199
+of that journal he probably remains on the editorial board but I know his duties with respect to
+
+131
+00:15:15,280 --> 00:15:20,480
+that journal have diminished quite a lot as well so he may have an emeritus position with the journal
+
+132
+00:15:21,040 --> 00:15:30,240
+at this point. Rexie Jerry Walla joined the institute I believe from Johns Hopkins
+
+133
+00:15:32,160 --> 00:15:41,840
+in the early 1980s I believe to head the laboratory of viral carcinogenesis and at that time
+
+134
+00:15:42,000 --> 00:15:48,320
+Emile's plan for the institute was to expand along the lines of the Salk Institute in
+
+135
+00:15:48,320 --> 00:15:54,960
+Mojolla kind of important projects in orthomolecular medicine and molecular biology
+
+136
+00:15:55,840 --> 00:16:02,080
+and Rexie's work was an example of the work in molecular biology in particular. He was
+
+137
+00:16:02,080 --> 00:16:10,240
+interested in Herpes virus type 2 and fragments of Herpes virus type 2 DNA that could transform
+
+138
+00:16:10,240 --> 00:16:18,960
+normal cells and make them tumorogenic. So he had a big program that was involved in that research
+
+139
+00:16:19,759 --> 00:16:24,560
+and I collaborated with him on several projects there was a donor named Robert Saven
+
+140
+00:16:25,360 --> 00:16:30,639
+in Long Island who developed some very interesting ideas about phytoc acid and cancer. Phytoc acid
+
+141
+00:16:30,639 --> 00:16:38,320
+is an antioxidant that you find in grains and seeds and it protects the germplasm material
+
+142
+00:16:38,320 --> 00:16:46,000
+in seeds from oxidative damage before germination and he had approached
+
+143
+00:16:48,240 --> 00:16:53,840
+either Linus Polymer and Emile Zucaconda with some of these ideas and then I started talking
+
+144
+00:16:53,840 --> 00:16:59,680
+with him about his ideas and we set up kind of a small experimental research program
+
+145
+00:16:59,680 --> 00:17:06,559
+to carry out some cell culture experiments and Rexie and I started directly collaborating at that
+
+146
+00:17:06,559 --> 00:17:17,839
+time and also we worked together on using 2D gel technology to profile proteins in rat cells that
+
+147
+00:17:17,839 --> 00:17:26,399
+had been transfected with these Herpes virus DNA fragments. So my developed quite a lot of experience
+
+148
+00:17:26,399 --> 00:17:32,399
+and skill at producing these protein profiles and Rexie was very interested in that to find out
+
+149
+00:17:32,400 --> 00:17:39,519
+how gene activity and protein expression changed as a result of neoplastic transformation in these
+
+150
+00:17:39,519 --> 00:17:45,040
+rat cells. So I collaborated with Rexie on a number of different projects over time and then of
+
+151
+00:17:45,040 --> 00:17:54,880
+course mid to late 1980s as AIDS was becoming kind of a public health crisis in the San Francisco
+
+152
+00:17:54,880 --> 00:18:02,160
+Bay area in New York and some other places. There was interest in finding out once HIV had been
+
+153
+00:18:02,160 --> 00:18:08,560
+identified as the causal factor there, the etiologic agent in developing arcane AIDS,
+
+154
+00:18:09,600 --> 00:18:15,680
+there was interest in finding out whether or not vitamin C might have any effect on protecting
+
+155
+00:18:15,680 --> 00:18:22,560
+people from dysvirus or have any beneficial effect in people that were already infected with a virus.
+
+156
+00:18:23,279 --> 00:18:27,919
+So in collaboration with Linus Pauling and Steve Herike who had been recruited to work in
+
+157
+00:18:27,919 --> 00:18:34,480
+Rexie's group they published a paper on PNAS in the late 1980s showing that in cell cultures
+
+158
+00:18:35,200 --> 00:18:43,279
+to human T lymphocytes infected with HIV did not develop certain pathological characteristics
+
+159
+00:18:43,279 --> 00:18:50,559
+when they were grown in physiologically relevant concentrations of vitamin C and vitamin C also
+
+160
+00:18:50,559 --> 00:18:54,720
+inhibited replication of the virus which could be assayed with a number of different techniques.
+
+161
+00:18:55,759 --> 00:19:04,639
+So the conclusion in that paper that I remember correctly was that there may be a combinatorial
+
+162
+00:19:04,639 --> 00:19:12,559
+approach to treating AIDS that would involve AZT which protects uninfected cells from getting infected
+
+163
+00:19:12,559 --> 00:19:19,440
+by HIV combined with vitamin C which would inhibit viral replication. So you're inhibiting viral
+
+164
+00:19:19,440 --> 00:19:24,559
+replication and protecting uninfected cells and maybe this would be a good therapeutic strategy
+
+165
+00:19:24,559 --> 00:19:31,680
+for AIDS patients. And that resulted in not any so far as I can remember direct collaboration with
+
+166
+00:19:31,680 --> 00:19:37,519
+physicians at San Francisco General which of course had ward 86 which was a major AIDS treatment
+
+167
+00:19:37,519 --> 00:19:43,279
+facility in the United States but people from ward 86 Paul Bulberding and Don Abrams came to the
+
+168
+00:19:43,279 --> 00:19:49,519
+institute to give seminars on some of their experience in treating AIDS patients and of course a
+
+169
+00:19:49,519 --> 00:19:55,039
+lot of AIDS patients in San Francisco were self-medicating with high dose vitamin C as well and the
+
+170
+00:19:55,039 --> 00:20:00,480
+physicians at San Francisco General had some anecdotal evidence that seemed to support some value
+
+171
+00:20:00,480 --> 00:20:15,599
+of vitamin C in this role. Rex seat was not offered a job by Oregon State University and I
+
+172
+00:20:15,599 --> 00:20:24,799
+believe he took a job with it's a research organization. He had some grants from Pacific Medical
+
+173
+00:20:24,799 --> 00:20:30,079
+Center I believe in San Francisco that were sustaining his research activities and they think
+
+174
+00:20:30,079 --> 00:20:37,839
+they were transferred to California Pacific. I'd have to think about the name of the facility but
+
+175
+00:20:37,839 --> 00:20:44,559
+it's a medical research facility in San Jose and he took a job with them and then most recently I
+
+176
+00:20:44,559 --> 00:20:52,319
+believe he has joined Dr. Rath's research activity which is located in Santa Clara County or
+
+177
+00:20:52,319 --> 00:21:00,079
+Santa Clara, California. So I think that's where he works currently. I'd love to have Constance
+
+178
+00:21:00,079 --> 00:21:05,519
+Chau. Constance Chau had been at the institute for a very long time she again I believe was there
+
+179
+00:21:05,519 --> 00:21:12,720
+when I joined in 1977. She was a chemist who had been hired to do a lot of work with vitamin C
+
+180
+00:21:12,720 --> 00:21:20,319
+and of course Linus Pond was very interested in biochemical attributes of vitamin C in the body and
+
+181
+00:21:22,720 --> 00:21:27,759
+there had been a lot of red flags about high dose vitamin C whether it could destroy vitamin B12
+
+182
+00:21:27,759 --> 00:21:33,679
+whether it would cause kidney stones excuse me kidney stones whether it would leach minerals or
+
+183
+00:21:33,679 --> 00:21:38,559
+amino acids from the body or interfere with amino acid metabolism. So there have been a number of
+
+184
+00:21:38,559 --> 00:21:46,240
+concerns about vitamin C for a long time and Connie Chau in collaboration with Linus Pond and she
+
+185
+00:21:46,240 --> 00:21:54,240
+had a small staff to help her as well was addressing a lot of these concerns about high dose vitamin C
+
+186
+00:21:54,240 --> 00:22:00,240
+and she was also doing a lot of she was directing a lot of work that was geared towards understanding
+
+187
+00:22:00,240 --> 00:22:05,440
+at some level some of the pharmacokinetics of vitamin C in other words if people take a certain
+
+188
+00:22:05,440 --> 00:22:10,720
+oral dose of vitamin C how much shows up in the urine and what is the result in blood concentration.
+
+189
+00:22:10,799 --> 00:22:19,360
+So she was doing studies like that and also trying to get at the role of vitamin C as an anti-cancer
+
+190
+00:22:19,360 --> 00:22:29,120
+agent. So in the 1980s as Linus Pond's ideas about the anti-cancer role of vitamin C developed I
+
+191
+00:22:29,120 --> 00:22:37,200
+mean initially it was post-resistance to vitamin C was the main anti-cancer theme for vitamin C
+
+192
+00:22:38,160 --> 00:22:43,840
+as hypothesized by you and Cameron and Linus Pond and then over time they started to develop some
+
+193
+00:22:43,840 --> 00:22:50,880
+new ideas which was to involve direct cytotoxicity of vitamin C or metabolites of vitamin C or degradation
+
+194
+00:22:50,880 --> 00:22:56,559
+products of vitamin C. So vitamin C would get when it gets ingested in the body can transform into
+
+195
+00:22:56,559 --> 00:23:06,080
+other chemical moieties that have different attributes and part of Connie Chau's research program was
+
+196
+00:23:06,159 --> 00:23:11,839
+to identify some of these breakdown products and metabolites of vitamin C and to find out whether
+
+197
+00:23:11,839 --> 00:23:17,759
+they had any anti-cancer effect in cell culture studies and in small animal studies and she was
+
+198
+00:23:17,759 --> 00:23:22,319
+quite successful in this and published a number of papers showing that degradation products of
+
+199
+00:23:22,319 --> 00:23:29,039
+vitamin C seemed to possess strong anti-cancer activity and she also did some work I believe
+
+200
+00:23:29,279 --> 00:23:37,440
+that was stimulated by reports from Japanese researchers Morshiga and Marata that
+
+201
+00:23:40,240 --> 00:23:47,279
+vitamin C combined with a copper tripeptide had very interesting anti-cancer effects and of course
+
+202
+00:23:47,279 --> 00:23:51,680
+the basis for that involves free radical chemistry so that's something that bit Connie Chau was
+
+203
+00:23:51,680 --> 00:23:58,399
+pursuing as well. She was at the institute until we closed our doors
+
+204
+00:23:58,480 --> 00:24:06,240
+in Palo Alto and then she effectively retired. I want to ask about if you're at Marata and if you can
+
+205
+00:24:06,240 --> 00:24:13,920
+once you get involved. They were non-resident fellows of the institute there had been a number
+
+206
+00:24:13,920 --> 00:24:21,920
+of non-resident fellows appointed over the years so far as I can recall they never carried out
+
+207
+00:24:22,000 --> 00:24:27,279
+any experimental work at the institute's facilities either in the mental park of Palo Alto
+
+208
+00:24:28,960 --> 00:24:36,080
+but they had longstanding and far-ranging discussions with Linus Pauling about the effect of
+
+209
+00:24:36,080 --> 00:24:44,240
+vitamin C in viral infection and cancer and in particular I think their earliest work had to do with
+
+210
+00:24:45,200 --> 00:24:54,079
+preventing transfusion associated viral hepatitis in hospital patients at their hospital in Japan
+
+211
+00:24:54,720 --> 00:25:00,400
+and they showed that by giving vitamin C to transfuse patients they were able to decrease the
+
+212
+00:25:00,400 --> 00:25:08,400
+incidence of transfusion associated hepatitis to almost negligible levels and of course that
+
+213
+00:25:08,400 --> 00:25:13,440
+intrigue Linus Pauling greatly and then they also developed an interest in vitamin C in cancer
+
+214
+00:25:13,440 --> 00:25:20,799
+which involved this copper tripeptide and carried out animal experiments, soul culture experiments
+
+215
+00:25:20,799 --> 00:25:28,480
+and even some surprisingly clinical work with copper tripeptide and high dose vitamin C typically
+
+216
+00:25:28,480 --> 00:25:33,759
+given intravenously and they published a number of papers and monographs.
+
+217
+00:25:34,000 --> 00:25:44,799
+Yeah, Morishega and Morata has remained close to the institute. He's been a supporter of the
+
+218
+00:25:44,799 --> 00:25:50,480
+institute for many years even since we moved here to Corvallis. Morishega, I'm not sure what's
+
+219
+00:25:50,480 --> 00:25:57,359
+become of him. I don't know what his current status is. I don't know if he's retired. If he has
+
+220
+00:25:57,359 --> 00:26:03,599
+a job someplace or if he's still writing and carrying out any work in that area but I know
+
+221
+00:26:04,560 --> 00:26:10,960
+in the late 80s and early 90s perhaps he did become increasingly interested in the beta-glucan
+
+222
+00:26:10,960 --> 00:26:18,320
+fraction of Mataki mushroom in particular but that glucan fraction is also present in other
+
+223
+00:26:19,360 --> 00:26:26,160
+mushroom varieties and I think he had done some work in soul culture and maybe animal experiments
+
+224
+00:26:26,160 --> 00:26:31,360
+to show that not only did it have immunostimulatory properties but seemed to have anti-cancer
+
+225
+00:26:31,360 --> 00:26:36,640
+properties as well and there's quite a big literature on that mushroom extracts and their
+
+226
+00:26:36,640 --> 00:26:42,240
+anti-cancer effect but as far as I can recall none of that took place at the Linus Pong Institute
+
+227
+00:26:42,240 --> 00:26:52,160
+it was solely focused on vitamin C at that time. They did they did they did yeah yeah and I think
+
+228
+00:26:52,160 --> 00:26:59,040
+that one or more of them maybe Morishega also spent some time with colleagues at Stanford University
+
+229
+00:26:59,039 --> 00:27:03,279
+at that time too but I can't really recall the details of those associations.
+
+230
+00:27:06,639 --> 00:27:13,279
+How about William A. Berth? William A. Berth had come to the institute from SRI which at that time
+
+231
+00:27:13,279 --> 00:27:20,960
+was known as Stanford Research. Stanford Research SRI industrial let me think.
+
+232
+00:27:23,440 --> 00:27:28,000
+Well anyway it had been originally affiliated with Stanford University and then I think
+
+233
+00:27:28,000 --> 00:27:33,359
+became an independent entity which is interestingly where I learned to do cell culture in the 1980s when
+
+234
+00:27:33,359 --> 00:27:39,599
+I set up our first cell culture facility at the facility in Memel Park. A. Berth was a physicist or
+
+235
+00:27:39,599 --> 00:27:47,279
+is a physicist who developed the Volcano Source Field Identization Mass Spectrometer that was used
+
+236
+00:27:47,279 --> 00:27:56,000
+in Pauling and Robinson's Metabolite Profiling Program so he was constantly developing that trying
+
+237
+00:27:56,000 --> 00:28:03,359
+to improve its parameters and improve the technology and that was his primary role at the institute.
+
+238
+00:28:03,359 --> 00:28:09,200
+He was also a really great ping pong player. We played ping pong quite often at noon and he invariably
+
+239
+00:28:09,200 --> 00:28:17,680
+beat me. So he designed instruments then? He did he designed instruments and worked on their
+
+240
+00:28:18,559 --> 00:28:24,799
+technical evolution and it was always a bit of a I won't say conflict but there's always some stress
+
+241
+00:28:24,799 --> 00:28:30,720
+there between instrument design and development and the biologists or biochemists who actually want
+
+242
+00:28:30,720 --> 00:28:37,440
+to use the instrumentation to gain data and then analyze data. And part of the problem with that
+
+243
+00:28:38,559 --> 00:28:46,000
+with that relationship is that the physicists always want to improve the technology. The biologists
+
+244
+00:28:46,000 --> 00:28:53,039
+want the technology to get to a certain acceptable level and then keep it constant and then run
+
+245
+00:28:53,039 --> 00:29:00,720
+lots of samples because if you keep changing the technology over time then the sample analysis
+
+246
+00:29:00,720 --> 00:29:07,680
+changes over time too and it makes it very difficult from a biological perspective to understand
+
+247
+00:29:08,720 --> 00:29:14,639
+what's going on with some of these things so it was interesting.
+
+248
+00:29:23,440 --> 00:29:31,200
+Well metabolic profiling I think what Robinson and Pauling and I can't claim to be an expert in this
+
+249
+00:29:31,200 --> 00:29:36,639
+area but I think what they were doing and what they had proposed at that time was really cutting
+
+250
+00:29:36,639 --> 00:29:43,519
+edge technology and cutting edge science and I believe that there's a lot of interest in that now
+
+251
+00:29:44,159 --> 00:29:50,000
+that may use slightly different technologies but nevertheless has the same goal of understanding
+
+252
+00:29:50,720 --> 00:29:58,160
+preventative medicine because the idea there was to try to detect very subtle biochemical changes
+
+253
+00:30:00,160 --> 00:30:05,680
+that would be reflected in body fluids such as saliva or typically urine was used because it's
+
+254
+00:30:05,680 --> 00:30:12,000
+easy to to use experimentally that might correlate with a predisposition to particular
+
+255
+00:30:12,000 --> 00:30:20,960
+pathological states like cancer and also to use it as a diagnostic tool so that you would for instance
+
+256
+00:30:22,240 --> 00:30:28,480
+take samples from hundreds of people diagnosed with a specific disease like muscular dystrophy
+
+257
+00:30:28,480 --> 00:30:35,119
+or multiple sclerosis or a particular type of cancer or even old people versus young people
+
+258
+00:30:35,119 --> 00:30:41,839
+or gender or something like that and then look for clues in the metabolic profile run through
+
+259
+00:30:41,840 --> 00:30:48,720
+this mass spectrometer that might correlate with that particular condition and for instance if you
+
+260
+00:30:48,720 --> 00:30:56,320
+found in a population of people with this particular type of cancer a representative or a set of
+
+261
+00:30:56,320 --> 00:31:02,720
+representative peaks on a mass spectrogram that correlated with that condition and you did not find
+
+262
+00:31:02,720 --> 00:31:10,400
+those peaks in normal healthy people then ostensibly you could use this to check someone's health
+
+263
+00:31:10,400 --> 00:31:17,280
+over time to see whether or not those substances represented by those peaks in the disease state
+
+264
+00:31:17,280 --> 00:31:23,280
+are starting to amplify in the healthy person's profile over time and if they are then you could
+
+265
+00:31:23,280 --> 00:31:29,280
+suppose that there are biochemical events taking place in that person that are leading to cancer
+
+266
+00:31:30,000 --> 00:31:35,840
+and if you had that knowledge very very early in the disease process the idea would be that you could
+
+267
+00:31:35,840 --> 00:31:42,720
+implement therapy much sooner and probably have a better therapeutic outcome so that kind of
+
+268
+00:31:42,720 --> 00:31:50,160
+thinking I think was was extraordinarily prescient and way way ahead of its time yeah memory series
+
+269
+00:31:50,160 --> 00:31:57,200
+it started with the specific brain work yeah yeah but the metabolic profile I mean they had at one
+
+270
+00:31:57,200 --> 00:32:04,880
+point I think under art Robinson's direction the idea was to build up a repository of urine samples
+
+271
+00:32:04,880 --> 00:32:09,680
+or blood samples from the inates collected through the VA hospital and other hospitals around
+
+272
+00:32:09,680 --> 00:32:17,040
+California and then these samples would be held at minus 80 degrees centigrade for decades and
+
+273
+00:32:17,040 --> 00:32:22,000
+then you would check on these people much later in life to find out what had happened to them
+
+274
+00:32:22,560 --> 00:32:26,560
+if they developed certain diseases and then go back and look at these samples to find out if
+
+275
+00:32:26,560 --> 00:32:33,200
+nor any clues or how these samples or how subsequent samples might have changed to give clues to
+
+276
+00:32:33,200 --> 00:32:39,360
+the progression of these particular diseases so I think it was a very very interesting program
+
+277
+00:32:39,360 --> 00:32:44,319
+that would eventually stop because of funding issues and there were some technical issues as well
+
+278
+00:32:44,960 --> 00:32:50,640
+for example the volcano source which is where the ionization of these volatile components took place
+
+279
+00:32:52,160 --> 00:33:01,600
+tended to erode and also material would would accumulate on this that could contaminate subsequent
+
+280
+00:33:01,600 --> 00:33:06,880
+sample analysis so there were some practical problems with how do you clean this cone between
+
+281
+00:33:06,880 --> 00:33:12,560
+samples and the life span of the cone and and other issues as well and some of those things are
+
+282
+00:33:12,560 --> 00:33:20,400
+what Bill Abarth and his people that took over that project after he left work on for years
+
+283
+00:33:22,720 --> 00:33:29,520
+how about Alan Sheets? Alan Sheets was at the institute when I arrived he was working in
+
+284
+00:33:30,480 --> 00:33:38,639
+biochemistry he was operating and developing gas chromatography and instrumentation
+
+285
+00:33:38,639 --> 00:33:44,879
+to do this kind of work the metabolite profiling work using not just human samples but with a focus
+
+286
+00:33:44,879 --> 00:33:52,000
+I think in the early days on rodent samples so analyzing rodent urine mouse urine typically using
+
+287
+00:33:52,799 --> 00:33:58,400
+gas chromatography so he was an expert in gas chromatography and worked very closely with
+
+288
+00:33:59,120 --> 00:34:11,680
+Bill Abarth as well as Art Robinson and then we developed a friendship and he I think we like
+
+289
+00:34:11,680 --> 00:34:16,240
+each other and he wanted me to get more involved in some of the work that he was doing in the laboratory
+
+290
+00:34:16,240 --> 00:34:22,800
+so Alan and I set up some experiments for you and Cameron to check and maybe I talked about this
+
+291
+00:34:23,280 --> 00:34:29,920
+before Cameron was very concerned about high dose vitamin C in people who are undergoing chemotherapy
+
+292
+00:34:31,120 --> 00:34:37,440
+because vitamin C can have general detoxifying capabilities and Cameron was concerned that
+
+293
+00:34:38,160 --> 00:34:44,800
+if chemotherapy is expected to be therapeutic for cancer patients then you don't want to
+
+294
+00:34:44,800 --> 00:34:50,560
+do anything to interfere with it and if high dose vitamin C interferes with specific chemotherapy
+
+295
+00:34:50,559 --> 00:34:55,440
+drug activity then you don't want to recommend it to people who are undergoing chemotherapy or perhaps
+
+296
+00:34:55,440 --> 00:35:00,079
+you want to alternate it with chemotherapy because chemotherapy is typically given in cycles
+
+297
+00:35:01,599 --> 00:35:08,799
+so to get at this question Alan and I set up a fishtoxicology experiment using fingering trout
+
+298
+00:35:09,599 --> 00:35:16,719
+and we reconstituted distilled water with there's a lot of literature in fishtoxicology and how to
+
+299
+00:35:16,720 --> 00:35:23,200
+make experimental aquariums per fish and so we followed that literature and we set up some
+
+300
+00:35:23,200 --> 00:35:31,360
+experiments to look at the combination of methotrexate and other chemotherapy drugs alone and
+
+301
+00:35:31,360 --> 00:35:38,080
+in combination with vitamin C on swimming behavior in the fish because when fish aren't feeling good
+
+302
+00:35:38,080 --> 00:35:44,320
+they stop swimming so there were ways to actually monitor the movement of the fish in the tanks
+
+303
+00:35:44,320 --> 00:35:51,920
+and that was one of the last experiments I did with Alan and then Alan was also very
+
+304
+00:35:54,880 --> 00:36:01,120
+he was very closely involved in the move because I think his father had worked as a mover,
+
+305
+00:36:01,120 --> 00:36:06,480
+had a moving company in Idaho so Alan was had experience in moving and we handled the move
+
+306
+00:36:06,480 --> 00:36:13,519
+ourselves from the mental park facility to the Page Mill Avenue facility in Palo Alto back in the winter
+
+307
+00:36:13,519 --> 00:36:20,559
+1980-1981 and Alan really took a major responsibility for that and coordinated that move and also
+
+308
+00:36:21,280 --> 00:36:27,920
+I think worked pretty closely with Emilio Zucicondo in design and setup of the new laboratory facility
+
+309
+00:36:27,920 --> 00:36:33,280
+at 440 Page Mill Road because we were moving into what had been essentially a battery factory
+
+310
+00:36:33,280 --> 00:36:39,440
+I believe and it needed to be reconfigured for for our work and I think Alan played an important role
+
+311
+00:36:39,440 --> 00:36:46,559
+in that as well and then eventually he retired he became I think less interested in biochemistry and
+
+312
+00:36:46,559 --> 00:36:59,119
+more interested in what would it be called physical therapy because his daughter had been born with
+
+313
+00:36:59,119 --> 00:37:06,800
+a genetic defect that caused muscle problems so she didn't have very graceful gate and Alan
+
+314
+00:37:06,880 --> 00:37:15,120
+became very interested in physical therapy that might help his daughter become sort of have a more
+
+315
+00:37:15,120 --> 00:37:21,280
+normal gate and more normal body actions so he eventually adopted that as a new career
+
+316
+00:37:24,880 --> 00:37:32,800
+what got done him was a retired physician who I think had spent most of his career in Tennessee
+
+317
+00:37:32,960 --> 00:37:39,440
+at the VA hospital memory service me and then had worked at Jackson Laboratory in Maine for quite a
+
+318
+00:37:39,440 --> 00:37:47,360
+long time I can't remember exactly why he came to the institute but this was in the I believe
+
+319
+00:37:47,360 --> 00:38:00,000
+the early 1980s he came and set up a program to look at the effect of afflatoxin toxicity on
+
+320
+00:38:00,000 --> 00:38:05,440
+guinea pigs and whether that could they could be protected or rescued from afflatoxin toxicity
+
+321
+00:38:05,440 --> 00:38:16,239
+with vitamin C oh excuse me initially it was not afflatoxin it was beta amenopopryonitrile which
+
+322
+00:38:16,239 --> 00:38:22,639
+is a compound that exists in the grass pee which is a lagoon that people in India and other places
+
+323
+00:38:22,639 --> 00:38:31,279
+consume and it has the unfortunate characteristic of causing leg paralysis so when you consume
+
+324
+00:38:31,279 --> 00:38:38,400
+the grass pee products made from the grass pee over a long period of time you become very vulnerable
+
+325
+00:38:38,400 --> 00:38:43,279
+to irreversible leg paralysis so it affects the central nervous system and nervous tissue
+
+326
+00:38:44,079 --> 00:38:51,679
+so when you see a lot of the you know long long ago when you see these kind of archetypal photos
+
+327
+00:38:51,679 --> 00:38:57,440
+of beggars and calcutta and so forth and sometimes they'd be pulling themselves along on little
+
+328
+00:38:57,440 --> 00:39:03,759
+platforms with wheels with sticks and a lot of those people had succumbed to neural atherism and
+
+329
+00:39:03,759 --> 00:39:10,239
+of course when somebody develops neural atherism they can't work any longer and at least in India
+
+330
+00:39:10,239 --> 00:39:15,679
+in those days they were reduced to begging in the street for for money to to sustain themselves
+
+331
+00:39:16,239 --> 00:39:19,599
+so it was a big public health problem in some regions of the world because
+
+332
+00:39:20,480 --> 00:39:28,079
+the grass pee provided nutrition it's a lagoon so it had some nutritional value and it grows
+
+333
+00:39:28,079 --> 00:39:33,440
+like a weed so it doesn't really require any special agricultural practices it can grow and
+
+334
+00:39:33,440 --> 00:39:39,440
+drought or you know lots of water so it's something that's very available to people and they don't
+
+335
+00:39:39,440 --> 00:39:45,039
+know about the the downside of consuming this over a long period of time so what got done in
+
+336
+00:39:45,039 --> 00:39:50,079
+particular get very interested in whether or not vitamin C might inhibit the development of
+
+337
+00:39:50,079 --> 00:39:57,119
+neural atherism in people that are unavoidably exposed die terribly to this lagoon that contains
+
+338
+00:39:57,119 --> 00:40:03,759
+the neurotoxin so he set up a research program that involved guinea pigs because guinea pigs do not
+
+339
+00:40:03,759 --> 00:40:09,279
+synthesize vitamin C so you can control the amount of vitamin C in their bodies very carefully and
+
+340
+00:40:09,280 --> 00:40:16,400
+very easily and he would give these guinea pigs the toxin responsible for neural atherism and
+
+341
+00:40:16,400 --> 00:40:21,920
+they would develop hind leg paralysis very similar to what happens in people and men for some
+
+342
+00:40:21,920 --> 00:40:26,000
+reasons seem to be especially vulnerable to this and I don't know if that was checked in guinea pigs
+
+343
+00:40:26,000 --> 00:40:31,040
+because I think typically in those kinds of experiments you go for single gender you don't want
+
+344
+00:40:31,040 --> 00:40:36,000
+to house male and female guinea pigs together unless you're trying to breed guinea pigs so I don't
+
+345
+00:40:36,000 --> 00:40:39,920
+remember whether these were male guinea pigs or female guinea pigs but nevertheless they developed
+
+346
+00:40:39,920 --> 00:40:47,920
+hind leg paralysis when given this toxin however if you gave them the toxin and coadministered vitamin C
+
+347
+00:40:48,639 --> 00:40:55,199
+you could completely prevent paralysis or if there was paralysis it was transient so that that was
+
+348
+00:40:55,199 --> 00:41:01,519
+quite encouraging and also there are histopathological changes that can occur in the liver that did not
+
+349
+00:41:02,000 --> 00:41:06,639
+occur when the toxin was coadministered with vitamin C so vitamin C seemed to be protecting
+
+350
+00:41:06,639 --> 00:41:12,079
+their nervous system and liver is from pathological damage caused by exposure to this toxin
+
+351
+00:41:12,960 --> 00:41:17,840
+and I think what I've done him was very interested in taking this to the World Health Organization
+
+352
+00:41:17,840 --> 00:41:24,639
+and trying to get them to do human studies and find out whether this might be a low cost
+
+353
+00:41:25,679 --> 00:41:30,559
+remedy for this public health problem in regions of the world where people eat the grass
+
+354
+00:41:30,719 --> 00:41:36,079
+pee if you could allow them to continue eating the grass pee and give them low cost vitamin C supplements
+
+355
+00:41:36,799 --> 00:41:40,960
+with the advice that you know go ahead and eat this but be sure you take your vitamin C
+
+356
+00:41:41,840 --> 00:41:46,239
+then perhaps that would be less of a serious problem for those people
+
+357
+00:41:47,360 --> 00:41:50,639
+and then I think a little bit later he got interested in aflatoxin
+
+358
+00:41:51,360 --> 00:41:56,400
+and aflatoxin toxicity and guinea pigs and how that could be attenuated by coadministered
+
+359
+00:41:56,480 --> 00:42:03,280
+with vitamin C and he's back around the Institute. He did he stayed at the Institute for a very
+
+360
+00:42:03,280 --> 00:42:11,680
+long time retired in his wife we're very charming very very nice people and he retired probably in
+
+361
+00:42:13,039 --> 00:42:17,840
+I can't remember exactly when but towards the end of our 10 year there in palilato
+
+362
+00:42:19,920 --> 00:42:25,680
+John Levitt. John Levitt had been recruited from Johns Hopkins and may have known Rexie
+
+363
+00:42:25,759 --> 00:42:32,559
+Jarawal actually at Johns Hopkins. Levitt was recruited to direct our laboratory molecular
+
+364
+00:42:32,559 --> 00:42:39,199
+carcinogenesis which again was established by a meal with the idea of expanding the institute's
+
+365
+00:42:39,199 --> 00:42:46,319
+research into more molecular biological areas rather than strictly worth the molecular medicine
+
+366
+00:42:47,199 --> 00:42:53,119
+and John was very interested in again using this two-dimensional gel electrophoresis protein profiling
+
+367
+00:42:53,199 --> 00:43:01,279
+technology to understand fundamental differences between normal cells and cancer cells
+
+368
+00:43:01,279 --> 00:43:09,599
+in people and he discovered the mutant beta actin protein which seemed to be present in most
+
+369
+00:43:09,599 --> 00:43:16,159
+tumor cells that he looked at and maybe teen lymphocytes as well but never present in normal cells
+
+370
+00:43:16,880 --> 00:43:21,679
+so a lot of his work was geared toward understanding this mutant beta actin and also
+
+371
+00:43:23,679 --> 00:43:29,920
+he did some transgenic work and secured a patent with a colleague at Stanford that was commercialized
+
+372
+00:43:29,920 --> 00:43:36,559
+one of our rare successful commercializations of patents. I think Stanford actually led the
+
+373
+00:43:36,559 --> 00:43:42,000
+the commercialization effort there but nevertheless the institute benefited from royalties
+
+374
+00:43:42,000 --> 00:43:46,480
+from Levitt's invention there with a promoter of the mutant beta actin protein.
+
+375
+00:43:46,559 --> 00:43:56,159
+How about Jeffrey Bland? Jeffrey Bland was recruited to the institute back in the late 70s
+
+376
+00:43:56,159 --> 00:43:59,920
+from the University of Puget Sound where I think he had been a chemistry professor
+
+377
+00:44:01,039 --> 00:44:08,559
+and he joined the institute I think to work both on the Metabolite Profiling project but more
+
+378
+00:44:08,559 --> 00:44:17,440
+specifically to develop a new project which was called the Nutritional Supplement Analysis Laboratory
+
+379
+00:44:18,239 --> 00:44:26,159
+so the idea was to analyze nutritional supplements for their dissolution in the gastrointestinal
+
+380
+00:44:26,159 --> 00:44:33,039
+environment and also analyze them for purity and to find out if the label represented what
+
+381
+00:44:33,039 --> 00:44:40,000
+the actual ingredients were in nutritional supplements and the goal there was to
+
+382
+00:44:41,360 --> 00:44:50,000
+award some sort of certificate or seal kind of like the UL underwriters label or something
+
+383
+00:44:50,000 --> 00:44:55,679
+like that good housekeeping seal of approval two products that passed the stringent
+
+384
+00:44:55,679 --> 00:45:06,960
+qualifications and I think it was it was an interesting program and again way ahead of its time
+
+385
+00:45:06,960 --> 00:45:12,159
+I think it was so far ahead of its time that they had a very difficult time finding companies
+
+386
+00:45:12,159 --> 00:45:16,879
+that wanted to participate at that time they were selling their nutritional supplements very
+
+387
+00:45:16,879 --> 00:45:22,159
+happening and I guess didn't see the need for any kind of competitive advantage that might be
+
+388
+00:45:22,159 --> 00:45:27,599
+gained from this Linus Point Institute nutritional supplement analysis seal of approval
+
+389
+00:45:28,319 --> 00:45:30,639
+so eventually that program was disbanded
+
+390
+00:45:34,079 --> 00:45:41,279
+he moved on from there he also had a developing career as a public speaker and I think was very
+
+391
+00:45:41,280 --> 00:45:48,560
+interested in writing lecturing and set up some businesses in Washington as well
+
+392
+00:45:53,040 --> 00:45:55,760
+years of yorka years of yorka
+
+393
+00:45:59,360 --> 00:46:04,560
+did work there was primarily related to a meals interest in molecular evolution
+
+394
+00:46:04,880 --> 00:46:12,000
+I don't know specifically what year's these training was as a biologist or biochemist
+
+395
+00:46:12,000 --> 00:46:15,199
+I don't believe he was trained as a chemist but I don't know what his degree was in
+
+396
+00:46:15,840 --> 00:46:21,679
+but he had a very a very robust grant from the Department of Energy to analyze
+
+397
+00:46:23,199 --> 00:46:29,119
+allu sequences and the conservation of allu sequences in DNA and junk DNA over time
+
+398
+00:46:30,079 --> 00:46:36,480
+and he became after the institute's reorganization I think the assistant director of research
+
+399
+00:46:38,319 --> 00:46:44,000
+with the role ostensibly of helping Linus Point when Linus Point was absent or
+
+400
+00:46:44,799 --> 00:46:51,519
+providing input to Linus Point to make decisions about strategic decisions about research programs
+
+401
+00:46:51,519 --> 00:46:58,559
+at the institute and he was offered a job at Oregon State University but declined to come
+
+402
+00:46:58,559 --> 00:47:05,279
+north because I think his wife is a physician and had a very good practice in the San Jose area
+
+403
+00:47:05,840 --> 00:47:13,119
+they like living there and didn't want to come to Oregon I don't know if he was specifically
+
+404
+00:47:13,119 --> 00:47:18,159
+offered a position but clearly OSU was interested in recruiting him
+
+405
+00:47:22,400 --> 00:47:27,920
+Greg Spicer also was someone who was recruited by a meal to work in this area of molecular
+
+406
+00:47:27,920 --> 00:47:31,119
+evolution and Greg was working on
+
+407
+00:47:35,519 --> 00:47:41,840
+divergence of different invertebrate species using PCR which at that time was a fairly new technology
+
+408
+00:47:42,559 --> 00:47:48,400
+so Greg and I I would help him with some of this work go off in the Santa Cruz Mountains with
+
+409
+00:47:48,400 --> 00:47:55,280
+butterfly nets and collect different dragonflies and damselflies and other insects and then he
+
+410
+00:47:55,280 --> 00:47:59,840
+would run the DNA through the PCR and try to date the divergence of these different species
+
+411
+00:48:02,640 --> 00:48:10,960
+when the institute reorganized Greg was one of the new employees at IMMS so he continued to maintain
+
+412
+00:48:10,960 --> 00:48:18,240
+his lab and office in the building at 440 page mill road but then reported to a meal as part of IMMS
+
+413
+00:48:19,040 --> 00:48:28,000
+and after IMMS ended Greg took a position at San Francisco State in the department of biology
+
+414
+00:48:28,000 --> 00:48:36,000
+as a biology professor and I think he's still there I don't know if his time overlapped with
+
+415
+00:48:36,000 --> 00:48:43,760
+Krallin Krallin may have left may have retired before Greg got there but I'm sure they had friends
+
+416
+00:48:43,760 --> 00:48:48,080
+in common colleagues in common how would you do?
+
+417
+00:48:49,440 --> 00:48:55,520
+Kingdomic I did not know personally I saw him at various events and fundraisers and dinners
+
+418
+00:48:55,520 --> 00:49:02,240
+and so forth but I know that he was one of the three founders of the institute institute from
+
+419
+00:49:02,240 --> 00:49:06,320
+molecular medicine before it became known as the Linus Pauling Institute Science and Medicine
+
+420
+00:49:06,960 --> 00:49:11,680
+and dimic I believe was the the person who actually provided some of the funds to get the
+
+421
+00:49:11,679 --> 00:49:16,079
+institute off the ground in the early days there were grants transferred from Stanford but
+
+422
+00:49:16,079 --> 00:49:21,679
+there were also operational funds that were provided by Kingdomic and he had been instrumental
+
+423
+00:49:21,679 --> 00:49:29,440
+in a company that later I think was sold to variant maybe a gas chromatic chromatography
+
+424
+00:49:29,440 --> 00:49:33,679
+company or something like that I don't
+
+425
+00:49:33,679 --> 00:49:41,599
+this person named and I'm going to have another time announcing how he guessed it might be or
+
+426
+00:49:41,599 --> 00:49:47,519
+Alexander Alexander Nidswiki yes Alex was recruited
+
+427
+00:49:50,079 --> 00:49:55,679
+I believe to work with Jim Fleming in the aging program Sasagawa aging program initially
+
+428
+00:49:56,319 --> 00:50:01,599
+Jim was very interested in finding out the role of Hitchok proteins in longevity
+
+429
+00:50:02,480 --> 00:50:07,599
+life span in fruit flies primarily so he's doing a lot of work with fruit flies and also
+
+430
+00:50:08,799 --> 00:50:14,480
+producing transgenic fruit flies that overexpressed certain endogenous antioxidant enzymes
+
+431
+00:50:15,119 --> 00:50:20,559
+to try to find out if they would be more protected against toxic insult and how that would affect
+
+432
+00:50:20,559 --> 00:50:24,960
+their life span and things like that so Alex was working very closely with Jim
+
+433
+00:50:25,679 --> 00:50:35,119
+when Jim retired from the institute to go to Washington state to Spokane which is where he and his
+
+434
+00:50:35,119 --> 00:50:43,920
+family were from Alex started working with Matthias Rat who had then been recruited of course to
+
+435
+00:50:43,920 --> 00:50:50,000
+set up this cardiovascular disease laboratory at the institute so Alex began working closely with
+
+436
+00:50:50,000 --> 00:51:02,239
+Matthias Rat in carrying out that work she was one of the candidates that was being reviewed by
+
+437
+00:51:02,239 --> 00:51:09,440
+Oregon State University she didn't want to move from the Bay Area her husband was had a good job
+
+438
+00:51:09,440 --> 00:51:14,559
+in the Bay Area and you know as you find out many people who live in the Bay Area choose to live
+
+439
+00:51:14,559 --> 00:51:19,760
+there not just drawn there by their specific job but they like living there and I think
+
+440
+00:51:20,639 --> 00:51:27,119
+she was she certainly like living in the Bay Area and when the institute left she joined Dr.
+
+441
+00:51:27,119 --> 00:51:32,400
+Rat's research enterprise in Sanitarica and I believe she still works there
+
+442
+00:51:36,159 --> 00:51:43,199
+Fred Stitt who was someone who joined the institute in the 1980s he had worked with
+
+443
+00:51:43,200 --> 00:51:50,560
+Linus Pauling at Caltech I believe and it contributed to some extent on the publication of nature
+
+444
+00:51:50,560 --> 00:51:55,920
+of the chemical bond because I know he thanked and the acknowledgments of that book so I think he
+
+445
+00:51:55,920 --> 00:52:00,560
+had known Linus Pauling for a very long time I'm not quite sure what his role at Caltech was whether
+
+446
+00:52:00,560 --> 00:52:06,560
+he was there as a graduate student graduate fellow I don't believe he was on the faculty there but
+
+447
+00:52:06,639 --> 00:52:13,759
+Fred was a very very nice guy very intelligent perceptive person and he helped
+
+448
+00:52:14,559 --> 00:52:25,279
+organize some of the public responses for requests for information because by the mid 1980s we were
+
+449
+00:52:25,279 --> 00:52:31,840
+really being burdened by letters and phone calls requesting very specific information people
+
+450
+00:52:31,840 --> 00:52:38,000
+looking for all kinds of recommendations questions about whether they should take vitamin C or
+
+451
+00:52:38,559 --> 00:52:47,200
+high dose vitamin E and it had become not untenable because we felt that we were obligated to be
+
+452
+00:52:47,200 --> 00:52:52,320
+compassionate and as responsive as possible but Fred really helped organize responses to people so
+
+453
+00:52:52,880 --> 00:53:00,559
+he was trying to categorize some typical responses and then develop packets that could be sent to
+
+454
+00:53:00,559 --> 00:53:06,000
+people depending upon the nature of their question he did a very good job of that as well and also
+
+455
+00:53:07,279 --> 00:53:13,759
+responded personally to a lot of people and then he also became the newsletter editor so he worked
+
+456
+00:53:13,759 --> 00:53:23,920
+for at least several years editing the newsletter he would have worked closely with Cameron and
+
+457
+00:53:23,920 --> 00:53:30,960
+with Linus Pauline as well okay so the rest of the names that I have on my list are affiliates
+
+458
+00:53:30,960 --> 00:53:36,880
+rather than people who are actual employees and the first one of those is Martin Cayman. Martin
+
+459
+00:53:36,880 --> 00:53:42,960
+Cayman I never met Martin Cayman I know that he had a close relationship with Arthur Robinson
+
+460
+00:53:46,079 --> 00:53:49,599
+I don't really know much more about his involvement with the institute I believe he was on the
+
+461
+00:53:49,599 --> 00:53:57,440
+Board of Associates I remember correctly but I never had any interactions with him. Robert Cathcart
+
+462
+00:53:57,440 --> 00:54:05,279
+Robert Cathcart was a physician he died a few years ago he was what might be called an
+
+463
+00:54:05,279 --> 00:54:12,079
+orthomolecular physician who had gained some notoriety for developing the Cathcart prosthesis
+
+464
+00:54:12,639 --> 00:54:23,279
+many people who had had artificial hips implanted suffered because they didn't wear well prior
+
+465
+00:54:23,279 --> 00:54:28,239
+to Cathcart and Cathcart actually had the made the stunning observation that maybe we should actually
+
+466
+00:54:28,239 --> 00:54:35,360
+measure the actual relationship between the hip and the socket that the hip joint sits in and
+
+467
+00:54:35,360 --> 00:54:40,079
+from that he deduced that it was not perfectly spherical which is what most of the mechanical joints
+
+468
+00:54:40,079 --> 00:54:46,079
+were was more ellipsoidal so he came up with a new prosthesis that they had a much longer biological
+
+469
+00:54:46,079 --> 00:54:54,719
+life and he had I think he'd done some work at Stanford I don't know that he got his medical
+
+470
+00:54:54,719 --> 00:55:00,239
+degree at Stanford but he had been at Stanford in some capacity and then had a private practice
+
+471
+00:55:00,239 --> 00:55:07,519
+in incline village Nevada and had been treating people there he became very interested in Linus
+
+472
+00:55:07,519 --> 00:55:14,880
+Plung's work on vitamin C dating back to the 1960s and one issue that Cathcart became focused on
+
+473
+00:55:14,880 --> 00:55:19,759
+was how much vitamin C do you give to someone to have a therapeutic response and none of that was
+
+474
+00:55:19,759 --> 00:55:26,639
+known of course at the time and the transport mechanisms or the way vitamin C gets from the gastrointestinal
+
+475
+00:55:26,639 --> 00:55:32,559
+system into the bloodstream was not well known either people knew from simple experiments that if
+
+476
+00:55:32,559 --> 00:55:37,199
+you take a massive dose of vitamin C only a fraction of that gets into the bloodstream and then
+
+477
+00:55:37,519 --> 00:55:43,360
+a lot of it gets excreted and then a lot just passes through the gastrointestinal track and is
+
+478
+00:55:43,360 --> 00:55:50,480
+excreted but the reasons for all that were very vague and unclear people really didn't have much
+
+479
+00:55:50,480 --> 00:55:56,320
+clear idea of how vitamin C gets into the bloodstream so Cameron made the I mean Cathcart made the
+
+480
+00:55:56,320 --> 00:56:02,719
+observation that normal healthy people seem to be able to tolerate and it's quite variable but
+
+481
+00:56:02,720 --> 00:56:10,080
+can tolerate maybe a couple of grams or maybe up to five grams in a single large dose of vitamin C
+
+482
+00:56:11,840 --> 00:56:20,000
+before they get the laxative effect loose bowels and he observed that the same people when sick
+
+483
+00:56:20,000 --> 00:56:25,680
+could tolerate much much larger doses of vitamin C before that laxative effect was engaged
+
+484
+00:56:26,480 --> 00:56:33,360
+so he decided that that might be a good yardstick or guideline to use in the therapeutic application
+
+485
+00:56:33,360 --> 00:56:44,240
+of vitamin C so he recommended to his patients that take as much vitamin C as you can to reach
+
+486
+00:56:44,240 --> 00:56:51,840
+that bowel tolerance threshold effect of the laxative effect and then decrease slightly and continue
+
+487
+00:56:51,840 --> 00:56:57,440
+taking those doses of vitamin C until your symptoms are resolved and he used that pretty
+
+488
+00:56:57,440 --> 00:57:03,120
+successfully to treat people with flu and the common cold and other problems in his practice and
+
+489
+00:57:03,120 --> 00:57:11,519
+treated thousands of patients with that manner and he of course he became quite close to the
+
+490
+00:57:11,519 --> 00:57:14,639
+lines Pauline and I think they talked and visited each other quite often
+
+491
+00:57:16,960 --> 00:57:25,199
+well another very important person Erwin Stone Erwin Stone of course was about chemists who
+
+492
+00:57:25,920 --> 00:57:32,960
+had heard Pauline give a lecture in New York City about the merits of how Pauline wanted to live
+
+493
+00:57:32,960 --> 00:57:37,519
+a long time because somebody fascinating things were happening in the field of chemistry and he
+
+494
+00:57:37,519 --> 00:57:42,880
+really wanted to be around to get excited by all these developments in chemistry and the world
+
+495
+00:57:43,519 --> 00:57:48,320
+and I believe Stone followed up that with a letter to Pauline saying well there's no reason why
+
+496
+00:57:48,320 --> 00:57:54,400
+you should limit your expectations for a long life if you start taking vitamin C I think that you
+
+497
+00:57:54,400 --> 00:58:02,960
+could live another 50 years and in that letter and subsequent correspondence Stone laid out the rationale
+
+498
+00:58:02,960 --> 00:58:08,720
+for the belief that vitamin C might have value in promoting health span and lifespan and
+
+499
+00:58:09,360 --> 00:58:13,119
+decreasing the incidence of age related diseases like cancer or heart disease and
+
+500
+00:58:13,840 --> 00:58:20,000
+and be effective against infectious diseases and so forth so Stone had done a pretty good literature
+
+501
+00:58:20,000 --> 00:58:27,440
+review and he passed that along to Linus Pauline and Pauline became quite intrigued by this
+
+502
+00:58:27,519 --> 00:58:34,159
+correspondence with Stone and the literature that Stone referred to and he himself and his wife Ava
+
+503
+00:58:34,159 --> 00:58:41,920
+began taking a couple grams of vitamin C a day and made the observation that they were no longer
+
+504
+00:58:41,920 --> 00:58:48,960
+getting severe colds as often as they seem to get them previously so Pauline became I think convinced
+
+505
+00:58:48,960 --> 00:58:54,159
+that vitamin C had some value and of course this led to vitamin C in the common cold and Pauline's
+
+506
+00:58:54,159 --> 00:58:59,920
+own meta-analysis of the clinical literature and his own investigation of the literature on
+
+507
+00:58:59,920 --> 00:59:06,000
+vitamin C but I think Stone was really a catalyst for Pauline's specific interest in vitamin C.
+
+508
+00:59:07,920 --> 00:59:15,119
+I did meet Erwin Stone a few times he lived in San Jose had some kind of small institute in San
+
+509
+00:59:15,119 --> 00:59:21,119
+Jose that I think eventually was wrapped up with some help from from Rick Hicks and other people at
+
+510
+00:59:21,119 --> 00:59:27,920
+the institute and he came he came to see Linus Pauline periodically and I did see him at dinners
+
+511
+00:59:27,920 --> 00:59:32,480
+and so forth. Do you know where there's no interest in vitamin C in this regard?
+
+512
+00:59:34,400 --> 00:59:40,480
+The story I believe is that in a car accident he was left frail to deal with cells with vitamin C.
+
+513
+00:59:40,480 --> 00:59:46,880
+I think that's right I think that's exactly right. Yeah I think that's right but I don't
+
+514
+00:59:46,880 --> 00:59:53,280
+know why he considered vitamin C at that time. Maybe because you know if you have wounds you need
+
+515
+00:59:53,280 --> 00:59:59,039
+optimum collagen synthesis and vitamin C is required for collagen synthesis or you get scurvy so maybe
+
+516
+00:59:59,039 --> 01:00:04,000
+he just put two and two together and decided that you know for optimum healing of his wounds
+
+517
+01:00:05,039 --> 01:00:12,720
+both bone damage and tissue damage that vitamin C would be really important but I don't know
+
+518
+01:00:12,800 --> 01:00:18,080
+that for sure. I know that another fellow who reared in who was a long time friend of Linus Paulines
+
+519
+01:00:18,080 --> 01:00:24,960
+and very important figure in the field of orthomolecular medicine and some of the societies that grew
+
+520
+01:00:24,960 --> 01:00:30,960
+up around this concept of orthomolecular medicine. He was a psychiatrist by training and became very
+
+521
+01:00:30,960 --> 01:00:35,040
+interested in vitamin C in cancer and did a lot of clinical work in Wichita, Kansas and had a
+
+522
+01:00:35,040 --> 01:00:41,440
+whole center devoted to the development of high dose vitamin C oral and intravenous as a
+
+523
+01:00:41,440 --> 01:00:47,599
+junk to therapy for cancer. He told me that he initially became interested in vitamin C I believe
+
+524
+01:00:47,599 --> 01:00:54,720
+as a medical student when he had a poisonous spider bite and decided he had some irritation and some
+
+525
+01:00:54,720 --> 01:00:59,760
+symptoms from the spider bite and decided to just treat it with high dose vitamin C and then he
+
+526
+01:00:59,760 --> 01:01:07,360
+measured vitamin C content in his own urine and even after massive oral doses vitamin C content
+
+527
+01:01:07,440 --> 01:01:17,840
+blood I believe was extremely low so he deduced that that the vitamin C was detoxifying the spider
+
+528
+01:01:17,840 --> 01:01:24,000
+venom and all the sequelae from the spider bite you know inflammatory molecules and things like that
+
+529
+01:01:24,000 --> 01:01:29,680
+so he became convinced from his own experience again that vitamin C had some therapeutic value that
+
+530
+01:01:29,680 --> 01:01:40,080
+had really not been recognized by conventional physicians no he was not as a matter of fact I'm
+
+531
+01:01:40,080 --> 01:01:46,960
+not sure that he was even a PhD I'm not sure that he had an earned PhD it might have been an honorary
+
+532
+01:01:46,960 --> 01:01:59,599
+PhD but I have to check. How about Armani Hammer? Armani Hammer again was a retired physician who
+
+533
+01:01:59,599 --> 01:02:07,519
+had found lots of success in the business world I think one of his earliest jobs was something like
+
+534
+01:02:09,440 --> 01:02:14,320
+I remember correctly I hope I'm not confusing him with the other
+
+535
+01:02:15,280 --> 01:02:24,880
+philanthropist in New York Sackler I believe was Armani Hammer who sold pencils to Russia during
+
+536
+01:02:24,880 --> 01:02:33,600
+Lenin's rule made made a lot of money that way it seems like an odd way to make money but he
+
+537
+01:02:35,360 --> 01:02:41,120
+I'm not quite sure why he and Lenin's poem became friends but he won the or was awarded the
+
+538
+01:02:41,119 --> 01:02:46,960
+Linus Ponging Minitarian Award at one point and he came to visit Pauling at the institute a
+
+539
+01:02:46,960 --> 01:02:53,679
+number of times and I believe Pauling visited him in Southern California in a number of times that
+
+540
+01:02:53,679 --> 01:03:01,119
+probably at Banquets or honorary dinners and things like that so I met him and saw him a few times
+
+541
+01:03:01,119 --> 01:03:10,559
+but one time in the 1970s Rick Hicks had a document that needed to be signed by Armani Hammer that day
+
+542
+01:03:11,599 --> 01:03:19,679
+so I took a flight from San Jose to Los Angeles in the morning got a cab to Occidental Petroleum
+
+543
+01:03:19,679 --> 01:03:24,639
+which was headquartered in Westwood went up to see Armani Hammer chatter with him for a few
+
+544
+01:03:24,639 --> 01:03:30,079
+minutes got his signature brought the document back had I had something to eat in Westwood very
+
+545
+01:03:30,079 --> 01:03:36,159
+briefly got a cab back to LAX and flew back to San Jose and returned with a document right in time
+
+546
+01:03:41,920 --> 01:03:48,400
+Pauling had a relationship with Sackler too right yeah Sackler of course was another physician who
+
+547
+01:03:48,400 --> 01:03:54,559
+had found a lot of success in the business world and he in particular became the publisher of
+
+548
+01:03:54,559 --> 01:04:00,480
+Medical Tribune I think Sackler was very intrigued by Pauling's ideas in North molecular medicine
+
+549
+01:04:01,759 --> 01:04:10,239
+and gave Pauling quite a lot of space to write letters and articles in Medical Tribune and
+
+550
+01:04:12,000 --> 01:04:18,000
+really was I think he also won the Linus Pong Award for humanitarianism if my memory served me right
+
+551
+01:04:18,000 --> 01:04:22,559
+and he was at some of these dinners and bankwits and Pauling birthday parties and so forth
+
+552
+01:04:23,679 --> 01:04:28,719
+and I think Arthur Sackler once expressed Pauling the desire to help the institute in a very
+
+553
+01:04:28,719 --> 01:04:34,960
+substantial way but unfortunately he died before he was able to put those plans in place or
+
+554
+01:04:34,960 --> 01:04:44,079
+take any specific action Frederick Clinton was someone I never met I'm not sure that Linus
+
+555
+01:04:44,079 --> 01:04:49,199
+Pauling ever met him either but his work had been published in regional medical journals
+
+556
+01:04:49,199 --> 01:04:54,559
+in the southeast United States going back a blue to the 1940s and 50s and
+
+557
+01:04:54,559 --> 01:05:01,199
+Clinton had I think on his own started to work with very high dose vitamin C typically given
+
+558
+01:05:01,200 --> 01:05:09,920
+intravenously to treat all kinds of maladies including poisonous snake bites spider bites
+
+559
+01:05:09,920 --> 01:05:15,600
+insect bites things like that and Clinton had become convinced that this had great value
+
+560
+01:05:16,400 --> 01:05:21,440
+and the therapeutic response was very dramatic in many cases and he'd written lots of articles
+
+561
+01:05:21,440 --> 01:05:27,840
+for these regional medical journals and I think Pauling was very intrigued by his clinical work
+
+562
+01:05:27,840 --> 01:05:34,000
+and the anecdotes that Cleaner had about the utility of high dose vitamin C and treating different
+
+563
+01:05:34,880 --> 01:05:46,320
+conditions and diseases. Arthur Churkin was a PhD who had some position at the
+
+564
+01:05:47,440 --> 01:05:53,920
+VA hospital in Los Angeles and had worked somewhat closely with Art Robinson and Linus Pauling
+
+565
+01:05:53,920 --> 01:05:58,559
+perhaps in the metabolite profiling program obtaining samples or something like that
+
+566
+01:05:59,440 --> 01:06:04,000
+excuse me and he was on the Board of Trustees and I think served as the secretary of the Board
+
+567
+01:06:04,000 --> 01:06:15,680
+of Trustees for many years but I only saw him rarely. Norman Cousins was publisher of what was
+
+568
+01:06:15,680 --> 01:06:29,200
+it Saturday? Saturday review. It was a major American periodical who had been diagnosed with
+
+569
+01:06:29,200 --> 01:06:36,720
+maybe ankle mostings ankle, ankle lighting and spawned a load. I can't remember the name of the
+
+570
+01:06:36,720 --> 01:06:43,840
+term now but it was a nervous condition or a nerve tissue condition I believe that was sometimes
+
+571
+01:06:43,840 --> 01:06:50,960
+fatal and Norman Cousins became interested in Pauling's work and thought that vitamin C might
+
+572
+01:06:50,960 --> 01:06:59,280
+have some value so he embarked on a self-styled therapeutic regiment that included lots of laughter so
+
+573
+01:06:59,280 --> 01:07:04,720
+I think he watched a lot of old movies and TV shows that provided a lot of laughter and also
+
+574
+01:07:04,720 --> 01:07:11,600
+took very high dose vitamin C and seemed to recover very well from his illness so he in line
+
+575
+01:07:11,599 --> 01:07:24,079
+as Pauling became good friends. I didn't know that but it wouldn't surprise me.
+
+576
+01:07:34,880 --> 01:07:40,639
+Bruce Ames is someone who Pauling I think knew from Caltech when Ames was a graduate student there
+
+577
+01:07:41,920 --> 01:07:46,799
+Bruce Ames was friendly with his family and Peter Pauling and Linda Pauling and I'm sure had some
+
+578
+01:07:48,079 --> 01:07:54,880
+interactions with Linus Pauling back in those days too. Bruce became a professor of a professor in
+
+579
+01:07:54,880 --> 01:07:59,679
+the University of California Berkeley where he spent most of his career on the National Medal of
+
+580
+01:07:59,679 --> 01:08:04,799
+Science and developed very importantly something called the it's actually called the Salmonella
+
+581
+01:08:04,800 --> 01:08:11,120
+mutagenicity test but everybody calls it the Ames test and it's a way of using mutant bacteria
+
+582
+01:08:11,760 --> 01:08:16,400
+to determine the mutagenicity of certain compounds that might be present in the environment
+
+583
+01:08:16,400 --> 01:08:22,079
+or in the diet and also the anti-mutagenic effect of certain protective compounds or punitive
+
+584
+01:08:22,079 --> 01:08:29,440
+protective compounds so he's he's very highly regarded in the scientific world and he also recently
+
+585
+01:08:29,840 --> 01:08:38,320
+well he did work back in the 1980s on antioxidants and in particular in 1989 I believe 87 or 89
+
+586
+01:08:38,320 --> 01:08:44,240
+published a paper of Balte's Fry is now the director of the Linus Pi Institute showing that a
+
+587
+01:08:44,240 --> 01:08:50,080
+scorebait is an outstanding antioxidant in human blood so the body is full of different types of
+
+588
+01:08:50,080 --> 01:08:55,520
+antioxidants. Some are taken from our diet like vitamin C and vitamin E and some are synthesized
+
+589
+01:08:55,680 --> 01:09:02,560
+in cells in the body and provide endogenous antioxidant protection. Uric acid is another antioxidant
+
+590
+01:09:02,560 --> 01:09:07,840
+that can be produced in the body from dietary factors that are taken in and Balte's Fry and
+
+591
+01:09:07,840 --> 01:09:14,880
+Bruce Ames tried to evaluate the importance of these different antioxidants and rank them
+
+592
+01:09:14,880 --> 01:09:19,760
+and it turned out that vitamin C was by far and away the most powerful antioxidant in human blood
+
+593
+01:09:20,159 --> 01:09:28,239
+so that work of course appealed to Linus Pi and Bruce and Balte were invited to come to the
+
+594
+01:09:28,239 --> 01:09:33,840
+institute back in California it was the day of the Big Earthquake in 1989 and give back to back
+
+595
+01:09:33,840 --> 01:09:40,320
+seminars on this latest finding about vitamin C and the importance of its antioxidant
+
+596
+01:09:40,399 --> 01:09:51,599
+capacity in blood and Bruce has been very interested in the free radical theory of aging
+
+597
+01:09:51,599 --> 01:10:00,639
+and oxidative damage that might lead one to increase susceptibility to cancer for instance so
+
+598
+01:10:01,279 --> 01:10:06,880
+Bruce compares the free radicals that were thrown off by normal respiration and mitochondrial
+
+599
+01:10:07,600 --> 01:10:14,640
+activity to hits from cosmic radiation so these can very definitely damage effect and damage DNA
+
+600
+01:10:14,640 --> 01:10:19,920
+that could make you vulnerable to developing cancer so we've been very interested in that and how
+
+601
+01:10:19,920 --> 01:10:25,440
+to protect against that which includes things like antioxidants and vitamin C and then more
+
+602
+01:10:25,440 --> 01:10:31,520
+recently he's developed a triage theory and it's kind of extended Pauling's ideas in orthomolecular
+
+603
+01:10:31,520 --> 01:10:37,040
+medicine where in Pauling's original paper he talked about a couple of genetic diseases that
+
+604
+01:10:37,040 --> 01:10:44,480
+result in people's inability to metabolize certain dietary compounds and so forth and Bruce has
+
+605
+01:10:44,480 --> 01:10:53,040
+extended this to maybe 30 or more genetic diseases that can be remedied by high dose vitamin therapy
+
+606
+01:10:53,040 --> 01:10:58,880
+including some of the B vitamins so it's kind of a logical extension of Pauling's early ideas
+
+607
+01:10:58,880 --> 01:11:11,119
+in orthomolecular medicine in 2001 when we organized and convened our first diet and optimum
+
+608
+01:11:11,119 --> 01:11:16,319
+health conference Bruce was the first recipient of the Linus Pauling Institute Prize for Health
+
+609
+01:11:16,319 --> 01:11:21,760
+Research that acknowledged his pivotal and seminal work in orthomolecular medicine and worked
+
+610
+01:11:21,760 --> 01:11:26,800
+that you know resonates with the mission of the Linus Pauling Institute and Bruce also has been on
+
+611
+01:11:27,760 --> 01:11:34,880
+extramural scientific advisory board of the institute since Boltz Fry was recruited so he's
+
+612
+01:11:34,880 --> 01:11:40,560
+had a lot of really terrific critical feedback on the development of the institute and I think it
+
+613
+01:11:40,560 --> 01:11:46,239
+it could even be one of his early ideas that led to the specific development of our micronutrient
+
+614
+01:11:46,239 --> 01:11:57,840
+information center. Lester Packer is also a retired professor from UC Berkeley who has written
+
+615
+01:11:59,199 --> 01:12:06,159
+many many papers and also many books including some popular books on what he calls the antioxidant
+
+616
+01:12:06,159 --> 01:12:11,920
+network and Lester has been very interested in some of the more obscure antioxidants I mean he's
+
+617
+01:12:11,920 --> 01:12:17,279
+always been interested very much in in vitamin E in particular Marrett Traber who's one of our
+
+618
+01:12:17,279 --> 01:12:24,239
+principal investigators worked in Dr. Packer's lab at UC Berkeley much like Boltz Fry worked in
+
+619
+01:12:24,239 --> 01:12:29,440
+Bruce Haynes laboratory at UC Berkeley so they're all and also Tori Hagen who directs our
+
+620
+01:12:29,440 --> 01:12:34,000
+healthy aging program was working in Bruce Haynes laboratory at UC Berkeley so we have alumni
+
+621
+01:12:34,000 --> 01:12:40,239
+from the Ames and Packer labs Emily Ho who is one of our principal investigators also worked in the
+
+622
+01:12:40,239 --> 01:12:48,159
+games lab. So Lester is very interested in this concept of antioxidant network which refers to
+
+623
+01:12:48,159 --> 01:12:55,679
+the complex interplay between the endogenous and exogenous antioxidants in the body and how they
+
+624
+01:12:55,679 --> 01:13:02,079
+can collaborate and cooperate to protect us from oxidative damage so he's interested in things
+
+625
+01:13:02,079 --> 01:13:09,279
+like vitamin E, lapolic acid, some of the carotenoid, vitamin C, superoxid, dysmetase,
+
+626
+01:13:09,279 --> 01:13:15,920
+catalysts and all these other antioxidants and he's he's he's got terrific organizing skills as
+
+627
+01:13:15,920 --> 01:13:22,319
+well and I believe he probably played a role he may be one of the founders of the Oxygen Club
+
+628
+01:13:22,319 --> 01:13:27,679
+of California which holds annual meetings in California all organized to end this theme of
+
+629
+01:13:27,679 --> 01:13:34,000
+free radical chemistry and the effects of free radicals and antioxidants on human health and
+
+630
+01:13:34,000 --> 01:13:41,920
+disease. There is a very close relationship because many of our principal investigators have been
+
+631
+01:13:41,920 --> 01:13:47,520
+members of the Oxygen Club for a long time and we co-sponsor each other's conferences and there's
+
+632
+01:13:47,520 --> 01:13:54,079
+quite a lot of collaboration between the Oxygen Club of California and LPI and most recently as kind
+
+633
+01:13:54,079 --> 01:14:01,920
+of a manifestation of that close relationship the Oxygen Club of California donated a very nice
+
+634
+01:14:02,079 --> 01:14:07,520
+bronze sculpture from Christine Cunningham to the Linus Point Institute which is housed in our lobby
+
+635
+01:14:08,159 --> 01:14:10,480
+in the Linus Point Science Center.
+
+636
+01:14:10,480 --> 01:14:14,319
+So the last person on that list is Mark Levine.
+
+637
+01:14:14,319 --> 01:14:23,359
+Mark Levine is a physician, clinical physician and medical researcher at the National Institutes
+
+638
+01:14:23,359 --> 01:14:30,560
+of Health and he's had a longstanding interest in vitamin C and therapeutic application of vitamin C.
+
+639
+01:14:31,520 --> 01:14:39,200
+He was among the scientists at the NCI and the NIH that convened a meeting that was written
+
+640
+01:14:39,200 --> 01:14:44,960
+up in the pages of science as vitamin C gets a little respect and Linus Point of course participated
+
+641
+01:14:44,960 --> 01:14:50,400
+in that meeting, Gladys Block. He became a trustee of the Linus Point Institute of Science and Medicine.
+
+642
+01:14:50,400 --> 01:14:52,880
+Balsray was there, Lester Packer was there I believe.
+
+643
+01:14:54,480 --> 01:14:59,680
+And Jeroel and Connie Chameh attended that as well but it was a meeting organized at the NCI
+
+644
+01:15:00,640 --> 01:15:05,600
+to talk about the role of vitamin C in cancer and health and disease.
+
+645
+01:15:06,640 --> 01:15:16,240
+And Mark has carried out in recent years, well actually beginning in the mid 1990s, very
+
+646
+01:15:16,240 --> 01:15:22,560
+elegant, carefully controlled pharmacokinetic studies on vitamin C because he's always been
+
+647
+01:15:22,560 --> 01:15:27,119
+interested in how what happens to vitamin C once you take it, where does it go, how much
+
+648
+01:15:27,199 --> 01:15:32,000
+actually gets into the bloodstream, how does it get into the bloodstream. So he carried out some
+
+649
+01:15:32,000 --> 01:15:37,279
+very interesting pharmacokinetic studies that helped inform the food nutrition boards
+
+650
+01:15:38,880 --> 01:15:44,720
+change in 2000 of the RDAs for vitamin C. And he showed for instance that
+
+651
+01:15:46,079 --> 01:15:50,960
+oral vitamin C you can take as much as you want but you rarely can get above for the average person
+
+652
+01:15:50,960 --> 01:15:56,720
+about 200 micromole per liter concentration of vitamin C in the blood because the amount of
+
+653
+01:15:56,720 --> 01:16:01,440
+vitamin C that gets into the bloodstream is limited. And he didn't make these discoveries but
+
+654
+01:16:02,240 --> 01:16:07,920
+about a dozen years or so ago discoveries were made about the transport mechanisms,
+
+655
+01:16:07,920 --> 01:16:13,520
+these molecules that transport vitamin C across cells, they're on the cell surface and they
+
+656
+01:16:13,520 --> 01:16:19,680
+determine how much vitamin C gets into the cell. So the cells that line the epithelia around the
+
+657
+01:16:19,680 --> 01:16:25,360
+intestines have these transport mechanisms on them and they determine how much vitamin C gets
+
+658
+01:16:25,359 --> 01:16:30,479
+into the bloodstream from the intestine. And it's limited, it just doesn't diffuse through,
+
+659
+01:16:30,479 --> 01:16:34,319
+you know, you have a higher concentration here and a low concentration there. You might say,
+
+660
+01:16:34,319 --> 01:16:38,639
+well, it's just a diffusion gradient phenomenon where it diffuses from the high concentration
+
+661
+01:16:38,639 --> 01:16:42,239
+and the low concentration try to get equilibrium. It doesn't really work quite like that.
+
+662
+01:16:42,880 --> 01:16:49,759
+It may, it very, very high doses that may come into play but primarily it's controlled by these
+
+663
+01:16:49,760 --> 01:16:56,960
+mechanisms. And after Mark's pharmacokinetic studies with both oral vitamin C and intravenous
+
+664
+01:16:56,960 --> 01:17:03,760
+vitamin C, it dawned on him that, wow, maybe that explains why the male clinic studies failed
+
+665
+01:17:03,760 --> 01:17:10,720
+to show any benefit for high dose vitamin C because they gave vitamin C only orally whereas
+
+666
+01:17:10,720 --> 01:17:16,560
+Cameron typically gave vitamin C intravenously and orally. And when you give it intravenously you
+
+667
+01:17:16,560 --> 01:17:21,840
+bypass these control mechanisms on cells and you can get very, very high concentrations in the
+
+668
+01:17:21,840 --> 01:17:27,440
+blood that depending on the dose can be 70 or 100 times greater, millimole concentrations of
+
+669
+01:17:27,440 --> 01:17:33,760
+vitamin C in the blood that are unobtainable by oral vitamin C. And Mark has since gone on to
+
+670
+01:17:33,760 --> 01:17:39,360
+show in a series of really great experiments, cell culture experiments and small animal experiments
+
+671
+01:17:40,160 --> 01:17:46,160
+that these very high concentrations of vitamin C generate hydrogen peroxide in the milieu
+
+672
+01:17:46,159 --> 01:17:53,519
+around tumor cells. And then the hydrogen peroxide can presumably diffuse into the tumor cells
+
+673
+01:17:53,519 --> 01:18:00,239
+and cause their death by different mechanisms, including interfering with mitochondrial machinery
+
+674
+01:18:01,119 --> 01:18:08,399
+and causing atop poses, apoptosis, sorry. So where does this line of research just want to
+
+675
+01:18:09,200 --> 01:18:17,520
+do you do your trials? Yeah, the line of research is so engaging and now that we have a better
+
+676
+01:18:17,520 --> 01:18:24,880
+mechanistic understanding of vitamin C in cancer and we have a better understanding of the pharmacokinetics
+
+677
+01:18:24,880 --> 01:18:29,200
+this is led to a number of preliminary clinical trials phase one clinical trials and be followed
+
+678
+01:18:29,200 --> 01:18:35,680
+up by other clinical trials. I'm sure that we'll get at these issues of safety, combination with
+
+679
+01:18:35,680 --> 01:18:40,960
+other standard drug therapy because there's some evidence that some of the arsenic compounds that
+
+680
+01:18:40,960 --> 01:18:47,920
+are used chemotherapeutically are potentiated by vitamin C which also tends to decrease the side
+
+681
+01:18:47,920 --> 01:18:56,159
+effects of the arsenic trioxide compounds. So lots of questions remain, optimum dose of vitamin C,
+
+682
+01:18:56,159 --> 01:19:01,920
+the frequency of vitamin C, slow drip infusion versus periodic injection a few times a week.
+
+683
+01:19:02,399 --> 01:19:09,520
+All those questions really need to be answered and those issues need to be characterized much
+
+684
+01:19:09,520 --> 01:19:16,560
+more carefully and we really don't at this point have any predictive ability so we don't know which
+
+685
+01:19:16,560 --> 01:19:21,359
+people would which cancer patients are going to benefit most from high dose vitamin C.
+
+686
+01:19:21,920 --> 01:19:26,800
+Clearly it's not a panacea for all cases of terminal cancer and there are many people that
+
+687
+01:19:26,800 --> 01:19:32,320
+have not benefited from high dose IV vitamin C and that needs to be understood as well.
+
+688
+01:19:33,039 --> 01:19:38,720
+And interestingly this all harps back to work that Pauline published with Japanese researchers
+
+689
+01:19:38,720 --> 01:19:46,640
+back in the 80s showing that vitamin C can generate hydrogen peroxide and cell culture experiments
+
+690
+01:19:47,760 --> 01:19:52,560
+and that this is what's killing tumor cells. So back in the 1980s as I said earlier that's when
+
+691
+01:19:52,560 --> 01:19:58,560
+Pauline's attention started to focus more on the cytotoxicity of vitamin C and degradation
+
+692
+01:19:58,560 --> 01:20:05,600
+products of vitamin C direct effects against cancer cells as opposed to humoral effects with host
+
+693
+01:20:05,600 --> 01:20:12,080
+resistance. So I think it's very promising a lot needs to be learned. The patient population in
+
+694
+01:20:12,080 --> 01:20:18,160
+Scotland may be quite different from the contemporary patient population in the United States and
+
+695
+01:20:18,960 --> 01:20:22,800
+you know all these it's very very complex and there are a lot of issues that need to be
+
+696
+01:20:22,800 --> 01:20:27,359
+really analyzed and thought about very carefully but I think the upshot is that
+
+697
+01:20:28,239 --> 01:20:33,359
+many complementary so-called complementary physicians are now using high dose IV vitamin C
+
+698
+01:20:33,359 --> 01:20:39,920
+as a junked of cancer therapy but we don't yet have good data acquisition and analysis
+
+699
+01:20:39,920 --> 01:20:44,639
+of all those anecdotal reports and I think you know people are interested in getting that information.
+
+700
+01:20:44,640 --> 01:20:51,600
+Well so there might be some validation after Pauline's attention for 35-40 years later.
+
+701
+01:20:51,600 --> 01:20:55,440
+I think there will be validation for Pauline and Kermann and interestingly enough
+
+702
+01:20:56,800 --> 01:21:00,720
+if you if you look carefully in some of Pauline's writings particularly
+
+703
+01:21:02,000 --> 01:21:05,360
+after the male clinic trials I mean he and Kermann and others came up with
+
+704
+01:21:07,440 --> 01:21:11,840
+criticisms of the male clinic methodology and there were lots of criticisms that were
+
+705
+01:21:11,840 --> 01:21:16,880
+fine criticisms. The fact that the patients have undergone parochymotherapy in the first trial
+
+706
+01:21:16,880 --> 01:21:21,520
+or vitamin C was suspended in the second trial and then patients started to die when the
+
+707
+01:21:21,520 --> 01:21:27,119
+vitamin C was stopped abruptly and there seemed to be fairly high concentrations of vitamin C in the
+
+708
+01:21:27,119 --> 01:21:34,400
+urine of some of the placebo patients which makes people doubt that they were true placebo patients.
+
+709
+01:21:34,560 --> 01:21:43,600
+So they had a lot of criticism about the methodology but at least Pauline and I believe Kermann
+
+710
+01:21:43,600 --> 01:21:48,880
+also noted in print that there was a big difference between the mode of administration
+
+711
+01:21:49,600 --> 01:21:53,760
+and although they didn't have evidence at the time to suggest that
+
+712
+01:21:54,480 --> 01:21:58,480
+IV vitamin C was definitely more effective Pauline
+
+713
+01:21:59,360 --> 01:22:04,880
+speculated that this may have some importance so I think he was very insightful there as well.
+
+714
+01:22:19,920 --> 01:22:20,240
+Well
+
+715
+01:22:29,200 --> 01:22:32,160
+yeah I'd have to finish unpacking my office and look at some of the early
+
+716
+01:22:32,720 --> 01:22:37,760
+employment rosters to see if there were there people there. I mean I knew a lot of people
+
+717
+01:22:37,760 --> 01:22:43,200
+over a long period of time and I think we've touched on most of the principles but clearly there
+
+718
+01:22:43,200 --> 01:22:47,200
+were a lot of other people that worked there because there were I mean you know there were 75 or
+
+719
+01:22:47,200 --> 01:22:53,200
+80 people working at the institute at different times so ed blazedel is another one who worked
+
+720
+01:22:53,279 --> 01:23:00,159
+with a lot of data analysis Steve Burbek is another person who maybe I should talk about this
+
+721
+01:23:00,159 --> 01:23:06,239
+for just a moment I don't know if Steve Burbek was on your list there. Steve Burbek was I think had
+
+722
+01:23:06,239 --> 01:23:12,720
+research experience in audiology or psychology and hearing or something like that but also had
+
+723
+01:23:12,720 --> 01:23:20,079
+strong background in computer science when we were developing this program of protein profiling
+
+724
+01:23:20,079 --> 01:23:27,279
+and just to give you a brief introduction to that if you're interested in finding out what
+
+725
+01:23:27,279 --> 01:23:33,519
+differences in gene activity or proteins might be between one type of cell and another say a normal
+
+726
+01:23:33,519 --> 01:23:40,000
+cell in a cancer cell you need some way to to quantify or visualize those proteins and one
+
+727
+01:23:40,000 --> 01:23:45,119
+way of doing that is to have different cell populations that you're growing in petri dishes
+
+728
+01:23:46,079 --> 01:23:52,479
+and say for sake of example you have a population of normal cells in one petri dish and a
+
+729
+01:23:52,479 --> 01:23:57,359
+population of those normal cells that have been treated with something to make them tumorogenic
+
+730
+01:23:57,359 --> 01:24:03,920
+in a different dish then you can incubate those cells with something like S35 methionine which
+
+731
+01:24:03,920 --> 01:24:11,119
+is a radioactive isotope of sulfur combined with methionine which is an amino acid that gets incorporated
+
+732
+01:24:11,119 --> 01:24:17,519
+into proteins so as these cells in the dish are making new proteins and growing they're
+
+733
+01:24:17,519 --> 01:24:22,079
+incorporating this radioactive methionine because you're growing them in a normal methionine deficient
+
+734
+01:24:22,079 --> 01:24:27,680
+medium and you replace the normal methionine with this radioactive methionine so now all the proteins
+
+735
+01:24:27,680 --> 01:24:34,159
+that incorporate methionine in these cells now become radioactive so at the end of a certain
+
+736
+01:24:34,159 --> 01:24:39,439
+period of time you can drain the fluid from these cells you can collect all the cells you can
+
+737
+01:24:39,440 --> 01:24:45,120
+rupture them which is called cell lysis and then you end up with a little radioactive cell lysate
+
+738
+01:24:45,120 --> 01:24:49,360
+and you can separate the proteins in that cell lysate and has to be treated in certain ways
+
+739
+01:24:50,160 --> 01:24:55,920
+in these porous polyacrylamide gels on the basis of their
+
+740
+01:24:57,680 --> 01:25:04,160
+isoelectric point which is related to a pH gradient and also on the basis of the molecular weight
+
+741
+01:25:04,160 --> 01:25:08,240
+so you do a two-dimensional separation of these proteins under the influence of an electric
+
+742
+01:25:08,239 --> 01:25:17,920
+field and you end up with a rectangular gel about half the size of a piece of stationary paper
+
+743
+01:25:17,920 --> 01:25:24,079
+and that gel can be dried onto a piece of filter paper so now you've got this gel that contains
+
+744
+01:25:24,079 --> 01:25:28,800
+all these radioactive proteins dried onto a piece of filter paper you can put that up against
+
+745
+01:25:28,800 --> 01:25:36,079
+a piece of film and put it in a film cassette in the dark for x number of hours or days then you
+
+746
+01:25:36,079 --> 01:25:40,319
+take the film out and you develop it in the film processor and if you look at the film you'll see
+
+747
+01:25:40,880 --> 01:25:46,079
+hundreds or thousands of little spots that correspond to a radioactive emission from the
+
+748
+01:25:46,079 --> 01:25:52,399
+methining residue on the proteins so then you can the question is well how do you quantify that
+
+749
+01:25:52,399 --> 01:25:57,279
+so you've got all these spots of varying intensity and size all over this piece of film
+
+750
+01:25:58,079 --> 01:26:03,920
+so part of Steve Burbeck's program at the institute Jerry Ladder participated in this
+
+751
+01:26:03,920 --> 01:26:10,640
+and other people participated in it as well was to develop hardware and software that would
+
+752
+01:26:10,640 --> 01:26:18,319
+help us and now analyze these films and come up with quantitative information so we bought for
+
+753
+01:26:18,319 --> 01:26:23,600
+instance a drum scanner and a drum scanner is simply a device on which you can mount one of these
+
+754
+01:26:23,600 --> 01:26:29,520
+films and then it spins around really fast and it digitizes these spots so now you've got
+
+755
+01:26:29,520 --> 01:26:35,920
+information in the computer about the position and intensity and size of these spots and you
+
+756
+01:26:35,920 --> 01:26:42,480
+can use that to create a pseudo image on a computer screen that corresponds to the you know the
+
+757
+01:26:42,480 --> 01:26:47,360
+position of all these images in the computer screen correspond to the spots that you saw in the
+
+758
+01:26:47,360 --> 01:26:54,160
+x-ray film exactly the same only now they can be color coded for intensity and Steve Burbeck and
+
+759
+01:26:54,159 --> 01:27:02,960
+Jerry Ladder and others develop software programs that allowed us to to analyze these images very
+
+760
+01:27:02,960 --> 01:27:09,279
+carefully and come up with quantitative information so we could find out whether certain proteins were
+
+761
+01:27:09,279 --> 01:27:15,199
+decreasing in synthesis or increasing in synthesis in these tumor cells or whether new proteins were
+
+762
+01:27:15,199 --> 01:27:19,760
+being synthesized or whether certain proteins being synthesized in the normal cells were suddenly
+
+763
+01:27:19,760 --> 01:27:26,000
+disappearing in the tumor cells and to do that kind of analysis in a quantitative way is really
+
+764
+01:27:26,000 --> 01:27:32,720
+complicated and Steve Burbeck and Jerry Ladder and others worked on for years on a program to help
+
+765
+01:27:32,720 --> 01:27:38,159
+us analyze those gels that developed all kinds of really sophisticated algorithms to help us
+
+766
+01:27:38,159 --> 01:27:43,920
+understand and match so we had a semi-automated system that would allow us to match spots
+
+767
+01:27:44,880 --> 01:27:51,119
+from one gel to another so if you have an image for the normal cell proteins and then an image
+
+768
+01:27:51,119 --> 01:27:56,560
+side by side on the computer screen from the tumor cell proteins you want to be able to match
+
+769
+01:27:57,680 --> 01:28:03,520
+one protein from one image to the same protein and the other image and to do that you need very
+
+770
+01:28:03,520 --> 01:28:09,279
+sophisticated software so they spend quite a number of years developing software to help us in
+
+771
+01:28:09,279 --> 01:28:13,840
+that kind of analysis so it was a big program actually at the institute
+
+772
+01:28:17,679 --> 01:28:18,479
+not offhand
+
