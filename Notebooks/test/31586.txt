@@ -1,0 +1,1884 @@
+00:01
+Today is December 12, 2017.
+00:04
+We’re at the Valley Library and I’m here with Dr. Dominique Bachelet, a
+00:10
+professor in the Department of Biological and Ecological Engineering Program.
+00:15
+Today we’re going to talk about your research as it relates to global
+00:19
+warming, but I’d like to start with your background: where were you born?
+00:23
+In Arras, France, north of Paris.
+00:26
+If you do a triangle between Brussels, London, and Paris my hometown is pretty
+00:30
+much in the middle of the triangle.
+00:32
+And that’s where you grew up?
+00:34
+Mm-hmm [yes]
+00:35
+. What was it like growing up there, growing up in France?
+00:39
+[Laughs] It was good food.
+00:44
+It’s a smallish town.
+00:45
+It’s about 100,000 people.
+00:47
+It’s in the middle of agricultural country.
+00:50
+I had one grandfather who was a blacksmith, for example.
+00:53
+One was an accountant in town.
+00:57
+North of my hometown ______ it was the old mine country, because the mines
+01:04
+were very deep they were about to close.
+01:06
+Only Polish people were able to or were gutsy enough to go and get the coal
+01:11
+out and so there were a lot of Polish enclaves in that area with a lot of fun
+01:18
+musical events and things like that, but also terrible accidents that happened
+01:22
+when I was a kid, too, so it was, you can tell it was the end of an era.
+01:27
+What did your parents did?
+01:29
+My mom was working in the telephone company, so putting the first digital
+01:38
+list of people who had phones, so that was kind of a fun era going digital.
+01:45
+France was the first one to have these little mini tele, which
+01:50
+were a little bit like the old Macs.
+01:54
+Little boxes with a screen and that was replacing the telephone
+01:58
+directory, so that was pretty neat.
+02:01
+That was in the ‘70s, yeah.
+02:04
+My dad started as a mechanic and became in charge of all the mechanics
+02:10
+in that local Citroën garage in town.
+02:13
+He was testing a lot of the new models on the freeway for the Citroën cars.
+02:21
+Nobody had gone to university.
+02:24
+I was the first in my family to do that.
+02:25
+I don’t have any siblings.
+02:28
+I was the one and only in my family.
+02:32
+What was your school experience like?
+02:35
+I went to Catholic school, two different schools in my hometown.
+02:40
+When I was 7 I went to the secondary school and was there
+02:44
+until I turned 17, all-girls school and with nuns teaching us.
+02:51
+There were non-nuns too, but very strict, hard-working, very much so.
+02:58
+We had the reputation of being really good, so we had to maintain that,
+03:02
+otherwise the nuns would descend upon us.
+03:06
+But it was a good time.
+03:07
+We were a good pack of friends, so it was good.
+03:11
+Did you have someone who guided you towards university?
+03:15
+Guided me to the university?
+03:17
+No, but it was pretty much a given that unless you wanted to do a vocational
+03:22
+thing like your parents you were pretty much going to the university next.
+03:27
+So, not really.
+03:29
+I had really good teachers, but I can’t say that anybody really
+03:32
+told me to go to the university.
+03:33
+I was really interested in science and I really wanted to do research, so I went.
+03:43
+You went to the university in Lille, is
+03:48
+that correct?
+03:48
+That’s correct, yeah.
+03:49
+It’s about a 30-minute train ride from my hometown.
+03:53
+I would take the train and go over there, and I rented an apartment in
+03:57
+town over there and yeah went to class every day and came back for the weekend.
+04:03
+How did you decide to study life science?
+04:06
+I’ve always been interested in science, from as little as I was insects and
+04:12
+worms I would bring all sorts of things home, to my mom’s dismay.
+04:16
+It was pretty obvious from the start that science was the way I was going to go.
+04:20
+I hesitated with medicine, because I was really interested
+04:22
+in immunology and surgery.
+04:26
+I used to open all sorts of mice on the tables, which was already
+04:31
+problematic for the people
+04:36
+_______ . Met a lot of people who were doing botany and that was the part of the
+04:40
+science that I knew the least about.
+04:41
+I had to write quite a bit about animals, so I thought, well, I should
+04:45
+learn more about plants, so I went into plant biology for my masters in Lille.
+04:52
+Why did you decide to pursue higher education?
+04:56
+Good question.
+04:58
+Let’s see?
+04:59
+Why did I do that?
+05:01
+Obviously, I hadn’t been doing any research when I was doing my masters,
+05:04
+because you don’t have the opportunity, but as soon as you start your Ph.D.
+05:08
+you’re given research projects, so I definitely wanted to do that.
+05:12
+I moved to Paris to do that, to Paris 11, which is the southern suburbs of Paris.
+05:17
+Met my advisor there who was just back from a stint with the International
+05:24
+Biological Program in Saskatchewan, and so he was working on grasslands and was
+05:30
+very interested in modeling and computer science and so we started working
+05:34
+together and at the time I was working on migratory grasshoppers from Africa and
+05:40
+how their swarming was determined by the water content of their food, and so did
+05:48
+a project with three species from Africa and used all sorts of techniques that
+05:53
+hadn’t been used on that sort of insect.
+05:59
+Anyway, went on with that for that for the first year.
+06:01
+It was a pretty small case of research in the lab and then wanted to do a model
+06:08
+and my advisor said if you really want to do a lot of computer science you should
+06:13
+finish it in the U.S. and not stay here.
+06:15
+And so, I packed up my bags and went to the University
+06:21
+of West Virginia, WVU, which was the cheapest university in
+06:27
+terms of tuition for foreign students at that U.S. at the time.
+06:31
+In August ’79 I arrived there with two suitcases and met Ann Bartuska, who was
+06:37
+doing her Ph.D. there and Ann went up in the stratosphere of the forest service,
+06:43
+which is always fun to see, a good friend.
+06:47
+She taught me how to get a card, a Social Security Card, how to
+06:53
+open a bank account and all that.
+06:55
+I stayed with her I think for a couple of weeks before I got my own apartment
+06:58
+and went on my feet and met my advisor, but he’s a person I had corresponded
+07:05
+to from France, and who was actually Ann’s major advisor and was looking
+07:11
+at decomposition in tropical forests.
+07:15
+Then met Bill Hunt, who was a young professor and was doing a lot of
+07:19
+simulation and so I was really interested in what he was doing, even though
+07:24
+he was from Texas and I had a heck of a time understanding his accent.
+07:30
+Started working more closely with him and talking about projects.
+07:33
+He was leaving.
+07:34
+I arrived in August in Morgantown and he was leaving the next June
+07:40
+for Fort Collins and asked me if I wanted to be on his project.
+07:44
+Of course, I agreed and moved to Colorado and then met another person, Jim Detling,
+07:50
+who had the project with typical research site at Pawnee Grasslands and studied
+07:57
+being his graduate assistant and so I had the double advisor and working
+08:03
+there on the role of grazing on the sort of blue grama grass, so all the
+08:10
+biogeochemical cycling in the short grass prairie Colorado and it was a lot of fun
+08:17
+working with all sorts of herbivores.
+08:18
+I was really interested in the plant-animal interactions.
+08:21
+The animals is where I had started, the plants I was still learning something
+08:24
+about but how the two interacted in terms of cycles was really of interest to me.
+08:31
+Climate was there first and foremost of course from the start.
+08:39
+Did you speak English before you came to the U.S. and how was it as a
+08:42
+researcher as non-native English speaker?
+08:45
+Yeah, so in France we learn English pretty quickly.
+08:48
+It’s our second language, or at least in Northern France it definitely is.
+08:52
+My mom was supposed to be an English teacher.
+08:55
+After World War II there were several soldiers who stayed at
+08:58
+my grandparents’ house, so she was pretty fluent in English, so
+09:01
+she always made me speak English.
+09:04
+We went to England several times.
+09:06
+I spent 3 summers in England and two summers in the U.S. before I moved
+09:11
+here, so I would say I was pretty good in English, nothing like I am now, but
+09:18
+I could understand English, I’d say.
+09:21
+Only the strong accent I had
+09:26
+problems with.
+09:26
+For a non-English speaker, there were ups and downs, but it was okay.
+09:31
+When I was in West Virginia I made money serving as a translator
+09:35
+for a group of African students for whom their first language was
+09:41
+French, so I was helping them.
+09:42
+They were doing a master’s in agriculture.
+09:44
+So, I was serving as their translator when they were there.
+09:48
+So that was fun.
+09:50
+But anyway, and also to make some extra money I did some translation
+09:53
+of abstracts for science papers and things like that at the time.
+09:58
+But to do research is like all the papers are written in English anyway,
+10:01
+so no matter what you need to at least read English if not speak it fluently.
+10:07
+In terms of computer modeling language, what were your—
+10:10
+At the time is was Fortran.
+10:13
+That was my second language for Colorado State University Ph.D. requirements.
+10:17
+It was pretty funny.
+10:20
+Did you enjoy learning that?
+10:22
+Oh, I love computers and programming at the time, yeah.
+10:26
+I’ve always liked math and so computers was just translating an equation
+10:31
+into a code and then running it many times, which was a lot of fun.
+10:37
+Did you teach while you were in Colorado?
+10:39
+Yeah, I was a TA for—I forget how many classes I was TA for.
+10:45
+Some introduction classes and in simulation modeling for Bill Hunt.
+10:48
+I was his TA for at least 2 semesters.
+10:55
+What was the cultural environment like at CSU with respect to
+10:59
+your environmental interests?
+11:02
+With respect to my environmental interests?
+11:04
+Well, it was great.
+11:04
+I mean, the Pawnee Grasslands were right there.
+11:08
+At the time the natural resource ecology lab was an old building
+11:13
+on campus that kind of brought people from different departments.
+11:17
+There was no ecology department.
+11:18
+There was nothing that was kind of like now that would be ecosystem
+11:22
+science, so the professors came from different departments: rangeland,
+11:27
+botany, and plant pathology.
+11:28
+I ended up getting my degree in botany and plant pathology just because that was the
+11:33
+easiest way, the way my two advisors were.
+11:39
+We were a bunch of young grad students.
+11:41
+There was Dave Schimmel, Beth Holland,
+11:46
+Jill Baron, Dennis Ojima.
+11:50
+We all share in the same rooms.
+11:52
+It was pretty tight.
+11:53
+When Beth was opening her drawer in her desk, I had to move into my desk,
+11:57
+so she could get things out of the drawer, but we had great interactions
+12:04
+between the professors and the students.
+12:08
+Professors there was Bill Parton and Dave Coleman, so every week we had a brown
+12:15
+bagger where the students would give 10, 15-minute presentations and there
+12:20
+were two students and one professor who would prepare something for 30 minutes.
+12:24
+We had an hour brown bagger to share the science that was being done there.
+12:29
+I was very dynamic.
+12:31
+I think the professors were all pretty young, except, well, Dave Coleman
+12:34
+was not so young anymore, but still.
+12:36
+It
+12:38
+was very, very active.
+12:40
+A lot of really good relationships between students and professors, very
+12:45
+ongoing all the time and then Friday afternoons there was always a social.
+12:51
+We had really easy access to the professors doing research,
+12:54
+so that was really valuable.
+12:58
+Then you stayed in the U.S. when you were done with your Ph.D.?
+13:01
+Yeah, so just before I finished I did my defense I went back to France to
+13:08
+take an exam, the national exam, because my professor in Paris really wanted
+13:12
+me to come back and work with him.
+13:15
+It’s a national exam.
+13:16
+Even now, it’s pretty limited the number of people who are picked.
+13:19
+The year I took the exam they were picking one person and I finished second, so
+13:24
+it was like [mouth noise] . So, I went back and did my defense and then moved
+13:29
+to Thailand for 4 months and then was teaching computer science over there
+13:34
+and then I applied for postdocs and got two offers and so I went to California.
+13:42
+The two offers were in California, so that was easy in terms
+13:44
+of location but picked one.
+13:46
+Called my advisor in Colorado and said okay, who should I go work for?
+13:50
+Who’s the best person?
+13:51
+Who does the best science?
+13:52
+So that’s who I picked.
+13:56
+That was desert and ecosystem modeling?
+13:58
+Yeah, with Wes Jarrell in Riverside, California at UCR.
+14:02
+I was there for a couple of years working on the nitrogen fixers and mesquite trees
+14:10
+in Sonoran Desert looking at how is the coupling between the nitrogen fixation at
+14:18
+the bottom next to the phreatic zone where the mesquite has very deep roots that hits
+14:23
+the phreatic zone, so the groundwater.
+14:26
+Then there’s rhizobium nodule next to the water so it’s a very moist zone, picks
+14:30
+up the nitrogen, natural, I mean gases, nitrogen and moves that into the tissues
+14:36
+of the plant and the leaves become really high in nitrogen, they fall on the ground
+14:40
+and there’s accumulation of nitrogen underneath a canopy until there’s a rain.
+14:45
+Then the fine roots which are dormant during dry times come to life and
+14:50
+start dealing with the nitrogen that’s going to be leeching from
+14:53
+the dead leaves underneath the tree.
+14:54
+But there’s a _____ between their low root system, moist root system,
+15:00
+and their very dry upper canopy.
+15:04
+The leaves are so rich in nitrogen that you have a lot of insects that go
+15:08
+and pick up the moisture and nitrogen that are in the leaves and you can
+15:14
+be sitting under a mesquite in the middle of a very hot summer and it’s
+15:17
+going to be raining sugar because the insects are going to pick those leaves.
+15:22
+It’s a very interesting thing.
+15:24
+We were in a pretty neat team and we were walking, we worked in Palm Springs
+15:29
+and found some of the first nodules.
+15:32
+There was an ____ and so all the floods that was during the monsoon had carved
+15:38
+out really steep bank and you could see the roots of mesquite and we found
+15:43
+nodules very, very deep—they were 6 meters deep or something like that.
+15:49
+We knew that they were there, but we had no real data, so we actually found
+15:52
+them, which was really interesting.
+15:56
+Then you went to Man Tech Environmental?
+15:59
+No, First I went to New Mexico State.
+16:04
+Because I was working on the nitrogen fixing model.
+16:07
+Jim Reynolds who was working—I moved to New Mexico State University was in the
+16:14
+process of putting together a desert model, so I went over there and worked
+16:17
+2 years over there and worked with Pete Virega, who was a soil scientist,
+16:21
+now retired, at New Mexico State.
+16:23
+So, I spent two years there.
+16:25
+Then I applied for a job with Man Tech in Corvallis at the EPA lab.
+16:30
+That’s where I started working on UV-B impacts on terrestrial ecosystems.
+16:39
+So, I started there September ’88 and the Montreal Protocol was
+16:42
+signed pretty much immediately so we got a phone call from Washington,
+16:46
+D.C., saying okay forget ozone.
+16:49
+We got that under control but this climate change thing, can
+16:52
+you switch to climate change?
+16:54
+It’s like, okay, we’ll switch to climate change.
+16:57
+Then of course they told me well, we’re not going to do terrestrial ecosystem
+17:01
+we’re going to do rice patties in Asia.
+17:05
+Welcome to the EPA.
+17:09
+It’s just like suddenly the project theme had changed dramatically,
+17:12
+but in their mind, I was a grass line ecologist, and rice being a
+17:16
+grass I was right in my expertise.
+17:21
+So, worked with that project until ’94.
+17:25
+Traveled to Asia quite a bit to meet with everybody doing all sorts of experiments.
+17:30
+The main fieldwork was done in the Philippines.
+17:33
+We had growth chambers and methane emission chambers.
+17:37
+Methane part of the project was pretty much instrumented
+17:44
+and analyzed by a German group and then all the simulation modeling
+17:49
+that I was working on was also led by Dutch people who had a
+17:55
+whole suite of agriculture models.
+17:58
+I was interested in putting an ecosystem model together.
+18:00
+They were interested in the crop and yield part, so it was a good association.
+18:05
+Then all sorts of CO2 chambers and it was—oh, I see his face and I can’t
+18:11
+remember his name, who did all the CO2 work at the Institute of Rice
+18:15
+Research in the Philippines, but
+18:20
+we worked with people in China, people in Japan, people in Vietnam
+18:25
+and then a few scientists here in the U.S. It was a big project.
+18:31
+How did you feel about working in an agricultural—?
+18:34
+It was fun.
+18:35
+Yeah, there’s a lot more data for Ag than it is for natural
+18:39
+systems, so it was great.
+18:40
+There was lots of numbers to play with, to do the model with.
+18:46
+We tried four different models.
+18:48
+It was a good team with lots of interacting people, so it was a really
+18:53
+good learning experience and then of course at the end when we wrote the
+18:57
+final report we gave all the data to an economist who pretty much told us
+19:02
+that the biology, yeah, sure but what’s the most important thing in terms of
+19:07
+the future of rice was the price of rice on world markets, and of course
+19:12
+the social unrest or peace in the countries that produce the most rice.
+19:18
+That was kind of a sobering thought, but logical.
+19:29
+What did you think of Corvallis when you arrived here?
+19:32
+I thought it was a very small town.
+19:36
+I was used to more I’d say entertainment possibility—I love
+19:41
+theater and so does my husband.
+19:43
+We used to go to the theater in Las Cruces, even though it’s a small town
+19:48
+too, they had a top-notch theater.
+19:51
+It was a little disappointing coming to Corvallis.
+19:54
+The theater scene was pretty poor at the time, but the folk scene was pretty neat.
+19:59
+We pretty much got into the Corvallis Folklore Society, attended
+20:03
+a lot of their music events.
+20:05
+We learned a lot about folk singing and folk singers, I should say, but
+20:10
+anyway it was nice to be able to go to Portland and enjoy the big city.
+20:16
+But we love the outdoors, so that was good to be close to the
+20:20
+ocean and close to mountains.
+20:22
+Of course, it rains a lot so that was after New Mexico and
+20:26
+California it was really tough to get used to these 9 months of rain.
+20:32
+That’s always been the down side of Corvallis.
+20:38
+But very small community.
+20:40
+Everybody
+20:43
+knows everybody, so it’s kind of interesting.
+20:48
+You transitioned to OSU from Man Tech?
+20:53
+Correct, across the street, yeah.
+20:55
+What did you think about that transition returning to academia?
+20:59
+Well, it didn’t make much difference, because I mean it’s
+21:01
+not like OSU paid my salary.
+21:04
+I was still on the research project, so what happened was Ryan Neilson was
+21:09
+working on the EPA and he was looking at climate change, but on terrestrial
+21:15
+systems, on natural systems, and so I had already worked on the climate
+21:20
+change models and projections for the rice project, and he was looking at
+21:27
+climate trends and so he was working with this student Chris Daly at the
+21:31
+time was designing PRISM at the time.
+21:34
+Jim Lenihan was a bioclimatologist and so he asked me if I was
+21:38
+interested in putting together the biogeochemical part of the equation.
+21:43
+I said sure if you don’t mind _______ . I know _____ which
+21:46
+was what I had my Ph.D. with.
+21:49
+The three of us—Jim, Chris, and I—sat down and started designing a model
+21:53
+that could actually look at climate impacts from a climate perspective
+21:58
+by the evolution perspective with Jim and soon after with fire.
+22:05
+So, Jim took Linehan took over the fire bit.
+22:08
+For me it wasn’t a very big difference, except EPA of course has a lot more
+22:12
+administrative BS going with it so it was a lot lighter to be at OSU.
+22:17
+It has its own, but EPA had been transitioning.
+22:21
+There had been a big shift in their administration, so we had a few waves
+22:26
+to float over at the time, which were not the most, the most easiest ones to
+22:32
+deal with but times change and anyway.
+22:36
+But for me in terms of research I was continuing doing things I liked
+22:40
+to do, being with a computer and data analysis and equations and yeah
+22:45
+it was a pretty smooth transition.
+22:48
+Was the model that you were referring to was that the MC1 Vegetation Model?
+22:53
+Yeah, MC1, yep.
+22:54
+My husband got a job in New Hampshire for a year replacing
+22:58
+somebody and teaching over there.
+23:01
+I moved over there and worked in John Aber’s lab for a year.
+23:04
+That was really, really cool to be on the east side and working a bit for
+23:08
+the folks from the Marion Biological Lab at Woods Hole, and they were
+23:12
+developing their own model there.
+23:15
+The east coast influence and what they were doing, and John had a really
+23:20
+good Ph.D. student, Scott Oliver, who actually took over John’s lab when
+23:28
+he retired and was very interested in nitrogen and had put together
+23:33
+a really nice model with John.
+23:35
+It was interesting to see different aspects of approaching the impacts of
+23:39
+climate change on terrestrial systems, especially in the east coast forest,
+23:43
+which I didn’t know too much about.
+23:44
+I only looked pretty much like on the other side of the Atlantic.
+23:49
+I’m more familiar with what we have here.
+23:54
+So, going back to your arrival at OSU, you started out in the
+23:59
+department of bioresource engineering?
+24:01
+Ag Engineering at the time.
+24:03
+Okay.
+24:03
+It was Agricultural Engineering.
+24:05
+What was the culture of that program like at that time?
+24:09
+Has it shifted?
+24:12
+At the time I was working on rice, so I fit pretty right in.
+24:16
+Was working with a few people really interested in crops, but the
+24:22
+department has also been very varied.
+24:25
+So, you have people with different backgrounds and different interests,
+24:28
+so it’s always been pretty interesting to see everybody’s vision of a
+24:33
+particular problem, because you get very different perspectives.
+24:37
+It’s a great department head and people are very friendly
+24:41
+and inclusive, so it was nice.
+24:45
+I never had an office there, mind you.
+24:47
+My office was in the forestry sciences lab because I was working with
+24:50
+Neilson and his team, so they had an office space for me over there.
+24:54
+Is that the Conservation Biology Institute?
+24:56
+That was separate.
+24:56
+No.
+24:56
+The forestry sciences lab on Jefferson Street, where the
+25:00
+forest service folks are.
+25:01
+Right.
+25:06
+Were you teaching when you arrived or just researching?
+25:10
+When you first arrived at OSU?
+25:11
+When I first arrived, I taught one class of global ecology with a colleague from
+25:15
+EPA, Hermann Gucinski, who moved to forest service afterwards and Dave Turner.
+25:21
+The three of us took one class.
+25:25
+Then I taught a few classes for the BEE.
+25:27
+I taught proposal writing and then giving speeches and
+25:35
+things like that, presentations.
+25:37
+Those were required classes in the department at the
+25:39
+time, so I taught those two.
+25:44
+When did you get involved with Conservation Biology Institute?
+25:46
+That was in 2009.
+25:49
+I first went to the Nature Conservancy in 2007, so I left Ron Neilson’s
+25:53
+team in 2006 and then I joined TNC in 2007, spent a year and a half with
+26:00
+them, realized quickly they were not interested in supporting science.
+26:05
+They were interested in outreach and other young businesses, and so I left there to
+26:12
+continue doing science and research and then I talked to James Strittholt who was
+26:17
+apparently interested in having me come over and do modeling and climate change.
+26:21
+CBI did not have climate change research before that, and they had just received
+26:26
+a grant from the Cressey Foundation to put together a climate center, an online
+26:31
+climate center, so Jim paid half of my salary the first year to work on that.
+26:37
+You were affiliated with OSU throughout that whole time?
+26:39
+Yeah, sure.
+26:41
+Yep, same department.
+26:42
+Changed names a couple times.
+26:46
+You worked on the data basin component as well?
+26:49
+The data basin as this climate center, so we created the climate center
+26:53
+within the data basin, so yeah.
+26:57
+Can you talk about the importance of that in accruing data from I guess across—?
+27:05
+It’s a pretty lofty goal.
+27:06
+It’s to be able to centralize spatial data sets that are relevant to people
+27:12
+who do conservation, mostly, but also anybody who is interested in looking
+27:16
+at what’s out there and so when it started it really was one of the
+27:22
+first ones to make all these data sets available with good documentation.
+27:26
+The goal was also to create a network, so that if you were interested in a
+27:30
+particular data set, the name of the person who had created the data is
+27:33
+available and you can contact that person and then you can start interacting.
+27:39
+The even loftier goal way back when was we were going to have a review panel of
+27:45
+experts who would actually look at every single new data set coming into data
+27:49
+basin and give an evaluation, just like when you submit a paper to a journal.
+27:56
+Unfortunately, that never came to pass, but we put together a couple of groups
+28:00
+that were supposed to keep an eye on the content of those special data sets
+28:05
+and not only their relevance but also doing a good QA/QC of value of the data.
+28:14
+But the data basin separates the special data sets that have been
+28:18
+published versus those that are not.
+28:20
+So that gives a clue that some of them have never been checked by peers, but
+28:25
+that doesn’t mean they’re not useful.
+28:26
+It would have been nice to have this panel of experts to actually check and comment
+28:33
+on new data sets but given the fact that at the beginning it was just like pouring
+28:37
+in, it would have been a tough job.
+28:39
+But anyway, somebody should have done that.
+28:42
+Should
+28:47
+have.
+28:48
+You also got involved with an intergovernmental panel on climate change?
+28:52
+Involved.
+28:54
+Yeah.
+28:54
+Well, when I was working on rice they asked me to be a coauthor
+28:57
+on one of the chapters, because our rice models were producing a
+29:02
+bunch of climate change impacts.
+29:05
+Cynthia Rosenzweig was doing her work, she was gone.
+29:09
+She was doing her Ph.D. at the time, so we were the other team working
+29:14
+on climate change impacts on crops.
+29:16
+Of course, our crop was just rice.
+29:18
+She was doing all the other crops wheat and things like that, so she was I believe
+29:22
+first-named author at the time on the Ag, or somebody working with her, on the
+29:26
+Ag sector, and so because I was working on that I was coauthor on the chapter.
+29:32
+Then I volunteered to be reviewers on the next one.
+29:36
+The first one that I participated in was ’95 and then the rest was recently,
+29:42
+including the one that we had the Nobel Peace Prize for it, that so
+29:47
+many people were excited about, even though there’s about 3,000 of us that
+29:51
+got the prize for that piece of work.
+29:58
+Do you anticipate continuing to be involved with future—?
+30:02
+Oh, sure.
+30:03
+I mean, as far as I still understand what’s being done, yes.
+30:08
+Sure.
+30:09
+But this year I focused on the SOCCR report rather than the IPCC report,
+30:13
+but the IPCC’s coming up anyway.
+30:16
+I’m always the reviewer, usually, on the terrestrial impacts and
+30:20
+for the North American chapter.
+30:22
+Do
+30:26
+you return to France a couple times, it looks like, as a visiting scientist?
+30:32
+Oh, yes.
+30:33
+That’s right.
+30:35
+I went to Phillipe Ciais’s lab in Paris.
+30:39
+Phillipe is one of the lead global modelers,
+30:44
+only publishes in Nature and Science, so that tells you what level he is.
+30:48
+But super nice guy.
+30:49
+He asked me if I was interested in coming and working with him on the fire model
+30:53
+for their dynamic global vegetation model, which is of _____ , and so I
+30:59
+spent a few months there, three months I think in Paris working with him and then
+31:04
+what Steve when was doing his postdoc in Toulouse, I was working on a Mediterranean
+31:10
+model, using actually John Aber’s model.
+31:15
+Did you ever consider returning to France?
+31:17
+Oh, yes.
+31:18
+Especially this year, to be honest.
+31:22
+Yes.
+31:23
+I actually still have an email in my inbox, because the French government is
+31:27
+offering grants for people to go back, so I have an email that says okay when
+31:32
+do you want to come and for how long?
+31:35
+I have to deal with that.
+31:36
+They’re trying to recruit their academics back?
+31:38
+Yeah, well, if you want to do climate change, they say, you know you can do
+31:41
+it in France since you can’t do it here.
+31:43
+Given the fact that all my contacts have told me that they can’t do climate change
+31:46
+research anymore, it’s like if I want to continue doing what I’ve been doing for
+31:49
+the last 25 years, I better go somewhere that will let me and fund my research.
+32:00
+How have your modeling tools changed through your career,
+32:04
+in terms of coding language?
+32:07
+Yeah, coding language has evolved tremendously for sure.
+32:11
+We started with I think it was Fortran III or Fortran IV
+32:14
+and we are now at Fortran XC?
+32:19
+It’s still in Fortran but it’s a very different beast from what it was.
+32:24
+We didn’t have objector-oriented programming at the time,
+32:27
+so C++ was unknown.
+32:29
+That has changed quite a bit.
+32:30
+I remember when I did my Ph.D. I had a deck of cards.
+32:35
+Because I was a student, we used to do batch jobs in the evening and so we’d
+32:40
+give the deck of cards to the people at the computer center and you’d go
+32:44
+back in the morning and you’d have the accordion pages of paper with all the
+32:49
+results from your model and if you have mistyped a number you could start again
+32:54
+[laughs] . It was a very slow process.
+32:58
+Things have dramatically changed,
+33:03
+which is great.
+33:09
+You look at a lot of carbon or nutrient cycling through systems.
+33:15
+How do you incorporate that with vegetation modeling?
+33:19
+We grow plants and as they grow they accumulate carbon.
+33:24
+For every atom of carbon there is an associated number of nutrient atoms
+33:32
+and we’ve been focusing on nitrogen but that’s one of also other of the
+33:39
+things that are missing in our model.
+33:40
+We’ve never been able to really calibrate it with real data for the
+33:45
+nitrogen cycle, the full nitrogen cycle.
+33:49
+It would be nice if we had global data sets, especially time series of
+33:54
+nitrogen disposition, nitrogen fixation.
+33:56
+Those numbers are very difficult to find.
+33:58
+Deposition you can find because it’s associated with pollution but
+34:04
+it’s not a very long time series.
+34:06
+You have to make assumptions.
+34:07
+We started our models in 1895 and we go to 2100, so there’s a period in the
+34:13
+past that we don’t have anything about.
+34:14
+We can make some assumptions but in the future it’s really difficult to
+34:19
+go that way and really be realistic or believable when you assume a particular
+34:25
+amount of nitrogen deposition, the pollution level’s difficult to tell.
+34:30
+It depends on what’s going to happen on the policy level.
+34:34
+These seem to be changing every 8 years or so, so it’s difficult
+34:39
+to tell what comes next.
+34:42
+Anyway, so our model is fully, you
+34:47
+have vegetation types, we have all the carbon pools and then we have fire that
+34:52
+modifies the carbon pools and if you change the canopy and the cover you change
+34:57
+the type of vegetation that is there.
+34:59
+In other words, we have
+35:03
+succession after a fire.
+35:08
+How did your research go back into natural systems and away from
+35:12
+agricultural systems of rice fields?
+35:16
+Just, you know when I was doing my graduate study I was looking at grassland,
+35:22
+native grasslands, short grass prairie.
+35:25
+It was a matter of learning about how forests grow, and I was in Neilson’s
+35:30
+team and we just put it together.
+35:33
+A plant is a plant.
+35:34
+I know a woody plant from an herbaceous plant, but overall those
+35:38
+are pretty standard processes.
+35:41
+If you do any studies in biology, you always learn about these things.
+35:45
+It’s just a matter of putting it together.
+35:48
+What are the difficulties associated with modeling, say a natural landscape
+35:52
+versus an agricultural system?
+35:55
+Well, an Ag system especially when you do a crop, you plant it, so you
+36:00
+know when it starts and then you harvest it and you know when it ends.
+36:04
+Natural systems they grow throughout.
+36:07
+If you live in Oregon you know perfectly well there’s photosynthesis
+36:11
+happening in the winter, so you can’t just say in the winter everything
+36:14
+is dormant nothing happens.
+36:15
+There are things that are happening.
+36:16
+The roots are changing.
+36:19
+People have been monitoring plants, but you always miss something.
+36:25
+There’s always something you’re not 100% sure about.
+36:27
+For example, plants have roots and roots exude material but the exudation rate
+36:32
+from roots is very difficult to measure.
+36:35
+You can measure it in a lab but it’s not the same as when
+36:40
+it’s in the soil in real life.
+36:44
+So, you have this number that you think is an approximately correct.
+36:48
+You look at the literature.
+36:49
+You see people who have measured it.
+36:51
+You can find a few papers, specifically old ones because now it’s very a fine few
+36:56
+people who want to do that sort of thing.
+36:59
+If your model fails, you don’t know if that number was wrong and so if you
+37:03
+can turn that one off it’s something else in your model that you have the
+37:07
+wrong number for or the wrong process.
+37:09
+You forgot something.
+37:11
+The challenge is to really understand the processes and natural systems, because
+37:15
+they’re the ones that everybody looks at.
+37:16
+Like photosynthesis, the ________, there are millions of articles about how
+37:20
+to put together an equation for photosynthesis, but if you stop
+37:24
+looking at root growth, turnover,
+37:28
+exudation, those are pretty rare, especially reliable
+37:31
+papers because it’s hard work.
+37:35
+There’s nothing easy and the techniques always have flaws and limitations.
+37:40
+In the old days, in the ‘20s, there were professors who had grad students
+37:45
+who dug up roots and with carefully with paint brush separated all the
+37:50
+fine roots to look at cloud of all those roots for a particular plant.
+37:55
+That’s the kind of thing that nobody will do any more.
+37:57
+Lidar is supposed to help but it’s not quite the same.
+38:04
+I’m hoping that the new satellite imagery, but maybe not satellite,
+38:08
+but the visualization things that can be done from airplanes or
+38:13
+drones can actually be designed.
+38:16
+Maybe in 20 years we’d have really good tools to have the level of details
+38:20
+that will help us understand—maybe not put all the details in the model
+38:23
+but understand the processes that we might be missing, especially since
+38:27
+everything is changing these days.
+38:30
+Everything we’ve known based on what we’ve observed in the 20th century
+38:33
+needs to be revised, seriously.
+38:36
+So, lots to do.
+38:40
+How do you incorporate human decisions on the landscapes.
+38:43
+Ah, that’s the fun part.
+38:47
+We just started working with our model with land use a few years ago.
+38:51
+We had a big project with the USGS and they wanted us to use land use.
+38:57
+The problem with land use is you can look at an image and it tells
+39:00
+you where the fields are, where the plantations versus natural forest are.
+39:05
+But to know how they’re managed, what you need to put in the model: it’s like have
+39:10
+they been thinned, in terms of forest?
+39:13
+If they were replanted, were they seeded or was it seedlings and was
+39:17
+there herbicide, how did that affect the plants that were around it?
+39:22
+For grasslands, it’s the same.
+39:24
+Was there prescribed burning?
+39:25
+How many heads of cattle were there?
+39:27
+How much of the native ungulates came and grazed with everything else?
+39:31
+What was the population of
+39:35
+nematodes or you know root weasels... there’s a lot of things going on.
+39:38
+Biology’s very complex.
+39:39
+You’re always going to miss something.
+39:41
+Of course, the model is not there to represent reality.
+39:44
+It’s to synthesize the knowledge you have and see if you really
+39:48
+understand how the processes work.
+39:49
+If the model doesn’t work, then it’s interesting because
+39:52
+then you need to dig deeper.
+39:53
+The problem these days is everybody believes models.
+39:59
+They’re great tools, and they’re made to stretch your mind.
+40:01
+The problem is a lot of people are doing these ________ . They’re
+40:05
+supposed to give you the means to look beyond what your eyes can see.
+40:15
+Do you find it easier to incorporate fire, natural disturbance, into a
+40:18
+model compared to say human impact?
+40:23
+Is it similar?
+40:24
+I wouldn’t say that.
+40:26
+Again, if we put agricultural land use, we can actually have calendars of
+40:33
+crops and we know what crops are going to be planted and things like that.
+40:37
+At least in the past we had a pretty good idea.
+40:39
+In the future, it’s total guesswork.
+40:41
+Obviously, we don’t know anything.
+40:43
+We don’t have a clue what’s going to happen 20 years from now, what’s going
+40:45
+to be growing in the Willamette Valley.
+40:47
+Lots of people have ideas but we don’t know, especially if California has
+40:50
+a drought they won’t be able to grow any of their fruit and vegetables.
+40:55
+In terms of wildfires, our fire was the first one that was designed to be dynamic.
+41:00
+We grow the plant, we grow the pools of carbon.
+41:03
+We have thresholds of how much fuel there is alive and dead and how moist they are.
+41:07
+Then we determine the severity of the fire.
+41:12
+In the future, it will depend a lot on the response of plants to CO2, which
+41:16
+for some species there’s been enough experiments that we have an idea of
+41:21
+how that’s going to be responding.
+41:22
+For others, we don’t have a clue, because we’ve never done the experiment.
+41:26
+The experiments have been done on a limited number of species.
+41:33
+Lots of unknowns still on the response to that and of course population density’s
+41:39
+increasing, so the number of fire ignitions, the timing of the ignitions
+41:45
+and the location of the ignitions by humans are totally unpredictable.
+41:52
+Natural fires we know that there’s a season when it’s warm and dry that’s where
+41:56
+you might get lightening, you can pretty much, there’s good correlations there.
+41:59
+When it’s a person who makes a fire in the middle of an area where lightning
+42:05
+cannot reach or whatever and in the middle of a season where things are
+42:08
+still fairly green but there’s a wind but suddenly the fire will carry.
+42:12
+We
+42:14
+can’t predict that.
+42:15
+In California, the majority of fire are human-started, so it’s really
+42:19
+difficult to simulate the future of that.
+42:22
+When Oregon triples its population in 20 years, what’s going to happen?
+42:26
+Where are the people going?
+42:27
+Are they going to be smoking in the forests on the coast range?
+42:31
+Things like that.
+42:34
+But with the warmer, dryer conditions as projected for the future, I think
+42:40
+where you’re going to have people there’s going to be a higher fire risk.
+42:43
+On a global basis, we just published a paper with a bunch of young,
+42:47
+European students who dedicated their life to document all the
+42:52
+fire models that are being used.
+42:55
+We showed that globally, the trend for future fire is down, because there’s more
+42:59
+urban area, there’s more Ag lands, so less likely possibilities to have fires.
+43:04
+Of course, the natural land getting warmer and dryer will burn, that’s what
+43:07
+we’re seeing this year, but it’s just in general more people means it would end up
+43:16
+being more destroying the natural lands and so admitting the fire risk there.
+43:24
+Different types of fires.
+43:28
+How has working with land management agencies influenced
+43:31
+your research directions?
+43:32
+Is it primary with funding, because you also do training on using models, right?
+43:39
+When I joined the Nature Conservancy and then Conservation Biology
+43:43
+Institute, my goal was really to improve the science communication.
+43:47
+Because I worked on models, we published the IPCC reports, but the
+43:50
+managers don’t have time to read.
+43:52
+They don’t have time to listen to our presentation.
+43:55
+We use jargon that they don’t get, which I totally understand.
+44:00
+Especially when I joined TNC that was really, I was hoping to stay a
+44:03
+lot longer and really work with these people, because they’re the largest
+44:06
+private landowner in the world.
+44:08
+Their ownership is just tremendous.
+44:11
+If you wanted to really interact with people working on the ground,
+44:14
+this was a good place to be.
+44:16
+Turns out, it wasn’t, but anyway, at CBI we designed several web tools to actually
+44:22
+provide the data to the managers hoping that they could use it in their reports.
+44:27
+Until last year, they could, now it seems very jeopardized.
+44:30
+I
+44:32
+worked for forest service people.
+44:35
+I worked with BLM.
+44:35
+The forest service is an interesting entity, because they have a research
+44:38
+branch and a management branch, so you’re pretty much a fifth wheel as a
+44:43
+researcher coming in the project for the forest service, because they’ve got
+44:46
+really experts in their research branch, so it’s a little harder to work with
+44:50
+the managers for the forest service.
+44:52
+BLM doesn’t have a research grant and it’s been a joy to work with BLM managers who
+44:56
+are really eager to get the information.
+44:59
+Super busy people.
+45:01
+Lots of land, few people to manage this and so very eager to get the information
+45:05
+from you and get something they can use to improve or just be aware of what
+45:11
+might be happening soon to their land.
+45:15
+Worked with the park service.
+45:16
+Park service works very closely with the USGS, of course.
+45:19
+USGS
+45:22
+have some of the best scientists in natural resource management, and so
+45:28
+it’s really great to work with the USGS people, especially if you find
+45:31
+a group that kind of meshes with you and we don’t step on any toes, but
+45:35
+you actually complement each other.
+45:37
+That’s happened in a couple of projects.
+45:39
+That was really cool.
+45:41
+The funding is, of course, depends on what agency you work with.
+45:47
+It’s been great to work with these people.
+45:50
+Now it’s getting tougher this year.
+45:51
+The problem with NSF is
+45:54
+when you get a grant or some of the grants they don’t want an application.
+45:59
+I’m very interested in application because I’ve been doing science
+46:03
+most of my life and science doesn’t getting applied easily.
+46:06
+It gets misinterpreted and it’s really extremely frustrating after working
+46:11
+for 25 years in climate change to see how misinterpreted the work of
+46:15
+all these climate models is just—they work so hard and they try to do such
+46:21
+a good job and those are fantastic tools and they are really being given
+46:28
+too much negative advertisement.
+46:34
+So, from your work with these different land management agencies, particularly
+46:39
+in the Pacific Northwest, have you formed your own ideas about how
+46:44
+land could be managed in the future with respect to climate change?
+46:47
+I’m not a manager.
+46:49
+I could tell people what to do, but it wouldn’t make much sense.
+46:54
+Managers know their land.
+46:56
+I can bring what I know about the processes that I understand,
+47:00
+and I can show them what the data explains or their limitation of the
+47:07
+data sets that we’re providing, so they can make their own opinion.
+47:11
+We learn from them quite a bit.
+47:13
+They have constraints.
+47:14
+They have constraints of the amount of funding they have to do the
+47:19
+things they have to do on their land.
+47:21
+They have constraints in terms of the number of people
+47:23
+available to apply whatever techniques they decide to go with.
+47:28
+Even if they know what to do by listening to our stories, saying oh this is relevant
+47:32
+to what I would like to do on my land.
+47:34
+But if they don’t have the resources they can just provide a sheet to their
+47:40
+supervisor saying well, given this, we would love to be able to do this
+47:44
+particular treatment, but they may or may not get the resources to do
+47:50
+it.
+47:51
+In general, I never tell people what to do on their land.
+47:53
+I know what to do in my garden, that’s bad enough
+47:59
+[laughs]
+47:59
+. I have a final set of questions related to climate change, but I did want to
+48:03
+ask you about your water color art.
+48:07
+You’re an artist as well.
+48:11
+Is that something you’ve been doing your whole life?
+48:12
+Yes, pretty much.
+48:14
+Water color, maybe not, but drawing.
+48:15
+My dad was a very good artist and my great grandfather was an
+48:23
+artist, a true artist, but anyway.
+48:26
+That was a turn of the century of the 20th century.
+48:30
+It’s very relaxing and it’s something that flushes my brain out.
+48:34
+I don’t think about anything else when I do that.
+48:36
+It’s very enjoyable.
+48:37
+It’s quick.
+48:39
+A lot of people
+48:43
+are afraid of watercolor because there’s a lot of looseness and when you work
+48:46
+with water you can have surprises.
+48:50
+It doesn’t really matter to me.
+48:52
+I love to play with water, but it’s really fun to see what happens.
+48:56
+It’s a little bit like a natural system.
+48:58
+So, you put water and colors together and see the blending and things like that and
+49:03
+you always get something that’s different from where you think you were going to.
+49:08
+It’s always exciting to see the results, but yeah for me it’s
+49:11
+just I need it for sanity’s sake.
+49:16
+Different kind of modeling.
+49:17
+Different kind of modeling,
+49:21
+yes [laughs]
+49:23
+. So, what were your earliest conversations on climate change like and how have
+49:27
+those dialogues shifted over time?
+49:31
+So, I remember in ’88—yeah, so I started in ’88, so maybe in ’89 or
+49:37
+’90 I put together a paper that was comparing all the GCM projections
+49:42
+together and my colleague, soon to be team leader, Ron Neilson, reviewed that paper.
+49:51
+He told me that I was comparing oranges and apples and that this
+49:56
+was never going to be published and this was not the way to go.
+49:59
+A few years later everybody was doing it, and that was the
+50:02
+way he ended up doing it too.
+50:05
+At first, we were learning what were these GCM, these large climate models, how can
+50:11
+we deal with it, how can we use them?
+50:14
+We were learning a lot.
+50:16
+As biologists, we always wanted to use them for our own purposes, but they
+50:20
+were designed to look at the globe temperatures, so not at all to look at
+50:25
+what was happening to a small forest or grassland in a small area of a state.
+50:32
+The scaling issues has always been a huge, huge problem, a “problem.” As we’ve been
+50:39
+going through a climate change world,
+50:44
+the GCM, the General Circulation Models, have actually increased in
+50:50
+spatial resolution and so they’re getting closer, although how close
+50:56
+they’re going to get I don’t know, but
+51:00
+we know a lot more about how to compare models to each other,
+51:04
+but they’re such complex beasts and it’s really challenging.
+51:09
+As people start linking the vegetation and the ocean and the atmosphere, these
+51:16
+models are getting more and more complex.
+51:18
+I remember at the end of the IBP, the International Biology Program,
+51:23
+in the ‘70s, one of the things that had happened, and they were very
+51:26
+complex models, and nobody knew why we got the answers we got because it
+51:30
+was so complicated to go backwards to figure out what was the real trigger.
+51:35
+There’s always that danger.
+51:36
+We always want to put a lot of details, and sometimes the details—they’re
+51:41
+important at the local scale and for people who are really interested
+51:44
+in that aspect—but to simulate the future, it may not be so important.
+51:49
+But then again, butterfly wing on one part of the world...
+51:56
+anyway, things have changed.
+51:59
+The biologists have been talking a lot closer with the climate
+52:02
+modelers, so we actually share information a little bit easier.
+52:05
+There’s still plenty of jargon we don’t get.
+52:08
+There’s still a lot of assumption that the biologist and climatologist
+52:13
+have they don’t necessarily share, not because they don’t want to but
+52:16
+because they don’t think about it.
+52:18
+We need to have more conversation to really understand what we each
+52:22
+assume, each part of each team.
+52:26
+But at the time, we were scientists.
+52:28
+We developed all of this and we were trying to do our best, and all this media
+52:33
+and political thing started on the side and we really didn’t pay attention to it.
+52:38
+It was just like whatever.
+52:39
+It just mushroomed into something that’s very unpalatable.
+52:43
+We don’t quite understand what the big deal is.
+52:46
+It’s like scientists have always disagreed and will continue to
+52:49
+disagree, but that’s how we learn.
+52:52
+But making that to the level of disagreement that we have now and climate
+52:57
+deniers who believe and not believe.
+52:59
+It’s just science, we’re just trying to do our best.
+53:03
+Those models are not perfect.
+53:05
+Of course, they’re not.
+53:06
+Again, they’re tools.
+53:07
+They’re the best tools we have, so it’s kind of stupid to say—you
+53:11
+know it’s like I have a car, but I do use my bicycle so it’s just
+53:14
+like I don’t see what the point is.
+53:15
+It’s just like everything is accused.
+53:20
+What kind of policy changes would you like to see happen within the U.S.?
+53:24
+You don’t want me to answer that one
+53:27
+[laughs] . Let’s say that if we rolled back the time about
+53:30
+a year ago we were on track.
+53:33
+I wish we were still—we are signatories of the Paris
+53:37
+Agreement, no matter what is said.
+53:40
+This country signed the agreement, so we can’t just walk out by the way.
+53:47
+I just hope that the next president will pay attention to the future and have a
+53:50
+vision and line up with the rest of the world, renewables and redistribution
+53:56
+and conservation of resources.
+53:59
+That should be first.
+54:00
+Conservation of resources should be the number one priority in this country.
+54:08
+What changes to public education do you think can help Americans better understand
+54:13
+climate change, or change their behavior?
+54:16
+Yeah, so public education.
+54:18
+That’s an interesting question, depending at what level you’re talking about.
+54:24
+There’s been a lot of polls and we’ve seen that science teachers are not
+54:28
+totally cognizant of the science.
+54:30
+I think that’s actually what we say _____ gardens, the scientists who do research.
+54:35
+We’ve been using jargon, we’ve been submitting papers in journals that are not
+54:40
+read by your average teacher, obviously.
+54:43
+We haven’t worked with the media very much, and now we’re in a situation
+54:47
+where we don’t have many scientific journalists for the big newspapers
+54:52
+and the internet gives you all sorts of not reliable information.
+54:57
+It’s very difficult to sift through.
+54:59
+Young people have a tendency to be in social media more in encyclopedias,
+55:04
+and so I think getting young people involved in observation, in monitoring.
+55:10
+There’s a lot of talk about citizen science for the last 10 years.
+55:14
+I think getting the children to pay attention, to keep track of
+55:18
+what’s been happening through their little lives to see the changes.
+55:23
+Again, start to get them interested in the outdoors, curious about the
+55:28
+changes, not afraid but curious so that the understand what’s going on.
+55:35
+I think the missing bit in the outdoor bit as just as scientists we need more
+55:40
+data because things are changing, and we don’t know what direction it’s going
+55:44
+to take, so it’s really important that we pay attention to what’s going on and
+55:49
+the younger generation is the best way.
+55:51
+They need to really record what they know, what they see today so
+55:55
+that when they become adults 20 or 30 years from now they’ll be able
+55:58
+to understand what has happened.
+56:01
+Unfortunately, the funding for monitoring is going down the tubes,
+56:04
+so that’s also a shameful situation, especially in this country.
+56:11
+Also, translational science is an article that just came out.
+56:16
+Toni Morelli on the east coast, she seems to be the leader for that.
+56:23
+There’s a huge lack there.
+56:24
+We have the scientists and we have the general public, or the managers, and
+56:28
+there’s very little real communication.
+56:31
+So, the translation bit is missing.
+56:33
+It’s something you don’t learn at school, even at OSU there’s no class
+56:36
+that explains how to do translational science and it’s teaching people to do
+56:41
+presentations that are not boring, to stop putting bullet points with a gazillion,
+56:46
+or tables with 15—these are things that we’ve always said but to interact with
+56:51
+the public and to write letters to the editor is to keep your vocabulary simple,
+56:57
+to focus on things that are important instead of arguing with people who don’t
+57:02
+agree with what you think, it’s really showing examples of things that are
+57:06
+happening, focusing on the positive.
+57:09
+There’s a lot of happy things that are happening around the world.
+57:12
+Climate change is always painted as something dramatic that’s going to
+57:17
+kill species and things like that.
+57:18
+There’s also going to be opportunities and so focusing on that and also
+57:23
+the tremendous opportunity for young people to actually have so much to do
+57:28
+to understand the changes and see how society can deal with the changes.
+57:35
+The education sector has a lot to—but I think the burden on
+57:38
+the scientists is tremendous.
+57:41
+We really need to be cognizant of what we do and being able to
+57:45
+translate it into clear wording.
+57:49
+There are a few people who work on that but not enough.
+57:53
+There’s a person, Peter—what’s his last name?
+57:59
+He’s a storyteller.
+58:00
+His father was a professor at UW and he’s an actor.
+58:05
+He goes on stage and talks about salmon.
+58:07
+His show is salmon people.
+58:10
+He tells stories from salmon to the Indian, the salmon people, going
+58:16
+through all the different animals and plants in the forest and so it’s
+58:20
+a very charming story about what’s happening from the stream all the
+58:24
+way to the forest and people love it and get the idea and it’s a story.
+58:29
+He’s part scientist through his dad, who’s very rigorous, but he designs his stories
+58:35
+to actually tell people what’s happening.
+58:37
+Another person in Nevada, in University of Reno, he’s a
+58:44
+lit teacher and professor there and he tells stories about the
+58:47
+desert and about the great basin.
+58:50
+Again, he writes books that are really humorous, but you also
+58:53
+learn about what’s happening in the desert by reading the whole story.
+58:56
+You don’t have to antagonize people or bore them to death with numbers
+59:01
+to actually make them understand how important those natural systems are.
+59:07
+It’s a huge challenge and I wish OSU would have a program on
+59:13
+translational science, and I’ll be asking a few people about that.
+59:18
+Are you hopeful about the future of the planet in the context of climate change?
+59:23
+I’m very hopeful for the planet itself.
+59:25
+I think plants and animals, they may not be exactly the same as what we know today,
+59:30
+but I think they know what they’re doing.
+59:32
+Nature has a tendency to actually react and survive.
+59:38
+What our society’s going to do with it is another story, whether we’re going
+59:43
+to blow up the planet or actually modify genetically every being on this planet
+59:49
+so there will be only one genome at the end—I’m not a genetically modified
+59:56
+advocate whatsoever or assisted migration.
+1:00:01
+I think we are in general what humans have done has not been that successful.
+1:00:06
+We always have a good intention.
+1:00:08
+We do things.
+1:00:09
+We think we’re God and we can change things for the better, but in general
+1:00:14
+we regret those things like bringing rabbits in Australia or whatever.
+1:00:19
+I know a lot of people are well-intentioned, but I
+1:00:22
+don’t trust that very much.
+1:00:25
+I’ve seen a lot of examples of adaptation that are happening.
+1:00:30
+I see migrations happening.
+1:00:33
+But I see fragmentation of the landscape limiting these migrations.
+1:00:39
+I see pesticides killing a lot more than any rise in temperature.
+1:00:44
+I think the human impacts are negative in general versus the climate, which
+1:00:51
+I think gives enough leeway to plants and animals to actually deal with it.
+1:00:59
+Sure, we have plants that will die and animals that will die but it’s
+1:01:03
+not something that’s brand new.
+1:01:05
+I’m very hopeful for the planet as whole, as long as we don’t ruin it.
+1:01:11
+I think our species is exponential and eventually our species will be
+1:01:16
+extinct, and the earth will be a lot better as long as we let it.
+1:01:24
+Well, on that note [laughs]
+1:01:26
+. [Laughs]
+1:01:27
+. Thank you for participating in this project.
+1:01:29
+You’re welcome.
+1:01:30
+I appreciate your time.
+1:01:31
+Thank you.

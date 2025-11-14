@@ -1,0 +1,2442 @@
+00:05
+My name is Sara Khatib and this research is for my master's thesis,
+00:09
+the research involves the history of different traditions of science at the
+00:13
+Andrews Forest and the philosophical perceptions of nature that underlie
+00:17
+these different traditions, I would like to ask you a few open ended
+00:21
+questions regarding these topics.
+00:23
+I expect the duration of the interview to take up to two hours depending
+00:28
+on your interest and knowledge.
+00:30
+Would you like to participate in this interview?
+00:34
+Yes.
+00:36
+We can end the interview at any point you wish to do so.
+00:40
+Please inform me right away if you no longer want to participate and
+00:43
+the interview will immediately end.
+00:45
+Do I have permission to record this interview?
+00:48
+Yes, you do.
+00:49
+Perfect.
+00:50
+All right.
+00:55
+Okay, so now I'm going to begin with a brief little intro
+01:01
+Yeah.
+01:05
+So before we begin, I want to offer a brief summary as to why we are here
+01:09
+today, as you know, there is currently a collection of oral histories in the Oregon
+01:13
+State University's Special Collection and Archives Research Center titled "Voices
+01:18
+of the Forest Voices of the Mills" and that collection consists of stories on
+01:22
+people's personal backgrounds and how their journey has led them to the Andrews.
+01:28
+It also consists of stories that illustrate certain political and
+01:31
+cultural transitions, such as the transition away from the timber era to
+01:35
+the conservation era and the planning for the Pacific Northwest forest plan.
+01:40
+Finally, it discusses the overall culture of LTER.
+01:44
+Today we are going to build from that by asking more direct
+01:47
+questions about your personal philosophy and practice of science.
+01:51
+And then scale up to the philosophy and practice of
+01:54
+science on the community level.
+01:56
+This interview will inform the writing of my master's thesis.
+02:00
+My research questions ask: What are the traditions of science that characterize
+02:05
+the Andrew's community and what are the philosophies of nature that
+02:09
+underlie these different traditions?
+02:12
+I'm here with Dr. Fred Swanson who completed his PhD in geology
+02:17
+at the University of Oregon and began his work at the Andrews
+02:22
+forest as a postdoc in the IBP era.
+02:25
+Dr Swanson remained involved at Andrews throughout his career, facilitating
+02:29
+the geology-ecology interface, serving in leadership roles, such as the
+02:34
+principal investigator of the LTER program, and fostering the more recent
+02:40
+interface across the arts, humanities and sciences, through the establishment
+02:44
+of the long term reflections program.
+02:47
+Thank you, Dr. Swanson for taking the time and talking with me today.
+02:52
+So if you're ready to begin,
+02:57
+the first collection of questions are in regards to
+03:02
+your personal philosophy and practice of science.
+03:05
+I'll inquire about your perception of an ecosystem and your personal
+03:09
+take on scientific research, if you're ready to begin?
+03:12
+Yes
+03:14
+My first question I'd like to ask is, how would you define an ecosystem?
+03:20
+I consider an ecosystem to be a collection of organisms,
+03:25
+interacting with their environment.
+03:29
+So ecosystem sciences is about the components and their interactions.
+03:37
+So that entails both the biotic and the abiotic is that correct?
+03:41
+Correct.
+03:42
+And it can be tiny or it can be huge.
+03:44
+Okay, multiple scales.
+03:49
+How would you describe the nature of an ecosystem?
+03:52
+Are ecosystems static or dynamic or are they chaotic or orderly, brittle, fragile?
+04:02
+I consider ecosystems to be well, most ecosystems at least, the one's I'm
+04:08
+interested in are quite dynamic and there may be rhythms and patterns within them,
+04:16
+but they also can be very changeable.
+04:24
+As a follow up question, what are some of the forces that make an ecosystem dynamic?
+04:31
+Well, I think there are endogenous and exogenous forces.
+04:36
+So there's change that is wrought by the processes and interactions going on
+04:43
+within an ecosystem, over time, but also the ecosystems may have change agents
+04:52
+and impinge on them in ecological terms.
+04:56
+So we'll talk about disturbances.
+05:02
+But as a physical process person, I think it's important to look at those
+05:10
+disturbance processes in their own right.
+05:15
+And so disturbance has too negative a connotation for my persuasion.
+05:23
+But anyway, endogenous and exogenous drivers of change.
+05:29
+And I know that in the history of ecology, there was a particular point in time when
+05:34
+people perceived ecosystems to strive towards a static or complete stage.
+05:41
+Is that correct, would you say that that viewpoint still holds or has
+05:46
+that changed considerably today?
+05:50
+Well, the systems that I'm most familiar with, the systems I work
+05:54
+with including forest systems,
+06:01
+I don't believe there's much belief in a climax state.
+06:07
+You know, you may see successional processes and endogenous processes
+06:13
+proceeding, and have a sense of successional trajectories, but
+06:23
+disturbance events of a pulsing sort, fire, flood, or
+06:29
+drought may trigger change.
+06:35
+But also we're now very aware that the climate and the whole context is
+06:42
+changing, atmospheric chemistry, ocean chemistry, as well as temperature
+06:51
+and so everything is on the move.
+06:56
+I think that's widely accepted.
+07:02
+Can you describe your theoretical philosophical background and how
+07:08
+that is applied toward your science?
+07:11
+Well, that's an interesting question.
+07:13
+I don't feel that I operate with an explicit theoretical
+07:19
+or philosophical perspective.
+07:25
+I did take philosophy of science courses one each as an
+07:29
+undergrad and as a grad student.
+07:33
+I've been interested in it for a long, long time.
+07:42
+As I think will come out with the following questions, my own
+07:47
+practice of science has been dominantly of a descriptive,
+07:53
+observational, natural history sort.
+07:56
+So,
+08:00
+by subject matter and inclination, that's sort of where I come out.
+08:15
+How would you describe your scientific style?
+08:18
+So you were saying it's more observational rather than experimental.
+08:22
+Can you elaborate a little bit on that?
+08:27
+Having a background in geology, I'm interested in earth,
+08:34
+and especially Earth surface
+08:39
+processes and histories and I tend to think at broad scales and I am not
+08:49
+presumptuous enough to expect to conduct experimentation at those broad scales.
+08:57
+It's been interesting for me to learn about adaptive management and to undertake
+09:03
+and collaborate with other scientists and land manager colleagues of the Willamette
+09:09
+National Forest try to undertake an adaptive management project and you
+09:15
+know about 30,000 acres with cutting patterns distributed over time with
+09:25
+intensities that represent some emulation of the historic disturbance regime.
+09:31
+So those are not experiments in the sense of standard agronomics,
+09:39
+you know practices of having small plots that you really have a lot of
+09:42
+control over, and you have multiple treatments that you apply randomly.
+09:48
+So
+09:51
+it's not experimentation in that sense, but there I have dabbled
+09:55
+in some real world manipulations
+09:59
+of the landscape to learn how it's functioning.
+10:04
+For the most part I'm in the observational descriptive camp.
+10:12
+That's as a scientist, you know, as a research administrator leader, like in
+10:17
+the context of a Long-Term Ecological Research Program at the Andrews,
+10:24
+then I'm there to try and facilitate a broad portfolio of approaches
+10:32
+and not hold one above the others.
+10:40
+Because we have an interdisciplinary group and the disciplines have
+10:46
+different cultures of philosophical approach to science, we're dealing
+10:53
+with a big messy system and especially by dealing with it over time.
+10:59
+Now we've had about 50 years of ecosystem research at the Andrews.
+11:05
+and some of these studies, like the experimental watershed studies, began
+11:09
+in 1952, so we're pushing off towards 70 years of presence and direct observation.
+11:21
+Then we're in there with the whole system and we're part of it, and we're
+11:26
+watching it over these longer timescales.
+11:29
+Then the reconstruction work on fire history and landform
+11:33
+history extends back, fire history
+11:40
+about eight centuries back and it extends back in
+11:47
+landform time scales for tens of thousands of years.
+11:53
+Then the rocks, we're talking about tens of millions of years.
+11:58
+So
+12:01
+anyway, those are sort of the scales in which I try and operate, both as a
+12:09
+scientist and as a science facilitator.
+12:14
+You bring up some interesting points that I want to go back to.
+12:18
+So adaptive management, if you could describe a little bit more about how
+12:21
+that's distinguished from experimental.
+12:24
+There's still, if I'm understanding this correctly, there's still some sort
+12:28
+of manipulation of the land, but the learning process is more open ended.
+12:33
+Is that correct?
+12:34
+Right, this is a
+12:38
+set of concepts.
+12:41
+I think the concepts that have their roots in Carl Walters, and C.S.
+12:46
+Holling from about 50 years ago.
+12:50
+They were in British Columbia at that time, and it deals with large,
+12:54
+complex, natural resource systems such as fisheries and forestry operations.
+13:03
+Kai Lee wrote a seminal book, The Compass and the Gyroscope,
+13:09
+for the Columbia River system.
+13:14
+They're big and complex and they're not replicable and so
+13:20
+there's a cycle of assessment and practice adaptive management.
+13:25
+My impression is that institutions and communities of practitioners have a hard
+13:35
+time keeping it going for very long.
+13:40
+Certainly, much shorter time periods than the time scales on which the
+13:47
+ecosystem or the natural resource system that they are trying to understand
+13:54
+operate and the social context of laws and things like that.
+13:59
+We have a real hard time keeping it going and we've certainly experienced
+14:04
+that in the context of the Andrews.
+14:06
+It's one of 10 adaptive management areas under the Northwest forest
+14:11
+plan which went into effect in 1994.
+14:16
+We had funding and we're supposed to do adaptive management projects.
+14:21
+We undertook one, the Blue River Landscape Project, which I just mentioned.
+14:28
+For about 30,000 acres, but we sort of have failed to extend it.
+14:39
+Partly because of lack of funding, but also because environmentalists
+14:44
+sort of took it down, because it involved cutting a forest.
+14:49
+So anyway, I do believe adaptive management is an interesting
+14:54
+and important ideal approach and it keeps getting invoked,
+15:02
+but I can't point to a case where we've stuck with it for even 30 or 40 years,
+15:08
+which is a pittance relative to the time scale of the phenomena in question.
+15:20
+If you could speak more about reconstruction work, I imagine
+15:23
+that has a lot to do with your background as a geologist and a
+15:26
+natural historian, is that right?
+15:28
+And that type of work is specialized towards those fields, is that right?
+15:28
+Yes.
+15:32
+Can you describe that a little bit, so it's about reconstructing
+15:35
+past physical processes?
+15:38
+Yes, so a couple of the areas that I've worked on, have to do with say fire
+15:46
+history, and that work began in the
+15:54
+70s, at a time when the Forest Service and Bureau of Land Management were
+15:57
+busy creating lots of beautiful stumps.
+16:01
+The federal policy was to log the old growth and convert it to plantations
+16:06
+and I was struck by these amazing records in the tree rings on the stumps.
+16:15
+So
+16:17
+I enlisted a series of students,
+16:22
+to help with that work and, as I mentioned, we found trees
+16:29
+up to over 800 years old.
+16:33
+And other people did some of this as well.
+16:36
+And so there have been about
+16:41
+10 landscape scale fire history studies using dendrochronology mostly counting
+16:47
+on stumps, but also the higher quality work of taking increment cores and
+16:53
+sanding them and then counting the rings in the laboratory under a microscope.
+16:59
+Rather than crawling across a sappy stump and ants crawling up your sleeve and in
+17:07
+the outer rings, you may have, you know 40 rings to the inch and you have a hand
+17:14
+lens and you're trying to read them and it's very difficult to get a good reading.
+17:19
+But, anyway, so we went around and counted tree establishment dates and also scars
+17:30
+that we interpreted by their morphology to be of fire origin, and we could then
+17:36
+reconstruct the patterns of fire over time and over space and we could find places
+17:44
+that hadn't had a fire for 6, 7, 8 hundred years and other places which burn much
+17:52
+more frequently, maybe every 75 years.
+17:55
+So that's one form of
+17:59
+interpretation of the past.
+18:01
+Then on the landforms we study the different types of landforms,
+18:10
+which we can see in LIDAR or topographic maps or aerial photographs and then we
+18:20
+have some dating techniques such as using the trees, a tree ring aging techniques
+18:27
+or looking at deflection of roads by
+18:35
+landslides, then we're constrained to the history of roading in that landscape.
+18:40
+In
+18:43
+using tree rings, then we're constrained by the history of
+18:46
+fire and other disturbances.
+18:49
+But also we have a little bit of Mazama volcanic ash from the
+18:53
+eruption of Mount Mazama creating Crater Lake about 7000 years ago.
+18:56
+So, if we see a blanket of Mazama ash, in a particular arrangement on some
+19:03
+old landslide deposits, we believe that that landslide had created
+19:09
+those landforms by 7000 years ago.
+19:14
+We could see glacial glacially carved landscapes and from work elsewhere
+19:19
+in the region, we know something about the time scale of that and
+19:23
+we can use radiocarbon dating.
+19:24
+So, you're, you're using a great variety of techniques that you have to build up
+19:31
+over time, build up your perceptions.
+19:37
+This gets to something I was going to bring up a little bit later, but
+19:40
+I'll go ahead and stick it in now.
+19:43
+An important influence, in my thinking and
+19:52
+my partner Julia Jones professor in geography, uses this in field
+19:57
+course also, is the work of T.C. Chamberlain with a seminal paper on
+20:04
+multiple working hypotheses, which you can apply in field observational
+20:11
+circumstances.
+20:13
+When you say, I'm starting to think that the world works this way, you
+20:19
+know, in the fire history or in landform history or the geologic sphere, or a
+20:26
+whole bunch of other things, but I want to keep my mind open to alternative
+20:34
+explanations, so you hypothesize that this sequence of events happened, but
+20:42
+it could also have been a different sequence, so there'd be hypothesis one,
+20:46
+hypothesis two, and hypothesis three.
+20:49
+And then you can ask if one is more likely than two and three.
+20:55
+When I go around the bend and see another outcrop where I go over and that hillside
+20:59
+and there's a rock pit over there and I'm going to see some rocks over there,
+21:03
+I expect to see thus and so and it would argue in favor of hypothesis one,
+21:12
+rather than hypothesis two or three.
+21:14
+So it's important to not lock in on one explanation and then see every new piece
+21:22
+of information, try to tweak it in your perception of it in such a way that
+21:29
+it supports some favorite hypothesis.
+21:32
+You need to stay open and stay critical.
+21:39
+And so there would be maybe some circumstances with the multiple
+21:42
+working hypotheses, where multiple of them are shown to be true
+21:46
+or evident in your inquiry?
+21:50
+Yes, in the course of your work.
+21:52
+You may have alternative hypotheses and they are not resolvable.
+21:59
+You tend to lean towards one or the other.
+22:02
+And when you get a chance to learn something new about the system,
+22:11
+you take it in.
+22:13
+For example, when I was first working out at the Andrews on geology and
+22:20
+the landforms in the 70s, we had very crude topographic information.
+22:26
+We had an inch-to-a-mile topographic maps from the U.S. Geological Survey with 80
+22:31
+foot contours and you're under all this forest cover, almost 300 feet high, and
+22:41
+the trees growing down in the valley say or water and better soil so they grow
+22:46
+higher and the trees growing and the ridges weren't so high, and most of the
+22:50
+maps were made as contours on the tops of the trees, rather than on the land itself
+22:56
+because of the techniques that were used in the early map topographic map making.
+23:02
+And so I did the best I could, working with some others, but then
+23:10
+along comes LIDAR [Light Detection and Ranging] remote sensing technique which
+23:16
+gives you a resolution down to a meter or two and all of a sudden, voila.
+23:22
+It's like a naked landscape and all these deep...
+23:26
+What year was that?
+23:30
+I think the first one we got for the Andrews was about 2007.
+23:37
+The technology existed earlier, we didn't get it right off the bat.
+23:43
+So anyway, our views can change, our thinking in the Andrews and
+23:51
+the history, you know, can change.
+23:54
+This is a sort of a sidebar,
+23:59
+drivers of change of ideas.
+24:03
+You know,
+24:06
+changes in science,
+24:10
+new technologies, new techniques, new fads or themes,
+24:19
+major disturbance events like the eruption of Mount St. Helens or the '96 flood, or
+24:24
+now these fires that are really proximal and actually encroaching in the Andrews.
+24:31
+That triggers a flurry of critical thinking, where you can sweep
+24:35
+in bits and pieces of ideas and knowledge into more synthetic efforts
+24:43
+catalyzed by a major disturbance.
+24:46
+And the third driver of change falls in this societal realm, social forces
+25:00
+of various sorts.
+25:03
+So they're gradual changes, but then some changes will be punctuated, punctuations
+25:11
+of abrupt change as some people have put it, you know, like being out in
+25:18
+the '96 flood is like "decades of boredom punctuated by moments of chaos."
+25:24
+And
+25:30
+I also want to go back a little bit on the whole reconstruction approach.
+25:35
+So that's sort of being a geologist has informed your approach to science.
+25:39
+And I know from, you know, attending some geology lectures, is that the Earth
+25:44
+moves quite a bit right when you sort of scale to the deep past and so I'm
+25:51
+interested in how that's formed your perception of the right now?
+25:55
+Do you see the world differently after your training as a geologist?
+26:01
+How do you perceive the current state of things?
+26:07
+Well, it's been interesting.
+26:12
+I see it as
+26:17
+the earth is a work in progress.
+26:19
+It's always changing the you know plate tectonics, or, you know, the
+26:28
+reversal of the magnetic polarity.
+26:33
+I had a big indulgence in that as a grad student to go into the Galapagos
+26:37
+and using paleomagnetism to try to interpret the geologic history
+26:42
+of three volcanic islands there.
+26:47
+In a really interesting case has been Mount St. Helens with its
+26:52
+big abrupt monstrous eruption.
+26:58
+And then interacting with ecologists and land managers and the public sector.
+27:05
+So
+27:07
+there was an interest in ecological
+27:14
+re-storation and re-covery.
+27:17
+And parts of the landscape were so profoundly changed
+27:22
+that they aren't the Re-word.
+27:26
+Re-hyphen word isn't suitable.
+27:31
+[the land is not returning to a former state] It's a misperception unless
+27:34
+it's very narrowly defined, you know.
+27:36
+There's a lake that was here before and there was a population of fish species
+27:42
+X in this lake, so we could restore the
+27:49
+population of that species to that lake.
+27:52
+So narrowly defined, you can go back, but for the most part, the
+27:57
+world is marching on biologically and geophysically and there's no going back.
+28:04
+We need to accept that.
+28:06
+And so, this came up, even in the title of our first book on the
+28:10
+volcano ecology of Mount St. Helens.
+28:14
+We called it ecological responses to the eruption not ecological
+28:24
+restoration or recovery or
+28:30
+some re-word like that.
+28:33
+Language is an important factor in how it shapes the way that we think about things.
+28:37
+Oh, it's huge, and I always had a notion of that, but now that
+28:42
+I have been hanging with the
+28:46
+amazing writers for 20 years
+28:50
+it comes home all the more.
+28:53
+It's all the more clear.
+28:56
+And then so with that perception of your reconstruction and long
+29:01
+term history approach, how does that knowledge inform the future?
+29:08
+How can that knowledge inform our future management and future perception
+29:12
+of where the earth is going towards?
+29:20
+I think that pertains probably in several ways.
+29:24
+I haven't doped it out, say well here are three ways.
+29:30
+But, you know, first of all, I think a big
+29:36
+issue is
+29:40
+to dispel false hopes.
+29:46
+You know, we're not going back.
+29:48
+Hey guys, we're not going back
+29:53
+and
+29:56
+we have to accept that.
+29:58
+And so the question is, how do we move forward?
+30:02
+I do believe that history gives us a lot of clues about how the world
+30:10
+is likely to behave in the future.
+30:13
+In
+30:17
+fact, that's a major theme of some of the stuff that like Julia and Charlie
+30:23
+Crisafulli, Mount St. Helens ecologist, and I've been on to when we've gone
+30:28
+down to Chile for a dozen years now to visit sites where three volcanoes that
+30:35
+have had eruptions since 2008 and then we can compare that with St. Helens.
+30:41
+But, also, we've looked at a lot of the other records of volcano
+30:46
+ecology around the globe, looking at what are common themes and what
+30:54
+patterns and processes tend to be peculiar to particular types of eruptions
+31:04
+or climatic and vegetation type contexts and things like that.
+31:09
+So,
+31:12
+I think we have a lot to learn from history, but we have to
+31:17
+use that information judiciously and be open to surprises.
+31:23
+Because patterns may demonstrate, but there's also a lot of irregularity
+31:28
+and unpredictability as well.
+31:32
+And so next question we've sort of touched on this a little bit, but
+31:36
+maybe if we can explicitly talk about how have your disciplinary roots as a
+31:40
+geologist influenced the development of your particular style of science?
+31:44
+And then maybe if I can add because your particular trajectory is unique in that
+31:49
+at one point, you turned to not just geology, but also the geology and ecology
+31:53
+interface and how may that also inform your particular approach to science?
+32:02
+I
+32:05
+have those geologic roots and so that's heavy to
+32:13
+observation.
+32:18
+And like, if you're mapping geology in the Cascade Mountains and it
+32:25
+is 98-99% covered with trees, you have to be a little loosey-goosey.
+32:35
+I mean
+32:38
+you're telling some pretty big stories without very much data.
+32:45
+And so
+32:48
+I think that's an important part of it.
+32:55
+And I felt like I took my geologic instincts into geomorphology trying to
+33:03
+understand the landform history in the Cascades and in the
+33:08
+other places I've worked.
+33:10
+And then I took the same perspectives into trying to
+33:13
+understand and map the fire history.
+33:18
+So,
+33:24
+another thing because of my geologyness
+33:31
+and tying in with the ecologists
+33:36
+in the early 70s, I was trying to figure out how we could interface.
+33:42
+And so I
+33:45
+gave that some thought and made a table that had
+33:55
+timescales from days to 10s of millions of years about half a dozen timescales
+34:08
+sequentially.
+34:08
+And then what phenomena are occurring in the geological and ecological
+34:14
+worlds at each of these timescales.
+34:19
+And then, if you're trying to think about geo-eco interactions, which is
+34:23
+the dominant theme for me, you can start out at a particular time scale.
+34:31
+You're not going to learn a lot if you're dealing with really
+34:38
+fast processes in one realm and very slow processes in the other.
+34:42
+You sort of need to get your thinking lined up at similar scales, but then
+34:47
+also ask questions about what's happening at the next fastest or the next slowest
+34:54
+scale of change in each of those realms and then how those things interact.
+35:00
+I was thinking about this a lot in a time period when hierarchy theory was a major
+35:09
+perspective in ecosystem science and there were some treatises on hierarchy theory.
+35:19
+Back at that time, I was having this personal experience with it.
+35:24
+How does my work on the geology with rocks millions of years old, how can I
+35:30
+interact with these tree physiologist measuring dew point 10 minute intervals?
+35:37
+So we were disjunct at time skills of interest, but then once we spend more
+35:43
+time together, like with the stream ecologists and the forest ecologists
+35:47
+on wood in streams and shaping stream ecosystems, we needed a geophysical
+35:56
+perspective, we needed the forest ecological perspective, and we needed the
+35:59
+aquatic stream ecological perspective.
+36:02
+Then we had to come together and talk in the time scale of vegetation succession
+36:08
+and flooding and all this kind of stuff.
+36:13
+So, that's been a really important
+36:19
+thing for me in our group, because coming in as a geologist, I was sort of an
+36:30
+outsider, but I tended to have a broad picture and I was very interested in
+36:39
+hierarchy theory and systems ecology, which was big as International Biological
+36:45
+Program was starting back in the 1970s.
+36:51
+Systems ecology, I really grooved on those bigger
+37:01
+integrative views of the world.
+37:04
+And then I would try to make simple diagrams of how some of these interactions
+37:10
+occur like forest-stream interactions of which large wood is one example, then we
+37:19
+have multiple processes at that interface.
+37:24
+The Andrews has been notable in how that
+37:30
+work in that world of forest-stream interactions has grown, evolved,
+37:35
+and new forms of interactions have been realized over time.
+37:44
+It turns out to be very important in land management because if
+37:47
+you're going to whack the trees in the uplands, how are you going
+37:49
+to protect the aquatic resources?
+37:53
+But it isn't just a protection thing because the aquatic ecosystem has taken
+37:57
+a lickin' and kept on tickin' in the case of floods and fire and so forth.
+37:58
+[The phrase "takes a licking and keeps on ticking" was
+38:02
+part of an advertisement for a brand of wristwatch long ago.] So they're both
+38:04
+basic and applied aspects to the work,
+38:10
+which gets to your very last question.
+38:13
+Yes, and so just a couple of follow ups.
+38:17
+Do you mind giving your personal sort of definition of
+38:21
+observational approach to science?
+38:23
+I know we all have an idea of what that means, but I'd like to hear
+38:29
+your perspective and definition.
+38:31
+Well, I was intrigued.
+38:35
+I asked you in our previous conversation about giving definitions
+38:40
+of some of the terms here.
+38:41
+So, preparing to have this conversation with you, I looked
+38:45
+up Natural History, the term.
+38:48
+And I think that's very germane to the whole LTER scene in general because
+38:58
+this year we're 40 years into LTER and some sites are like the Andrews that
+39:08
+it started in the [IBP] International Biological Program era [started a
+39:12
+decade earlier] . So we're 50 years out, so we're living natural history.
+39:21
+The work at the Andrews is more than a collection of finely tuned experiments.
+39:30
+So I looked up natural history and it said it's scientific study,
+39:37
+it's observational rather than experimentation and it's presented in
+39:43
+popular rather than academic forms.
+39:47
+So, experimentation in this rigorous sense, you know, as you tweak the
+39:56
+ecosystem in some prescribed ways and see how it performs and you learn from that.
+40:05
+So observational work does not involve that intentional tweaking
+40:16
+with random assignment of treatments and replication, so forth.
+40:19
+We do have experimental watersheds and I've done studies with them,
+40:26
+but they don't meet rigorous standards of experimentation,
+40:35
+but we still learn from them.
+40:39
+So observation, you go out and observe and think a lot and argue,
+40:46
+you know, and then talk it out.
+40:51
+And what would you say the fields of ecology consist of?
+40:54
+Is it a mixed bag or does it lean towards one approach over the other?
+41:03
+I'd like to think it's a mixed bag and it's good to be mixed.
+41:08
+You know, when I
+41:11
+first started out, you know, the ecologists
+41:16
+in the '70s say there was the term "physics envy".
+41:24
+If we're going to make this a serious science, we have to be really experimental
+41:33
+and that's the way to really learn about processes.
+41:39
+And,
+41:42
+as a matter of fact, one member of our group said that recently.
+41:49
+And he was promoting certain kinds of experiments.
+41:56
+Well, that's fine, but that isn't all we should be doing.
+42:03
+That seems like a common trend across so many disciplines is the
+42:08
+need to become more physics-like.
+42:10
+I don't know why, but it's a common trend.
+42:14
+You see, in both the social sciences and the natural sciences.
+42:17
+Well, I'm very concerned about social sciences.
+42:22
+We have a daughter who just got her PhD in human dimensions of natural resources.
+42:28
+As she's trying to get some papers passed by her own committee and
+42:33
+co-authors, there's all this stuff about you having to start paragraphs
+42:40
+with theory, that theory says, "blank".
+42:44
+Well, there seems to be
+42:51
+excessive science envy in some of that way of communicating.
+42:58
+So
+43:02
+it's sort of concerning.
+43:04
+And it's interesting because I would say that when your topic of study
+43:10
+is something like an ecosystem or a culture, which is defined by an
+43:16
+immense degree of unruly complexity.
+43:19
+Right?
+43:20
+So in that regard, maybe there are pros and cons in trying to apply a
+43:25
+set of methods that are supposed to be for something that is reductionist,
+43:30
+you know, which is the topic of what physicists study and what are some of
+43:34
+the potential repercussions of that.
+43:41
+Yes.
+43:43
+And I'm certainly not attuned to the discussions of this topic in the
+43:51
+social sciences and in anthropology.
+43:54
+I
+43:57
+think it's good to hear different points of view and have them all out there on the
+44:01
+table and not get too uppity and wonky.
+44:05
+That one is really going to lead to truth and the others aren't, I don't
+44:10
+believe that for a minute, you know.
+44:14
+But I would think it's good to have a diversity of approaches.
+44:17
+Certainly, in terms of funding would you say that one approach
+44:22
+is more favored than the other
+44:37
+or is it evenly distributed?
+44:39
+Well,
+44:41
+that's a very good question.
+44:54
+It all depends on where you're trying to get your money from.
+44:58
+You know, having worked on the arts and humanities now for quite
+45:02
+a while at the Andrews and viewing it more broadly and collaborating
+45:08
+with some others in trying to get NSF funding for arts and humanities,
+45:20
+historically, like 10, 20 plus years ago.
+45:28
+In the 80s and
+45:35
+90s, we were getting a lot of money from National Science Foundation to
+45:38
+do science-science, you know, and the more scientific it appeared, the
+45:44
+more experimental, for example, the more modeling was incorporated, the
+45:50
+trendy real science kind of stuff, the easier it was to get funding.
+45:58
+Yeah, observational kind of stuff isn't as expensive and
+46:06
+we sort of went ahead and did it anyway.
+46:10
+Then, when something wild happens like the eruption of Mount St. Helens,
+46:18
+most of us weren't up there doing any experimentation, a few people
+46:21
+might have been doing some stuff.
+46:24
+Just telling a story of what the hell happened is huge, observational stuff.
+46:31
+So anyway,
+46:36
+let's see, what was your question?
+46:39
+I'm going to need to get a glass of water, juice or something.
+46:43
+Sure, should we take maybe between a five to 10 minute break?
+46:49
+Sure.
+46:49
+Five is fine.
+46:52
+Okay, we'll meet back in five minutes.
+46:54
+Okay.
+46:55
+So, should I'll just leave this on.
+46:59
+Yeah, I'll quit the recording and you could leave the video on.
+47:02
+Okay,
+47:09
+so before moving to the next question, I want to sort of ask
+47:14
+and get into the nitty gritty.
+47:16
+If you can define the difference of what makes observational,
+47:18
+observational and experimental
+47:24
+[science]
+47:24
+. Well, the key I think is manipulation of the world and of course that
+47:31
+occurs in all kinds of ways.
+47:34
+Observational work you're not manipulating.
+47:41
+Okay so that's the key difference.
+47:44
+Okay,
+47:46
+so for you personally what is your strategy in developing
+47:51
+a research question?
+47:52
+How do you come to a research question.
+47:59
+Boy.
+48:06
+That's very difficult to
+48:11
+answer.
+48:14
+I do think that my brain is pretty adventuresome and
+48:24
+I think my question is, maybe I always have the same question.
+48:31
+How does the world tick?
+48:34
+You know how, how is stuff working?
+48:37
+But not in a physics kind of way.
+48:43
+You know, I have science colleagues who will want to figure out what the
+48:49
+shear stress is in this stream and will be doing calculations - back
+48:53
+of the envelope calculations.
+48:56
+That isn't my style.
+48:59
+Also, like with the arts and humanities, for example, it's
+49:04
+just, let's launch off and do some stuff in a different kind of way.
+49:10
+And, usually, at an interface that we've not cultivated, you know.
+49:17
+So I like interfaces and just go hang out in the interface and see what comes
+49:24
+up, you know, so, geology-ecology, science-land management, biophysical
+49:34
+science-social science, you know, I worked with social scientists, especially
+49:41
+when we were in the forest wars.
+49:45
+And
+49:51
+now science-arts-humanities.
+49:53
+So
+49:56
+I don't feel very question driven,
+50:03
+I'm just trying to figure stuff out.
+50:11
+And it goes with your openness to surprises.
+50:14
+Is that correct?
+50:16
+Yes.
+50:20
+Or like the Chile stuff on volcano ecology, it's adventure travel,
+50:26
+it's going into new settings and
+50:37
+in forming new relationships, collegial
+50:43
+relationships.
+50:49
+My next question, what are your thoughts in regards to objectivity
+50:54
+and scientific research?
+51:01
+Well, I do think we need to be objective and open and if we are
+51:06
+collecting data, we need to do our best job in collecting quality data.
+51:14
+Explaining how it was collected and sharing it, so that others
+51:22
+can do with it as they wish.
+51:26
+That's a big theme in LTER.
+51:29
+And in the early days of
+51:34
+LTER, it was very challenging to overcome cultural hurdles within
+51:40
+the science community to have public dollars mean public data.
+51:47
+These are not personal studies, although there are some protections for some time.
+51:55
+For example, masters students, if
+52:00
+they generated a bunch of data, they should have adequate time
+52:06
+to publish it before it becomes public.
+52:12
+So, anyway, I think we need to be objective and careful, but open.
+52:20
+As a researcher, how do you use the scientific method to find the truth?
+52:26
+Well, what's the truth?
+52:29
+First of all, I
+52:35
+hope that in what is the scientific method, I do think hypothesis
+52:45
+formulation is important,
+52:51
+but if you're dealing with something like long-term ecological research,
+52:57
+having hypotheses that are falsifiable is just way too constraining
+53:07
+for dealing with long range phenomena.
+53:12
+So I think
+53:18
+the practice of a scientific culture
+53:23
+is important, and I wonder about, including the notion of the
+53:28
+scientific culture in finding truth or more truthful stuff over time.
+53:36
+Maybe it's like the earth or Mount St. Helens landscape.
+53:42
+There's no going back to something or going to some
+53:45
+truth; it's changing over time.
+53:48
+But, if we use a scientific culture of critical thinking and open sharing of
+53:55
+the foundational information, that's how we get to more truthful perspectives.
+54:07
+So would you say that that truth as a concept is more fluid
+54:12
+and it's a continuous process of trying to pursue truth?
+54:18
+I think so.
+54:26
+Alright, so my next question.
+54:28
+Are there are laws of nature?
+54:30
+And if so, can you define what a law of nature means?
+54:41
+Well, I don't think in those terms, although I remember reading
+54:45
+about it back in college days.
+54:51
+So I do see laws as very helpful
+54:59
+descriptions of relationships, the gas laws and things of this nature.
+55:07
+They may be somewhat scale-dependent.
+55:12
+They may work well at certain scales and not so well at others.
+55:17
+So I think they are useful depictions of how the world works.
+55:27
+And on a personal level, what are your overall motivations in science?
+55:34
+Is it for curiosity?
+55:36
+Is it for finding solutions?
+55:38
+What is the purpose behind conducting science or doing science?
+55:42
+Well, that's an interesting and important point to me, and especially
+55:47
+during the forest wars, where there were battles over old growth and
+55:51
+spotted owls and all this stuff.
+55:54
+And I was a federal scientist.
+55:57
+I wasn't supposed to be advocating for an outcome.
+56:02
+Actually, I was okay with that.
+56:05
+I think some people, passionate advocates,
+56:13
+wanted to see people like me, a scientist, you know, advocating for
+56:18
+old-growth or one thing or another.
+56:23
+So, I've had this
+56:28
+interesting career where it was possible to work on things where there was a
+56:35
+lot of public interest and attention.
+56:39
+I
+56:42
+felt that relative to old-growth and natural ecosystems,
+56:50
+they are powerful parts of the world.
+56:55
+If you're interested in conservation, for example, I certainly have
+57:01
+an interest in conservation, if
+57:04
+we explain that this tree or this stand is 500 years old, 500 years since the last
+57:12
+major fire and look how complex it is.
+57:19
+I think the people in general will want to do the right thing.
+57:24
+You know, they will want to take good care of it.
+57:27
+So a lot of the things I've worked on, the effects of flooding, the effects of
+57:31
+logging, roads, sediment, landslides,
+57:36
+and aquatic habitat and all this kind of stuff,
+57:41
+I was happy to just go try to figure out what happened and put it out there.
+57:47
+In public terms, not wonky academic terms, although, I've published science papers,
+57:58
+but be willing to tell straight stories and let the chips fall where they may.
+58:06
+In terms
+58:09
+of lawsuits or legislation or one thing or another.
+58:16
+And so a lot of the things I've worked on,
+58:21
+there's been a lot of real-world interest in them, like in
+58:25
+the case of the volcanoes.
+58:27
+You
+58:31
+know, it's about public education and appreciation and learning.
+58:36
+But then the work in the forests had a lot of conservation and
+58:41
+watershed management implications.
+58:46
+And I was fine with having some things that were just very basic,
+58:52
+and other things that were applied and I really appreciate the American
+58:57
+taxpayers for letting me do that.
+59:05
+So your work sort of involves a spectrum.
+59:07
+Yes.
+59:08
+And I've always been very amazed at
+59:14
+the stuff that started out very basic and ended up having
+59:18
+some real world implications.
+59:25
+Alright so that concludes our section on the personal level questions.
+59:32
+Now in this next section, I want to move towards inquiring about different
+59:36
+traditions and approaches of science on a community level and what role these
+59:41
+different approaches contribute to the Andrew science community as a whole.
+59:46
+And so I know earlier you spoke about part of your career at Andrews
+59:50
+involving being a facilitator and a leader of where you have to coordinate
+59:57
+between different approaches.
+59:58
+I think you'll have interesting insights on the community level as well.
+1:00:03
+So for my first question, what role does natural history play in the
+1:00:08
+Andrews Experimental Forest and how has that changed over time?
+1:00:15
+In the spirit of the definition that I picked up off the web, that
+1:00:22
+natural history is scientific study that is observational rather than
+1:00:28
+experimental and that is presented in popular rather than academic terms.
+1:00:36
+I think natural history has been an important part of the Andrews work and
+1:00:46
+our ecosystem has a lot of natural history manifest in it.
+1:00:53
+That we have old growth
+1:00:58
+that has recorded its own history in its tree ring records
+1:01:02
+and a lot of other record
+1:01:05
+keeping.
+1:01:09
+I
+1:01:11
+just think old growth is natural history, on the stump, on the hoof.
+1:01:19
+And so,
+1:01:23
+then I think that, as an earth scientist,
+1:01:29
+natural history is a bigger part of my personal portfolio than probably
+1:01:35
+anybody else in the science leadership
+1:01:40
+[at Andrews] . But others have to do it too in their respective
+1:01:51
+worlds.
+1:01:52
+I hope that we always have a good dose of natural history.
+1:01:56
+When we have big disturbance events, that brings natural history to the
+1:02:04
+forefront because then we want to pause and say wow how unusual is this?
+1:02:12
+Has this happened before?
+1:02:13
+What happened in response to it?
+1:02:17
+So that's part of having a long-term ecological research site.
+1:02:24
+And natural history differs from more experimental or top-down
+1:02:30
+approaches and in that it tells a specific story of a specific place.
+1:02:36
+Would you say that's true?
+1:02:39
+Yes, that is true.
+1:02:43
+But then, especially, if we have things
+1:02:50
+like detailed observational history of vegetation.
+1:02:53
+So we have vegetation plots,
+1:02:58
+all over hell and gone, you know, Cascade Head Experimental Forest
+1:03:01
+on the coast and up the Rainier [National Park] , and Olympic Peninsula
+1:03:04
+[National Park] , and so forth.
+1:03:06
+And we also have experimental watersheds at some other locations, so
+1:03:14
+these are long-term, rigorous, observational studies where we have
+1:03:21
+plots or experimental watersheds, but then, as time goes by, disturbance
+1:03:30
+events will happen and modify them.
+1:03:33
+And so this becomes a form of a rigorous, observational, natural history type
+1:03:42
+science, where our observation points, our period of direct observation is
+1:03:51
+getting long enough that we're starting to see the effects of episodic events.
+1:04:00
+And so there's this interesting blending of approaches.
+1:04:07
+And would you say that the observational approaches still carry a great deal
+1:04:12
+of importance today at the Andrews Forest as they have in the past?
+1:04:17
+or is there a change occurring at all?
+1:04:31
+That's a hard
+1:04:36
+question to answer because I do feel, in general, the
+1:04:42
+natural history types of work,
+1:04:47
+that some people are concerned that they're being lost and
+1:04:53
+being the old botany prof
+1:04:59
+just isn't trendy anymore.
+1:05:01
+Or, to have somebody in the faculty who,
+1:05:09
+you know, led great field trips.
+1:05:12
+There
+1:05:16
+have been some efforts
+1:05:19
+in invigorating natural history.
+1:05:21
+So I think there are concerns that natural history in the
+1:05:25
+training and observational science
+1:05:33
+are sort of dwindling.
+1:05:35
+I don't have a clear picture on that.
+1:05:39
+I
+1:05:43
+would welcome having some people with stronger natural history bent included
+1:05:49
+within the Andrews program, but we've had a period of turnover of scientists and
+1:05:57
+I'm not seeing much that are coming on.
+1:06:04
+What about in the academic realm?
+1:06:09
+Is there a diversity in trainings for students, aspiring ecologists and whatnot
+1:06:15
+or would you say that there is prominently one approach emphasized over the other?
+1:06:18
+I don't really know.
+1:06:22
+I was never, you know, a full blown academic.
+1:06:25
+With Julia, she teaches a field course, but only for four days and
+1:06:36
+that's
+1:06:38
+a course in natural history, the practice of it.
+1:06:43
+But I don't think there's very much else offered out there.
+1:06:49
+And because we have Andrews, she's trying to line up somebody as a successor who
+1:06:58
+could lead a field course up there.
+1:07:00
+You have the facilities, you have all of these stories, all of these
+1:07:04
+places, and different themes.
+1:07:05
+She does a different theme each year that she's taught it.
+1:07:11
+So, it's
+1:07:13
+just an ideal place to try to teach that kind of thing.
+1:07:18
+And I hope it will persist.
+1:07:22
+Yeah, I mean I think diversity is important because it touches
+1:07:26
+on a lot of deep things in terms of how we derive knowledge.
+1:07:30
+When you were talking earlier about how you come to a research question and it's
+1:07:36
+about being out there and having the research question come to you, right?
+1:07:41
+And so if in the other approach, you have your question already in mind, right?
+1:07:47
+And then you go and seek it, is that so?
+1:07:58
+This reminds me, the gratitude duet
+1:08:04
+that I was representing science had with Alison Deming, the poet.
+1:08:12
+We did it pretty much unscripted twice in public.
+1:08:19
+Then we wrote some of it down and it's in the book Forest Under Story.
+1:08:23
+We picked a topic and the one that I liked the best is patience.
+1:08:31
+Alison thanks the scientists for being so patient in working on a particular
+1:08:37
+problem or phenomenon for years and years, gradually pulling one layer of
+1:08:44
+onion skin off after another to really get to the core of what's going on.
+1:08:55
+I said I greatly appreciated the patience of the writers; I've gone out with them
+1:09:05
+and we'd sit on the riverbank and we talk about stuff and I'd say, "Well,
+1:09:10
+time to go, let's go look at some other stuff." The poet would want to stay.
+1:09:16
+And I'd say, "Well, what are you going to do while you're here?
+1:09:19
+Do you have a topic you're going to develop or something?" And they'd say,
+1:09:25
+"I want to stay here; I want to wait for the forest or the
+1:09:30
+stream to give me a poem." It
+1:09:34
+was totally open ended patience.
+1:09:36
+I'm thinking about grad students blowing down from Corvallis going
+1:09:42
+out to their instruments, downloading the data, tidying it up, hauling
+1:09:48
+back to the lab, or collecting a sample that's going into the cooler.
+1:09:51
+"I gotta go right back to the lab and put it in the instrument or into the
+1:09:55
+computer." You know, they could have had Sasquatch breathing down their
+1:10:01
+neck and they never would have noticed.
+1:10:03
+It's
+1:10:05
+because our science focus can get like this [narrowly focused] and get
+1:10:09
+totally instrumentation-bound, anyway.
+1:10:14
+Yeah, it's interesting.
+1:10:16
+It's interesting, even from my own personal experience, you know, I spent
+1:10:20
+a lot of time reading about the Andrews Forest through books, through articles,
+1:10:24
+and then the first time when you took me there and I walked out with this whole
+1:10:29
+sensational, phenomenological experience of, "Wow, this is so different than
+1:10:33
+reading from a book." So it's interesting.
+1:10:37
+We have all these tools that help, but sometimes they actually may inhibit us
+1:10:42
+from having the full sensory experience of what it is we are trying to understand.
+1:10:49
+That's why it's so great having the artists and the writers.
+1:10:54
+Von
+1:10:58
+Goethe, the natural historian, he definitely loved science, but
+1:11:04
+he also had some criticisms, he didn't like instruments at all.
+1:11:09
+He thought that it got in the way of the sensory experience, which is interesting.
+1:11:14
+I think there's definitely pros and cons to both right?
+1:11:17
+As long as you don't lose one for the other.
+1:11:22
+It kind of reminds me in your other oral history, something that you
+1:11:25
+said that really touched me that I want to hear you talk more about
+1:11:29
+was having the forest speak to you in terms of finding knowledge.
+1:11:33
+Do you mind elaborating a little bit on that and what that means to you?
+1:11:43
+Well, the
+1:11:47
+forest doesn't use English.
+1:11:57
+There's been a bunch of work on how forests affect people.
+1:12:08
+In an interview I did with Jerry Franklin, he talked about
+1:12:13
+how he talked to the forest.
+1:12:15
+I said, "Well, did it talk back?" And he said, "Well, not really, but it
+1:12:20
+was good to hear yourself talking out loud." So, anyway, I feel like when
+1:12:26
+we've gone out there with groups, including these highly interdisciplinary
+1:12:29
+groups, and to Mount St. Helens.
+1:12:33
+These are such big powerful places and amazing things have happened
+1:12:42
+in these places geophysically, ecologically, and human perception wise.
+1:12:52
+And it's humbling and I feel like people are more open to communicating their
+1:12:59
+feelings with one another, but, also, we can just feel at a loss for words
+1:13:08
+because there is so much there - so many types of organisms doing so many things.
+1:13:18
+And we've got a bazillion stories and that's only one of the bazillion
+1:13:23
+of all the stories about all the things that are going on out there.
+1:13:27
+It's so humbling.
+1:13:28
+I think that's a big part of it, it's physically humbling and
+1:13:34
+that was a key discovery.
+1:13:37
+This relates to your last couple of questions.
+1:13:42
+You know, what was the big one of the big discoveries from the Andrews.
+1:13:49
+And I think a major one is, "Wow, this is so incredibly complex and thoroughly
+1:13:59
+interactive." All of these amazing components rippled through time with
+1:14:09
+phenomena at all these timescales, and
+1:14:15
+that was at a time when forest planning was all about viewing the forest
+1:14:20
+as just a collection of trees that was growing to become two by fours.
+1:14:26
+How simple can you get?
+1:14:29
+Ideally no understory, no dead [wood] , no this no that, you know.
+1:14:38
+So they're just totally different things, but our vocabulary doesn't catch it.
+1:14:51
+And so that's a very abstract concept.
+1:14:53
+And yet, I think it was fundamental to stopping them from wacking
+1:14:56
+that [old growth] all down.
+1:14:57
+And that was, that was pretty consequential.
+1:15:05
+So anyway, I forget what you asked.
+1:15:08
+Oh, yeah.
+1:15:12
+How does the forest speak to me?
+1:15:13
+I think
+1:15:17
+the important thing is to go out there and be quiet and with your eyes open.
+1:15:23
+And so Lea Wilson's new art piece is now up in Peavy Hall here
+1:15:31
+[on the Oregon State University campus] . And that's very interesting.
+1:15:36
+The title of it is derived from a piece of writing from Robin Kimmerer
+1:15:43
+[Listening to Water] . The title of Leah's piece is "Listening to the Forest".
+1:15:55
+In our busy short term gratification world that we live in, that's a skill
+1:15:59
+that we all of us need to relearn.
+1:16:01
+Yeah
+1:16:04
+you know, in our world instant gratification isn't fast enough.
+1:16:12
+Alright, so to the next question.
+1:16:16
+So we talked a little bit about natural history and observational
+1:16:18
+approaches on the community level, but how about hypothesis-driven
+1:16:22
+and experimental research?
+1:16:24
+How has that contributed to the Andrews Experimental Forest and the science
+1:16:29
+community and its successes over time?
+1:16:35
+Oh I think, they've been very important.
+1:16:47
+You know Mark Harmon's log decomposition study, for example, it does have
+1:16:54
+replication and
+1:17:01
+as time goes on, these
+1:17:07
+experiments get used in different ways.
+1:17:18
+I'm hoping you will be able to tell us from your past knowledge
+1:17:23
+of philosophy of science,
+1:17:28
+what are
+1:17:32
+the valid
+1:17:35
+space or constraints on hypothesis-driven research?
+1:17:44
+If it's to be falsifiable, how can we do that in big, large-scale
+1:17:56
+systems?
+1:17:59
+So I do think that trying to formulate hypotheses, real hypotheses and not just
+1:18:08
+throwing out something that's a throwaway.
+1:18:12
+You know, hypothesize that a certain method could be used to
+1:18:15
+do something, you know that isn't about the actual phenomenon.
+1:18:21
+It's just your throwing the word hypothesis into a proposal, like
+1:18:28
+a thesis or dissertation proposal.
+1:18:31
+It isn't
+1:18:36
+necessarily functional in a philosophy of science and learning
+1:18:43
+context.
+1:18:43
+So I think we should try to do those things, but it's actually
+1:18:48
+very difficult, I think.
+1:18:51
+Well, I think that a difficult component, which is a key component, is replication.
+1:18:56
+Right?
+1:18:58
+Replicate certain circumstances in the forest, which is undergoing
+1:19:00
+constant dynamic change.
+1:19:03
+You know, like working in
+1:19:07
+an LTER network, generally leaders of sites go to periodic meetings
+1:19:17
+and a site will host the meeting.
+1:19:20
+So I remember going to the Shortgrass Steppe site outside
+1:19:24
+of Fort Collins, [associated with] Colorado State University.
+1:19:28
+You know, their vegetation had this stature [using fingers to show
+1:19:31
+about one foot] or to Cedar Creek [LTER site] in Minnesota, where
+1:19:36
+they were doing plots with different numbers of species within the plots.
+1:19:42
+The plots might be two meters by two meters or something like that.
+1:19:46
+They had grad students out there weeding them and installing stuff.
+1:19:53
+They could go manipulate the system,
+1:19:57
+but we've got big old trees, even in our plantations,
+1:20:01
+they're still pretty damn big.
+1:20:05
+So we do do experiments and have plots and treatments that are
+1:20:12
+big, you know, for many acres,
+1:20:18
+but it's big and it's messy.
+1:20:22
+And if you're doing it for a long time, then you get a windstorm or you get
+1:20:26
+heavy snow that brings the trees down, or a fire or one thing or another.
+1:20:31
+So physical scale and temporal scale are big challenges.
+1:20:38
+That
+1:20:42
+becomes clear when you see what people are doing at other LTER sites
+1:20:46
+where it might be more feasible.
+1:20:52
+What role does ecosystem modeling or modeling in general have at the Andrews?.
+1:20:58
+That's a very interesting question and there's long been a push to do
+1:21:02
+modeling and some people do a lot of modeling, such as Mark Harmon.
+1:21:11
+He does modeling, often in spreadsheets, where
+1:21:16
+it's a big accounting process, but you have to come up with the equations for
+1:21:27
+the parameter values for the decomposition rate and stuff like that.
+1:21:32
+So you know Mark's is one kind of modeling.
+1:21:42
+So we've never been really big on modeling.
+1:21:44
+Some LTER sites, for example, do have a major model that they use in all kinds
+1:21:51
+of ways at their site and elsewhere.
+1:21:55
+And the site is partly known for that.
+1:22:01
+But at the Andrews, it's been somewhat less prominent of an
+1:22:10
+approach than at some other sites.
+1:22:12
+A key thing I've sensed over the decades is people who are modelers like to crawl
+1:22:21
+in their own little cubbyhole and just do modeling computer simulation modeling,
+1:22:32
+or individual scientists may have models that they employ in their
+1:22:38
+own work and there's been some effort at landscape modeling.
+1:22:43
+But it's hard to capitalize on the investment in modeling if you don't have
+1:22:52
+a good social setup so that the people who are not the modelers, but maybe the
+1:23:00
+experimentalists and the observational scientists, can be interacting with the
+1:23:07
+modeler over time, so there is group learning.
+1:23:10
+We often do
+1:23:15
+not arrange that socially to have good group learning.
+1:23:21
+So that's an administrative community dynamics challenge.
+1:23:28
+Do you think that the lack of modeling is solely a communicative
+1:23:32
+and administrative challenge?
+1:23:33
+Do you think the landscape also imposes challenges?
+1:23:35
+I
+1:23:37
+don't think the landscape imposes challenges, actually,
+1:23:42
+you know, some of the
+1:23:47
+modeling that has been of closest interest to me has been the
+1:23:51
+landscape change modeling, and people have done future scenarios work.
+1:24:02
+We did it for our Blue River Landscape Study and plan.
+1:24:06
+So,
+1:24:14
+we tried to simulate with the Northwest Forest Plan, how it
+1:24:20
+would play out over the upper
+1:24:25
+Blue River drainage outside the Andrews over the coming couple hundred years.
+1:24:33
+Let's depict that and see how the different age classes of forests
+1:24:39
+are distributed in time and space
+1:24:43
+for the Northwest Forest Plan.
+1:24:45
+And then we had this fire history based concept, the disturbance-based
+1:24:57
+management scheme that had three different rotation lengths and
+1:25:00
+levels of retention of live trees and we tweaked the riparian reserves.
+1:25:06
+We made them skinnier, but then have some larger reserves and then we wanted
+1:25:13
+to compare those two different landscape management schemes in terms of owls
+1:25:19
+and water and distributions of forest conditions and all kinds of things.
+1:25:27
+And so in that case, modeling was helpful.
+1:25:41
+And then the final question for the section, are there any other
+1:25:45
+approaches to ecological research that we have not discussed and
+1:25:49
+what are their contributions?
+1:25:53
+Well, I'm not
+1:25:57
+coming up with any right now.
+1:25:59
+You know, there's
+1:26:03
+landscape pattern people.
+1:26:07
+There's the tracking of spotted owls and their reproductive success
+1:26:13
+and decline due to barred owls.
+1:26:16
+I'm just sort of running through my mind some of the major pieces
+1:26:19
+of action out there and then wondering, so like the owl tracking,
+1:26:30
+if
+1:26:34
+that's observational.
+1:26:38
+You know, the real interesting thing is Julia's work on
+1:26:46
+climate warming and the atmospheric landscape.
+1:26:56
+So you can quiz her on that.
+1:26:58
+But the cool thing is
+1:27:02
+she tried to look for climate or a climate warming signal in the records
+1:27:08
+from the meteorological stations, which is the place for you to
+1:27:13
+expect to find the relevant records.
+1:27:19
+However, because the forest grew around the met stations,
+1:27:25
+they got cooler rather than warmer, but that was a shading effect.
+1:27:28
+That's [warming] something that was going on, generally in the
+1:27:33
+region in terms of climate change.
+1:27:35
+So then she went to the records that the vegetation people and the bird
+1:27:44
+people had collected on air temperature for completely unrelated reasons.
+1:27:52
+In the veg plot records, which happened to be about 40 years long, she could see it
+1:28:05
+[warming] and that was serendipity.
+1:28:08
+It was observational, but it wasn't observational for the
+1:28:13
+objectives that then the climate analyst was trying to use it for.
+1:28:18
+So this is an aspect of having so many people doing so many things over
+1:28:23
+such a long period of time in the same place, and having the data available
+1:28:27
+for people to do creative things with.
+1:28:32
+It's very, very powerful.
+1:28:34
+So it's sort of observational, but it's, I don't know how to describe
+1:28:41
+it, it's looking over the shoulders of people in another disciplines
+1:28:46
+and then pulling out their data and doing something special with it.
+1:28:51
+And I just actually remembered one more question that I wanted to ask you and
+1:28:57
+that emerged from our discussion so far.
+1:29:00
+As your role at a period of time as the facilitator between different people,
+1:29:05
+different projects at the Andrews Forest, are there any moments or times where
+1:29:09
+you saw either clashes between different philosophies of science or any some
+1:29:15
+really cool sort of coordinated work or cooperation intersections between them?
+1:29:24
+There have definitely been clashes.
+1:29:28
+I
+1:29:33
+think they were not
+1:29:38
+science rooted.
+1:29:41
+They were matters of poor personal behavior.
+1:29:48
+People just being jerks.
+1:29:54
+There's certainly times when people thought more money should go their way and
+1:29:58
+that's a big challenge of LTER, because, although it sounds like a big pot, you're
+1:30:03
+trying to have a lot of people involved.
+1:30:05
+And so it takes a lot of altruism to participate,
+1:30:12
+especially in leadership roles.
+1:30:15
+So
+1:30:19
+dealing with personalities is very challenging and an
+1:30:23
+interesting thing about it is that
+1:30:32
+it's a bunch of consenting adults.
+1:30:35
+You have your home institution like the university or Forest Service
+1:30:42
+research or the national forests that are very hierarchical systems.
+1:30:48
+You know, the money and the direction sort of move down through
+1:30:51
+the system, although it's sort of strange because, as a scientist, you
+1:30:57
+want to have a lot of independence.
+1:31:01
+So then you get NSF money from outside that hierarchy.
+1:31:06
+So, very few people in a big in a community like the
+1:31:12
+Andrews work for one another.
+1:31:16
+They're in the different hierarchical systems with different cultures and
+1:31:22
+then they get some money from in their home institution and then they may get
+1:31:27
+a share of this NSF money and then in order to make it work, they have to
+1:31:33
+play in the sand box together and not kick sand into one another's face.
+1:31:39
+And we're not trained to do that kind of thing.
+1:31:44
+So
+1:31:51
+conflicts can arise.
+1:31:56
+Has NSF influenced one approach over the other.
+1:32:01
+Is it more experimental-driven?
+1:32:04
+NSF as a culture?
+1:32:09
+NSF itself is an amazing institution and it has a small number of people
+1:32:14
+called program officers who run processes with the peer community.
+1:32:21
+So
+1:32:25
+most proposals are evaluated by peers in academia or other places.
+1:32:34
+Some small proposals for quick hits like, oh, can we give money to tackle
+1:32:40
+this question or this fire just occurred, may be reviewed by just
+1:32:44
+a group of the program officers.
+1:32:47
+So anyway,
+1:32:51
+you're really dealing with your peer community.
+1:32:54
+And so
+1:32:58
+it is important to have your work look validly scientific and not be too woo woo.
+1:33:06
+You know, so the arts and humanities,
+1:33:12
+I don't think we've gotten any money directly from Andrews LTER to run that.
+1:33:19
+It's been private money.
+1:33:20
+So
+1:33:27
+it's great to have that independence.
+1:33:30
+I'm
+1:33:33
+really impressed by how much we've accomplished
+1:33:41
+without tapping much NSF money.
+1:33:45
+I mean, NSF has made some contributions, like we've got some funding for a workshop
+1:33:51
+across the [LTER] network on the arts and humanities and they hosted two art
+1:34:00
+exhibits in their building and they had
+1:34:05
+professional art exhibit installers come in.
+1:34:11
+I actually went there and worked with those people.
+1:34:13
+I mean, they
+1:34:16
+get flown around the world to install the King Tut exhibit when it arrives
+1:34:22
+in, you know, Paris or something.
+1:34:25
+And here, these guys in the halls of NSF for the public hanging
+1:34:29
+up these art pieces from LTER.
+1:34:31
+It was so cool.
+1:34:32
+I mean it blew my mind.
+1:34:33
+You know, but anyway, um, I forget how I got onto that.
+1:34:40
+Do you envision any chance that NSF would move towards being more supportive of
+1:34:46
+that, as the culture of academia changes and we realize, more and more, the
+1:34:50
+importance of not just interdisciplinary but trans-disciplinary collaboration.
+1:34:55
+Do you think it's moving in that direction?
+1:34:59
+No.
+1:35:02
+You know we made a run at two proposals for certain kinds of grants to bring
+1:35:08
+together communities of inquiry where it seems the time was right to do that.
+1:35:22
+So you get a grant for four or five years and you can have a few meetings, then
+1:35:27
+you write synthesis papers and you start collaborating where you've been doing
+1:35:30
+things very separately, that occurs, for example, soil warming experiments
+1:35:38
+in the US and in northern Europe.
+1:35:45
+We applied for two of those early in the Trump era.
+1:35:49
+We got positive reviews and actually our leader [Mary Beth Leigh, U
+1:35:54
+Alaska-Fairbanks] had gotten a workshop grant that was hosted
+1:35:56
+at University of Museum of Art and Environment in Reno, Nevada.
+1:36:02
+It was an amazing meeting and facility.
+1:36:06
+That set the stage to write these two proposals and they were highly
+1:36:12
+positively reviewed, though in the end we didn't get them and in the
+1:36:16
+end it was probably just too weird for NSF to do something at this time.
+1:36:21
+Also, NSF had been encouraging some inclusion of the social sciences,
+1:36:32
+but in the last few requests for proposals for [LTER site renewal
+1:36:37
+grants] , they've pulled back from that.
+1:36:40
+So they're getting more sciency and conservative and use your
+1:36:46
+long-term data rather than open up.
+1:36:54
+I have
+1:36:57
+written about
+1:37:05
+how so many sites are bringing in the arts and humanities and dealing
+1:37:10
+with the human dimensions of the conservation implications of their work.
+1:37:17
+But they aren't doing much of it with NSF funding or they have to go do it
+1:37:22
+with this other funding and there's an instinct in these communities
+1:37:26
+such as ours to do more of it.
+1:37:28
+That's why I feel like we need to embrace you and your work, because you're
+1:37:35
+going to help us know about ourselves.
+1:37:40
+And I think this ought to go on at a bunch of sites.
+1:37:44
+I wonder if it's going on at any other site, you know, philosophy
+1:37:49
+and history of science inquiry.
+1:37:56
+One comment: Denise Lach, now a retired professor of Social
+1:38:04
+Science and Public Policy
+1:38:08
+got some NSF money and she did a paper Lach et al. I think it's 2003 on advocacy
+1:38:16
+in natural resource decision making.
+1:38:18
+[title: Advocacy and Credibility of Ecological Scientists in Resource
+1:38:18
+Decisionmaking: A Regional Study] It's in the Andrews pub [publication] list.
+1:38:21
+She also went to some other sites and did interviews.
+1:38:27
+I think in person and maybe via questionnaires at several other
+1:38:32
+sites, but never published that work.
+1:38:36
+Some of her co-authors may have published a little bit of it of Brent Steel.
+1:38:43
+And
+1:38:46
+it's the one that comes to mind.
+1:38:48
+I think he has some pubs on our pub list.
+1:38:50
+Anyway, it has to do with the conduct of
+1:38:55
+scientists at LTER sites in natural resource decision making and how their
+1:39:00
+conduct is viewed by environmentalists,
+1:39:06
+attentive public
+1:39:10
+and people who are more on the development end of the spectrum,
+1:39:13
+and the scientists themselves.
+1:39:17
+And this is sort of related to your whole topic and you might even consider trying
+1:39:23
+to contact Denise and get her impressions.
+1:39:28
+The impression I got from her in a casual conversation was that the Andrews was
+1:39:33
+unusual in how involved scientists were for public policy issues, which sort of
+1:39:44
+relates to some of your questions and, you know, are you just doing wonky science
+1:39:50
+or are you out there to serve the public?
+1:39:52
+It
+1:39:55
+also ties back to the question of how to use science to
+1:39:58
+find truth or what is truth?
+1:39:59
+Right?
+1:40:00
+Are there different sorts of partial perspectives truths?
+1:40:04
+It's interesting, the historical separation between disciplines that at
+1:40:09
+the Andrews Forest, you have a unique situation where you're trying to bring
+1:40:14
+this separation back into a whole inviting not just interdisciplinarity
+1:40:20
+across the natural sciences, but also social sciences, arts and humanities.
+1:40:23
+So I think it's interesting, you know, and how much does that open us up
+1:40:30
+to understanding the natural world?
+1:40:31
+When we invite all of these different partial perspectives into the story.
+1:40:36
+It's an interesting thing to keep looking into overtime.
+1:40:41
+Alright, so I have just a couple of concluding questions.
+1:40:50
+What significant ideas have emerged from the Andrew's science community?
+1:40:55
+How did the science of these ideas evolve in terms of questions and methods?
+1:41:04
+Well, I address this a bit earlier, of just having a sense of the
+1:41:10
+complexity of the forest, especially notable in juxtaposition with the
+1:41:18
+nature of plantation forest, which we were busy and have been busily
+1:41:27
+creating and managing.
+1:41:30
+Then the nature of old growth, the nature of forest-stream interactions
+1:41:36
+in the inextricable linkages between forests and streams.
+1:41:46
+In the abundance
+1:41:49
+of biological diversity, abundance of species, and different parts of the realm.
+1:41:59
+Then right now we're starting to learn what the climate warming signal is
+1:42:05
+and when it's coming from a seasonal and time of day perspective, which
+1:42:10
+is a stepping stone to something that hasn't been done yet, which is
+1:42:15
+trying to figure out what all the ecological responses may be in terms
+1:42:20
+of organisms' responses or processes.
+1:42:25
+So
+1:42:28
+we're just doing all that stuff and it capitalizes
+1:42:35
+on all the methods that have been used
+1:42:40
+in the forest.
+1:42:43
+Are there new methods or unused methods?
+1:42:47
+I'm sure there are plenty of unused methods, especially with new technologies.
+1:42:52
+For
+1:42:58
+example, the air flow Julia has worked up a lot of the existing data, but it's
+1:43:05
+a little bit of a catch-as-catch-can.
+1:43:08
+It's difficult to understand the airflow in such a large three
+1:43:13
+dimensional system, the whole forest.
+1:43:19
+Then
+1:43:21
+the arts and humanities, I consider that part of our inquiry.
+1:43:26
+But I don't know where that's going to go.
+1:43:31
+I probably said to you several times [that]
+1:43:36
+part of the my feelings about where the arts and humanities can go
+1:43:44
+is based on the patience of having seen how the old growth
+1:43:50
+thing unfolded over 20 years.
+1:43:53
+We worked in old-growth, not really thinking about it very much.
+1:43:58
+It wasn't [explicitly] an old growth forest research program for 10 years
+1:44:02
+[s] , but then we summarized what we thought we knew in '81, and then
+1:44:08
+[for] the injunctions didn't come down [to stop logging in federal
+1:44:11
+forest lands of the range of the spotted owl] it for another decade.
+1:44:13
+So I feel like they're going to be outcomes from the arts and
+1:44:18
+humanities that I can't imagine.
+1:44:22
+And I may live to see some of them, but I won't live to see most of them.
+1:44:29
+Time will tell, I suppose.
+1:44:33
+Alright, so for my final question.
+1:44:35
+What do you see as the principles and motivating forces that drive
+1:44:39
+the Andrews Forest as a community?
+1:44:46
+I think it's
+1:44:50
+just keep learning more and learning more.
+1:44:55
+I haven't heard people actually say this,
+1:45:00
+but
+1:45:03
+I think, if you learn more in a place where we already know so much,
+1:45:09
+the lessons can go even further.
+1:45:14
+You can put them in a
+1:45:17
+very rich context.
+1:45:23
+And it's just a beautiful, beautiful place that I think
+1:45:31
+sucks us in and we're all honored to get to work there.
+1:45:35
+It's got a bigger karma that is bigger than any of us.
+1:45:40
+So it's an honor and a big responsibility to work there.
+1:45:46
+And I think the same about Mount St. Helens.
+1:45:53
+Our contributions as individuals or teams of scientists have
+1:45:59
+felt like the stream team.
+1:46:03
+Our contributions are going to have a longer life
+1:46:08
+because of being in those places and people look to those places for stories
+1:46:12
+about some of these kinds of things.
+1:46:16
+The identity with us as individuals may be lost.
+1:46:20
+I see that you know the next generation will come along and sort of
+1:46:26
+rediscover something and relabel it, but that just means that there's more
+1:46:33
+momentum and refinement in the ideas.
+1:46:38
+So these are some of my efforts to
+1:46:45
+articulate why people come in and will stick with it.
+1:46:50
+A lot of people come in and don't stick with it.
+1:46:53
+They want to put their name on their stuff in a separate place so their name
+1:46:59
+doesn't get lost or they can't handle the social dimension or one thing or another.
+1:47:06
+So it's not for everybody.
+1:47:11
+And then before we end.
+1:47:13
+Are there any last, final thoughts that you'd like to offer
+1:47:19
+or contribute?
+1:47:20
+No, I just want to thank you for taking this all on.
+1:47:23
+I'm very curious to learn from you and what you learn overall as you do this.
+1:47:34
+Thank you as well for taking the time.
+1:47:36
+I appreciate it.

@@ -1,0 +1,1312 @@
+00:02
+Today is Dec. 19th, 2017.
+00:05
+I’m here at the Valley Library with Dr. Jeff Bethel, a professor in the School of
+00:10
+Biological and Population Health Sciences.
+00:13
+Today, we’re gonna talk about his research, as it relates to
+00:16
+global warming in particular.
+00:18
+But I’d like to start with your background.
+00:21
+Where were you born?
+00:21
+I was born in San Diego, California.
+00:24
+Is that where you grew up?
+00:26
+Yeah, I grew up about 30 minutes north of San Diego in Carlsbad, California.
+00:30
+Lived in the same house till I left for college.
+00:33
+What did your parents do?
+00:35
+Both my parents were educators in the middle school and high school levels.
+00:39
+My dad was a teacher/coach for many years, and athletic director, and
+00:43
+then became a principal in his last several years before he retired.
+00:46
+My mom was a middle school counselor, and then a high school counselor
+00:50
+towards the end of her career.
+00:51
+So, educators for 35+ years.
+00:55
+Was there an expectation for you to go to university after school?
+00:58
+It wasn’t really spoken, but it was what I knew.
+01:01
+Both my parents had master degrees and my older sister got into college.
+01:05
+And I was a good student.
+01:11
+The expectation was more internal—just, I’m going to college.
+01:15
+What were your interests growing up?
+01:18
+As a kid, mostly sports.
+01:21
+[Laughs] I was into playing sports year-round, one after another growing up.
+01:27
+But I was always good at math and science.
+01:31
+And I’d always wanted to be a small town physician, growing up.
+01:35
+That was kind of my goal in life, as a young kid and getting into middle
+01:40
+school, and early in high school.
+01:43
+And you ended up going to UC Davis?
+01:46
+Yeah, I went to UC Davis.
+01:48
+It was the last school I visited.
+01:49
+Applied to all UCs.
+01:50
+You know, I was a California kid and got into all of them.
+01:56
+But Berkeley and L.A. just felt too big for me, being from a relatively
+02:01
+small town of 60,000 people.
+02:04
+Davis just felt perfect.
+02:06
+And it fit me really well, stronger in the sciences.
+02:10
+And I just loved my time at Davis so much.
+02:13
+In fact, I went back for graduate school.
+02:16
+And your bachelor’s degree is in biochemistry?
+02:19
+Biochem, yeah.
+02:20
+And then after undergraduate, I moved back to San Diego and
+02:24
+worked at a biotech company.
+02:26
+I was their first employee they ever hired, doing contract research,
+02:30
+developing rapid diagnostic tests, lateral flow assays.
+02:34
+I was by myself for months at a time while the two owners were
+02:39
+out jumping up business—until I got a friend of mine, graduate of
+02:43
+Davis, several months later a job.
+02:45
+And there was the two of us, working in the lab.
+02:49
+Did that for two and a half years.
+02:50
+And I realized just before that time ended that I did not want to be on
+02:54
+the bench for the rest of my life.
+02:57
+And kind of explored—I’m interested in health and medicine, like I mentioned,
+03:01
+and was very analytical, good at math.
+03:04
+And I was talking to a friend at a family party who was getting her
+03:08
+masters in epidemiology at UC Berkeley.
+03:12
+And I didn’t really know much about epidemiology.
+03:14
+I knew public health.
+03:15
+But we were talking and she was describing epi.
+03:19
+I said, “This is for me.” It’s perfect, conducting studies and
+03:23
+using my quantitative background in a health related field.
+03:27
+It was for me.
+03:29
+Did more research and went back to Davis.
+03:32
+Had you had exposure to undergraduate research as a student?
+03:36
+A little.
+03:37
+Just a basic lab job on campus.
+03:40
+But that was about it.
+03:42
+And did you know that you wanted to pursue a Ph.D. as opposed to a
+03:45
+master’s when you went back to school?
+03:47
+Initially, when I went back to Davis, I was in the master’s program.
+03:52
+But they had a unique program.
+03:53
+I just switched over to the Ph.D. track.
+03:55
+They have the same requirements the first couple of years so the only difference was
+03:59
+just continue on to get your dissertation, or, to complete your dissertation.
+04:03
+So the epidemiology program is in the School of Medicine.
+04:08
+But it sounds like you had a research focused Ph.D. Is that correct?
+04:14
+So it was housed, actually, within the School of Veterinary
+04:16
+Medicine and School of Medicine.
+04:18
+And I linked up with a professor, Dr. Marc Schenker who’s the—just
+04:26
+retired—director of the Western Center of Agriculture Health and
+04:29
+Safety at UC Davis, one of a CDC/NIOSH funded ag, health and safety center.
+04:35
+And he needed some work done by graduate students.
+04:40
+And it was really my first big entry into research.
+04:49
+He was conducting a study, looking
+04:53
+at the Hispanic paradox that immigrant Latino women had better birth
+04:57
+outcomes compared to their native-born counterparts, despite lower SCS,
+05:02
+lower education, less access to care.
+05:04
+That was the broader goal.
+05:07
+But I was focused on the agricultural exposures, occupational exposures.
+05:13
+So we conducted the stats, comparing farming workers to non-farm workers,
+05:16
+and one who didn’t work, all Latino women, and compared their birth
+05:20
+outcomes: preterm, low birth weight, deliveries and other birth outcomes.
+05:26
+And then heat was a big part, working in farm workers in
+05:31
+Central Valley, California.
+05:32
+That’s really when I first got into this issue or idea, or interest,
+05:37
+in climate change—was this workers working in very hot conditions,
+05:44
+and impact on their health.
+05:47
+What was the data collection process like?
+05:49
+I’m assuming it’s survey based?
+05:51
+And do you speak Spanish?
+05:52
+So we had about 1,200 women enrolled in the study.
+05:57
+And they had a baseline interview, very extensive.
+06:01
+I think it was a three-hour-interview, looking at nutritional background,
+06:08
+stress and social support, basic demographics, sexual history,
+06:13
+smoking, drug use, you name it.
+06:17
+That was the baseline.
+06:18
+They were recruited out of prenatal clinics in Stockton, California.
+06:22
+And we followed them through their delivery.
+06:25
+And then we accessed their medical records and abstracted all the data regarding
+06:30
+their pregnancy and their delivery.
+06:33
+And I wouldn’t call myself bilingual.
+06:35
+But I can speak pretty well.
+06:39
+And one of my duties was, before we got to analysis phrases, to track down
+06:43
+the women who—we call “lost the follow up”—moved away or we couldn’t locate.
+06:48
+Because we spent a lot of time and energy on these baseline interviews in our study,
+06:52
+we wanted to make sure we capture all the women who we enrolled, get outcome
+06:56
+data on all of them for efficiency and to make better use of our data.
+07:01
+Did it seem like climate change was
+07:07
+becoming relevant to other labs within that program?
+07:11
+Climate change at that time.
+07:13
+I was in this ag, health and safety world so within that area, yes.
+07:18
+Climate change, at that time, thinking back 15+ years now, was
+07:25
+global warming at the time, I think.
+07:26
+I’m not sure if the terms are being used at that time.
+07:30
+But without question, the occupational hazards to these workers were, in part,
+07:38
+rooted in climate, primarily heat.
+07:42
+And there were ergonomic issues then, adding to climate change.
+07:47
+But that’s when I really started this interest in these environmental
+07:51
+exposures due to climate, among this very vulnerable population who has
+07:56
+to work outdoors in the most part.
+08:00
+And they don’t have a lot of power and they typically get paid by
+08:04
+the piece, how much they pick.
+08:06
+And they are incentivized to keep working and not taking breaks, taking steps
+08:12
+that will prevent heat-related illness.
+08:14
+So that’s where I got my interest in climate and health started there.
+08:20
+Did you teach while you were in grad school?
+08:22
+I did not.
+08:23
+Very different than here in Oregon State, I did not have
+08:26
+any teaching responsibilities.
+08:27
+So I was a graduate assistant with Dr. Schenker.
+08:31
+And then I transitioned to a fellowship I obtained the last three years.
+08:36
+They gave me a research stipend, a travel stipend, a monthly stipend
+08:40
+to live on towards admissions.
+08:42
+So I didn’t have to teach.
+08:45
+So when you were done with your Ph.D., it looks like you left
+08:47
+academia and went to the CDC.
+08:49
+I did.
+08:51
+I wasn’t sure which route I wanted to go, so I applied for this CDC’s
+08:55
+CSDE, applied epi fellowship.
+08:58
+And that’s where I was
+09:02
+entering the program onto a matching process.
+09:04
+And I matched with a program in San Diego, part of CDC, the Division
+09:09
+of Global Migration and Quarantine.
+09:12
+It was formally a quarantine station.
+09:15
+But in San Diego—most quarantine stations in the country are based
+09:19
+in airports, a lot of inspection—we didn’t do any of that in San Diego.
+09:24
+Their area of interest was the port of entry, the land border.
+09:27
+And really what it was is binationally surveillance for infectious
+09:30
+diseases, which is fascinating to me.
+09:32
+So I did a just-short-of two year applied epi fellowship with CDC there then.
+09:37
+And that transitioned into a full-time position with CDC.
+09:40
+And that was an amazing experience.
+09:47
+I travelled to Morgantown, West Virginia, to do some training with NIOSH.
+09:54
+I got to do a project in Miami, looking at the transmission of infectious disease
+09:58
+on cruise ships from crew to passengers.
+10:01
+Not really climate related at this time.
+10:04
+And then, of course, my main responsibilities at San Diego,
+10:07
+looking at the land border—the
+10:11
+division was tasked with stopping the entrance and spread of
+10:14
+infectious diseases into the United States, which is impossible.
+10:17
+So that’s why we took a more binational approach.
+10:20
+So we worked with our counterparts in Mexico.
+10:23
+They have a very different system.
+10:25
+They had to get approval for everything in Mexico City at the federal level,
+10:31
+while in United States, the county was more used to working more locally.
+10:36
+But that was an amazing experience working with a foreign country, with city
+10:40
+officials, health officials in Tijuana.
+10:42
+It was just a tremendous experience.
+10:44
+Do you feel like that experience has given you a unique perspective
+10:48
+on the US-Mexico border outside of the political discussion?
+10:52
+Oh yeah.
+10:52
+Actually, it’s a geopolitical border.
+10:54
+People live in one, work in the other; live in one, their
+10:58
+kids go to school on the other.
+11:00
+It goes both ways.
+11:02
+It’s the busiest port of entry in the world.
+11:04
+I don’t have the numbers off the top of my head—I used to know those numbers
+11:06
+of people who go across, just one port of entry in San Ysidro everyday.
+11:10
+But when pandemic, influenza, hit, there was talk of closing the border.
+11:16
+And that was just not feasible—you can’t do it.
+11:20
+But yeah, growing up in San Diego, we used to go down to Rosarito
+11:26
+Beach for lobster.
+11:27
+So I was comfortable traveling to Mexico.
+11:29
+I’m used to it.
+11:31
+But it’s a different experience,
+11:36
+working at the border region for the goals of prompt identification of people with
+11:43
+infectious diseases to stop the spread.
+11:45
+That’s what we’re trying to do.
+11:48
+And what did you think of the culture of the CDC and working of that organization?
+11:52
+I think 90+% of CDC employees are around Atlanta.
+11:57
+So I was in a field station, so to speak.
+12:00
+So, it was a different experience for me than workers and employees in Atlanta.
+12:04
+But I travelled there frequently and we all got together.
+12:07
+But in my division, it was extremely supportive of what I wanted to do.
+12:12
+I was unique, I had a Ph.D.—most employees had a master’s in public health.
+12:19
+So our higher ups are very supportive of me publishing and going to
+12:23
+conferences, which was pretty rare.
+12:25
+It was a great experience.
+12:27
+And my first job in academia really valued that experience I had at CDC.
+12:33
+Why did you decide to return to academia?
+12:39
+A couple reasons.
+12:40
+One, I
+12:43
+was overqualified for what I was doing.
+12:46
+A Ph.D. is a research degree and I wasn’t getting those research opportunities.
+12:52
+But like I said, they encouraged me to publish and go to conferences.
+12:55
+That
+12:57
+was one reason.
+12:59
+I was trained to research.
+13:00
+I wasn’t really getting those opportunities as much as I hoped.
+13:03
+The
+13:05
+red tape, the bureaucracy, was weighing on me a little bit.
+13:08
+I was working on a influenza surveillance system with a cruise ship.
+13:13
+Private company so they were ready to go yesterday, and I was dating my proposals.
+13:20
+In a year, I ticked off.
+13:21
+And I went, this is amazing, this is kinda hard to do.
+13:25
+So between those two main reasons, I wanted more independence.
+13:29
+I knew in academia—there’s still bureaucracy in academia, of
+13:32
+course—I can have more independence.
+13:34
+It’s on me to write grants and successfully obtain money.
+13:38
+So it’s all on me.
+13:39
+I’m not waiting for someone else to do things.
+13:41
+I can be more independent.
+13:42
+And I can better utilize my training.
+13:45
+So that’s why I jumped back to academia.
+13:48
+And you ended up at East Carolina University?
+13:51
+Yeah.
+13:51
+So the applied epi fellowship I had wasn’t a traditional academic
+13:56
+postdoc where you do research.
+13:58
+So, short of that experience, I think I landed in a perfect place at ECU,
+14:05
+East Carolina University, in the School of Medicine there, Department
+14:08
+of Public Health, at an MPH program.
+14:13
+We also have a small faculty with a lot of students, even more than we have here.
+14:18
+So I was doing a lot.
+14:19
+That’s where I really learned how to be a grant writer.
+14:23
+I didn’t have much experience doing that before I went to ECU, and be in
+14:28
+a tenure-track assistant professor.
+14:30
+I had to balance the teaching, the research, the service.
+14:35
+Started learning how to say no to things, which is a very
+14:40
+important skill for an academic.
+14:42
+And it was a wonderful experience.
+14:44
+I was there three years.
+14:47
+And I still keep in touch with students from that.
+14:50
+I was
+14:52
+there, starting nine years ago.
+14:55
+And left six years ago.
+14:56
+And I just met a former student of mine at a conference in
+15:00
+Atlanta a couple weeks ago.
+15:02
+Great experience.
+15:03
+It was a good experience for me and my wife at the time.
+15:08
+We were married and we’re still married now.
+15:10
+We moved to the South and that was a really great experience,
+15:14
+living someplace different.
+15:17
+Not sure I would’ve had that experience otherwise.
+15:20
+Different environment, different weather.
+15:22
+That’s when I really learned the humidity.
+15:25
+[Laughs] I wasn’t used to humidity before I moved to the south.
+15:28
+And it was just a tremendous experience.
+15:30
+I met some great people, good friends.
+15:33
+But then the pull back west was strong.
+15:37
+It sounds like you were teaching?
+15:40
+Yeah, teaching graduate students.
+15:43
+And that’s where I continued further my work in agriculture, health and
+15:48
+safety, specifically in heat stress.
+15:51
+And North Carolina has a longer growing season than the West
+15:55
+Coast, from May through November.
+15:58
+And, like I mentioned before, their summers are extremely hot and humid,
+16:05
+and have a very high heat index value which is a combination of
+16:09
+temperature and relative humidity.
+16:11
+So their workers were at much greater risk for heat-related illness than workers on
+16:18
+the West Coast, with that humidity factor.
+16:21
+So I continued working in that area.
+16:22
+Then I started incorporating other dimensions of climate change into my
+16:26
+work, like natural disasters preparedness.
+16:30
+Really, where those parts of my portfolio started to take off was in North Carolina.
+16:36
+And how did you end up at Oregon State?
+16:39
+I saw a position opening, assistant professor epidemiology, here at
+16:46
+Oregon State University in College of Public Health and Human Sciences.
+16:49
+The College was expanding from a MPH program to a fully accredited school.
+16:55
+And with that, they need to hire a lot of faculty.
+16:58
+And I was happy where I was.
+16:59
+The plan was to get tenure back there, and then eventually move back west.
+17:04
+But this was too good to pass up.
+17:06
+The UC schools, at that time, were under an intense budget restriction.
+17:10
+They weren’t gonna hire anytime soon.
+17:13
+So I put my name in the hat, see what happens.
+17:17
+And my family was very happy.
+17:21
+I was given an interview, no pressure on the interview or anything.
+17:26
+[Laughs] And it all worked out.
+17:29
+And here we are.
+17:29
+And we were thrilled to be here, to move back west, to be in Oregon State
+17:34
+University, and to be in Corvallis.
+17:36
+It’s a wonderful city.
+17:38
+We have two kids now.
+17:38
+We moved here with a 9-month-old and have a second daughter.
+17:44
+Were there people who’re important to getting you settled
+17:46
+in when you arrived at OSU?
+17:49
+Yeah.
+17:53
+Anna Harding was one of the school co-directors at the time.
+17:57
+She’s since retired.
+17:59
+She’s in the Environmental and Occupational Health program.
+18:03
+She was instrumental in getting me here, really solidifying this
+18:09
+is a great place to me, as well as
+18:15
+OSU has many different climate science programs.
+18:18
+So I met with Phil Mote during my interview.
+18:20
+I requested that.
+18:21
+And he was open to collaborating.
+18:23
+His group hadn’t really done much in the health world but he encouraged me
+18:28
+to come, and to be a part of that group.
+18:31
+And I’m a funded member of his group, now one of the groups in the
+18:34
+Climate Impacts Research Consortium.
+18:36
+So those are the two, among others, that really sold me on
+18:40
+this is a good place for me.
+18:41
+Cuz it could be a good fit geographically, but if it’s not a good
+18:46
+fit professionally, it’s not gonna last.
+18:48
+So that was always secondary.
+18:51
+But it had to be a good fit professionally.
+18:52
+And it was, and it is.
+18:55
+So, moving more into your research, you referenced disaster preparedness.
+19:01
+How do you evaluate disaster preparedness within a particular
+19:05
+community or population?
+19:06
+A couple different ways to assess preparedness.
+19:10
+One of my interests is at the household level.
+19:11
+So I teach a graduate-level disaster epidemiology class.
+19:16
+And putting it together—it was a new course, I think I’ve taught it four
+19:21
+times now—I was overly ambitious.
+19:25
+And I’m glad I was at the time, because I decided to have the students
+19:29
+conduct a CASPER, Community Assessment for Preparedness Emergency Response.
+19:34
+It’s a methodology developed by CDC, rooted in immunization coverage
+19:39
+assessment from WHO, in which you essentially do door-to-door surveys.
+19:46
+And it has a two-stage sampling scheme—we don’t need to get into that here.
+19:49
+But the students get the experience using census data, using some GIS
+19:53
+software to identify a random sample of clusters or block groups in Corvallis—we
+19:59
+do it in Corvallis every year.
+20:01
+And at the second stage, we do systematic sampling every tenth
+20:06
+house, or whatever the interval is.
+20:09
+We’d develop a questionnaire, using CDC temples and other existing questionnaires.
+20:14
+And we just ask questions about preparedness.
+20:16
+And we’ve done that for four times now.
+20:19
+It’s been a great experience for the students.
+20:22
+And I’ve also been presenting those data at conferences
+20:27
+regionally in the Northwest, in Oregon, as well as nationally.
+20:31
+And like I said, it’s an ambitious project for me to organize it.
+20:35
+I’ve put more on the students since that first year.
+20:38
+And the students get an experience doing sampling, doing data
+20:42
+analysis, writing up the report.
+20:45
+But that’s just my project.
+20:46
+But other communities, primarily public health departments, have done CASPERs to
+20:51
+assess their communities’ preparedness.
+20:54
+They’ve been done all throughout the country.
+20:57
+Even here in Washington County, Oregon, did one recently.
+21:03
+Crook County did one regarding drought.
+21:06
+They have been done in Michigan, Tennessee, Kentucky—all over the
+21:10
+country using similar methods—Huston.
+21:13
+You can use the same methods to assess the impact of a disaster, that same
+21:16
+sampling scheme to go door to door, to use as a rapid needs assessment for
+21:21
+affected communities after disasters.
+21:23
+That’s the primary use of the CASPER.
+21:25
+But we’ve used it to also assess preparedness.
+21:28
+Do you try to assess why there are differences in
+21:34
+preparedness between populations?
+21:36
+For example, does, say, education around climate change
+21:40
+affect how someone prepares?
+21:43
+We haven’t really done much into examining differences between groups or populations.
+21:49
+It’s a—I’m pretty sure—questionnaire.
+21:51
+We gotta keep it in ten minutes so it’s one piece of paper, front and back.
+21:54
+That’s it.
+21:54
+And we get more at the tangible supplies.
+21:57
+We have asked them questions, if you were under mandatory evacuation,
+22:02
+why wouldn’t you evacuate.
+22:03
+It was very few people.
+22:05
+We have made some comparisons looking at homeowners versus
+22:08
+people who rent their homes.
+22:10
+And this last group did find a big difference in preparedness levels
+22:14
+between homeowners and renters.
+22:16
+Homeowners were much more prepared than renters.
+22:18
+We haven’t brought in the climate piece yet.
+22:20
+We have asked about what hazard are you most concerned about.
+22:25
+In the Northwest, it’s earthquake, not climate related.
+22:29
+But it’s big earthquake and then winter storms, and flooding.
+22:38
+Do you make recommendations based on how communities could be better prepared?
+22:43
+So in our project, everybody gets some information that we obtain from
+22:48
+American Red Cross about how each household can better prepare itself.
+22:52
+And we found that just administering the questionnaire is an intervention in
+22:56
+itself, getting people to think about some of them never thought about: “Oh we don’t
+23:00
+have supplies of food, water, first-aid kit.”—despite the fact that maybe they’re
+23:05
+not prepared, just asking questions. We haven’t gone back to assess this
+23:10
+but anecdotally, the feedback from the students is that the respondents have told
+23:13
+them, “Wow I never thought about this.
+23:15
+This is something I need to do.”
+23:17
+Other research, not my own, has looked at—back to your previous
+23:21
+questions—differences in preparedness.
+23:24
+People who’ve experienced disasters in the past are more
+23:26
+prepared for it in the future.
+23:30
+And there’s different interventions being developed in how to increase preparedness.
+23:34
+I haven’t gotten into the intervention part yet.
+23:37
+For that slice, my research’s preparedness assessment.
+23:42
+So going back to your work with farm laborers, can you talk about
+23:48
+how you anticipate farm laborers will be affected by climate change?
+23:51
+You mentioned heat earlier.
+23:53
+Are there other exposures that you’ve thought about?
+23:57
+Sure.
+23:58
+Outdoor workers in general, heat’s the big one.
+24:01
+The biggest concern is working in hot conditions.
+24:06
+Air pollution’s the other one, not as much work in that area I think because
+24:12
+it’s not as big a concern as heat.
+24:14
+But heat is number one among all outdoor workers, particularly farm workers.
+24:18
+As I mentioned before, this is a group that are not really
+24:23
+part of organized labor.
+24:24
+They’re a vulnerable population.
+24:25
+They typically get paid by the piece.
+24:27
+So the incentives aren’t there to take steps to protect themselves.
+24:31
+So heat is really the big one.
+24:34
+Okay.
+24:35
+How do you think they can be better protected against heat related illness?
+24:38
+Do you think implementing policies or training would help with that?
+24:42
+Yeah.
+24:42
+So California and Washington are the two states in the United States that
+24:45
+have a specific heat rule, addressing outdoor workers, including farm workers.
+24:51
+And each state’s heat rules are very similar.
+24:54
+They differ somewhat.
+24:55
+But they have provisions for portable water, rest breaks in the shade,
+25:01
+trainings, emergency response protocols.
+25:05
+Things like that.
+25:06
+And in California broadly, heat-related illness is now a
+25:10
+reportable condition in California.
+25:11
+That’s a big deal so you’d know what the problem is, or the
+25:15
+magnitude of the problem in this case, heat-related illness.
+25:19
+But really training, not just of the works but of the supervisors and the
+25:23
+growers, so everybody’s on the same page about how it’s a preventable condition.
+25:29
+And growers are different.
+25:31
+Some are very supportive, some not so much.
+25:34
+Some, they’ll be aware of the forecast, then they’ll change the work schedule:
+25:40
+“It’s gonna be heat index value of over 100 today, or over 90. Let’s
+25:44
+start early, get the work done early.
+25:46
+And then we can take a long break and do something in thelate afternoon.” So
+25:50
+there’s plenty of concerned growers, how they want to protect their workers.
+25:56
+But training is really important.
+25:58
+And
+26:01
+the training of the workers is you’d have a buddy system, train the workers
+26:06
+to have them be aware of the symptoms, cuz they range from profuse sweating—of
+26:11
+course they’re gonna be doing, cuz they’re working hard—muscle cramps,
+26:15
+to nausea, dizziness, vomiting, all the way to fainting and perhaps death.
+26:21
+But having a buddy system and each looking for the symptoms in the
+26:25
+other is one step that they can take.
+26:28
+Again, portable water is important.
+26:30
+These workers, they’re out in the field, getting water to them so they don’t wanna
+26:34
+feel compelled to take ten minutes to stop work—again, that could affect their pay.
+26:40
+So water needs to be close.
+26:42
+Portable shade structures, misters, fans, those kinds of things.
+26:48
+And put it in, frame it in a way that I think the growers will be
+26:53
+supportive of it—the ones that’re a little skeptical—that healthy
+26:56
+workers are more productive workers.
+26:57
+I think it’s one approach to take.
+27:00
+You’ve mentioned how they get paid has been a big factor.
+27:04
+Do you think that if that was changed, if they were paid by the hour,
+27:09
+that would affect their behavior?
+27:11
+Possibly.
+27:12
+Not all are paid by the piece.
+27:15
+So in my small study I conducted—it wasn’t large enough to compare their
+27:19
+experiences, those paid by the hours versus the piece—we showed a small
+27:24
+difference in those paid by the piece, had a greater rate of reporting
+27:29
+heat-related illness symptoms.
+27:31
+So, given that—but I think it’s more intuitive, it makes sense that—those
+27:36
+who are paid by the hour will feel more comfortable taking a break.
+27:42
+And similarly, I think growers need to insist on breaks, particularly on
+27:47
+those who are being paid by the piece, like, “You need to take a break.
+27:50
+It’s getting to a certain heat level.
+27:53
+You need to take a ten-minute break, drink some water in the shade.” But
+27:56
+I think paid by the hour would help.
+27:59
+It’s not the only solution, but it’ll help.
+28:04
+Are there other issues related to human health and climate change,
+28:07
+say, with other communities or populations, that you’ve thought of
+28:10
+maybe studying in the future or that you think needs to be studied further?
+28:13
+Sure.
+28:15
+As part of my work with one of Oregon State’s climate groups,
+28:20
+Climate Impacts Research Consortium, CIRC, I have some funds.
+28:23
+I’m working with a county up in southwestern Washington, a coastal
+28:28
+community, to work through this—it’s called the—BRACE framework.
+28:32
+Also developed by CDC, it’s Building Resilience Against Climate Effects.
+28:36
+And it’s this interview process by which communities can identify their local
+28:40
+climate hazards and vulnerabilities.
+28:43
+And do some projections on the corresponding health outcomes
+28:47
+to those climate impacts.
+28:49
+So, what’s it gonna look like 30 years down the line, for heat-related
+28:52
+illness for example, or air pollution, respiratory disease, things like that.
+28:56
+And identifying interventions to help prevent the increase in
+29:01
+those health-related outcomes.
+29:03
+And all leading towards development of a climate and health adaptation plan.
+29:07
+That’s what I’m currently doing with the community in Washington.
+29:10
+We’re not, again, just looking at one climate impact or health outcome.
+29:14
+It’s being conducted in conjunction with the community side by side.
+29:19
+So, it’s a collaborative effort.
+29:21
+“What are they interested in,” because different communities have different
+29:26
+interests.
+29:27
+Am I correct in understanding that you work on BRACE with Oregon’s Climate and
+29:32
+Health Resilience Plan for the state?
+29:34
+Is that correct?
+29:36
+Oregon Health Authority received funds from CDC to conduct
+29:40
+BRACE with counties in Oregon.
+29:44
+And I was peripherally involved in that process.
+29:48
+They dispense funds to six or seven counties and work with them to do BRACE.
+29:54
+Now, I’m doing BRACE with a county in Washington because CIRC wanted
+29:57
+to expand its work into Washington.
+29:59
+We were a little Oregon centric.
+30:03
+Now I’d like to move onto some broader climate change questions.
+30:08
+What were your earliest conversations on climate change like and how
+30:12
+have they shifted over time?
+30:14
+My earliest, as a young person—probably growing up in a coastal community with
+30:22
+sea level rise and coastal erosion.
+30:26
+That’s probably my first exposure to climate change.
+30:30
+In my town in Carlsbad, they put in this big sea wall to help combat that.
+30:35
+And it’s still there.
+30:37
+My parents walk that every day.
+30:40
+Those are my earliest discussions, or exposure, to climate change.
+30:43
+It’s really coastal erosion, sea level rise.
+30:48
+It’s evolved really, I think, consistent with my research of heat-related illness,
+30:54
+disaster preparedness and impacts of natural disasters, as well as this
+31:00
+broader approach working with communities.
+31:03
+One of my main interests is trying to bring something
+31:06
+tangible that a community can use.
+31:09
+So it requires a lot of technical expertise to work through BRACE.
+31:12
+Look at these climate models and disease projections.
+31:14
+That’s where me and others from CIRC can work with communities to help them.
+31:23
+Can you speak more about CIRC and the community of climate change
+31:26
+researchers at OSU, and how the institution facilitates this research?
+31:32
+Yeah.
+31:33
+So, again, Oregon State has several climate groups, mostly
+31:38
+funded by NOAA, National Oceanic and Atmospheric Administration.
+31:42
+CIRC’s just one.
+31:45
+And the main goal of CIRC is to put usable data in the hands
+31:51
+of users to make decisions.
+31:55
+Others in CIRC—I’m the only person looking at health—in another group
+32:01
+are working at the same community I’m working with in Washington state, looking
+32:05
+at sea level rise, coastal erosion.
+32:07
+So working with members in that community on doing the projections and giving
+32:11
+them different scenarios that have different impacts, from do nothing to
+32:17
+put up a big sea wall, and what are the impacts of those options for them.
+32:23
+So it’s working with the community, help them make their own decisions.
+32:28
+That’s always the main goal of
+32:32
+CIRC.
+32:32
+And there’s other projects within CIRC, developing some software for
+32:39
+these projections, called Envision.
+32:41
+We have a community engagement component to CIRC.
+32:45
+We have folks working on drought, forest fires—those are the big ones.
+32:52
+A lot of work with utilities—it’s a big stakeholder for CIRC, because they do
+32:58
+a lot of work regarding climate because they’re looking at this in the future.
+33:04
+Are you concerned about diminished funding for climate change research?
+33:10
+Yes.
+33:10
+How do you foresee yourself coping with that?
+33:12
+That’s a very good question.
+33:13
+I’m right in the middle of that now.
+33:19
+I really articulated my strategy.
+33:23
+But I think it has to do with how I brand it, how I present it, short of grant
+33:33
+proposals or conference proposals coming out, specifically to climate change.
+33:37
+I mean, they’ll be in there, I can respond to that, but in the
+33:42
+broadening to environmental health.
+33:45
+I think, looking at it from the perspective of natural disasters, more
+33:51
+acute events, you don’t talk about climate change to look at what’s the
+33:54
+best way, or what are the health impacts of different acute national disasters,
+34:03
+how do we reduce some morbidity mortality from acute natural disasters.
+34:08
+Like in the earthquakes too—again, not climate related.
+34:10
+So I think broadening to an environmental health perspective:
+34:18
+what’s the impact in spread of infectious diseases from a natural
+34:23
+disaster, flooding for example.
+34:27
+It’s still climate related.
+34:28
+It just got me to think about how I present it, how I brand it.
+34:35
+That’s the reality that we’re in right now, unfortunately.
+34:39
+Based on your professional experience, and just your perspective in general,
+34:44
+what policy changes would you like to see happen within the US, again,
+34:49
+in the context of climate change?
+34:51
+What policies to compact climate change?
+34:55
+Yeah, changes in policy, and again, speaking more to your
+35:00
+professional line of work.
+35:02
+That’s a big question.
+35:06
+I guess into my work, all kinds of policies that we could
+35:10
+implement to help climate change.
+35:13
+Everybody could drive hybrids tomorrow.
+35:17
+That would help but that’s not gonna happen.
+35:19
+So,
+35:24
+in terms of the farm workers, there’s many different policies
+35:30
+that can be implemented there.
+35:31
+Other states could—and probably should—implement heat rules, like
+35:34
+California and Washington did, and make heat-related illness reportable.
+35:38
+I think that would go a long way.
+35:39
+It
+35:42
+would explicitly identify farm workers as a population susceptible to this
+35:47
+climate sensitive health outcome.
+35:49
+That’d be huge.
+35:50
+Oregon is considering it.
+35:52
+There’s some talk a little bit ago.
+35:56
+It’s early in the discussion, so they might reexamine it at
+36:02
+a later date.
+36:03
+But again, only two states have those heat rules.
+36:07
+So that’d be a very important policy change.
+36:13
+Others regarding farm workers, again as head-related illnesses the most
+36:19
+important climate-sensitive health outcome, a heat rule would go a long way.
+36:25
+Others, regarding preparedness, I’m not sure what kind of
+36:28
+policy we could put in place.
+36:30
+Education does not bring about behavior change.
+36:34
+I’m not a behavioral scientist, but at least I know that.
+36:36
+So handing somebody a brochure is not gonna get them to store supplies of food
+36:41
+and water and have alternative heat source and cooking source, things like that.
+36:50
+I think identifying renters, from my study that came up, working with
+36:56
+property managers could be a very local, small change of policy that
+37:01
+could be implemented to help renters.
+37:03
+Property managers could help renters get prepared.
+37:08
+More broadly in my work, I think communities coming up with their own
+37:14
+climate and health adaptation plans.
+37:15
+Again, that’s the end-product of going through the BRACE framework—is for
+37:19
+each community to know their own local climate hazards, vulnerabilities,
+37:26
+and expected health outcomes, to make local decisions, because it’s
+37:29
+always gonna be a local issue.
+37:33
+You kind of touched on this, but what changes to public education do you think
+37:38
+can help Americans better understand climate change, or potentially change of
+37:46
+behaviors?
+37:48
+I think an educated citizenry is a really important thing, be it climate
+37:52
+and science, be it public health.
+37:54
+There’s a push five, six or seven years ago about getting public
+37:59
+health and epidemiology curriculum into undergraduate training.
+38:04
+Similarly, in climate science, I think it needs to start with K-12 education.
+38:11
+And it is happening now.
+38:14
+It’s gonna come down to science teachers, teaching climate science, and
+38:21
+I think environmental health as well.
+38:23
+I think linking it to health is a natural way to get it to sink into people.
+38:30
+It’s gonna affect them, moving forward, their kids.
+38:34
+So I think starting K-12 level is the best approach.
+38:41
+Are you hopeful about the future of the planet, in the context of climate change?
+38:42
+Yes, I am.
+38:42
+I hope
+38:50
+it doesn’t come down to engineering our way out of this.
+38:53
+But I think with smart people coming up with effective mitigation
+38:59
+steps—but adaptation is a reality.
+39:03
+So, I am very hopeful.
+39:07
+I think more Americans will come to realize the impacts of a changing
+39:13
+climate, how it’s gonna impact their health, their security.
+39:20
+Kind of going off a little bit, but I think—and the military’s already thinking
+39:23
+about this—they see it as a threat to national security, climate change.
+39:28
+So between health and national security, I think those are two big motivations
+39:35
+to do something about climate change.
+39:38
+And I know I am hopeful.
+39:39
+There’s a lot of good people, a lot of smart people working on this.
+39:44
+Well, that concludes the interview.
+39:47
+Thanks for participating.
+39:48
+Thank you, it was my pleasure.

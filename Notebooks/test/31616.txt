@@ -1,0 +1,1120 @@
+00:01
+Today is December 21, 2017.
+00:04
+I am here with Dr. Andreas Schmittner, a professor in the College of Earth,
+00:09
+Ocean, and Atmospheric Sciences at OSU.
+00:13
+We are in the Valley Library and we’re going to be talking about
+00:16
+his research, particularly as it pertains to climate change.
+00:20
+But I like to start with your background—where were you born?
+00:24
+I was born in Germany.
+00:25
+That’s where you grew up?
+00:27
+Yes.
+00:28
+What was it like growing up in Germany?
+00:34
+Well, I was growing up in a small village of 1,000 people in the center of Germany
+00:43
+and you know it was country life there.
+00:48
+What did your parents do?
+00:50
+My mom was at home and my dad was working for the German
+00:59
+telecom, so in the phone company.
+01:03
+It used to be a government, owned by the state, the company.
+01:10
+Did you have an early interest in science as a child?
+01:14
+No, I did not have an early interest.
+01:17
+In fact, first I wanted to become a musician initially and only later
+01:22
+changed my mind and studied physics.
+01:30
+What was your academic experience like growing up as a child, in particular?
+01:38
+As a child,
+01:42
+well, I was in Germany at school and then my parents moved to Iran, to Tiran,
+01:49
+for two years where we lived there.
+01:51
+I went to German school there and then back again to Germany
+01:57
+and then I went to high school.
+02:01
+What was that experience like living in Iran?
+02:04
+It Iran it was quite an experience.
+02:06
+We lived in a part of Tiran the capital of Iran that no other foreigners were.
+02:16
+We were amongst the Iranians there and I learned to speak Farsi, the
+02:22
+Iranian language, and I played with the kids on the block, but now I
+02:30
+have forgotten all of my Farsi.
+02:34
+Did you have any mentors or was there an expectation within your family for
+02:39
+you go to to university after school?
+02:42
+No, in fact neither of my parents had gone to university, so I’m the
+02:48
+first in the family, but there has not been an expectation of that.
+02:53
+I think they were positively surprised.
+02:57
+Did you go to university immediately or did you do other things before that?
+03:07
+I did other things before that.
+03:11
+I told you that I wanted to become a musician but I did not have any
+03:14
+formal education or I hadn’t practiced an instrument for a long time, like
+03:22
+typically students of music do.
+03:25
+I took a year out after high school for which I wanted to prepare
+03:31
+for the music admissions program.
+03:34
+You have to do a test to be admitted to the program.
+03:37
+But already after a few months it became clear that I could never accomplish it,
+03:44
+but I still had to take the year off.
+03:48
+In Germany also at that time we had to do military or civil service,
+03:54
+and I chose the civil service.
+03:55
+I was doing that for two years after high school.
+04:00
+After that this year off and after that I started physics in the physics program.
+04:06
+What was it about physics that attracted you?
+04:10
+I don’t know.
+04:11
+I guess my first thought was I wanted to do what I liked to do, which was music.
+04:18
+Then my second thought was maybe I should do what I’m good and I was good at school
+04:23
+and physics and math and I also thought maybe I can do something useful there.
+04:35
+Did you have any experience with undergraduate research?
+04:39
+With undergraduate research?
+04:40
+No, I didn’t.
+04:44
+What influenced your decision to pursue further studies, or graduate studies?
+04:50
+Well, maybe I should take that back because I remember
+04:55
+I went as an undergraduate to the Alfred Wegener Institute.
+05:02
+At that time I started physics in Giessen near the town where I grew up near
+05:10
+Frankfurt in the center part of Germany.
+05:12
+Then I moved to northern Germany to Bremen.
+05:18
+Then there was the opportunity to do an internship at the Alfred Wegener
+05:22
+Institute which is in Bremerhaven at the North Sea, and there doing polar
+05:29
+research and that’s how I got into contact with earth sciences essentially.
+05:38
+I did a little project there on sea ice modeling and that was
+05:43
+my first contact with the field.
+05:48
+You went to the University of Bern is that correct to study your Ph.D.?
+05:52
+Yes, that’s right.
+05:53
+In Germany I first did a diploma thesis that involves already kind of a
+05:59
+scientific research work for one year which was at the Alfred Wegener Institute
+06:07
+in Bremerhaven on arctic atmospheric processes, in fact, I was working
+06:12
+there and after that I moved to Bern in Switzerland where I did my Ph.D. That
+06:20
+Ph.D. was then moving towards the ocean where I’m still working on right now.
+06:26
+What was it like moving to Switzerland from Germany and what language
+06:32
+did you take your courses in?
+06:35
+The Ph.D. program does not have any courses, so essentially it’s
+06:42
+different from in America where you take classes, but in Switzerland and
+06:45
+Germany essentially you’re done with your classes and you only do research.
+06:50
+You write a thesis.
+06:52
+I didn’t take any classes there but the language is German as well in that part
+06:58
+of Switzerland where I was in Bern.
+07:04
+The German that the regular people speak is quite different.
+07:09
+It’s Swiss German.
+07:11
+It’s quite different from the regular German.
+07:13
+It took me about a few months to get used to it and to be able to understand
+07:19
+everything that people are saying.
+07:23
+Can you talk about
+07:28
+what the physics perspective brings to your kind of research studying the ocean
+07:34
+as opposed to say an oceanographer?
+07:39
+The physics perspective I think
+07:44
+is broader than oceanography in the sense that it includes
+07:51
+atmospheric processes or ice processes as well.
+08:03
+Your research was on the atmospheric hydrological cycle and influence
+08:08
+on global ocean circulation?
+08:10
+Right.
+08:11
+The waterway transport in the atmosphere and how that
+08:15
+affects the ocean circulation.
+08:19
+At that time my Ph.D. thesis was already about the planetary scale, so
+08:24
+the largest scale ocean circulation.
+08:26
+That’s sometimes called the great conveyer belt and that involves sinking
+08:33
+of waters at high latitudes in only certain regions of the world’s oceans
+08:39
+where this sinking takes place, and then the waters move at depth to
+08:43
+different places where they up well.
+08:45
+That sets up this global overturning circulation and
+08:49
+that has a specific pattern.
+08:50
+For example, waters sink in the north Atlantic, but they do not sink
+08:56
+in the north Pacific, even though it’s also similarly cold there.
+09:02
+The reason that the sinking takes place in the north Atlantic and not in the north
+09:06
+Pacific is related to the salinity of the surface waters whereas north Atlantic
+09:13
+waters are salty in the north Pacific.
+09:15
+They’re fresher and therefore they are less dense, because salinity also
+09:18
+impacts the density of sea water.
+09:22
+Sinking only happens in the north Atlantic because the Atlantic is
+09:25
+salty and the atmospheric hydrological cycles, or the atmospheric water
+09:29
+cycle, determines the salinity differences between the ocean basis.
+09:38
+The atmosphere transports water vapors, so water evaporates in the Atlantic and
+09:42
+then it is transported via the trade winds in the tropics to the Pacific
+09:47
+where it precipitates and that is one process that makes the Pacific fresher.
+09:53
+You would expect there’s also water vapor transport at midlatitudes
+09:56
+from the Pacific to the Atlantic because there we have westerly winds.
+10:01
+But the Rocky Mountains are in the way so
+10:07
+the water rains out
+10:11
+and doesn’t reach the Atlantic and the combination of these processes, water
+10:17
+vapor transporting the tropics from the Atlantic to the Pacific but this blocking
+10:21
+of waterway vapor transport from the Pacific to the Atlantic at midlatitudes
+10:27
+this makes the Atlantic saltier than the Pacific and then that creates,
+10:32
+that sets up that pattern of deep ocean circulation that we currently have.
+10:37
+Were you creating of computer simulations or models?
+10:43
+Yes, that was my work at Bern.
+10:45
+In my Ph.D. I was working with very simply zonally averaged ocean model that only
+10:52
+has one good box across the whole basin from east to west and in the Atlantic
+10:59
+but we had separate grid boxes in the Pacific so we could model the Atlantic
+11:04
+and Pacific separately from each other.
+11:07
+Those were very simple models at that time.
+11:10
+Was anthropogenic climate change a part of your research at that time?
+11:16
+It was, even though initially when I came into the Ph.D. thesis I had not
+11:21
+even heard about anthropogenic climate change, so I was doing this out of
+11:27
+curiosity to learn about the earth system.
+11:32
+My supervisor there, Thomas Stokkar, he was already aware of climate change
+11:38
+and that it may impact the ocean circulation and in fact that had
+11:42
+been an influential paper published earlier by Manabe & Stouffer who said
+11:49
+that global warming could lead to a slowdown of this overturning circulation
+11:56
+and we followed up on that with a simple model, so we explored that.
+12:04
+Did you teach at all as a Ph.D. student or is it just research-based only?
+12:09
+It was mainly research, although I remember we did some lab
+12:16
+supervising students that did physics labs.
+12:19
+I assisted with that.
+12:23
+After you were done with your degree you took a postdoc position at the University
+12:28
+of Victoria in Canada, is that correct?
+12:30
+That’s right.
+12:31
+How was that transition like moving halfway across the world?
+12:36
+Well, it was exciting.
+12:37
+It was great.
+12:41
+I met my wife in Bern in Switzerland and she also came with me to
+12:47
+Canada and we really enjoyed it.
+12:50
+Victoria and British Columbia is a beautiful place.
+12:55
+Also the research group there was very good and my supervisor he was super.
+13:01
+He was very generous and also he gave me essentially complete freedom to
+13:07
+do what I wanted to do, which you know, has happened for a researcher.
+13:14
+I could explore my own ideas and
+13:19
+I also worked with a somewhat more complex model, a three-dimensional
+13:22
+ocean circulation model.
+13:24
+In fact, the same model I’m working with today so
+13:30
+that’s kept some continuity from that point of my postdoc years is
+13:38
+the same model we’re still using.
+13:40
+Although, we’ve much developed it and improved it from the time
+13:46
+when I was doing my postdoc there.
+13:50
+Why did you decide to return to Germany after that postdoc?
+13:56
+Well, the postdoc ran out.
+13:57
+A postdoc is temporary.
+13:58
+At some point
+14:02
+I had to look for other job opportunities.
+14:07
+I applied for a few positions, faculty positions, which didn’t work out and
+14:11
+then I got the offer from Germany, so we went to the Max Planck Institute there.
+14:17
+Did your research focus shift during your postdoc years?
+14:21
+Did you take it into a different direction?
+14:25
+Mm-hmm [yes] . When I was a postdoc in Victoria, I was still
+14:33
+very much focused on the physics.
+14:36
+But I became interested in paleoclimate and what happened in the past,
+14:42
+and the issue became that when we tried to model the past ocean,
+14:53
+if we have a physics only model that only has temperature, and
+14:56
+salinity, and velocities in
+15:00
+it, there’s only very little data that we can use the compare the model to.
+15:04
+Most of the paleo oceanographic data that there is lots of data that exists, but
+15:10
+most of it is based on biological proxies.
+15:16
+For example, carbon isotopes measured on little tiny shells of vermin and
+15:22
+frill that live on the sea floor.
+15:23
+That gives us information about the carbon isotopic signature of the water but if
+15:31
+you have only temperature, salinity, and velocity in your model which is
+15:36
+the basic physics that is in there, you don’t know how that would affect
+15:41
+the carbon isotope of the water, so
+15:48
+I noticed that it is very difficult to compare and validate the model results
+15:54
+with real data from the sediment even though lots of lots of data exists,
+15:58
+but just the incompatibility with the kind of data with what we had with
+16:03
+the physical model was the issue that
+16:07
+we had.
+16:08
+When I came to Jena, I came into contact with people who had experience
+16:15
+more with the biological side of things and this was at the Max
+16:20
+Planck Institute for Biogeochemistry,
+16:26
+I started collaborating with them and
+16:32
+they gave me a code of a simple ecosystem model and I plugged it into the physics
+16:39
+model of the UVic, the ocean circulation model, and I had very quick success after
+16:44
+maybe a week or so after a few days it was running and I could produce plots and
+16:51
+maps of productivity in phytoplankton, which is very exciting to me.
+16:58
+So that got me fired up and enthusiastic and even though it took many more
+17:05
+years to really calibrate the model correctly and make sure everything
+17:09
+was working as good as possible.
+17:13
+That was a start into the more biological and chemical components.
+17:21
+Since then we’ve developed the model to include full ocean biogeochemistry
+17:28
+carbon cycle, oxygen nutrient cycles.
+17:31
+That was a major part and very important important part of my career to branch
+17:41
+out into these biogeochemical processes.
+17:44
+It sounds like you synthesized different models or code from different models.
+17:51
+Do you write code as well?
+17:53
+Yes.
+17:55
+That was a very similar code that we received, just a four tracer:
+18:00
+nutrient, phytoplankton, zooplankton, detritus, called NPDZ models.
+18:06
+We’ve built upon them and expanded it.
+18:10
+Now we have more phytoplankton groups.
+18:14
+We also have not only one nutrient that we had at that time but we
+18:19
+have phosphate and nitrate and also iron now included in the model.
+18:29
+We’ve been developing it to make it more realistic,
+18:35
+to include more processes that really happen in the real ocean.
+18:43
+After your time with the Institute of Geosciences with the University of
+18:48
+Kiel you came to OSU, Oregon State?
+18:52
+Yes.
+18:52
+How did you decide to come here?
+18:56
+What was that decision and transition like?
+19:00
+Again, my job at Kiel was temporary so I had to look for other opportunities
+19:05
+and I knew that here at College of
+19:12
+Ocean and Atmospheric Sciences was at that time they were looking for
+19:17
+a climate modeler so I met Peter Clark at a meeting and asked him
+19:23
+are you still looking for somebody.
+19:25
+He said yes.
+19:26
+So, I applied and it worked all out.
+19:29
+I was very happy.
+19:31
+What were your initial impressions of the university and Corvallis in general?
+19:36
+Since we were in Victoria before we knew the west coast.
+19:40
+So, we liked it there and we also like Corvallis for the same reasons.
+19:47
+It’s
+19:49
+just the quality of life here, the nature is so close by, lots
+19:58
+of hiking trails and you’re close to the ocean.
+20:01
+You’re close to the mountains.
+20:02
+It’s a wonderful place to live.
+20:07
+How has your role as a teacher changed through your career?
+20:12
+Well, I haven’t been teaching very much but when I came here teaching
+20:17
+is part of my job, even though it’s a relatively small part.
+20:21
+It’s only about 1/3 of my time teaching, but
+20:29
+I had to learn and I think I’m still learning.
+20:33
+I’m still kind of improving my teaching.
+20:38
+You teach a class on global warming?
+20:41
+Yes, an undergraduate class.
+20:42
+How has teaching that class changed from when you first started to now?
+20:49
+It has changed quite a bit.
+20:52
+I
+20:56
+tried to make the class more interactive.
+21:00
+Initially it was more of a lecture only class.
+21:06
+Even though it’s still based on lectures, I try to include more interactive
+21:11
+components to it because I feel like I want to know what the students think so
+21:21
+getting feedback from students helps me improve my teaching, otherwise I don’t
+21:25
+know what they learn or what they think.
+21:31
+I introduced a few things that made the classes more interactive.
+21:37
+For example, I introduced student summaries in which I asked a few
+21:44
+students to recapture what we did in the last lecture and so at the
+21:50
+beginning of each lecture the students recapture what we did last lecture.
+21:55
+That way we come up to the state where we are, and we remind everybody where
+21:59
+we are, but I also get the feedback from the students what they understood from
+22:03
+last lecture and what was not so clear so we can go over things that remain
+22:07
+unclear from the last lecture again.
+22:11
+You recently published an open source textbook on climate science.
+22:14
+Mm-hmm [yes]
+22:15
+. Why did you choose an open source format?
+22:18
+Well, I feel textbooks are expensive and
+22:24
+I just wanted to take that expense away from students that are
+22:30
+already have high tuitions to pay.
+22:32
+That was my motivation, and also to make it accessible to
+22:38
+as many people as possible.
+22:40
+Open textbook can be accessed by everybody, not only students.
+22:49
+Now I’ll move more to questions related to your research.
+22:54
+Can you talk about how you used nutrients to model ocean cycles?
+22:57
+You kind of touched on it earlier, but
+23:02
+in bringing nutrients into your models—
+23:10
+Nutrients in the ocean are required by phytoplankton to grow and
+23:20
+so the ocean works a little bit different than land.
+23:23
+Land plants also need nutrients, like you fertilize your plants
+23:28
+at home to have them grow better.
+23:32
+But in the ocean it is tricky because the phytoplankton have to
+23:36
+live at the surface of the ocean because that’s where light is.
+23:41
+The absorption of light by water essentially makes the deep ocean dark.
+23:48
+Photosynthesis can only happen at the surface at the top
+23:50
+essentially 100 meters or so.
+23:54
+That means in order to do photosynthesis phytoplankton have to be small,
+23:59
+they have to be floating on top.
+24:02
+If they were like trees they would sink to the bottom and if there was no
+24:05
+light they couldn’t do photosynthesis, so that’s why they develop into small
+24:13
+algae that float near the surface.
+24:17
+But still there’s a food web.
+24:20
+The algae are eaten by zoo plankton.
+24:22
+Zoo plankton get eaten by fish.
+24:24
+Some of the detrital material, like fetal pellets for example they sink
+24:29
+in the water column and that leads to removal of nutrients from the surface.
+24:35
+Nutrients and carbon are removed from the surface and sequestered in the deep ocean.
+24:42
+If there was no process that bring back those nutrients to the surface,
+24:48
+the phytoplankton would just starve and they could not grow any more.
+24:52
+But the circulation, the turbulence in the ocean, so the physics essentially,
+24:59
+brings some of the nutrients in the subsurface back to the surface and allows
+25:05
+phytoplankton to grow, productivity, and makes the whole food web possible.
+25:13
+Why couple
+25:17
+ocean and climate cycles together?
+25:21
+Well, the ocean is an important part of the climate system.
+25:26
+The large heat capacity of the ocean is very important for climate.
+25:35
+The ocean also transports heat from one region to another region and this global
+25:42
+overturning circulation that I mentioned at the beginning is part of that.
+25:46
+It removes heat from the southern hemisphere, puts it into the northern
+25:50
+hemisphere and it makes the north Atlantic, for example, relatively
+25:53
+warm compared to the north Pacific.
+26:02
+From a physical point of view, the ocean is very important for the climate system.
+26:06
+But the ocean is also important from the biogeochemical point of view because of
+26:12
+the process that I mentioned earlier, the sinking of organic matter to the deep
+26:19
+ocean, that is called the biological pump, because it removes carbon from the surface
+26:24
+and the atmosphere to the deep ocean.
+26:27
+So it makes the atmosphere have less CO2 than it would have otherwise.
+26:35
+Essentially it keeps CO2 levels relatively low in the atmosphere and
+26:40
+because CO2 levels impact climate, through the greenhouse effect,
+26:46
+that also then impacts climate so the ocean biology and biogeochemistry
+26:52
+impacts climate through the carbon cycle.
+26:57
+What are difficulties in coupling these cycles together with respect to making
+27:04
+projections about future climate?
+27:07
+Well, the interactions between the biology and the chemistry and the physics is
+27:13
+one of the difficulties and the biology itself is so complex and diverse.
+27:23
+There’s so many different kinds of phytoplankton and zoo plankton that
+27:27
+food webs are complicated, so it is not straightforward to model that
+27:34
+and put that into a global model,
+27:39
+but with all models we have to simplify and the way do it currently
+27:46
+is just we have a few groups that we call phytoplankton functional
+27:54
+groups, like for example diazotrophs
+27:59
+that can fix nitrogen or diatoms that require silicone as a
+28:06
+nutrient or other phytoplankton.
+28:11
+We try to model these individual groups that are functionally different,
+28:18
+but we cannot model each individual species of phytoplankton just
+28:24
+because of computational limitations.
+28:29
+Even with those plankton functional groups, the ecosystem
+28:36
+models become quite complex.
+28:39
+We started as I mentioned earlier in Jena I started with
+28:41
+four tracers: the NPZD model.
+28:44
+Those have four prognostic tracers.
+28:47
+Prognostic is what we call those that we calculate explicitly at each time
+28:52
+step and each grid point in the model.
+28:55
+Now we have expanded the model to have 30 prognostic tracers because we not
+29:01
+only include the biological tracers
+29:06
+let’s say in terms of carbon or nutrients, we also included isotopes,
+29:10
+which adds to the total number of traces we keep track of in the model.
+29:16
+You may imagine that if we have 30 prognostic tracers they are
+29:20
+all interacting with each other or they’re flux is from one to the other.
+29:24
+It becomes quite complicated, so the code also becomes quite complicated.
+29:31
+You mentioned the ocean, or deep ocean, as a carbon sink?
+29:35
+Mm-hmm [yes]
+29:37
+. Does human caused increase in carbon or carbon dioxide in the atmosphere, does
+29:47
+that change that carbon cycle between the atmosphere and ocean and does that
+29:52
+change the deep ocean as an ocean sink?
+29:57
+It does.
+29:58
+Since global warming changes the circulation of the ocean, it also changes
+30:05
+the carbon cycle because the circulation is important for the carbon cycle.
+30:10
+As I mentioned earlier, the circulation brings up nutrients for the phytoplankton,
+30:14
+so if you stratify the ocean more, which is what global warming does.
+30:22
+Global warming warms the surface first.
+30:27
+That leads to more stable stratification.
+30:33
+We use that word to indicate that it is more difficult to mix the surface with a
+30:38
+subsurface, so there will be less mixing of the surface with the subsurface.
+30:43
+It’s like if you have a bathtub and you just put warm water at the surface,
+30:52
+then that warm water, because it’s more buoyant it would stay at the
+30:55
+surface and would not mix with the underlying water unless you stir it up.
+31:02
+That is the same thing as happening in the ocean.
+31:04
+The surface warms also at high latitudes it becomes fresher
+31:07
+because there is more precipitation.
+31:11
+All of these processes lead to less mixing between the surface and the subsurface and
+31:16
+that decreases phytoplankton productivity because there’s less nutrient input into
+31:21
+the photic zone, into the upper ocean, and it also changes how the circulation
+31:30
+affects the carbon cycle, like this large-scale overturning circulation.
+31:33
+We know that global warming will slow this circulation down.
+31:39
+In fact, it is already measured to be slowing down right now.
+31:43
+There are the first indications that we’re seeing right now
+31:45
+that early model projects during
+31:49
+my Ph.D. for example, that Manabe & Stouffer were the first
+31:52
+who projected that to happen.
+31:54
+Now we see the first indication that it’s in fact, indeed happening.
+31:58
+It’s slowing down and that slowdown will affect the carbon cycle.
+32:03
+There’s no doubt about it.
+32:07
+How does that slowing down affect the climate, or, climate cycles, I guess?
+32:15
+Does it have a dramatic impact on weather, for example?
+32:22
+Well, it can.
+32:25
+We know that the overturning circulation not only affects climate in the north
+32:30
+Atlantic, so the movement of near the surface of waters from the tropics
+32:37
+to the high latitudes in the Atlantic warms the north Atlantic relatively.
+32:42
+That’s why Europe is relatively warm.
+32:45
+If you slow that heat transport reduces, so it will affect
+32:50
+clearly climate near Europe.
+32:55
+But the overturning also affects the tropics.
+32:57
+We know that at least for large changes in the overturning that the intertropical
+33:03
+convergence zone responds currently because of this circulation that makes
+33:08
+the northern hemisphere a little bit warmer than the southern hemisphere.
+33:12
+The intertropical convergence zone, which is the band of high precipitation near
+33:17
+the equator is just north of the equator.
+33:19
+It’s just a few degrees north of the equator, but if that circulation was
+33:24
+stopped or reduced dramatically, then that ban would shift to further south.
+33:31
+Either at the equator or just south of the equator.
+33:41
+The evidence for this is not only from models but also from paleo data that
+33:47
+have shown that link between the ocean circulation and the intertropical
+33:51
+convergence zone in the past.
+33:54
+We’re pretty sure that this is a robust process and if the ocean circulation was
+34:01
+to dramatically reduce, we would expect the intertropical convergence to shift.
+34:06
+That would mean large shift in rain bands in the tropics, which would affect many,
+34:10
+many people and ecosystems in the tropics.
+34:17
+As a scientist you have an active public voice on Twitter and the
+34:23
+Climate Change National Forum.
+34:26
+Why take on this active role?
+34:29
+Well, I think the general public needs to be more informed.
+34:35
+My feeling is that climate science needs to be better
+34:40
+explained to the general public.
+34:44
+There is
+34:49
+what the public thinks about climate change and whether or not it is
+34:55
+caused by humans, for example, is much different from what scientists think.
+35:00
+I go to conferences a lot and there is no question.
+35:04
+It’s a very rare to meet a climate scientist and there are only
+35:08
+very few that doubt this or that kind of play this role down.
+35:16
+Essentially almost all of climate scientists agree that climate change
+35:21
+is caused by humans, the global warming we’re seeing currently.
+35:25
+Whereas in the popular, the general public only I think half of the general public or
+35:31
+so or maybe a little more, but much less than the percentage of scientists believe
+35:37
+that global warming is caused by humans.
+35:41
+I think it’s important to convey that message to the public because if we don’t
+35:49
+believe that climate change is caused by humans then we don’t do anything about it.
+35:55
+If it’s not our fault, we don’t need to do anything about it.
+35:59
+But it is our fault.
+36:01
+We are to blame for it and there are also important consequences
+36:07
+if this goes on in the future.
+36:09
+It will have dramatic impacts if it goes on unchecked.
+36:14
+So, in order to avoid this we have to reduce greenhouse gas emissions.
+36:20
+In
+36:22
+order to come to that conclusion you first have to understand
+36:25
+that it’s caused by humans.
+36:30
+I just want to contribute to reduce this
+36:37
+discrepancy between what scientists think and what the public thinks.
+36:41
+I think there’s a lot of, I think, deliberate misinformation in the media
+36:49
+about that topic and I just want to counter that and try to
+36:55
+bring the science to the public.
+37:00
+What has your experience been like communicating scientific
+37:04
+information to non-scientists?
+37:06
+Has it made you think about language differently, or—?
+37:11
+Yes, and the undergraduate class that I’m teaching most of them are
+37:15
+non-science majors, so that is helpful.
+37:20
+In fact, the class is also helpful for my research.
+37:24
+I think there is a nice kind of feedback.
+37:28
+When you teach or try to explain the big picture you also
+37:36
+get more aware of the big picture.
+37:39
+Usually when you do your work you’re focus on the little details.
+37:42
+Of course the little details are important but the big picture’s also important.
+37:46
+Sometimes you can lose sight of the big picture when you work on the details.
+37:52
+Communicating and teaching brings back that broader view, which I think is
+37:59
+important for a scientist to have.
+38:03
+I don’t know if I was answering your question or not.
+38:06
+Yeah, it does.
+38:07
+I’m going to move to some broader questions on climate change.
+38:13
+What were your earliest conversations on climate change like and how
+38:17
+have they shifted over time?
+38:20
+The earliest conversations—I
+38:25
+guess that must have been during my Ph.D. time in Bern.
+38:30
+I think at that time
+38:35
+it became clear that climate change is happening and that it
+38:40
+may have serious consequences.
+38:43
+It
+38:45
+was not so much in the public perception yet.
+38:51
+That changed with for example Al Gore publishing his or making his movie An
+38:58
+Inconvenient Truth, and other things that brought it more to the public.
+39:06
+But I was mostly interested in the science so I was not really much interested in
+39:12
+following the public debates about it, but I know that in Germany or in Switzerland
+39:19
+at that time there was no doubt that the scientists were not doubted.
+39:26
+There was not a pushback like in the U.S. When I came to the U.S. I noticed
+39:31
+that there was so much pushback against science and scientists that I felt
+39:38
+that was not happening in Europe.
+39:41
+There may be a little bit of that but it’s much, much worse here.
+39:47
+Have you thought about why maybe what would influence that
+39:50
+discrepancy or cultural difference?
+39:54
+Well, that’s hard to say.
+39:56
+I think
+40:03
+there may have been this polarization happening here that
+40:07
+is partly responsible for that.
+40:10
+Kind of the group thinking and so that you know if you just only listen
+40:15
+to a certain kind of news or media that perpetuates these lies, in my
+40:24
+opinion, or these misinformations
+40:27
+then you just believe that and that is much less happening in Europe.
+40:35
+Then maybe in the U.S. there is a larger
+40:44
+mistrust of authority in general, so that people
+40:52
+are much more suspicious of
+40:59
+government and
+41:02
+authority than maybe in Germany or in Switzerland.
+41:08
+Can you speak about the community of climate researchers here
+41:12
+at OSU and how the institution facilitates collaborate environment?
+41:19
+When I came here I was new to the U.S. system so I didn’t know
+41:24
+anything about how to write grant proposals and how the system works.
+41:30
+I was really very fortunate to be
+41:34
+welcomed into a group of paleoclimate scientists that were working together
+41:40
+at that time in preparing a large proposal and they immediately trained
+41:44
+me in the process and helped me with understanding how the system works and
+41:52
+so
+41:55
+I was very fortunate in that regard and
+42:01
+that helped me a lot also to write my own proposals, to get
+42:07
+started here in a new situation.
+42:09
+CEOAS also in general is very collaborative.
+42:14
+People work together rather than against each other and that is just
+42:20
+a wonderful place to be because if you have a question about something
+42:24
+you can just knock on people’s doors and say hey, do you know about this?
+42:30
+Usually as scientists they are happy to help and talk about
+42:37
+what their interests are.
+42:42
+How do you foresee, or do you perceive having to deal with or cope with funding
+42:50
+cuts to climate change research in this particular political environment?
+42:58
+I hope not, but I think one has to expect
+43:07
+something like that may be possible.
+43:09
+So, yeah.
+43:12
+I mean in past republican administrations funding for climate
+43:18
+science was not cut, but in the present administration we don’t know.
+43:24
+Everything seems possible.
+43:27
+But I hope not.
+43:29
+Now it is certainly there’s lots of open questions and things we need
+43:39
+to know about the climate system.
+43:43
+What kind of policy changes would you like to see happen within the U.S.
+43:49
+relating to climate change?
+43:51
+Well, I hope that the U.S. gets back into the Paris Agreement.
+43:56
+I think that was a positive step by the Obama administration.
+44:00
+I was really hopeful at that time when that decision was announced.
+44:06
+Withdrawing from it I think was a mistake.
+44:10
+We clearly need to reduce carbon emissions.
+44:13
+The whole earth does it.
+44:14
+We’re the only country that is not in the Paris Agreement at the moment.
+44:19
+I hope that we get back to reason and back into that agreement and
+44:26
+into collaboration with the whole world to try to address this problem.
+44:34
+You’ve touched on communication earlier, scientific communication, do
+44:39
+you have any other thoughts on changes to public education that could help
+44:44
+Americans either better understand climate change or change their behavior?
+44:50
+Yeah, I don’t know.
+44:51
+I guess it would be good if the topic was taught not only in the
+44:56
+university but also already in school.
+44:59
+I think it’s happening.
+45:00
+I’m not sure how broadly it is taught in school, but I think it would be important
+45:06
+to teach about it at all levels.
+45:10
+Are you hopeful about the future of the planet in the context of climate change?
+45:16
+I am hopeful.
+45:17
+My
+45:21
+hope or despair changes.
+45:25
+Sometimes I’m more optimistic.
+45:26
+Other times I’m more depressed.
+45:28
+It’s an up and down depending on events.
+45:34
+Well, that concludes our interview.
+45:37
+Thank you for your time.
+45:38
+Thank you.
+45:38
+I appreciate your participation.

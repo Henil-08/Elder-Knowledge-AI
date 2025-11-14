@@ -1,0 +1,1444 @@
+00:05
+Okay.
+00:08
+My name is Sara Khatib and this research is for my master's thesis, the research
+00:13
+involves the history of different traditions of science at the Andrews
+00:17
+Forest and the philosophical perception of nature that underlies these traditions.
+00:21
+I would like to ask you a few open-ended questions regarding these topics.
+00:26
+I expect the duration of the interview to take up to one hour to complete,
+00:30
+but maybe up to two hours, depending on your interest in knowledge, would you
+00:34
+like to participate in this interview?
+00:37
+Yes, please.
+00:38
+We can end the interview at any point you wish to do so.
+00:41
+So, just please inform me right away if you no longer want to participate
+00:45
+and the interview will immediately end.
+00:48
+Do I have permission to record this interview?
+00:50
+Yes, you do.
+00:51
+The interview will be deposited with the Oregon State University Library
+00:57
+Special Collections and Archives Research Center for preservation and access.
+01:01
+Their commitment to open access includes the release of contextualized
+01:05
+interview content online.
+01:07
+Are you willing for this interview and its derivatives, including a
+01:11
+transcript and an interview abstract to be made available online?
+01:16
+Yes, I am.
+01:18
+Great, then we shall resume the interview.
+01:22
+So I'm here with Dr. Julia Jones professor and program head for geography.
+01:28
+She received her PhD.
+01:32
+in Geography and Environmental Engineering from Johns Hopkins University in 1983 and
+01:37
+made her way to the OSU community in 1989.
+01:41
+Julia studies the dynamic nature of the Pacific Northwest forest and
+01:45
+how different drivers of change can affect water yield, water quality,
+01:48
+landscape disturbances, and climate.
+01:51
+Are you ready to begin?
+01:54
+Yes.
+01:56
+So the first few sets of questions are in regards to your personal
+02:00
+philosophy and practice of science.
+02:03
+And the first question I would like to ask is, how would you define an ecosystem?
+02:12
+I define an ecosystem as a set of biotic and abiotic interactions.
+02:20
+And how would you describe the nature of an ecosystem?
+02:24
+Are all ecosystems static, dynamic, orderly, or chaotic?
+02:31
+That's a really interesting question.
+02:37
+I see ecosystems as dynamic and I see them
+02:46
+as neither orderly nor chaotic but perhaps somewhere something in between.
+02:52
+There is some order and some stochasticity, some randomness.
+02:56
+And then to me, brittle and fragile are more synonyms than antonym.
+03:03
+So do you want to explain that to me better?
+03:07
+I suppose resilient versus fragile is the spectrum that I'm looking to ask.
+03:15
+I see them as resilient.
+03:17
+Yeah, okay.
+03:18
+So they are a combination of order and chaos and more or less resilient.
+03:25
+Yes, and dynamic.
+03:27
+And dynamic.
+03:28
+Yes.
+03:29
+And would you say that that's consistent with all forest
+03:38
+ecosystems?
+03:38
+Oh, so that's a good question.
+03:40
+I was thinking about all kinds of ecosystems - forest, stream,
+03:48
+marine, coastal, alpine, arctic.
+03:53
+Yeah, you name it.
+03:57
+And what is your theoretical philosophical background and how does
+04:01
+that apply to you toward your science?
+04:05
+I don't really have much of a philosophical background in college.
+04:11
+It was popular in the 1970s to read Thomas Kuhn's theory of Scientific Revolutions.
+04:21
+I do some teaching in my classes about deductive versus inductive reasoning
+04:27
+which may get to the next question.
+04:32
+So maybe that's enough to get us going.
+04:35
+Yeah.
+04:39
+So how would you describe your scientific style?
+04:46
+So, I do not conduct experiments myself with physical materials, but I do
+04:57
+use data from long-term experiments.
+05:02
+And I also would say that I use models as experiments.
+05:13
+So,
+05:16
+I looked up what you might have meant by Baconian versus Popperian.
+05:23
+Do you want to describe that a little bit to me so that I can answer your question?
+05:28
+So Baconian in the sense of, it's more inductive and open-ended, but
+05:33
+there's still some experimental manipulation of matter.
+05:39
+And Popper is hypothetical deductive so you have a hypothesis prior
+05:45
+to doing your experiment and
+05:53
+it's, it's more forward predicting rather than backward predicting,
+05:58
+I think, is another way to put it.
+06:01
+Well, that's interesting.
+06:03
+So, most, most of the work that I do is an analysis of long-term data.
+06:10
+So it's looking in the past.
+06:13
+So the models that I fit are our models about the past behavior of ecosystems.
+06:20
+They are not projections or predictions of the future.
+06:23
+But having said that, the way I approach structuring those models is probably a
+06:33
+combination of induction and deduction, in the sense that there are theories or
+06:41
+concepts like the hydrological cycle, for example, or the water balance or the
+06:48
+energy budget that lead you to expect certain kinds of relationships that can
+06:55
+be tested by fitting statistical models to data, and then they can be falsified.
+07:03
+So there definitely is some falsification involved, but it's a retrospective
+07:13
+analysis of past data and there is also some induction because the
+07:21
+process really works by fitting models and then trying alternative
+07:27
+models and so that could perhaps be regarded as an inductive process of
+07:35
+attempting different kinds of analyses to explore alternative ideas, maybe.
+07:45
+And I want to go back for a moment.
+07:48
+Do you mind elaborating when you say models as experiments?
+07:51
+Is that what you're referring to, right now?
+07:53
+So,
+07:56
+the notion of using a model as an experiment is that you don't...So
+08:03
+there are many different kinds of models: optimization, simulation,
+08:07
+empirical, theoretical, etc. statistical, mathematical.
+08:14
+The kinds of models that I typically fit are empirical statistical models, but
+08:22
+they do attempt to get at mechanisms.
+08:25
+So they attempt to be mechanistic models as well.
+08:30
+And I like to use models as an experiment because I don't expect the model
+08:37
+necessarily to fit well or to explain the data well, in a statistical sense,
+08:43
+and I'm as interested in the ways in which the model does not explain
+08:51
+the data as I am in the way it does.
+08:55
+And I'm interested in starting with very simple models.
+09:02
+And then incrementally adding complexity to the models to try to see how the
+09:10
+model behavior changes as you add, for example, different variables.
+09:16
+So
+09:18
+I regard that as an experiment in the sense that each time you change
+09:23
+the model, you add a variable or you change some parameters in
+09:30
+the model, or you change the structure of the equation or equations
+09:34
+that you're using in the model.
+09:36
+Each of those actions can be thought of as an experiment.
+09:39
+And then the outcome is how the performance of the model changes.
+09:45
+And that process is an iterative one, but the learning happens from the successive
+09:51
+iterations and modifications of the model.
+09:56
+Great, and that's interesting because this reminds me of the concept of
+10:03
+reification where people are wary of models where we superimpose them and
+10:08
+assume them to be reality themselves when they're supposed to be analytic tools.
+10:13
+Is that your way of sort of preventing from that happening?
+10:19
+Right, yeah.
+10:20
+The model isn't an answer in itself, and it's never finished and it's
+10:26
+never correct, it just helps you to see something both because of what it
+10:35
+explains, and what it doesn't explain.
+10:38
+That's an interesting take on models that I have yet to come across.
+10:43
+Would you say that there are people that use it in a different way,
+10:46
+where they do see it as answers?
+10:48
+Is that something you've seen within your field?
+10:52
+So my field.
+10:54
+It's hard to know really what my field would be, but I could say that
+10:58
+certainly in the field of hydrology,
+11:02
+many of the practitioners of hydrology, though not all of them, are civil
+11:07
+engineers and many of those people utilize hydrologic simulation models and there is
+11:13
+a very large literature on many aspects of model performance and modeling philosophy.
+11:24
+And,
+11:26
+so, within that community, you find, of course, people whose careers are
+11:34
+built around the use of a particular model which they continue to develop
+11:38
+and refine over time, whether it's about snow or streamflow or whatever.
+11:45
+But you also find people within the field of hydrology can often, these are people
+11:51
+who do not have an engineering background, but it's not necessarily the case, who
+11:56
+are agnostic in their use of models.
+11:59
+They don't favor any particular model and they regard models as tools
+12:06
+for exploration, which are more in the way that I had just described.
+12:17
+And then one more thing I want to return to and elaborate on, is you
+12:22
+said that you use models, not so much as predictive tools, but more
+12:25
+so to analyze past mechanisms.
+12:28
+Can you give an example or describe that a little bit more?
+12:32
+Yeah.
+12:33
+A simple example would be there is a long-term paired watershed experiment
+12:40
+at the Andrews Forest in which, for the case of simplicity, there are
+12:47
+two watersheds, both of them had 150- to 500-year-old forest on them
+12:55
+at the beginning of the experiment.
+12:57
+In the early 1950s stream gauges were installed in those watersheds
+13:04
+and streamflow was monitored.
+13:06
+And then in 1962, after about 10 years, one of the watersheds was clear cut
+13:12
+over a four year period and then burned.
+13:17
+So hydrologic theory, or more simply, the water balance would lead you to
+13:23
+expect that, because we believe that runoff or streamflow is the difference
+13:30
+between incoming precipitation and water that is lost from the
+13:34
+watershed by evapotranspiration,
+13:37
+you would expect that the removal of the forest would reduce
+13:43
+evapotranspiration, and therefore increase
+13:48
+streamflow.
+13:48
+But, you would also expect that as the forest regrew or, actually,
+13:53
+as a planted forest grew in that spot, evapotranspiration would
+13:58
+resume and increase, and then streamflow would go back down again.
+14:04
+So, I have conducted analyses using past data from those watersheds to test by
+14:12
+how much did streamflow increase after the clear-cutting of the old-growth
+14:18
+forest and burning and by how much and what rate has it been declining as
+14:23
+the planted forest has been growing.
+14:26
+Is that what you were looking for?
+14:28
+Yes, that's great.
+14:30
+Thank you.
+14:32
+And how have your disciplinary roots influenced the development
+14:37
+of your approach to science?
+14:41
+Well, my disciplinary background is rather peripatetic.
+14:46
+I have a bachelor's degree in economic development.
+14:51
+And a master's degree in international relations and a Ph.D. in geography
+14:57
+and environmental engineering.
+15:00
+So the trajectory of my disciplinary development was that I moved from
+15:08
+the social sciences more into the natural sciences via engineering.
+15:16
+So before my Ph.D., I did a lot of work with mathematical optimization modeling,
+15:22
+which is a different kind of modeling than anything we've talked about here.
+15:26
+So,
+15:34
+I guess
+15:37
+I would say that my education my educational trajectory were motivated
+15:45
+by an interest in social issues.
+15:47
+And I think we'll get to that later in the interview, but that that was a reason
+15:54
+for studying economic development and international relations, and then that
+15:59
+led me to look for specific questions in the natural world that are relevant to
+16:06
+international policy or domestic policy related to things such as wood fuels
+16:12
+energy, which was the topic of my Ph.D. and the effects of deforestation on soil
+16:19
+characteristics which were also part of my Ph.D., and the causes of deforestation.
+16:27
+And so the engineering methods, which I learned and developed for my Ph.D.,
+16:41
+have not been part of what I have continued to do, but rather, I shifted
+16:46
+into this other kind of statistical empirical modeling that I just described
+16:55
+to you because I became interested in explaining what had happened in the past
+17:04
+as opposed to using models that give you answers to other kinds of questions.
+17:12
+So a mathematical optimization modeling is most generally used to
+17:17
+try to provide an answer to a problem and that is what should people do.
+17:22
+How should such-and-such a resource be managed?
+17:26
+But I became more interested in well, what has actually been
+17:30
+happening in these ecosystems,
+17:33
+which I thought are important questions to understand before we make
+17:40
+decisions about how we ought to manage?
+17:45
+Would you say that that approach contributes or is aligned with
+17:49
+natural history in any way?
+17:51
+Certainly, yeah
+17:55
+And at what point did you start turning towards hydrology and
+18:00
+studying forest-stream interactions?
+18:07
+So,
+18:09
+I got a master's degree in international relations.
+18:13
+I got a bachelor's degree in economic development in 1977
+18:17
+and then a master's degree in international relations in 1979 or 80.
+18:24
+And I was very interested in issues related to wood fuel energy and
+18:31
+how people were faring in poor developing countries in Africa.
+18:37
+So the Ph.D. was an exploration both of mathematical modeling for that question.
+18:45
+But also, I had an opportunity to do field research in Tanzania and
+18:51
+I think that was something of a transformative experience for me.
+18:56
+To work in the field and try to communicate in Swahili with
+19:03
+Tanzanian colleagues and workers and to sample soils and forests and I became
+19:12
+more ... I think I was humbled by the complexity and diversity of the ecosystems
+19:20
+and became much more interested in trying to explore and understand those.
+19:26
+And so, why don't you lead me back to the question that you would like me to answer?
+19:35
+Just at what point you shifted towards studying hydrology?
+19:39
+So that led to empirical work on describing and characterizing soils,
+19:48
+but which I conducted while I was on the faculty of the University of
+19:53
+California, Santa Barbara working in Africa with my then-husband, both in
+19:59
+Tanzania and Kenya, and in Eritrea.
+20:02
+But then when I moved to Oregon State University in
+20:08
+1989 I had the opportunity to begin to work with long-term records
+20:14
+of streamflow associated with the Andrews Forest, and that has been
+20:22
+an endeavor of 30 years, I guess.
+20:26
+And then would you say that the combination of these different academic
+20:32
+trajectories, from the social science to environmental engineering to streamflow,
+20:36
+has that all culminated into influencing your philosophy of science today, or
+20:41
+do you think that it's very different than it once was if that makes sense?
+20:51
+For
+20:57
+me, as a practitioner of science, I would guess that my philosophy is sort
+21:04
+of continually evolving as I learn more about the ecosystems because each question
+21:14
+that you attempt to answer leads you to what you don't know, which means that you
+21:22
+start a new question and you may expand from one place to another, like looking
+21:28
+at different sites and comparing them.
+21:31
+I've done some of that or you might look to change the scale at which
+21:36
+you're looking at something the temporal scale or the spatial scale.
+21:48
+So, I'm not aware of having a philosophy of science, but rather, I feel like
+21:56
+I'm on an adventure of a treasure hunt of continuing to find new things that
+22:03
+puzzle me or questions that I think need to be answered open questions and
+22:14
+trying to answer them with existing data.
+22:17
+So that's the fundamental recurring theme is that in the fields in which
+22:24
+I work there is a dearth of use of analysis of existing data sets.
+22:33
+People have a tendency, for reasons that I don't really understand, to utilize
+22:37
+models which don't rely on real data very much or to engage in experiments
+22:47
+that produce data from a manipulated system that's been manipulated by a
+22:52
+researcher and by contrast to those two approaches, which I think is anticipating
+22:59
+a later question in your interview, but I am principally interested in
+23:03
+what we can learn by observing natural systems, including those that have been
+23:08
+manipulated by humans, possibly as part of a big experiment, but not trying
+23:16
+to simulate them or optimize them.
+23:25
+And what is your strategy in developing a research question?
+23:30
+Well, each research question seems to emerge from the
+23:33
+work that's been done before.
+23:36
+But also the research questions tend to emerge somewhat opportunistically
+23:42
+from events and sometimes they emerge from collaborations, the interests
+23:49
+of a colleague in a conversation that sparks an interaction, or a student who
+23:58
+has an interest in a particular topic.
+24:02
+But the thread, but for the thread of work, which is probably most
+24:07
+closely related to me, you know, papers that I have led the ideas
+24:13
+to seem to emerge as a sequence.
+24:16
+One paper, leading to a question that hasn't been answered, which
+24:22
+then leads to the next analysis.
+24:27
+So that doesn't really sound like a strategy, very much.
+24:31
+But that's the practice.
+24:34
+That's how it unfolds.
+24:39
+What are your thoughts in regards to objectivity in scientific research?
+24:50
+I guess I would say that
+24:57
+it's very difficult or perhaps impossible to identify a research question
+25:03
+objectively because the research question is always something that is based on
+25:10
+your prior experience and knowledge and your inclinations and which include your
+25:17
+feelings, such as places that you love.
+25:20
+Or you want to learn more about or something that you fear, maybe perhaps
+25:28
+not so much for me, but possibly.
+25:31
+So I guess I would say that research question identification,
+25:35
+I see as being highly subjective.
+25:39
+But then the conduct of the research itself needs to seek objectivity, at
+25:45
+least in the sense of rigor or respecting certain rules about the use of data, the
+25:52
+fitting of models, the presentation of a balanced evaluation of what you found.
+26:01
+Not trying to influence the results.
+26:03
+And
+26:07
+as a researcher, how do you use the scientific method to find truth?
+26:15
+Well, I guess I would say that I'm probably a post-modernist in the sense
+26:19
+that I am not a believer that there is a truth with a capital T. But I do think
+26:27
+that the scientific method is viable and best that we have an approach to
+26:39
+learning about our world and learning about the things about the world
+26:46
+that we need to know in order to make decisions to try to take care of the
+26:51
+world and ourselves at the same time.
+27:04
+Are there laws of nature?
+27:05
+And if so can you explain what a law of nature
+27:12
+means?
+27:12
+Certainly there are physical laws.
+27:14
+You know the laws of thermodynamics are certainly laws of nature.
+27:20
+And so is the theory of relativity, which operates a different time
+27:26
+scale than we mostly live in and the Newtonian laws of mechanics seem to
+27:33
+me to be quite applicable and relevant to the world that we live in, as
+27:39
+people are time and space scales.
+27:45
+I have not encountered anything in ecology that I would
+27:48
+consider being a law, however.
+27:52
+I think that that's a really interesting feature of the state of
+27:57
+knowledge in whatever you want to call it, environmental science or
+28:02
+ecology in general, that it has not been possible to identify things
+28:09
+that could be considered laws.
+28:12
+And, it appears to be the case that the complexity of ecosystems so far
+28:21
+defies our capacity to perceive laws.
+28:31
+And you just touched on this a bit, but I want to talk
+28:33
+about it a little bit further.
+28:34
+So what exactly is it about ecology, the complexity?
+28:39
+Can you elaborate what you mean that it defies our ability
+28:41
+to establish or find laws?
+28:44
+If you can, describe what about the complexity?
+28:48
+Well, perhaps a way to do it would be to talk about models.
+28:52
+I had the great privilege for about a decade to work closely with some
+29:00
+very talented senior mathematicians in Oregon State University and some
+29:05
+very talented computer scientists and we were working in a field that
+29:12
+we called ecosystem informatics, but the idea was to bring together
+29:20
+the methods and approaches and understanding of mathematics and
+29:25
+the computational tools of computer science to examine and try to
+29:30
+understand ecosystem dynamics.
+29:37
+There were many really deep thoughtful conversations that occurred among
+29:43
+the group of us as we were pondering this area of intersection among
+29:48
+these different disciplines.
+29:51
+But one of the ones that stuck with me is that mathematical models of systems
+29:59
+tend to fall into two different classes.
+30:03
+One of them is a sort of equilibrium model that solves for a particular condition
+30:11
+that is presumed to be like a steady-state condition that doesn't change over time.
+30:21
+And other forms of mathematical models are ones in which their time is
+30:30
+varying and processes vary over time.
+30:34
+But typically the equilibrium-based models are applied on two processes
+30:42
+that operate at longer timescales, while the time-varying models are
+30:48
+applied to things that operate in relatively short time scales.
+30:52
+So this gets back to one of your first questions, and that
+30:56
+is that ecosystems are dynamic.
+30:59
+In fact, the earth as a system is dynamic on very long time scales.
+31:06
+And so the mathematician commented that mathematics appears to lack models which
+31:14
+can capture that sort of large scale or long time dynamics and this may be
+31:28
+well, it seems to be related to a number of your questions.
+31:32
+So maybe you can just ask me more if you're interested.
+31:36
+Yeah, that was a great example.
+31:41
+So I'm curious as to why it is the long-term scales are more difficult
+31:45
+to model, I would have assumed, that the short scales are more difficult
+31:50
+because there is more flux to them.
+31:54
+So I'm curious as to why longer terms are more difficult or challenging?
+31:59
+Well, this relates to the fact that we don't have a theory for ecosystems
+32:06
+yet, right, because what we understand about ecosystems is that they are
+32:13
+continually responding to factors that are operating across a wide
+32:17
+range of temporal and spatial scales.
+32:20
+Everything from plate tectonics, you know, and changing the shape of
+32:25
+continents and changing how and the climate system and the coupling of the
+32:32
+ocean and atmospheres and the currents of air that bring moisture to certain
+32:37
+places and not to others and then back to tectonics that build the mountains
+32:43
+that obstruct the currents of air and heat and moisture, which then influences
+32:49
+which things might grow where but that's all a deterministic perspective.
+32:56
+And then, on the other hand, we have a life system that is continually
+33:03
+evolving and adapting and changing to conditions on multiple timescales.
+33:09
+Sometimes the adaptation of the response may take just a few hours
+33:16
+and in other cases, it may take decades or centuries, so that is what
+33:25
+those processes provided dynamism to the Earth system, which means that
+33:31
+equilibrium models don't work very well.
+33:35
+But on the other hand, the short-term dynamic models also
+33:40
+don't work very well because they don't capture those longer-term
+33:46
+processes and their influences.
+33:50
+So, is it true that in the history of ecology as a discipline that at
+33:55
+one point it was very fixated on equilibrium models, and then that
+34:03
+got replaced by the recognition of dynamic nature ecosystems
+34:07
+with ecosystem ecology now?
+34:11
+Well, it's a good question.
+34:12
+I don't consider myself to be an authoritative historian of ecology,
+34:18
+but, certainly, I think that
+34:24
+people have ... . Maybe the way to describe it is that ecologists have
+34:31
+interacted with mathematicians throughout the history of ecology, which was sort
+34:36
+of born around 1970 and so ecologists did adopt mathematical models to try
+34:43
+to represent ecosystems or ecological processes and they may have early on,
+34:50
+adopted equilibrium type models, but pretty clear pretty soon it became
+34:57
+evident that those were not adequate for describing what's actually observed and
+35:05
+that kind of gets us to the motivation for and the timing of the creation of
+35:11
+the Long-Term Ecological Research Program at the National Science Foundation.
+35:15
+So perhaps this is somewhat relevant to your question
+35:18
+about the history of ecology.
+35:20
+If you think of ecology as a discipline that came into being really around the
+35:27
+late 1960s and early 1970s coincident with many of our strongest environmental
+35:32
+protection laws in the United States.
+35:35
+By the time even by the mid-1970s, it was evident to researchers that ecosystems
+35:47
+change over time at multiple times scales and a long-term perspective was needed.
+35:52
+So there was a pretty quick realization.
+35:54
+I think that ecosystems are anything but static.
+36:01
+And my last question for this section is what are your overall motivations?
+36:06
+Is it for curiosity or finding real-world solutions?
+36:14
+Well, I guess both.
+36:21
+As a person, I find that life is so much more rewarding when
+36:26
+you look at the world and try to understand why it is the way it is.
+36:31
+So that maybe curiosity and the end the process of sort of dialectical
+36:36
+process of making observations and then wondering how to explain them and then
+36:42
+going back and looking more carefully.
+36:45
+And wondering, some more.
+36:47
+I find it to be just enormously satisfying, not because it leads
+36:52
+to anything particularly, but just because it's a very enjoyable way
+36:58
+to live in the world and it makes me feel more alive and more appreciative.
+37:02
+I
+37:05
+should have mentioned earlier that I started college as an art major and so
+37:12
+art is about observation and looking.
+37:17
+Art to me, painting, for example, is about trying to represent what you see,
+37:24
+rather than what you believe is there.
+37:26
+And so I think there's a parallel with science as I practice it, which
+37:31
+is it's an exercise in trying to understand what you see, rather than
+37:38
+imposing what you believe is there.
+37:45
+So curiosity, I guess, if that's what you mean by curiosity, is a big
+37:50
+motivator and a big reward, but I also believe very strongly that people who
+37:57
+are privileged to have the kinds of job that I have a duty or responsibility
+38:05
+to try to contribute to the welfare of
+38:12
+our earth system, including the people who live in it and so applied research
+38:20
+that focuses on ecological processes [and] hydrological processes, seems to
+38:26
+me to be potentially a contribution to
+38:32
+helping us to better understand how the world works so that people in general, not
+38:38
+me necessarily, could make wiser decisions about the world and how we live in it.
+38:46
+And if we could just go back for a minute because I'm, really intrigued by this.
+38:51
+So with your background as an art major, was that in undergraduate school?
+38:56
+Well, I started taking art lessons as a child and
+39:01
+I always did really well in art and I loved it.
+39:03
+It was my favorite probably my favorite subject through high school.
+39:09
+And when I entered college.
+39:11
+I thought I would be an art major but I soon realized that I would
+39:16
+have difficulty supporting myself.
+39:18
+So I decided that I had to be practical in the most practical major
+39:24
+that I could think of was economics.
+39:27
+And
+39:33
+so because I know with the Reflections program at the Andrews forest,
+39:37
+there's this new space, since the early 2000s, where artists, as well
+39:42
+as musicians and philosophers, have come and engaged with the space.
+39:48
+Can you elaborate a little bit more about the relationship between art and
+39:52
+science in our understanding of the world or in how we observe the world?
+40:05
+Yeah, I think that there are many different forms of positive interactions.
+40:11
+I think the practice of science can be done as an art, some aspects of it.
+40:21
+For example, clear writing is an art.
+40:25
+And the creation of intelligible tables and comprehensible graphics and maps can
+40:37
+have elements of artistic principles in them.
+40:43
+They're not fine art, but still.
+40:46
+So I think that science is more effective when it is done with
+40:51
+attention to some of the principles that also govern artistic endeavors.
+41:00
+But I also think that an artistic perspective, as I mentioned before,
+41:09
+which is one of careful observation and depiction of the world around us that
+41:17
+that's very similar to the process that I feel that I pursue in my own science.
+41:27
+So I think that the partnership can be a really strong one.
+41:35
+Alright, so that concludes the first section.
+41:37
+We will go into this next section a little bit more swiftly through these questions
+41:44
+and they generally go a little bit faster.
+41:45
+But the next questions are more so on a community level.
+41:50
+How these different approaches play a role on a community
+41:54
+level at the Andrews forest.
+41:56
+So my first question is what role does natural history play
+42:00
+in both the historical and current state of the community?
+42:06
+Well, in my view, natural history is absolutely fundamental to the
+42:11
+work at the Andrews Experimental Forest, and it is also fundamental
+42:17
+to the underpinnings of long-term ecological research as an endeavor.
+42:24
+So,
+42:27
+do you want me to say more about that?
+42:30
+Maybe if you can describe how it's contributed if you have any specific
+42:37
+examples to some of the research that's come out of the Andrews Forest?
+42:44
+Well, one of the fundamental principles that has emerged not just from the
+42:49
+Andrews Forest, but all kinds of long-term ecological research, including those sites
+42:54
+that have National Science Foundation funding and sites that just do long-term
+43:00
+ecological research, is the importance of history, including the concepts
+43:07
+of biological legacies, for example, or physical legacies, such as past
+43:14
+disturbances and how they shape the way to ecosystem response and changes over time.
+43:23
+So I think
+43:28
+an awareness of those past events is typically inferred or
+43:37
+intuited or not usually intuited but inferred from careful observation and
+43:45
+natural history reconstruction methods.
+43:49
+But also that knowledge or that perspective, I think is integral to
+44:00
+any science conducted at a long term ecological research site being able
+44:07
+to be aware that the process that you're observing today and in this
+44:14
+location is in some census tied to a distant past, in that place and to
+44:22
+a much larger area and to that much larger area in the distant past.
+44:28
+And so that is a key element of what I would consider being
+44:37
+the most helpful research perspective at the Andrews Forest and also it's a
+44:42
+big part of the teaching of students who come to the Andrews Forest in classes
+44:51
+or REU program [Research Experience for Undergraduates program that is
+44:53
+NSF or university funded] or whatever.
+44:55
+Do you think that the importance of natural history is still
+44:59
+recognized, or is it waning at all?
+45:07
+Oh, that's a good question.
+45:09
+We do live in an era in which we are somewhat preoccupied probably
+45:15
+excessively preoccupied and possibly even distracted by our electronic world.
+45:25
+And so I work a lot with students who spend a lot of time looking at the
+45:32
+world through a computer where they're observing, you know, layers - geographic
+45:39
+information system layers of information.
+45:44
+Or remotely sense data.
+45:47
+And the students haven't been out to look at the ecosystem.
+45:51
+So the classes that I teach and one, in particular, is designed to get
+45:57
+students to go out into the ecosystem and to try to look at it themselves
+46:03
+directly and remove that interface.
+46:06
+And I think that electronic media, on the one hand, our computational
+46:12
+power is of great use to us certainly, it's tremendously helpful to me
+46:18
+in my own work, but then, the real information comes from the ecosystem.
+46:26
+It doesn't come from the computer.
+46:29
+So that's a long-winded way of saying that, you know, students or people
+46:35
+possibly of your age are those in their 20s and 30s today, who have grown up in an
+46:40
+era in which Pokemon creatures are better known than the species of real animals
+46:49
+living in your yard has meant that we have sort of lost touch with our connection
+46:59
+to how ecosystems really operate.
+47:04
+That persists into graduate school where people have a belief which
+47:11
+may be the fault of our educational institutions that proficiency in computer
+47:19
+technology is the same as learning and that's it's only a part of it,
+47:24
+and especially for ecosystems studies.
+47:29
+It's quite inadequate.
+47:32
+So,
+47:35
+people, therefore, you know, for a few decades now, I think the students who
+47:41
+have taken my classes wouldn't have been able to tell me what natural history
+47:47
+was - they didn't know what the term was.
+47:50
+But then when they practice it, they discover or they recognize probably
+47:55
+what they knew all along that it's tremendously powerful and then they tell
+47:59
+me, "Oh, I'm looking at the world in a completely different way than I used
+48:04
+to before." I don't know whether they know that that might be called natural
+48:08
+history or not, but they're doing it.
+48:11
+So, yes, in answer to your question, I think that our educational systems,
+48:19
+primarily because of the role of electronic media and the emphasis on
+48:26
+data that is collected and stored on computers have tended to diminish the
+48:34
+individual sense of their own power to comprehend the world around them
+48:41
+through using their own observational skills and that that is something
+48:45
+I try to emphasize in my teaching.
+48:50
+And what are some of the things that make them realize that
+48:54
+they're doing natural history.
+48:55
+What is it that they're doing?
+48:56
+Is it about being outside and observing?
+49:04
+One of the tools is the notion of multiple working hypotheses.
+49:09
+So, you know, you take a whodoneit approach to looking at the world.
+49:14
+You don't just look at it and say, oh, that's pretty, you say,
+49:19
+why is it the way it is here.
+49:22
+And how many different explanations can I think of why
+49:28
+this might look the way it does?
+49:31
+So I think that's a principal approach.
+49:36
+And what about hypothesis-driven and experimental research.
+49:42
+How has it contributed to the Andrews Forest, both in the past and current
+49:48
+work?
+49:50
+Well, I mentioned earlier that a lot of my work has been based on long-term data
+49:55
+sets from paired watershed experiments.
+49:57
+So I certainly think that the paired watershed experimental approach has been
+50:03
+a tremendous contribution to the Andrews Experimental Forest not merely because
+50:10
+of the experimental treatments that were imposed, but because of the way in
+50:17
+which the continued efforts to measure the ongoing changes and responses in
+50:24
+most places have led to some unexpected findings or new questions as time has
+50:32
+passed, and also those locations have become a point of connection among
+50:41
+scientists from different disciplines.
+50:44
+Also, you can cite a fine-scale study within the context of a larger,
+50:51
+longer-term experiment, there's a lot of richness in terms of the interpretation
+50:57
+you can make from your humble data set.
+51:03
+So, from a social perspective, the long term watershed experiments
+51:11
+have been extremely valuable and they have also generated many new
+51:15
+science questions that were entirely unanticipated by the founders.
+51:21
+Another iconic long-term experiment at the Andrews Forest is the
+51:29
+200-year log decomposition experiment, which also has led to many spin-off
+51:34
+projects that were not anticipated by its founder [OSU professor Mark
+51:39
+Harmon] and also, because of where it is located, it has become somewhat
+51:45
+of an iconic site for the writers in residence program at the Anders Forest.
+51:52
+And so it has led to the creation of some wonderful poems and essays
+51:58
+that couldn't possibly have been anticipated by the founders.
+52:05
+So, I guess I would say an answer to your question is that
+52:15
+the experimental treatments themselves and the hypotheses that led them have led to
+52:21
+some interesting work over the long term.
+52:25
+But mostly it's the fact that the treatments were undertaken and
+52:30
+have been continued, which has led to the possibility of unexpected
+52:36
+unplanned and unhypothesized outcomes scientifically and socially in our group.
+52:50
+And what about ecosystem modeling and modeling in general, let's say,
+52:55
+what, what are some of the fundamental contributions to the Andrews as a whole?
+53:08
+I don't have a whole lot of exposure to ecosystem modeling.
+53:15
+There has been quite a bit of hydrological modeling done with long term records
+53:20
+from the Andrews Forest, but I commented earlier that the world in hydrologic
+53:26
+models consists of people either who are advocating for trying to develop a
+53:32
+particular model and a few others who have maybe a more of a falsification
+53:41
+perspective toward models that they're all wrong that maybe some are useful
+53:46
+and you can learn some things from them.
+53:48
+In terms of ecosystem models.
+53:50
+The ones I know about are biogeochemical models that to try to predict things like
+53:58
+the export of nitrogen from a watershed.
+54:03
+And I think that there is a historical evolution of those types of models, which
+54:13
+is a little bit similar to my description about the long term experiments in
+54:18
+the sense that I believe that the most successful efforts initially those efforts
+54:26
+may have been led by a single individual trying to build a huge, complicated
+54:31
+model of everything, but that in recent years, those efforts have become
+54:37
+much more collaborative efforts of people trying to exchange and combine
+54:45
+their varied perspectives of the different components of an ecosystem
+54:51
+that they understand and trying to combine it into a larger picture.
+54:57
+And that's really interesting because we typically get told in the reviews
+55:04
+of our LTER proposals that we should try to do synthetic modeling and I
+55:13
+wonder whether the people who asked that really have an idea of what
+55:21
+would be produced, right, because
+55:31
+models of everything tend to be models that have so many parameters
+55:37
+and so many equations in them that they become somewhat meaningless
+55:44
+and so we have not had a lot of effort invested in that direction
+55:51
+in our community in the recent past.
+55:54
+And I think it's because there's more of a sense of respect or even humility
+56:01
+that efforts to create a model of everything or synthetic models might be
+56:07
+a doomed exercise for the Andrews Forest.
+56:15
+I wonder where the desire or fixation on going in that direction comes from.
+56:22
+I think it would be
+56:26
+in the peer-review process.
+56:28
+You know, we get these questions from people who are anonymous reviewers.
+56:32
+But if we had the opportunity, I think I'm increasingly thinking that
+56:38
+it would be important to turn that question back and say, well, why do
+56:42
+you think this would be valuable.
+56:44
+What would you imagine could be gained by such an exercise, rather than saying,
+56:51
+"Oh, yes, yes. Well, of course, we will do that because it should be done."
+56:55
+Is
+56:57
+that space provided at all.
+56:59
+Are you able to have that dialectic conversation
+57:05
+with the reviewers?
+57:05
+We have every six years.
+57:06
+Around the middle of each six-year grant [cycle] - in year three -we
+57:09
+are visited by a team of reviewers.
+57:13
+And under those circumstances, we can have a conversation.
+57:17
+So that might happen sometime in the coming years.
+57:20
+I'd be curious to see [their responses]
+57:24
+. Well, you're giving me the courage to take it on.
+57:27
+Because it doesn't.
+57:29
+Sometimes what seems to be best may come from a societal
+57:34
+expectation and not so much what actually would be best, you, know.
+57:41
+Alright, so that leads us to our concluding questions here.
+57:45
+We're making good time.
+57:47
+What significant ideas have emerged from the Andrews science community
+57:52
+and how did the science these ideas of all in terms of questions and methods?
+57:56
+So we spoke of a few, but if you have any more.
+57:59
+That's come up in your thoughts.
+58:13
+We spent we've spent some time fruitlessly, well maybe not fruitlessly,
+58:18
+but for some years, we thought we ought to write a book about the Andrews Forest.
+58:25
+And we had a lot of discussions and we have many drafts Fred has many
+58:30
+drafts of versions of the book.
+58:34
+But in the conversations that we had about them,
+58:40
+I associate
+58:43
+this conceptualization with Fred, but it seems to me to be really useful
+58:48
+on Fred Swanson, and that is that
+58:53
+the science at the Andrews Forest has been evolving and continues
+58:58
+to evolve as a result of three different kinds of sets of changes.
+59:05
+And those are changes in technology, which provide new forms new sources of data.
+59:17
+Changes in the environment itself, which may be due to disturbances, like
+59:23
+the fire or past floods, or gradual changes in like climate change.
+59:29
+And then changes in society and how we perceive and value ecosystems.
+59:36
+So,
+59:40
+the significant ideas that have emerged from the Andrew science community have
+59:45
+been a reflection of that evolving process in the 1970s at a timeline.
+59:52
+Logging of old-growth forest was going full bore.
+59:57
+The Andrews Forest researchers began to understand and write about
+1:00:03
+the value of retaining deadwood in [forest] ecosystems and in streams.
+1:00:10
+And at a time when logging was not sparing the riparian zone and trees were
+1:00:20
+being cut all the way down to the stream network, on the role of the riparian
+1:00:24
+zone and definition of that concept.
+1:00:28
+That was a very important finding at a time when landscape-wide logging of all
+1:00:35
+growth cumulative growth was potentially affecting species pioneering work on the
+1:00:43
+spotted owl began to reveal its dependence on these larger-scale processes.
+1:00:51
+In more my own area,
+1:00:56
+in the early years of the watershed experiments, a principal focus
+1:01:02
+was on water yield and water quality for downstream users, how
+1:01:08
+much water and how much sediment.
+1:01:12
+And then there was a period of time in the 1970s and into the mid-90s when there
+1:01:18
+were episodes of very big flood strain on snow floods and so societal concerns turn
+1:01:25
+to the effects of logging on flooding.
+1:01:30
+But in the last 20 years we have been in a period of climate change when
+1:01:36
+summer temperature has been increasing and summer rainfall has been declining
+1:01:41
+and the plantations, or the planted forest that was created as the result of
+1:01:46
+old-growth logging from the 50s into the 70s in the Andrews Forest or until 1990
+1:01:54
+in the forest in general, those forests have been growing and using more water
+1:01:58
+and so attention has shifted to drought or hydrological drought, which is lack
+1:02:04
+of water during the hot, dry season and
+1:02:12
+also the long term studies of how ecosystems retain carbon have been a very
+1:02:20
+important component of the Andrews Forest because they store so much carbon and
+1:02:28
+the way in which that carbon is retained rather than exported from the system
+1:02:35
+remains, in some senses, an open question.
+1:02:40
+So there are so many questions.
+1:02:43
+Climate change is emerging and spatial variability is an important area.
+1:02:53
+I'm sure my list is quite incomplete.
+1:03:01
+And with all those in mind.
+1:03:04
+What would you say are the unique principles and motivating forces that
+1:03:08
+drive the Andrews as a community?
+1:03:17
+I think people are drawn to the
+1:03:23
+Andrews Experimental Forest and LTER community because it is fundamentally
+1:03:30
+so much more satisfying to do your personal science in the context of
+1:03:36
+a community that can react to and be interested in your work and gives you
+1:03:43
+ideas about how to push it forward.
+1:03:47
+So the benefits to the participants in the community are the community itself.
+1:03:54
+And, also, I think the community shares
+1:04:01
+perhaps reverence is to maybe not too strong a word, a reverence for the
+1:04:07
+ecosystems themselves and a sense of an abiding curiosity about how they
+1:04:14
+function and a sense of humility about what we don't understand about them
+1:04:21
+and a dedication to the notion that more can be learned, by continued
+1:04:30
+observation of those systems.
+1:04:35
+So I think that the principles of open sharing and collaboration, which
+1:04:42
+can be quite challenging at times.
+1:04:46
+Are a very important element of the community and that it is healthy, as
+1:04:55
+long as that principle is respected, but if it were to be not respected
+1:05:02
+and people were excluded or then the community would pretty quickly unravel.
+1:05:11
+So I think I also think that genuine interest in one another's work and
+1:05:18
+the desire to learn what each other is learning is a key piece that knits
+1:05:26
+together the community because people feel that their ideas are of value and that
+1:05:36
+their ideas can contribute to benefiting the work of other individuals, but also
+1:05:43
+much more broadly, the way in which the US government stewards the National Forest
+1:05:51
+System and the streams and the water resources and the wildlife resources
+1:05:55
+that are present in those ecosystems.
+1:06:01
+Well, thank you so much.
+1:06:03
+Are there any final words, you'd like to add?
+1:06:08
+No, thank you very much for doing this.
+1:06:11
+I'm very curious to imagine what diversity of perspectives, you may
+1:06:17
+be getting from different people who work with the Andrews Forest.
+1:06:21
+I'm sure that there are as many different perspectives or possibly
+1:06:26
+more different perspectives than individuals whom you have interviewed.
+1:06:31
+Yeah.
+1:06:33
+So I think it'll be very rewarding to see the final outcome of your work.
+1:06:38
+I'm very grateful to you for taking the time and energy
+1:06:41
+to do such a thoughtful job.
+1:06:44
+Thank you.
+1:06:44
+I appreciate it.
+1:06:46
+It's been very fun so far.
+1:06:49
+Well, that's great.
+1:06:50
+Yeah.
